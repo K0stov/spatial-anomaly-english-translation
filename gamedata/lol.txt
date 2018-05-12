@@ -1,0 +1,106 @@
+ Volume in drive D is Lagring
+ Volume Serial Number is CC53-F104
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata
+
+2018-05-12  16:25    <DIR>          .
+2018-05-12  16:25    <DIR>          ..
+2018-05-12  11:22    <DIR>          configs
+2018-05-12  16:25                 0 lol.txt
+2018-05-12  11:30    <DIR>          scripts
+2018-05-12  11:34    <DIR>          textures
+               1 File(s)              0 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\configs
+
+2018-05-12  11:22    <DIR>          .
+2018-05-12  11:22    <DIR>          ..
+2018-05-12  11:28    <DIR>          gameplay
+2018-05-12  11:23    <DIR>          text
+               0 File(s)              0 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\configs\gameplay
+
+2018-05-12  11:28    <DIR>          .
+2018-05-12  11:28    <DIR>          ..
+2017-09-09  20:23            39ÿ686 character_desc_black_valley.xml
+2017-05-06  14:31             1ÿ062 character_desc_digger_stash.xml
+2017-09-17  14:13            61ÿ315 character_desc_escape.xml
+2018-05-05  22:49           238ÿ060 character_desc_general.xml
+2017-09-10  22:18            28ÿ342 character_desc_prostranstvenniy_puzir.xml
+2017-05-07  12:24            11ÿ246 character_desc_station_digger.xml
+               6 File(s)        379ÿ711 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\configs\text
+
+2018-05-12  11:23    <DIR>          .
+2018-05-12  11:23    <DIR>          ..
+2018-05-12  13:21    <DIR>          eng
+               0 File(s)              0 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\configs\text\eng
+
+2018-05-12  13:21    <DIR>          .
+2018-05-12  13:21    <DIR>          ..
+2017-06-05  16:50             8ÿ529 string_stalker66.xml
+2015-02-25  22:11             3ÿ359 string_table_enc_mutants.xml
+2017-09-17  11:12           153ÿ478 st_dialogs_black_valley.xml
+2017-09-18  15:58           176ÿ678 st_dialogs_escape.xml
+2017-09-19  21:32           137ÿ765 st_dialogs_prostranstvenniy_puzir.xml
+2017-06-18  00:55             9ÿ859 st_dialogs_shurup_mode.xml
+2017-08-04  21:30            23ÿ120 st_dialogs_stalker66.xml
+2018-05-12  13:22            11ÿ294 st_dialogs_station_digger.xml
+2017-04-22  23:25            66ÿ077 st_dialog_manager.xml
+2017-09-10  22:12             4ÿ993 st_dop_action.xml
+2012-11-16  11:12            21ÿ775 st_items_artefacts.xml
+2017-08-26  10:25            22ÿ594 st_items_equipment.xml
+2015-02-12  20:57            10ÿ295 st_items_outfit.xml
+2017-09-17  14:06            30ÿ143 st_items_quest.xml
+2014-12-31  20:00            74ÿ803 st_items_weapons.xml
+2017-04-22  23:22             4ÿ992 st_land_names.xml
+2015-02-13  22:39         1ÿ286ÿ352 st_notepad.xml
+2017-09-02  19:48            27ÿ110 st_quests_black_valley.xml
+2018-05-12  11:22             3ÿ301 st_quests_digger_stash.xml
+2017-09-16  22:16            21ÿ562 st_quests_escape.xml
+2011-06-09  11:53             3ÿ418 st_quests_general.xml
+2017-09-10  16:32            33ÿ618 st_quests_perevalochnaya_baza.xml
+2014-05-24  11:42            47ÿ699 st_sp_notepad.xml
+2017-09-19  12:51           160ÿ712 ui_gui_elements.xml
+2013-08-30  13:39            29ÿ035 ui_st_loadscreen.xml
+2017-04-24  13:10            25ÿ181 ui_st_mm.xml
+2017-09-19  20:17            18ÿ673 ui_st_other.xml
+2017-09-10  16:15            11ÿ007 ui_st_pda.xml
+2017-09-08  21:31            17ÿ166 ui_st_screen.xml
+              29 File(s)      2ÿ444ÿ588 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\scripts
+
+2018-05-12  11:30    <DIR>          .
+2018-05-12  11:30    <DIR>          ..
+2011-12-31  09:52             1ÿ832 dengi.script
+2015-02-18  20:38            97ÿ256 ins_gui_quest_devices.script
+               2 File(s)         99ÿ088 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\textures
+
+2018-05-12  11:34    <DIR>          .
+2018-05-12  11:34    <DIR>          ..
+2018-05-12  11:35    <DIR>          ui
+               0 File(s)              0 bytes
+
+ Directory of D:\Dropbox\Projekt\GitHub\spatial-anomaly-english-translation\gamedata\textures\ui
+
+2018-05-12  11:35    <DIR>          .
+2018-05-12  11:35    <DIR>          ..
+2015-03-08  15:06         1ÿ048ÿ704 ui_actor_loadgame_screen.dds
+2015-03-08  15:16         1ÿ048ÿ704 ui_actor_loading_background.dds
+2017-05-01  21:13         1ÿ048ÿ704 ui_actor_main_menu.dds
+2015-02-18  19:48         1ÿ048ÿ704 ui_actor_main_menu_origin.dds
+2015-03-08  15:17         1ÿ048ÿ704 ui_actor_options_background.dds
+2010-05-07  12:20            65ÿ664 ui_hud_grenade_mark1.dds
+2010-05-07  12:19            65ÿ664 ui_hud_grenade_mark2.dds
+               7 File(s)      5ÿ374ÿ848 bytes
+
+     Total Files Listed:
+              45 File(s)      8ÿ298ÿ235 bytes
+              23 Dir(s)  44ÿ619ÿ640ÿ832 bytes free

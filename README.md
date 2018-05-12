@@ -1,1 +1,99 @@
-# spatial-anomaly-english-translation
+# Spatial Anomaly
+Welcome to the page of an English translation of *Spatial Anomaly*, a mod for the *[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)* series!
+
+A list of all files with their detailed progress can be found below.
+
+---
+
+- **configs\gameplay**
+    - character_desc_black_valley.xml
+        - incomplete
+    - character_desc_digger_stash.xml
+        - incomplete
+    - character_desc_escape.xml
+        - incomplete
+    - character_desc_general.xml
+        - incomplete
+    - character_desc_prostranstvenniy_puzir.xml
+        - incomplete
+    - character_desc_station_digger.xml
+        - incomplete
+- **configs\text\eng**
+    - string_stalker66.xml
+        - incomplete
+    - string_table_enc_mutants.xml
+        - incomplete
+    - st_dialogs_black_valley.xml
+        - incomplete
+    - st_dialogs_escape.xml
+        - in progress (Baronoflulz)
+    - st_dialogs_prostranstvenniy_puzir.xml
+        - incomplete
+    - st_dialogs_shurup_mode.xml
+        - incomplete
+    - st_dialogs_stalker66.xml
+        - incomplete
+    - st_dialogs_station_digger.xml
+        - done; untested
+    - st_dialog_manager.xml
+        - incomplete
+    - st_dop_action.xml
+        - incomplete
+    - st_items_artefacts.xml
+        - incomplete
+    - st_items_equipment.xml
+        - incomplete
+    - st_items_outfit.xml
+        - incomplete
+    - st_items_quest.xml
+        - incomplete
+    - st_items_weapons.xml
+        - incomplete
+    - st_land_names.xml
+        - incomplete
+    - st_notepad.xml
+        - incomplete
+    - st_quests_black_valley.xml
+        - incomplete
+    - st_quests_digger_stash.xml
+        - done; untested
+    - st_quests_escape.xml
+        - incomplete
+    - st_quests_general.xml
+        - incomplete
+    - st_quests_perevalochnaya_baza.xml
+        - incomplete
+    - st_sp_notepad.xml
+        - incomplete
+    - ui_gui_elements.xml
+        - incomplete
+    - ui_st_loadscreen.xml
+        - incomplete
+    - ui_st_mm.xml
+        - incomplete
+    - ui_st_other.xml
+        - incomplete
+    - ui_st_pda.xml
+        - incomplete
+    - ui_st_screen.xml
+        - incomplete
+- gamedata\scripts
+    - dengi.script
+        - incomplete
+    - ins_gui_quest_devices.script
+        - incomplete
+- textures\ui
+    - ui_actor_loadgame_screen.dds
+        - incomplete
+    - ui_actor_loading_background.dds
+        - incomplete
+    - ui_actor_main_menu.dds
+        - incomplete
+    - ui_actor_main_menu_origin.dds
+        - incomplete
+    - ui_actor_options_background.dds
+        - incomplete
+    - ui_hud_grenade_mark1.dds
+        - incomplete
+    - ui_hud_grenade_mark2.dds
+        - incomplete
