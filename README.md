@@ -26,7 +26,7 @@ A list of all files with their detailed progress can be found below.
     - [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
         - incomplete
     - [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
-        - in progress (Baronoflulz)
+        - complete; needs revision
     - [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
         - incomplete
     - [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
