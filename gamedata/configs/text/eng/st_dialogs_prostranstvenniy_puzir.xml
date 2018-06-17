@@ -1060,16 +1060,16 @@
         <text>Здравствуй, Зверь. Чего хотел?</text>
     </string>
     <string id="pb_moskit_start_dialog_3">
-        <text>Слушай, Зверь. Спасибо, что с зомбированными подсобил, ты сейчас не занят? Дело к тебе одно имеется.</text>
+        <text>Listen, Beast: thanks for helping us deal with the zombies. Are you busy right now? I’ve got some work for you.</text>
     </string>
     <string id="pb_moskit_start_dialog_4">
-        <text>Нет, не занят, что ты хотел?</text>
+        <text>I’m free. What do you need?</text>
     </string>
     <string id="pb_moskit_start_dialog_5">
-        <text>Ну, что там? Уже не занят или еще не решил свои дела?</text>
+        <text>You sure you aren’t busy with any other tasks right now?</text>
     </string>
     <string id="pb_moskit_start_dialog_6">
-        <text>Уже не занят. Что за дело?</text>
+        <text>No. My hands are free. What’ve you got?</text>
     </string>
     <string id="pb_moskit_start_dialog_7">
         <text>В общем, лежит у меня здесь неподалеку в схроне СВД. Хорошая снайперка, но патронов у меня к ней нет. Можешь поискать, для меня, патроны к ней? Найти для начала пачку хотя бы? Взамен дам тебе патроны к калашу, у меня как раз заначка появилась, да и деньжат сверху накину. Ну что, поможешь мне?</text>
@@ -1285,7 +1285,7 @@
         <text>Тогда, дай мне две пачки, я их Москиту отнесу, он хороший стрелок. Вместе с ним вы справитесь.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_13">
-        <text>Ладно, держи патроны.</text>
+        <text>Okay. Take the ammo.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_14">
         <text>Мда, плохи дела.</text>
@@ -1294,37 +1294,37 @@
         <text>Нам бы Падальщика разыскать, без него мы долго не протянем.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_17">
-        <text>С возвращением из потустороннего мира, парень... Никто уже и не надеялся, что ты в себя придешь, четыре дня без сознания пролежал. Мда, здорово тебя выбросом долбануло, после такого никто бы не выжил. Но ты жив. Хорошо это или плохо - пока не знаю, не определился ещё. Но то, что это странно, вне сомнений. Так, хватит об этом, с виду ты нормальный вроде, но вот наёмничьи атрибуты твои мне не нравятся. Ты, чей будешь?</text>
+        <text>Welcome back from the world beyond, buddy… Nobody was thinking you’d be coming back to your senses; you were unconscious for four days. Hmm… That blowout messed you up bad. Nobody would’ve survived that… or so we thought. You’re alive. Whether that’s a good thing or a bad thing is something I don’t know. The fact remains that this is very strange, though. Very strange indeed. Anyway: you seem to be an all right man, but your merc attributes seem a little suspicious. Whose side are you on?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_18">
-        <text>Зверь я, наёмник... Что это за место и кто ты такой?..</text>
+        <text>I’m Beast: a mercenary… What is this place, and who are you?…</text>
     </string>
     <string id="pb_quest_line_lutiy_start_19">
-        <text>Хм, наёмник? Значит, я не ошибся... Ну, что ж, наёмник, на первый твой вопрос ответить будет сложно, потому, как я сам не в курсе, где мы находимся. Мистическое место какое-то, давно уже торчим здесь, видать Зона так над нами шутит. А кличут меня Лютым, будем знакомы. Да, кстати, ребята не очень обрадуются, что среди нас появился наёмник, поэтому попрошу вести себя сдержано, все мы оказались в довольно сложном положении, поэтому нервы у многих ни к чёрту. Надеюсь, мы поладим, и обойдется без конфликтов.</text>
+        <text>Hmm. A mercenary? Looks like I was right… Well then, merc: answering your first question is going to be difficult, because I myself don’t know where exactly we are. This place here is mystical; we’ve been here for a long time, and all the while, the Zone’s been messing with us. I’m Savage. Nice to meet you. By the way, though, the guys aren’t very happy about having a mercenary around here, so I’m going to ask you to behave yourself. We’re all in a rather difficult situation; many nerves have been shot around here. Let’s all get along here and manage without any conflicts.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_2">
-        <text>Наёмник, сейчас очень пригодилась бы твоя помощь... Зомбированные всё ближе и ближе к базе подбираются, надо прикончить их, иначе они скоро сюда припрутся.</text>
+        <text>Merc, now would be a great time for your assistance… Zombies are approaching our base. We have to take them out, or this place is going to be overrun within seconds.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_20">
-        <text>Что ты такое несёшь, какое еще "мистическое место"?</text>
+        <text>What do you mean? How is this place “mystical”?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_21">
-        <text>Я не знаю, наёмник, нет отсюда выхода... Куда не пойди, вечно к этому гребанному сараю возвращаешься. Еле-еле сводим здесь концы с концами, чтобы не подохнуть от голода или от твари какой-нибудь. С патронами тоже напряг большой, а мутантов не счесть, хрен его знает, как они сюда путь находят.</text>
+        <text>I don’t know, merc. There’s no way out of here… You go anywhere, you always end up back at this godforsaken barn. We barely make ends meet around here, living another day without escaping malnutrition or any of the local mutants. Lost a lot of munitions, too, and that’s not counting any of the mutants. Only God knows how they keep finding a way here.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_22">
-        <text>Черт... Вот же вляпался... Сколько времени вы здесь торчите? И где снаряга моя?</text>
+        <text>Damn… What have I gotten myself into? How long have you been here, and where is my equipment?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_23">
-        <text>Я и еще один сталкер - примерно семь месяцев, другие от трех месяцев до одного... Касаемо снаряги твоей, четыре дня назад один из наших пошел в обход окрестностей и наткнулся на твою бессознательную тушу. Где твоё снаряжение я ума не приложу. Всё, что было при тебе, это пистолет, несколько пачек патронов и этот комбез, который стал похож на тряпку половую. Понятно, что принуждать тебя выполнять все мои приказы я не могу, но я предлагаю тебе примкнуть к нашей группе, так у тебя хотя бы будет шанс сдохнуть чуть позже, чем без нас. К тому же и мы в твоих умениях были бы крайне заинтересованы. Надеюсь, ты меня услышал и дополнительных проблем для нас создавать не будешь, в ином случае, у тебя появится несколько новых проблем.</text>
+        <text>Another stalker and I have been holed up here for about seven months. The others: about one to three months… As for your equipment, four days ago, one of our men scouted the neighborhood and stumbled upon your unconscious self. I have no idea about the location of your stuff. All you had on you was a pistol, a few magazines, and your suit, which was close to looking like a floorcloth. It’s obvious that I can’t force you to follow my orders, but I suggest you join our group so that you’ll have a chance of biting the dust a little later than if you go on by yourself. In addition, we’d be very interested in having a man of your talents around. I hope you’ve heard my words and understood everything; otherwise, you’ll have a few more problems on your hands.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_24">
-        <text>Мда... Ладно, успокойся, не собираюсь я создавать проблем.</text>
+        <text>I understand. I have no ill intentions toward you and your men.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_3">
-        <text>Никто кроме меня не сможет разобраться с этим?</text>
+        <text>Is nobody else able to help?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_4">
-        <text>Некогда думать, тебе нужно помочь Резаку. Это именно он тебя в лагерь притащил и выходил, хотя некоторые были против. Так что теперь твой черед вернуть должок. Да, кстати, я видел несколько пачек патронов для калаша в твоей разгрузке, если дашь мне эти две пачки патронов, то смогу выделить тебя напарника. Пойдёт такой расклад?</text>
+        <text>We don’t have time to worry about that. You need to help Cutter. He’s the one who you brought you here, even if some of our men were against it. Now, it’s your turn to repay the favor. And, I noticed a few Kalashnikov mags in your uniform. If you hand me two of them, I can help you out. Deal?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_5">
         <text>Я даже как сюда попал, вспомнить не могу.</text>
@@ -1447,70 +1447,70 @@
         <text>Не благодари, это лишнее... Я прочешу местность, может и найду тогда что-то.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_0">
-        <text>Ну, что там, наёмник? Справились с зомбированными?</text>
+        <text>So, what did you find there, merc? Did you deal with the zombies?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_1">
-        <text>Да, зомбированные нейтрализованы, Москит не пострадал.</text>
+        <text>Yes. The zombies have been neutralized. Mosquito’s fine as well.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_10">
-        <text>Хм, пространственная аномалия, говоришь? В записке нет никаких зацепок по поводу выхода из аномалии?</text>
+        <text>Hmm. A spatial anomaly, you say? Does the note have any clue about any exit?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_11">
-        <text>Нет. Кстати, у меня вопрос, а как сюда попали зомбированные?</text>
+        <text>No. I have a question, though: how did zombies end up here?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_2">
-        <text>Зомбированые уничтожены, но... Москит погиб.</text>
+        <text>The zombies are down, but… they got Mosquito.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_3">
-        <text>Это хорошие новости, наёмник! Нашли в рюкзаках этих бедолаг что-то интересное?</text>
+        <text>That’s good news, merc! Did you find anything interesting on those fellas?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_4">
-        <text>Как же так? Эх, жаль парня... Хотя кто знает, что лучше, торчать здесь и ждать голодной смерти или отправится в мир иной...</text>
+        <text>How? Ugh. I’m sorry for the guy… But what’s better: staying around here waiting for starvation or leaving for another world?…</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_5">
-        <text>Да. Первое, что удалось обнаружить это то, что все зомбированные принадлежали к группировке Долг. У одного из них, в рюкзаке, я нашел записку.</text>
+        <text>Yes. The first thing I found was some info about the zombies: they were all part of Duty. I retrieved a note from one of them.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_6">
-        <text>Это да. Кстати, забыл сказать: все зомбированные принадлежали к группировке Долг, и у одного из них была записка в рюкзаке.</text>
+        <text>Yeah. I wanted to tell you, though: all the zombies were part of Duty, and one of them carried a note.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_7">
-        <text>И что там было написано?</text>
+        <text>What’s written there?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_8">
-        <text>И что там было написано?</text>
+        <text>What’s written there?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_dead_zombied_9">
-        <text>В записке описывается это место, мы сейчас находимся внутри некой аномалии. Долговец, назвал эту аномалию - пространственной. Мне раньше приходилось слышать о подобном...</text>
+        <text>The note describes this very place: we’re inside some kind of anomaly. The Dutyer described this anomaly as spatial. I’ve heard about it before…</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_0">
-        <text>Черт, моя голова... Что за напасть-то такая?! Ладно, теперь хоть знаем как зомбированные сюда попали, неожиданный гость к нам на огонек заглянул, однако. Интересно, почему ты не попал под его влияние как все остальные?</text>
+        <text>Damn. My head… What the hell attacked us?! Okay, at least we know how the zombified stalkers ended up here, even if an unexpected guest showed up at our doorstep. Hey, I wonder: why didn’t you fall under its influence like everyone else?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_1">
-        <text>Не знаю, до этого я уже попадал под влияние контролёра. И ему почти удалось меня зомбировать, но меня спас Рыба.</text>
+        <text>I don’t know. I did fall under the control of one of those mutants in the past. It almost managed to zombify me, but then Fish saved me.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_2">
-        <text>Наверняка хороший мужик этот Рыба. Мда, ну и хорошо, что в этот раз ты не попал под влияние контролёра, а не то бы мы все сейчас у него на поводке были. Чем я думал?.. С нашей-то охраной, да сюда кто угодно попасть сможет, а самое страшное, что эти зомбированные уже не первый день около сарая ходили. Контролёр тоже, небось, постоянно у нас под боком был.</text>
+        <text>That Fish is certainly a good man. Yeah… Good thing you managed to steer clear of that controller’s influence, else we’d all have been on a leash. What was I thinking?… With our guard, so anyone can get here, and the worst thing is that these zombies have been around the barn for quite a while now. I suppose the controller was always lurking around as well…</text> <!-- fix -->
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_3">
-        <text>Самое главное сейчас - раздобыть побольше патронов для парней, а то без них любая защита не имеет смысла.</text>
+        <text>Right now, we need to get the guys some more ammo. We won’t be able to protect ourselves otherwise.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_4">
-        <text>Ты прав, но дефицит патронов не главная проблема, наш запас еды почти на нуле, да и с питьевой водой плохо дела обстоят, боевой дух у парней всё ниже и ниже с каждым днем. Многие говорят, что выхода отсюда нет, и мы все помрём здесь голодной смертью, подобные мысли и у меня в голове проскакивают, но я стараюсь их отгонять.</text>
+        <text>You’re right about that, but the ammo shortage isn’t our main problem: our food supply is almost out, and we’ve got almost no drinking water. The morale here is dropping every day. Many of them are saying that there’s no way out of here and that we’re all going to die starving. I get such thoughts myself, but I try to keep them at bay.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_5">
-        <text>Я попытаюсь сделать всё, что в моих силах, чтобы найти выход отсюда.</text>
+        <text>I’ll do everything I can in my power to find a way out of here.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_6">
-        <text>Надеюсь, что мы всё же сможем его найти, не хочется погибнуть здесь, да и ребят жалко... Не думал я, что Зона подарит мне такой подарок, доживать свои дни взаперти, хочу вернуться назад, домой к жене и дочери, на кой черт мне эта Зона сдалась?..</text>
+        <text>I hope we can still find a way out of here, because I don’t want to die here. I didn’t think that the Zone would give me such a horrible present; to live out my days in this cage. I want to go back home to my wife and daughter. Why in the hell has this Zone entrapped me?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_7">
-        <text>Да, ситуация не из простых... У тебя ко мне есть что-то еще?</text>
+        <text>Yeah. The situation isn’t easy. Do you have any other task for me?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_8">
-        <text>Слушай, Зверь, хреново ты что-то выглядишь, ты столько времени пролежал в отключке, но видимо это не пошло тебе на пользу. Да и встреча с контролёром не лучшее лекарство. Ты пойди, отдохни, а то больно на тебя смотреть. Наш разговор утром продолжим, а я пока ребятам скажу, чтобы убрали тело этого мозголома отсюда.</text>
+        <text>Listen, Beast: you look pretty beat up. You spent a lot of time in that bed, blacked out, but I can see it didn’t help you nothing. A face-to-face meeting with a controller isn’t the best medicine, either. Go and rest up; seeing you is painful. We’ll talk more in the morning. In the meantime, the guys and I are going to deal with the corpse of that controller.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_9">
-        <text>И правда, поспать сейчас не помешало бы.</text>
+        <text>Some shut-eye wouldn’t hurt.</text>
     </string>
     <string id="pb_quest_line_snake_start_10">
         <text>Так, сейчас. Всё, метка должна уже быть в КПК.</text>
@@ -1978,16 +1978,16 @@
         <text>Ну, наёмник. С чем пришел?</text>
     </string>
     <string id="pb_shurup_start_dialog_3">
-        <text>Здравствуй, наёмник. Рад, что ты в порядке, я тут вроде-как местный техник, можешь приносить мне сломанные стволы, буду покупать у тебя их. Увы, но чиню и модифицирую снарягу я не за бесплатно, собираюсь в итоге покинуть это место, поэтому стараюсь понемногу собирать деньги, да и стволы на детали у других тоже за что-то покупать нужно. Кстати, если найдешь здесь какие-то инструменты, то приноси мне, найду им применение.</text>
+        <text>Hey there, merc. I'm glad that you’re okay. I’m basically the local technician. You can bring me broken shooters, and I’ll buy them off you, though I don’t provide any repairs or modifications for free, because in the end, I’m going to get out of this place someday, so I try to gather whatever I can, and I also need to get hold of intact weapons in exchange for any parts. By the way, if you find any tools around here, then bring them to me. I’ll find a way to make use of them.</text>
     </string>
     <string id="pb_shurup_start_dialog_4">
-        <text>Здравствуй, наёмник. Отремонтировать что-то нужно или улучшить?</text>
+        <text>Hi, merc. Need anything repaired, or improved?</text>
     </string>
     <string id="pb_shurup_start_dialog_5">
-        <text>Понял тебя, буду иметь ввиду.</text>
+        <text>I’ll keep that in mind.</text>
     </string>
     <string id="pb_shurup_start_dialog_6">
-        <text>Приходи, как будет ко мне дело какое-то.</text>
+        <text>Come talk to me if you need anything.</text>
     </string>
     <string id="pb_shurup_talk_to_open_habar_0">
         <text>Что там на счет контейнера-тайника Падальщика?</text>

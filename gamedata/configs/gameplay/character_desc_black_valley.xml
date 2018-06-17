@@ -898,7 +898,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_chimik" team_default="1">
-		<name>Химик</name>
+		<name>Chemist</name>
 		<icon>ui_inGame2_Lom</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -932,7 +932,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_miklucha_freedom" team_default="1">
-		<name>Миклуха</name>
+		<name>Miklukha</name>
 		<icon>ui_inGame2_Miklucha</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -995,7 +995,7 @@
 </specific_character>
 
 	<specific_character id="blck_val_spatial_fish" team_default="1">
-		<name>Рыба</name>
+		<name>Fish</name>
 		<icon>ui_inGame2_Fish</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

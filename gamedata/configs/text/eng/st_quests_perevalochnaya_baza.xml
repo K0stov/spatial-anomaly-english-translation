@@ -4,31 +4,31 @@
 <!-- Квест: Узнать, что произошло -->
 
 <string id="pb_who_is_happening_part_1_name">
-<text>Пролог: Узнать, что произошло</text>
+<text>Prologue: Find out what happened</text>
 </string>
 <string id="pb_who_is_happening_part_1_text">
 <text>Я ничего не помню... Ужасно болит голова... Где я? Что это за место? Нужно узнать у местных сталкеров.</text>
 </string>
 <string id="pb_who_is_happening_part_2_name">
-<text>Пролог: Уничтожить зомбированных</text>
+<text>Prologue: Eliminate the zombies</text>
 </string>
 <string id="pb_who_is_happening_part_2_text">
 <text>Лютый сказал, что для общего спокойствия надо уничтожить зомбированных неподалеку, нужно сделать это.</text>
 </string>
 <string id="pb_who_is_happening_part_3_name">
-<text>Пролог: Обыскать трупы зомбированных</text>
+<text>Prologue: Loot the zombie corpses</text>
 </string>
 <string id="pb_who_is_happening_part_3_text">
 <text>Нужно посмотреть, что есть в рюкзаках убитых зомбированных сталкеров, может найду что-то ценное.</text>
 </string>
 <string id="pb_who_is_happening_part_4_name">
-<text>Пролог: Прочитать найденную записку</text>
+<text>Prologue: Read through the recording</text>
 </string>
 <string id="pb_who_is_happening_part_4_text">
 <text>Возможно в найденной записке кроется полезная информация, нужно её прочитать.</text>
 </string>
 <string id="pb_who_is_happening_part_5_name">
-<text>Пролог: Рассказать о находке Лютому</text>
+<text>Prologue: Tell Savage about the stash</text>
 </string>
 <string id="pb_who_is_happening_part_5_text">
 <text>В записке я обнаружил довольно-таки полезную информацию, нужно рассказать об этом Лютому.</text>

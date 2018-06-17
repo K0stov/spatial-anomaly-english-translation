@@ -26,9 +26,9 @@ A list of all files with their detailed progress can be found below.
     - [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
         - incomplete
     - [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
-        - complete; needs revision
+        - done; needs revision
     - [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
-        - incomplete
+        - in progress (**Baronoflulz** and **SashaTheRed**)
     - [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
         - incomplete
     - [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
@@ -82,6 +82,8 @@ A list of all files with their detailed progress can be found below.
         - incomplete
     - [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
         - incomplete
+    - [xr_effects.script](gamedata/scripts/xr_effects.script)
+        - in progress (SashaTheRed)
 - **[gamedata/textures/ui](gamedata/textures/ui)**
     - [ui_actor_loadgame_screen.dds](gamedata/textures/ui/ui_actor_loadgame_screen.dds)
         - incomplete

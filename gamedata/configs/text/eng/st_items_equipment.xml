@@ -172,19 +172,19 @@
 	</string>
 
 	<string id="st_pb_quest_document_1">
-		<text>Записка Серого</text>
+		<text>Note from Seriy</text>
 	</string>
 	<string id="st_pb_quest_document_1">
-		<text>Записка Серого</text>
+		<text>Note from Seriy</text>
 	</string>
 	<string id="st_pb_quest_document_1_descr">
-		<text>Записка сталкера, оставленная на вырваном из тетради листе бумаги. Для прочтения, нажмите "Использовать".</text>
+		<text>A note from a stalker, written on a piece of paper torn from a notebook. To read, click “Use”.</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala">
-		<text>Записка Шпалы</text>
+		<text>Note from Sleeper</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala_descr">
-		<text>Записка сталкера, оставленная на вырваном из тетради листе бумаги. Для прочтения, нажмите "Использовать".</text>
+		<text>A note from a stalker, written on a piece of paper torn from a notebook. To read, click “Use”.</text>
 	</string>
 	<string id="st_pb_padalshik_pda_title">
 		<text>КПК Падальщика</text>

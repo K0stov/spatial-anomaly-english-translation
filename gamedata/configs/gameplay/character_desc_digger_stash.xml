@@ -6,7 +6,7 @@
 
 	<!-- Логово Стронглава -->
 	<specific_character id="digst_markus_survive" team_default="1">
-		<name>Маркус</name>
+		<name>Markus</name>
 		<icon>ui_inGame2_Markus</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

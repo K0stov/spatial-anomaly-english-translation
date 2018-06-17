@@ -2,7 +2,7 @@
 
 <xml>
 	<specific_character id="escape_trader" no_random = "1">
-		<name>Сидорович</name>
+		<name>Sidorovich</name>
 		<icon>ui_inGame2_Sidor</icon>
 		<bio>Детальная информация отсутствует.</bio>
 		<class>trader</class>
@@ -27,7 +27,7 @@
 
 
 	<specific_character id="esc_leader_stalkerbase" team_default = "1">
-		<name>Отец Валерьян</name>
+		<name>Father Valerian</name>
 		<icon>ui_inGame2_Valerian</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>

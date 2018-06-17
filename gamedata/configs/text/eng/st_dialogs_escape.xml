@@ -1725,7 +1725,7 @@
         <text>Fine, just make sure you to bring everyone back alive, I’m counting on you!</text>
     </string>
     <string id="esc_stalker_zohan_wounded_20">
-        <textSure thing, now go to Wolf and tell him what happened while we prepare the assault.</text>
+        <text>Sure thing, now go to Wolf and tell him what happened while we prepare the assault.</text>
     </string>
     <string id="esc_stalker_zohan_wounded_3">
         <text>Dude, help me, I am wounded bad... Please.</text>

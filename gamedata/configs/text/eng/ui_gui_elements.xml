@@ -2490,7 +2490,7 @@
 		<text>Зверь, если ты читаешь это - значит меня больше нет в живых... Мне трудно писать эти строчки, но я должен попросить у тебя прощения, я не очень хорошо о тебе думал при первой нашей встрече на Кордоне, не изменилось моё мнение и после твоего появления в Пространственной Аномалии. Я тогда был из тех, кто категорически был против того, чтобы оставить тебя на базе, я думал, что ты принесёшь нам только проблемы, но как я ошибался... Большое спасибо, что пытался спасти мою жизнь, жаль, что не вышло и попрощаться мы так и не успели. Надеюсь вам всем удастся покинуть аномалию, я бы очень хотел, чтобы так и случилось. Прощай, Зверь! \nС уважением, Дуболом.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_1">
-		<text>Записка Серого</text>
+		<text>Note from Seriy</text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
 		<text>«..Испытание Господь мне послал.. Столько лет мытарился, других мытарил, воровал, убивал.. В Зону эту проклятую попал – и зачем? Снова других жизни лишать ради наживы.. Ад это. Ад на земле, при жизни.. Чтобы мучился, чтобы кровью искупление свое заработал. Прошлые грехи – не забыть, не исправить, а будущее – вот оно, здесь, среди таких же как я.. Высшая Воля ведает, что ждет меня завтра, но все в руках моих, и спасение не дается лишь за слова и мысли. Я должен делом своим и примером своим доказать, что достоин..»</text>
@@ -2623,7 +2623,7 @@
 </text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
-		<text>%c[default]Вот же блин! Понесла меня нелегкая в Припять. Лучше бы сидел себе в Баре, да и горя не знал. Командир послал нас аномалию какую-то проверить, возле старого КБО. Что-то типа пространственной аномалии. Если бы я тогда знал, что на нас ждет, не пошел бы туда никогда... Поначалу все спокойно вроде было, а потом, когда мутанты со всех щелей на нас повалили, мы со страху в эту аномалию и сиганули. Очнулись уже здесь, в этом месте. Куда бы ни шли, всегда возвращаемся обратно, к этому сараю. Сколько это будет продолжаться?.. Думаю это конец, живыми отсюда точно не выбраться. Патроны на исходе, долго мы без них не протянем.\n 
+		<text>%c[default]God damn! Hardly made it to Pripyat. I’d be better off in the Bar without all of this misery. The commander sent us to check some kind of anomaly near the old service center. A spatial anomaly or something. If I knew what was waiting for us back then, I wouldn’t go there… Everything seemed calm at first, and then, when mutants came at us from all openings, we ran into the anomaly out of fear. Woke up in this place. Now, wherever we go, we always end up back at this shed. How long is this going to continue?… This must be the end. Getting out of here seems like an impossible task. Munitions are running out, and we won’t last long without them.\n 
 </text>
 	</string>
 	<string id="st_notepad_type_yad_text">

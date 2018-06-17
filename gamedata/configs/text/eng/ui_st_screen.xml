@@ -1,479 +1,479 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="proffesional_present">
-		<text>PROFFESIONAL представляет:</text>
+		<text>PROFFESIONAL presents:</text>
 	</string>
 	<string id="spatial_anomaly">
-		<text>ПРОСТРАНСТВЕННАЯ АНОМАЛИЯ</text>
+		<text>SPATIAL ANOMALY</text>
 	</string>
 	<string id="update_4_1">
 		<text>UPDATE 4.1</text>
 	</string>
 	<string id="three_monate_come_back">
-		<text>3 месяца назад</text>
+		<text>Three months ago</text>
 	</string>
 	<string id="time_skip_escape">
-		<text>Некоторое время спустя...</text>
+		<text>Some time later…</text>
 	</string>
 	<string id="puzir_skip_time">
-		<text>27 дней спустя</text>
+		<text>Twenty-seven days later</text>
 	</string>
 	<string id="chapter_1">
-		<text>Глава 1: Выхода нет</text>
+		<text>Chapter 1: No Escape</text>
 	</string>
 	<string id="chapter_2">
-		<text>Глава 2: Без морали</text>
+		<text>Chapter 2: No Morals</text>
 	</string>
 	<string id="chapter_3">
-		<text>Глава 3: Незваные гости</text>
+		<text>Chapter 3: Intruders</text>
 	</string>
 	<string id="chapter_4">
-		<text>Глава 4: Последняя надежда</text>
+		<text>Chapter 4: Last Hope</text>
 	</string>
 	<string id="chapter_5">
-		<text>Глава 5: Кошмары подземелий</text>
+		<text>Chapter 5: Nightmares of the Underground</text>
 	</string>
 	<string id="intro_1">
-		<text>Иногда, чтобы продолжить - надо начать заново... Моим новым началом, стало пробуждение в этом месте. Я чувствовал, что я больше не тот человек, которым был прежде, ведь впервые за долгие годы, внутри меня проснулись совесть и сострадание к другим. Я наёмник по кличке Зверь и это моя история.</text>
+		<text>Sometimes, in order to continue, you have to start anew… For me, that new beginning was waking up in this place. I no longer felt that I was the same person as before; for the first time in many years, I started feeling conscience and sympathy for others. I’m a mercenary by the name of Beast, and this is my story.</text>
 	</string>
 	<string id="intro_2">
-		<text>Мракобес тот еще кадр, мы с ним никогда не ладили, но истинное «веселье» началось после того, как Шакал перевесил чашу весов в мою сторону и назначил меня, вместо Мракобеса, главой небольшого отряда наёмников. В тот же день, мы отправились на Кордон по личному заказу Шакала, а Мракобес потихоньку принялся готовить мне план мести.</text>
+		<text>Obscurant was always a treat and we never got along. The real “fun,” however, started when Jackal made me the commander of a small squad of mercs as opposed to Obscurant. In that same day, we went to the Cordon for an assignment personally ordered by Jackal, and at that same time, Obscurant started planning his payback on me.</text>
 	</string>
 	<string id="intro_3">
-		<text>Вектор ранее был главой одной из групп наёмников, но потом отказался от выполнения одного персонального заказа Шакала и тот, не раздумывая, назначил за его голову награду, Вектор разумеется успел залечь на дно. У меня же, на поиски Вектора ушло несколько месяцев, но в самый ответственный момент, в погоне за ним, я угодил в «Пространственную аномалию». Ладно, самое время возвращаться в реальность и поведать, чем же для нас обернулась встреча с Мракобесом в Пузыре.</text>
+		<text>Vector was the previous head of a mercenary group, but he refused to fulfill a personal order from Jackal, who, without hesitation, offered a reward for his head. Vector, of course, managed to keep a low profile. I spent several months searching for Vector, but during the most crucial moment of my pursuit, I landed in the “Spatial Anomaly.” All right… Time to get back to reality and look at how our meeting with Obscurant in the space bubble panned out.</text>
 	</string>
 	<string id="intro_4">
-		<text>Вот и наступил тот момент, когда мы покинули аномалию, но сюрпризы на этом не закончились…</text>
+		<text>Here comes the moment where we leave the anomaly. The surprises didn’t end there, though…</text>
 	</string>
 	<string id="crowkiller_game_get_ready">
-		<text>Приготовиться!</text>
+		<text>Get ready!</text>
 	</string>
 	<string id="crowkiller_game_crows_killed">
-		<text>Ворон убито:</text>
+		<text>Dead crows:</text>
 	</string>
 	<string id="crowkiller_game_time_is_out">
-		<text>Время вышло!</text>
+		<text>Time is up!</text>
 	</string>
 	<string id="crowkiller_game_runned_out">
-		<text>Вы вышли из зоны!</text>
+		<text>You have left the zone!</text>
 	</string>
 	<string id="crowkiller_dialog_crows_per_minute">
-		<text>Думаю</text>
+		<text>I think</text>
 	</string>
 	<string id="crowkiller_dialog_money_stake">
-		<text>Ну, тогда ставка</text>
+		<text>Then the bet is</text>
 	</string>
 	<string id="crowkiller_dialog_record_crows">
-		<text>Вот это выбор реального пацана! Тебе нужно за минуту успеть вынести как можно больше ворон. Рекорд сейчас -</text>
+		<text>A real man’s choice! You’ll need to drop as many crows as you can within a minute. Your record right now is</text>
 	</string>
 	<string id="crowkiller_dialog_record_stake">
-		<text>Ну, при таком рекорде ставка равна</text>
+		<text>With that record, the bet is</text>
 	</string>
 	<string id="st_main_bonfire_use">
-		<text>Приготовить еду на костре ($$ACTION_USE$$)</text>
+		<text>Cook food at fire ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pb_turn_of_light_tip">
-		<text>Отключить электричество ($$ACTION_USE$$)</text>
+		<text>Deactivate electricity ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pb_turn_on_light_tip">
-		<text>Повернуть рычаг ($$ACTION_USE$$)</text>
+		<text>Turn lever ($$ACTION_USE$$)</text>
 	</string>
 	<string id="expl_spawn_tip">
-		<text>Установить взрывчатку ($$ACTION_USE$$)</text>
+		<text>Place explosives ($$ACTION_USE$$)</text>
 	</string>
 	<string id="key_out_tip">
-		<text>Положить ключ на тумбочку ($$ACTION_USE$$)</text>
+		<text>Place key on nightstand ($$ACTION_USE$$)</text>
 	</string>
 	<string id="button_lift_zone_tip">
-		<text>Вызвать лифт ($$ACTION_USE$$)</text>
+		<text>Call elevator ($$ACTION_USE$$)</text>
 	</string>
 	<string id="switcher_lift_zone_tip">
-		<text>Использовать пульт ($$ACTION_USE$$)</text>
+		<text>Use console ($$ACTION_USE$$)</text>
 	</string>
 	<string id="lift_turn_tip">
-		<text>Нажать на кнопку ($$ACTION_USE$$)</text>
+		<text>Press button ($$ACTION_USE$$)</text>
 	</string>
 	<string id="touch_buttom_tip">
-		<text>Запустить генератор ($$ACTION_USE$$)</text>
+		<text>Restart generator ($$ACTION_USE$$)</text>
 	</string>
 	<string id="esc_quest_trader_radio_tips">
-		<text>Установить радио-маяк ($$ACTION_USE$$)</text>
+		<text>Place radio beacon ($$ACTION_USE$$)</text>
 	</string>
 	<string id="esc_quest_trader_take_radio_tips">
-		<text>Взять радио-маяк ($$ACTION_USE$$)</text>
+		<text>Take radio beacon ($$ACTION_USE$$)</text>
 	</string>
 	<string id="psevdodog_quest_character_use">
 		<text>Вспороть брюхо ($$ACTION_USE$$)</text>
 	</string>
 	<string id="esc_tip_door_locked_tech">
-		<text>Нельзя открыть дверь, Фургон всё увидит</text>
+		<text>Cannot close door; Van sees everything</text>
 	</string>
 	<string id="esc_quest_enot_wake_up_tips">
-		<text>Разбудить Енота ($$ACTION_USE$$)</text>
+		<text>Wake up Raccoon ($$ACTION_USE$$)</text>
 	</string>
 	<string id="actor_inventory_box_use">
-		<text>Открыть личный ящик ($$ACTION_USE$$)</text>
+		<text>Open personal box ($$ACTION_USE$$)</text>
 	</string>
 	<string id="cant_walk">
-		<text>Вы слишком истощены, чтобы двигаться</text>
+		<text>You’re too exhausted to move</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Вы слишком перегружены, чтобы двигаться</text>
+		<text>You’re too overloaded to move</text>
 	</string>
 	<string id="car_character_use">
-		<text>Открыть дверь ($$ACTION_USE$$)</text>
+		<text>Open door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
-		<text>Говорить ($$ACTION_USE$$)</text>
+		<text>Speak ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Обыскать труп ($$ACTION_USE$$)</text>
+		<text>Search body ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Обыскать труп ($$ACTION_USE$$)\nТащить труп (SHIFT+$$ACTION_USE$$)</text>
+		<text>Search body ($$ACTION_USE$$)\nDrag body (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
-		<text>Задание выполнено:</text>
+		<text>Mission complete:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Задание провалено:</text>
+		<text>Mission failed:</text>
 	</string>
 	<string id="general_in_item">
-		<text>Получен предмет:</text>
+		<text>Item received:</text>
 	</string>
 	<string id="general_in_money">
-		<text>Получены деньги:</text>
+		<text>Money received:</text>
 	</string>
 	<string id="general_new_task">
-		<text>Новое задание:</text>
+		<text>New mission:</text>
 	</string>
 	<string id="general_out_item">
-		<text>Потерян предмет:</text>
+		<text>Item lost:</text>
 	</string>
 	<string id="general_out_money">
-		<text>Потеряны деньги:</text>
+		<text>Money lost:</text>
 	</string>
 	<string id="general_reverse_task">
-		<text>Задание отменено:</text>
+		<text>Mission cancelled:</text>
 	</string>
 	<string id="general_update_task">
-		<text>Задание обновлено:</text>
+		<text>Mission updated:</text>
 	</string>
 	<string id="gun_jammed">
-		<text>Оружие заклинило. Нужно перезарядить.</text>
+		<text>Your weapon has jammed. Reload it.</text>
 	</string>
 	<string id="inventory_box_use">
-		<text>Обыскать ящик ($$ACTION_USE$$)</text>
+		<text>Search box ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Поднять предмет ($$ACTION_USE$$)</text>
+		<text>Pick up item ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b10_ufo_searching_tips">
-		<text>Обыскать летательный аппарат ($$ACTION_USE$$)</text>
+		<text>Search aircraft ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b1_bar_door">
-		<text>Дверь заклинило</text>
+		<text>Door jammed</text>
 	</string>
 	<string id="jup_b1_door_is_closed">
-		<text>Дверь закрыта изнутри</text>
+		<text>The door is locked from the inside</text>
 	</string>
 	<string id="jup_b202_treasures_closed">
-		<text>Сейф закрыт</text>
+		<text>Safe locked</text>
 	</string>
 	<string id="jup_b205_tip_door_closed">
-		<text>Необходим код</text>
+		<text>Code needed</text>
 	</string>
 	<string id="jup_b205_tip_door_decode">
-		<text>Ввести код ($$ACTION_USE$$)</text>
+		<text>Enter code ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b206_use_plant">
-		<text>Сорвать растение ($$ACTION_USE$$)</text>
+		<text>Take plant ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b209_scanner_place_tips">
-		<text>Установить сканер ($$ACTION_USE$$)</text>
+		<text>Set up scanner ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b209_scanner_remove_tips">
-		<text>Забрать сканер ($$ACTION_USE$$)</text>
+		<text>Take scanner ($$ACTION_USE$$)</text>
 	</string>
 	<string id="lx8_raduga">
-		<text>Подавитель агрессии «Радуга»\nмакет внешнего излучательного комплекса\nмасштаб 1:20</text>
+		<text>Rainbow aggression suppressor\nmodel of external emissions complex\nscale 1:20</text>
 	</string>
 	<string id="pas_b400_tip_switcher">
-		<text>Включить рубильник ($$ACTION_USE$$)</text>
+		<text>Activate switch ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pri_a18_use_idol">
-		<text>Осмотреть конструкцию ($$ACTION_USE$$)</text>
+		<text>Examine device ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pri_a25_blow_up_enter_door">
-		<text>Установить взрывчатку ($$ACTION_USE$$)</text>
+		<text>Plant explosives ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pri_a28_talk_with_stupid_medic">
-		<text>Привести в чувство ($$ACTION_USE$$)</text>
+		<text>Recover ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pri_b306_elevator_door_locked_used">
-		<text>Лифт обесточен</text>
+		<text>Elevator has no power</text>
 	</string>
 	<string id="pri_b306_generator_use">
-		<text>Запустить генератор ($$ACTION_USE$$)</text>
+		<text>Activate generator ($$ACTION_USE$$)</text>
 	</string>
 	<string id="sleep_ok_button">
-		<text>Спать</text>
+		<text>Sleep</text>
 	</string>
 	<string id="sleep_warning_all_pleasures">
-		<text>Вы не можете спать! У Вас опасное кровотечение и высокий уровень облучённости организма. Используйте медикаменты или обратитесь к медику.</text>
+		<text>You cannot sleep! You are bleeding dangerously and suffering from radiation exposure. Use drugs or contact a medic.</text>
 	</string>
 	<string id="sleep_warning_bleeding">
-		<text>Вы не можете спать! У Вас опасное кровотечение. Используйте медикаменты или обратитесь к медику.</text>
+		<text>You cannot sleep! You are bleeding dangerously. Use drugs or contact a medic.</text>
 	</string>
 	<string id="sleep_warning_radiation">
-		<text>Вы не можете спать! У Вас высокий уровень облучённости организма. Используйте медикаменты или обратитесь к медику.</text>
+		<text>You cannot sleep! You are suffering from radiation exposure. Use drugs or contact a medic.</text>
 	</string>
 	<string id="sleep_warning_not_you">
-		<text>На этой кровати нельзя спать! Сначала нужно арендовать её у бармена.</text>
+		<text>You cannot sleep in this bed! It needs to be rented from the Barman first.</text>
 	</string>
 	<string id="sleep_zone_tip">
-		<text>Спать ($$ACTION_USE$$)</text>
+		<text>Sleep ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_ach_balance_advocate">
-		<text>Получено достижение «Сторонник равновесия».</text>
+		<text>You have attained the Man of Balance achievement.</text>
 	</string>
 	<string id="st_ach_battle_systems_master">
-		<text>Получено достижение «Мастер боевых систем».</text>
+		<text>You have attained the Weapon Systems Master achievement.</text>
 	</string>
 	<string id="st_ach_detective">
-		<text>Получено достижение «Сыщик».</text>
+		<text>You have attained the Detective achievement.</text>
 	</string>
 	<string id="st_ach_diplomat">
-		<text>Получено достижение «Дипломат».</text>
+		<text>You have attained the Diplomat achievement.</text>
 	</string>
 	<string id="st_ach_friend_of_duty">
-		<text>Получено достижение «Друг «Долга».</text>
+		<text>You have attained the Friend of Duty achievement.</text>
 	</string>
 	<string id="st_ach_friend_of_freedom">
-		<text>Получено достижение «Друг «Свободы».</text>
+		<text>You have attained the Friend of Freedom achievement.</text>
 	</string>
 	<string id="st_ach_friend_of_stalkers">
-		<text>Получено достижение «Друг сталкеров».</text>
+		<text>You have attained the Friend of Stalkers achievement.</text>
 	</string>
 	<string id="st_ach_herald_of_justice">
-		<text>Получено достижение «Гонец правосудия».</text>
+		<text>You have attained the Courier of Justice achievement.</text>
 	</string>
 	<string id="st_ach_high_tech_master">
-		<text>Получено достижение «Мастер высоких технологий».</text>
+		<text>You have attained the Hi-Tech Expert achievement.</text>
 	</string>
 	<string id="st_ach_information_dealer">
-		<text>Получено достижение «Торговец информацией».</text>
+		<text>You have attained the Trafficker of Information achievement.</text>
 	</string>
 	<string id="st_ach_keeper_of_secrets">
-		<text>Получено достижение «Хранитель тайн».</text>
+		<text>You have attained the Keeper of Secrets achievement.</text>
 	</string>
 	<string id="st_ach_kingpin">
-		<text>Получено достижение «Авторитет».</text>
+		<text>You have attained the Boss achievement.</text>
 	</string>
 	<string id="st_ach_leader">
-		<text>Получено достижение «Лидер».</text>
+		<text>You have attained the Leader achievement.</text>
 	</string>
 	<string id="st_ach_mutant_hunter">
-		<text>Получено достижение «Охотник на мутантов».</text>
+		<text>You have attained the Mutant Hunter achievement.</text>
 	</string>
 	<string id="st_ach_one_of_the_lads">
-		<text>Получено достижение «Свой парень».</text>
+		<text>You have attained the One of Ours achievement.</text>
 	</string>
 	<string id="st_ach_pioneer">
-		<text>Получено достижение «Первооткрыватель».</text>
+		<text>You have attained the Pioneer achievement.</text>
 	</string>
 	<string id="st_ach_research_man">
-		<text>Получено достижение «Научный сотрудник».</text>
+		<text>You have attained the Research Assistant achievement.</text>
 	</string>
 	<string id="st_ach_seeker">
-		<text>Получено достижение «Искатель».</text>
+		<text>You have attained the Artifact Hunter achievement.</text>
 	</string>
 	<string id="st_ach_skilled_stalker">
-		<text>Получено достижение «Опытный сталкер».</text>
+		<text>You have attained the Seasoned Stalker achievement.</text>
 	</string>
 	<string id="st_ach_wealthy">
-		<text>Получено достижение «Состоятельный клиент».</text>
+		<text>You have attained the Wealthy Client achievement.</text>
 	</string>
 	<string id="st_autosave">
-		<text>Автосохранение...</text>
+		<text>Autosaving...</text>
 	</string>
 	<string id="st_can_use_weapon_now">
-		<text>Теперь можно достать оружие.</text>
+		<text>You can now take your weapon out.</text>
 	</string>
 	<string id="st_codelock">
-		<text>Кодовый замок ($$ACTION_USE$$)</text>
+		<text>Code lock ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_detective_news">
-		<text>За раскрытие дела о пропаже сталкеров в личный ящик на «Скадовске» добавлены медикаменты.</text>
+		<text>Medical supplies have been placed in the personal box on the Skadovsk for solving the secret of the missing stalkers.</text>
 	</string>
 	<string id="st_duty_first_reward_news">
-		<text>За помощь «Долгу» в личный ящик на «Янове» помещён костюм ПС5-М «Универсальная защита».</text>
+		<text>A PS5-M Universal Protection suit has been placed in the personal box at Yanov for helping Duty.</text>
 	</string>
 	<string id="st_duty_second_reward_news">
-		<text>За помощь «Долгу» в личный ящик на «Янове» помещён костюм ПСЗ-9д «Броня «Долга».</text>
+		<text>A PSZ-9d Duty Armor suit has been placed in the personal box at Yanov for helping Duty.</text>
 	</string>
 	<string id="st_freedom_first_reward_news">
-		<text>За помощь «Свободе» в личный ящик на «Янове» помещён костюм «Ветер свободы».</text>
+		<text>A Wind of Freedom suit has been placed in the personal box at Yanov for helping Freedom.</text>
 	</string>
 	<string id="st_freedom_second_reward_news">
-		<text>За помощь «Свободе» в личный ящик на «Янове» помещён костюм «Страж свободы».</text>
+		<text>A Freedom Guard suit has been placed in the personal box at Yanov for helping Freedom.</text>
 	</string>
 	<string id="st_freeplay_text_ok">
-		<text>Вы не успели добраться к вертолётам. Группа эвакуации покинула Зону без Вас.</text>
+		<text>You didn’t manage to reach the helicopters and the evacuation team left the Zone without you.</text>
 	</string>
 	<string id="st_freeplay_text_yes_no">
-		<text>Готовы ли Вы покинуть Зону? Обратного пути не будет.</text>
+		<text>Are you ready to leave the Zone? There’s no way back.</text>
 	</string>
 	<string id="st_game_over">
-		<text>Игра окончена.</text>
+		<text>Game over.</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</text>
+		<text>Press ($$ACTION_JUMP$$) to exit to the main menu.</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Пауза</text>
+		<text>Pause</text>
 	</string>
 	<string id="st_game_saved">
-		<text>Игра сохранена</text>
+		<text>Game saved</text>
 	</string>
 	<string id="st_herald_of_justice_news">
-		<text>За помощь в разоблачении Сороки в личный ящик на «Скадовске» помещён артефакт.</text>
+		<text>An artifact has been placed in the personal box on the Skadovsk for helping to expose Magpie.</text>
 	</string>
 	<string id="st_jup_b41_door_locked">
-		<text>Необходимо дождаться герметизации шлюза</text>
+		<text>You must wait for the dock to become airtight</text>
 	</string>
 	<string id="st_lx8_button_press_true">
-		<text>Доступ разрешён</text>
+		<text>Access granted</text>
 	</string>
 	<string id="st_lx8_lift_button">
-		<text>Подняться на лифте ($$ACTION_USE$$)</text>
+		<text>Take the elevator up ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_pri_b306_go_down">
-		<text>Спуститься на лифте ($$ACTION_USE$$)</text>
+		<text>Take the elevator down ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</text>
+		<text>Critical psy-emission level. Leave danger area immediately.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Опасный уровень радиации. Для прохода необходима защита.</text>
+		<text>Dangerous radiation levels. Protection required to go further.</text>
 	</string>
 	<string id="st_search_helicopter">
-		<text>Осмотреть вертолёт ($$ACTION_USE$$)</text>
+		<text>Examine helicopter ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Обыскать тайник ($$ACTION_USE$$)</text>
+		<text>Search the stash ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_sleep_hours">
-		<text>ч</text>
+		<text>h</text>
 	</string>
 	<string id="st_tip">
-		<text>Сообщение</text>
+		<text>Message</text>
 	</string>
 	<string id="tip_door_blocked">
-		<text>Дверь заблокирована</text>
+		<text>Door blocked</text>
 	</string>
 	<string id="tip_door_close">
-		<text>Закрыть дверь ($$ACTION_USE$$)</text>
+		<text>Close door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_door_closed_base_alarm">
-		<text>Дверь заперта - в лагере тревога</text>
+		<text>Door locked - the camp is on alert</text>
 	</string>
 	<string id="tip_door_closed_hide_weapon">
-		<text>Дверь заперта - необходимо спрятать оружие</text>
+		<text>Door locked - you must holster your weapon</text>
 	</string>
 	<string id="tip_door_locked">
-		<text>Дверь заперта</text>
+		<text>Door locked</text>
 	</string>
 	<string id="tip_door_anomaly_locked">
-		<text>Решетка заржавела</text>
+		<text>The bars are rusty</text>
 	</string>
 	<string id="tip_door_anomaly_closed">
-		<text>Решетка закрыта (нужен ключ)</text>
+		<text>The bars are closed (key required)</text>
 	</string>
 	<string id="tip_door_no_electricity">
-		<text>Дверь обесточена</text>
+		<text>Door is not being powered</text>
 	</string>
 	<string id="tip_door_open">
-		<text>Открыть дверь ($$ACTION_USE$$)</text>
+		<text>Open door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_gate_locked">
-		<text>Ворота заблокированы</text>
+		<text>Gate blocked</text>
 	</string>
 	<string id="tip_need_access_card">
-		<text>Воспользоватся картой доступа ($$ACTION_USE$$)</text>
+		<text>Use the access card ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_no_access_card">
-		<text>Необходима карта доступа</text>
+		<text>Access card required</text>
 	</string>
 	<string id="tip_open_another_site">
-		<text>Дверь нельзя открыть с этой стороны</text>
+		<text>The door cannot be opened from this side</text>
 	</string>
 	<string id="ui_st_mp_experience_grow">
 		<text>-</text>
 	</string>
 	<string id="zat_b12_conteiner_full_locked">
-		<text>Контейнер закрыт - необходимы два ключа</text>
+		<text>The container is locked. Two keys are needed to open it.</text>
 	</string>
 	<string id="zat_b12_conteiner_has_one_key">
-		<text>Использовать ключ ($$ACTION_USE$$)</text>
+		<text>Use key ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b12_conteiner_has_two_key">
-		<text>Использовать ключи ($$ACTION_USE$$)</text>
+		<text>Use keys ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b12_conteiner_locked">
-		<text>Контейнер закрыт - необходим второй ключ</text>
+		<text>The container is locked. You need the second key to open it.</text>
 	</string>
 	<string id="zat_b12_conteiner_open">
-		<text>Открыть контейнер ($$ACTION_USE$$)</text>
+		<text>Open container ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b14_door_locked_hint">
-		<text>Дверной механизм заблокирован изнутри</text>
+		<text>The door mechanism has been blocked from the inside.</text>
 	</string>
 	<string id="zat_b57_balon_use_hint">
-		<text>Подключить газовый баллон ($$ACTION_USE$$)</text>
+		<text>Connect gas tank ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b57_gas_warning">
-		<text>Осторожно! Химическая опасность!</text>
+		<text>Warning! Chemical hazard!</text>
 	</string>
 	<string id="zat_b57_vintil_press">
-		<text>Повернуть вентиль ($$ACTION_USE$$)</text>
+		<text>Turn valve ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b33_car_searching_tip">
-		<text>Обыскать «Запорожец» ($$ACTION_USE$$)</text>
+		<text>Search car ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_resupply_ready">
-		<text>Перед операцией можно пополнить запас медикаментов и боеприпасов у лейтенантов Роговца и Кириллова.</text>
+		<text>You can restock on medical supplies and ammo by visiting Lieutenant Rogovets and Lieutenant Kirillov.</text>
 	</string>
 	<string id="st_surge_while_asleep">
-		<text>В Зоне недавно произошёл выброс.</text>
+		<text>An emission has recently occurred in the Zone.</text>
 	</string>
 	<string id="st_ach_marked_by_zone">
-		<text>Получено достижение «Отмеченный Зоной»</text>
+		<text>You have attained the Marked by the Zone achievement.</text>
 	</string>
 	<string id="st_mutant_hunter_news">
-		<text>За уничтожение опасных мутантов в личный ящик на «Янове» помещены боеприпасы</text>
+		<text>Ammo has been placed in the personal box at Yanov for eliminating dangerous mutants</text>
 	</string>
 	<string id="st_found_old_treasure">
-		<text>Получены координаты ранее найденного тайника</text>
+		<text>Received coordinates of a stash that has already been discovered.</text>
 	</string>
 	<string id="st_got_treasure">
-		<text>Найден тайник</text>
+		<text>Stash found</text>
 	</string>
 	<string id="st_found_new_treasure">
-		<text>Получены координаты тайника</text>
+		<text>Stash coordinates received</text>
 	</string>
 	<string id="st_press_any_key">
-		<text>Нажмите любую клавишу для перехода к игре</text>
+		<text>Press any key to play</text>
 	</string>
 
 	<string id="st_spalnik_nosleep">
-		<text>В этом месте не заснуть. Нужно найти более надежное укрытие, там где можно переждать выброс.</text>
+		<text>You cannot rest in this place. More secure shelter is required, where an emission can be survived.</text>
 	</string>
 	<string id="st_gps_add_null_treasure">
-		<text>В схроне нет хабара. Установлена метка пустого тайника.</text>
+		<text>There is no loot in the stash. An empty stash marker has been placed.</text>
 	</string>
 	<string id="st_gps_add_treasure">
-		<text>Установлена метка со списком хабара.</text>
+		<text>A marker with a list of loot has been placed.</text>
 	</string>
 	
 </string_table>

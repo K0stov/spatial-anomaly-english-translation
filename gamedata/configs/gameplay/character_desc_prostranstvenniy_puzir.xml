@@ -6,7 +6,7 @@
 
 	<!-- Старый склад -->
 	<specific_character id="pb_lutiy" team_default="1">
-		<name>Лютый</name>
+		<name>Savage</name>
 		<icon>ui_inGame2_Lutiy2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -43,7 +43,7 @@
   </specific_character>
 
 	<specific_character id="pb_moskit" team_default="1">
-		<name>Москит</name>
+		<name>Mosquito</name>
 		<icon>ui_inGame2_Moskit</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -77,7 +77,7 @@
   </specific_character>
 
 	<specific_character id="pb_zombied_dolg_man" team_default="1">
-		<name>Серый</name>
+		<name>Seriy</name>
 		<icon>ui_inGame2_Zombied_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -196,7 +196,7 @@
   </specific_character>
 
 	<specific_character id="pb_rezak" team_default="1">
-		<name>Резак</name>
+		<name>Cutter</name>
 		<icon>ui_inGame2_Rezak</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -233,7 +233,7 @@
   </specific_character>
 
 	<specific_character id="pb_shurup" team_default="1">
-		<name>Шуруп</name>
+		<name>Screw</name>
 		<icon>ui_inGame2_Shurup</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -275,7 +275,7 @@
 	<!--Появляющиеся квестовые персонажи-->
 
 	<specific_character id="pb_markus_novice" team_default="1">
-		<name>Маркус</name>
+		<name>Markus</name>
 		<icon>ui_inGame2_Markus</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -310,7 +310,7 @@
   </specific_character>
 
 	<specific_character id="pb_murad" team_default="1">
-		<name>Мурад</name>
+		<name>Murad</name>
 		<icon>ui_inGame2_Murad</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -345,7 +345,7 @@
   </specific_character>
 
 	<specific_character id="pb_padalshik" team_default="1">
-		<name>Падальщик</name>
+		<name>Scavenger</name>
 		<icon>ui_inGame2_Lom</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -370,7 +370,7 @@
   </specific_character>
 
 	<specific_character id="pb_stronglav" team_default="1">
-		<name>Стронглав</name>
+		<name>Stronglav</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -397,7 +397,7 @@
   </specific_character>
 
 	<specific_character id="pb_snake" team_default="1">
-		<name>Змей</name>
+		<name>Snake</name>
 		<icon>ui_inGame2_Snake</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -431,7 +431,7 @@
   </specific_character>
 
 	<specific_character id="pb_kuvalda" team_default="1">
-		<name>Кувалда</name>
+		<name>Sledgehammer</name>
 		<icon>ui_inGame2_Kuvalda</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -466,7 +466,7 @@
   </specific_character>
 
 	<specific_character id="pb_mrakobes" team_default="1">
-		<name>Мракобес</name>
+		<name>Obscurant</name>
 		<icon>ui_inGame2_Mrakobes</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -499,7 +499,7 @@
   </specific_character>
 
 	<specific_character id="pb_mrakobes_scene" team_default="1">
-		<name>Мракобес</name>
+		<name>Obscurant</name>
 		<icon>ui_inGame2_Mrakobes</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -526,7 +526,7 @@
   </specific_character>
 
 	<specific_character id="pb_soldier_oleynik" team_default="1">
-		<name>Сержант Олейник</name>
+		<name>Sergeant Oleynik</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -560,7 +560,7 @@
   </specific_character>
 
 	<specific_character id="pb_soldier_oleynik_podval" team_default="1">
-		<name>Сержант Олейник</name>
+		<name>Sergeant Oleynik</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -594,7 +594,7 @@
   </specific_character>
 
 	<specific_character id="pb_dubolom" team_default="1">
-		<name>Дуболом</name>
+		<name>Dummy</name>
 		<icon>ui_inGame2_Dubolom</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -629,7 +629,7 @@
   </specific_character>
 
 	<specific_character id="pb_ghost_podval" team_default="1">
-		<name>Шпала</name>
+		<name>Sleeper</name>
 		<icon>ui_inGame2_neutral_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -658,7 +658,7 @@
   </specific_character>
 
 	<specific_character id="pb_zombied_shell" team_default="1">
-		<name>Гильза</name>
+		<name>Shell</name>
 		<icon>ui_inGame2_Zombied_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -691,7 +691,7 @@
   </specific_character>
 
 	<specific_character id="pb_killer_leader_group" team_default = "1">
-		<name>Тесак</name>
+		<name>Hatchet</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -718,7 +718,7 @@
 	</specific_character>
 
 	<specific_character id="pb_killer_fire" team_default = "1">
-		<name>Бром</name>
+		<name>Brome</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -746,7 +746,7 @@
 		<!-- Основатель "Долга" генерал Таченко -->
 
   <specific_character id="pb_duty_tachenko" team_default = "1">
-    <name>Генерал Таченко</name>
+    <name>General Tachenko</name>
     <icon>ui_inGame2_Dolg_4</icon>
     <map_icon x="1" y="0"></map_icon>
     <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -775,7 +775,7 @@
 		<!-- Отряд основателя "Долга" (4 человека) -->
 
   <specific_character id="pb_duty_chepurnoy" team_default = "1">
-    <name>Майор Чепурной</name>
+    <name>Major Chepurny</name>
     <icon>ui_inGame2_Dolg_3</icon>
     <map_icon x="1" y="0"></map_icon>
     <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -801,7 +801,7 @@
   </specific_character>
 
   <specific_character id="pb_duty_bunchuck" team_default = "1">
-    <name>Лейтенант Бунчук</name>
+    <name>Lt Bunchuk</name>
     <icon>ui_inGame2_Dolg_2</icon>
     <map_icon x="1" y="0"></map_icon>
     <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -828,7 +828,7 @@
   </specific_character>
 
   <specific_character id="pb_duty_kosmach" team_default = "1">
-    <name>Полковник Космач</name>
+    <name>Col Kosmach</name>
     <icon>ui_inGame2_Dolg_3</icon>
     <map_icon x="1" y="0"></map_icon>
     <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -854,7 +854,7 @@
   </specific_character>
 
   <specific_character id="pb_duty_zaharchuk" team_default = "1">
-    <name>Лейтенант Захарчук</name>
+    <name>Lt Zakharchuk</name>
     <icon>ui_inGame2_Dolg_2</icon>
     <map_icon x="1" y="0"></map_icon>
     <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -880,7 +880,7 @@
   </specific_character>
 
 	<specific_character id="pb_lesnik" team_default="1">
-		<name>Лесник</name>
+		<name>Forester</name>
 		<icon>ui_inGame2_Lesnik</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -913,7 +913,7 @@
   </specific_character>
 
 	<specific_character id="pb_paskhalka_stalker" team_default="1">
-		<name>Рябой</name>
+		<name>Spotty</name>
 		<icon>ui_inGame2_neutral_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -927,7 +927,7 @@
 		<rank>50</rank>
 		<reputation>0</reputation>
 
-		<visual>actors\stalker_neutral\stalker_neutral_2</visual>
+		<visual>actors_new\stalker_neutral\stalker_neutral_2</visual>
 		<supplies>
 
       [spawn] \n
@@ -945,7 +945,7 @@
   </specific_character>
 
 	<specific_character id="pb_otshelnik" team_default="1">
-		<name>Отшельник</name>
+		<name>Hermit</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
