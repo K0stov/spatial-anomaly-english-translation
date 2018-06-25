@@ -1,558 +1,558 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
-<!-- Квест: Узнать, что произошло -->
+<!-- Quest: find out what happened -->
 
 <string id="pb_who_is_happening_part_1_name">
-<text>Prologue: Find out what happened</text>
+<text>Prologue: find out what happened</text>
 </string>
 <string id="pb_who_is_happening_part_1_text">
-<text>Я ничего не помню... Ужасно болит голова... Где я? Что это за место? Нужно узнать у местных сталкеров.</text>
+<text>I don’t rememeber anything… Got a splitting headache… Where am I? What is this place? I need to find out more about the local stalkers.</text>
 </string>
 <string id="pb_who_is_happening_part_2_name">
-<text>Prologue: Eliminate the zombies</text>
+<text>Prologue: eliminate the zombies</text>
 </string>
 <string id="pb_who_is_happening_part_2_text">
-<text>Лютый сказал, что для общего спокойствия надо уничтожить зомбированных неподалеку, нужно сделать это.</text>
+<text>Savage has told me that to keep the peace in the area, the zombies not far away need to be destroyed.</text>
 </string>
 <string id="pb_who_is_happening_part_3_name">
-<text>Prologue: Loot the zombie corpses</text>
+<text>Prologue: loot the zombie corpses</text>
 </string>
 <string id="pb_who_is_happening_part_3_text">
-<text>Нужно посмотреть, что есть в рюкзаках убитых зомбированных сталкеров, может найду что-то ценное.</text>
+<text>I need to check out what’s in the backpacks of the zombies. Something useful might come out of it.</text>
 </string>
 <string id="pb_who_is_happening_part_4_name">
-<text>Prologue: Read through the recording</text>
+<text>Prologue: read through the note</text>
 </string>
 <string id="pb_who_is_happening_part_4_text">
-<text>Возможно в найденной записке кроется полезная информация, нужно её прочитать.</text>
+<text>Maybe the note will have some useful information. I need to read through it.</text>
 </string>
 <string id="pb_who_is_happening_part_5_name">
-<text>Prologue: Tell Savage about the stash</text>
+<text>Prologue: tell Savage about the stash</text>
 </string>
 <string id="pb_who_is_happening_part_5_text">
-<text>В записке я обнаружил довольно-таки полезную информацию, нужно рассказать об этом Лютому.</text>
+<text>I found some quite useful info in the note. I need to share it with Savage.</text>
 </string>
 
 
-<!-- Квест: Пространственная аномалия-->
+<!-- Quest: spatial anomaly-->
 <string id="pb_find_exit_to_anomaly_part_1_name">
-<text>Пространственная аномалия: Найти выход из аномалии</text>
+<text>Spatial anomaly: find a way out of the anomaly</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_1_text">
-<text>Мне нужно найти выход из аномалии, чтобы выбраться отсюда.</text>
+<text>I need to find a way out of the anomaly to get out of here.</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_2_name">
-<text>Пространственная аномалия: Найти дешифратор</text>
+<text>Spatial anomaly: find the decoder</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_2_text">
-<text>Нужно найти дешифратор о котором упомянул в КПК Падальщик.</text>
+<text>I need to find the decoder that was brought up in Scavenger’s PDA.</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_3_name">
-<text>Пространственная аномалия: Показать Лютому дешифратор</text>
+<text>Spatial anomaly: show the decoder to Savage</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_3_text">
-<text>Нужно поговорить с Лютым, о том, что я нашел дешифратор.</text>
+<text>I need to speak with Savage about the detector I’ve found.</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_4_name">
-<text>Пространственная аномалия: Покинуть аномалию</text>
+<text>Spatial anomaly: leave the anomaly</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_4_text">
-<text>Нужно покинуть пространственную аномалию.</text>
+<text>It’s time to leave the spatial anomaly.</text>
 </string>
 
 
-<!-- Квест: Лечь спать -->
+<!-- Quest: go to sleep -->
 <string id="pb_actor_go_to_sleep_part_1_name">
-<text>Трудная ночь: Лечь спать</text>
+<text>Rough night: go to sleep</text>
 </string>
 <string id="pb_actor_go_to_sleep_part_1_text">
-<text>Лютый сказал, чтобы я поспал и я с ним согласен, хреново себе чувствую, надеюсь, что сон исправит ситуацию.</text>
+<text>Savage has told me that I should go to sleep, and I agree with him; I feel like crap. I hope a bit of rest will sort things out.</text>
 </string>
 
 
-<!-- Квест: Внезапное пробуждение -->
+<!-- Quest: wake-up call -->
 <string id="pb_helicopter_crash_search_part_1_name">
-<text>Внезапное пробуждение: Выявить источник шума</text>
+<text>Wake-up call: identify the source of the noise</text>
 </string>
 <string id="pb_helicopter_crash_search_part_1_text">
-<text>Меня разбудил громкий шум на улице, похоже, что это вертолет,нужно выяснить так ли это.</text>
+<text>I was waken up by a loud noise from outside. It seems that it’s coming from a helicopter. I need to investigate it.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_2_name">
-<text>Внезапное пробуждение: Обследовать место крушения вертолёта</text>
+<text>Wake-up call: examine the crash site of the helicopter</text>
 </string>
 <string id="pb_helicopter_crash_search_part_2_text">
-<text>Вертолет потерпел крушение, все из-за воздушных аномалий, нужно сходить к месту крушения и обследовать местность.</text>
+<text>The helicopter crashed due to aerial anomalies. I need to make my way to the crash site and examine the area.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_3_name">
-<text>Внезапное пробуждение: Спасти военного</text>
+<text>Wake-up call: save the soldier</text>
 </string>
 <string id="pb_helicopter_crash_search_part_3_text">
-<text>На месте крушение обнаружен военный, но он умирает, нужно ему помочь.</text>
+<text>A soldier is present at the crash site, but he’s dying. He needs help.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_4_name">
-<text>Внезапное пробуждение: Сопроводить вояку к базе</text>
+<text>Wake-up call: lead the soldier to the base</text>
 </string>
 <string id="pb_helicopter_crash_search_part_4_text">
-<text>Я частично помог военному и теперь он может идти, нужно отвести его на базу.</text>
+<text>I’ve partially helped out the soldier, who can now walk. He should be escorted to base.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_5_name">
-<text>Внезапное пробуждение: Поговорить с военным</text>
+<text>Wake-up call: speak to the soldier</text>
 </string>
 <string id="pb_helicopter_crash_search_part_5_text">
-<text>Вояка успешно добрался к базе, теперь можно с ним поговорить.</text>
+<text>The soldier made it to the base. Now, I can talk to him.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_6_name">
-<text>Внезапное пробуждение: Поговорить с Лютым</text>
+<text>Wake-up call: speak to Savage</text>
 </string>
 <string id="pb_helicopter_crash_search_part_6_text">
-<text>Я поговорил с военным, теперь необходимо поговорить с Лютым.</text>
+<text>I spoke to the soldier. Now, I must speak to Savage.</text>
 </string>
 
 
-<!-- Квест: Найти Падальщика -->
+<!-- Quest: find Scavenger -->
 <string id="pb_found_to_padalshik_part_1_name">
-<text>Поиски: Найти Падальщика</text>
+<text>Search: find Scavenger</text>
 </string>
 <string id="pb_found_to_padalshik_part_1_text">
-<text>Нужно найти Падальщика, по словам Лютого, он пропал два дня назад.</text>
+<text>I need to find out about the whereabouts of Scavenger, who, according to Savage, disappeared two days ago.</text>
 </string>
 <string id="pb_found_to_padalshik_part_2_name">
-<text>Поиски: Обыскать труп Падальщика</text>
+<text>Search: search Scavenger’s corpse</text>
 </string>
 <string id="pb_found_to_padalshik_part_2_text">
-<text>Сталкер, которого я искал, мёртв. Нужно посмотреть, что у него есть при себе.</text>
+<text>The stalker that I found is dead. I need to check out if his corpse carries anything of use.</text>
 </string>
 <string id="pb_found_to_padalshik_part_3_name">
-<text>Поиски: Поискать полезную информацию в КПК</text>
+<text>Search: search for information in the PDA</text>
 </string>
 <string id="pb_found_to_padalshik_part_3_text">
-<text>В рюкзаке Падальщика был КПК, нужно посмотреть последние записи.</text>
+<text>Scavenger’s backpack had a PDA. I need to check out his last notes.</text>
 </string>
 <string id="pb_found_to_padalshik_part_4_name">
-<text>Поиски: Обсудить прочитанное с Лютым</text>
+<text>Search: discuss your findings with Savage</text>
 </string>
 <string id="pb_found_to_padalshik_part_4_text">
-<text>Падальщик много чего натворил перед смертью, нужно обсудить это с Лютым.</text>
+<text>Scavenger managed a lot of things before his death. This needs to be discussed with Savage.</text>
 </string>
 
 
-<!-- Квест: Поговорить с Дуболомом -->
+<!-- Quest: speak to Dummy -->
 <string id="pb_talk_to_dubolom_part_1_name">
-<text>Старый знакомый: Поговорить с Дуболомом</text>
+<text>Old friend: speak to Dummy</text>
 </string>
 <string id="pb_talk_to_dubolom_part_1_text">
-<text>Дуболом прислал сообщение, что хочет со мной поговорить. Нужно сходить к нему и узнать, что ему нужно.</text>
+<text>Dummy has sent me a message and wants to speak to me. I need to make my way to him and find out what he wants.</text>
 </string>
 
 
-<!-- Квест: Ночная охота -->
+<!-- Quest: night hunt -->
 <string id="pb_night_hunting_part_1_name">
-<text>Ночная охота: Дождаться ночи</text>
+<text>Night hunt: wait for the night</text>
 </string>
 <string id="pb_night_hunting_part_1_text">
-<text>Химера приходит в бункер только ночью, поэтому нужно подождать к ночи перед охотой.</text>
+<text>The chimera only enters the bunker at night. We need to wait until the sun sets to hunt it down.</text>
 </string>
 <string id="pb_night_hunting_part_2_name">
-<text>Ночная охота: Поговорить с Дуболомом</text>
+<text>Night hunt: speak to Dummy</text>
 </string>
 <string id="pb_night_hunting_part_2_text">
-<text>На дворе ночь, теперь можно поговорить с Дуболомом.</text>
+<text>Night has come. Now, I can speak to Dummy.</text>
 </string>
 <string id="pb_night_hunting_part_3_name">
-<text>Ночная охота: Следовать за Дуболомом</text>
+<text>Night hunt: follow Dummy</text>
 </string>
 <string id="pb_night_hunting_part_3_text">
-<text>Нужно следовать за Дуболомом.</text>
+<text>I need to follow Dummy.</text>
 </string>
 <string id="pb_night_hunting_part_4_name">
-<text>Ночная охота: Убить химеру</text>
+<text>Night hunt: kill the chimera</text>
 </string>
 <string id="pb_night_hunting_part_4_text">
-<text>Нужно убить химеру в бункере.</text>
+<text>I need to kill the chimera with Dummy’s help.</text>
 </string>
 <string id="pb_night_hunting_part_5_name">
-<text>Ночная охота: Следовать за Дуболомом обратно на базу</text>
+<text>Night hunt: follow Dummy back to the base</text>
 </string>
 <string id="pb_night_hunting_part_5_text">
-<text>Химера мертва, теперь можно возвращаться обратно на базу.</text>
+<text>The chimera is dead. Now, we can return back to base.</text>
 </string>
 <string id="pb_night_hunting_part_6_name">
-<text>Ночная охота: Поговорить с Дуболомом</text>
+<text>Night hunt: speak to Dummy</text>
 </string>
 <string id="pb_night_hunting_part_6_text">
-<text>Мы на базе, теперь нужно поговорить с Дуболомом.</text>
+<text>We’re back at base. Now, I can speak to Dummy.</text>
 </string>
 
 
-<!-- Квест: Поговорить с Маркусом (на счет Гильзы) -->
+<!-- Quest: speak to Markus (about Shell) -->
 <string id="pb_first_talk_to_markus_part_1_name">
-<text>Крепкие узы: Поговорить с Маркусом</text>
+<text>Strong bonds: speak to Markus</text>
 </string>
 <string id="pb_first_talk_to_markus_part_1_text">
-<text>Дуболом сказал мне, что Маркус хочет со мной о чем-то поговорить, нужно сходить к нему и узнать, что ему нужно.</text>
+<text>Dummy has told me that Markus wants to speak to me about something. I need to make my way to him and find out what he wants.</text>
 </string>
 
-<!-- Квест: Поиски Гильзы -->
+<!-- Quest: seek out Shell -->
 <string id="pb_found_to_shell_part_1_name">
-<text>Череда событий: Разыскать Гильзу</text>
+<text>Chain of events: seek out Shell</text>
 </string>
 <string id="pb_found_to_shell_part_1_text">
-<text>Маркус попросил меня найти Гильзу, что был главой группы до Лютого. Пропал он достаточно давно, но остается малая надежда того, что он жив, так как при себе он имел довольно хорошое снаряжение.</text>
+<text>Markus has asked me to find Shell, who was the previous leader of the group before Savage. He went missing quite some time ago, but a chance remains that he’s still alive, considering his equipment was of good quality.</text>
 </string>
 <string id="pb_found_to_shell_part_2_name">
-<text>Череда событий: Убить Гильзу</text>
+<text>Chain of events: kill Shell</text>
 </string>
 <string id="pb_found_to_shell_part_2_text">
-<text>Плач в подземке прекратился и в противоположном конце подземелья появился Гильза, но он зомбирован, нужно убить его пока он не убил меня..</text>
+<text>The crying in the underground has stopped. Shell has appeared on the other side, but he’s been zombified. I need to take him out before he takes me out.</text>
 </string>
 <string id="pb_found_to_shell_part_3_name">
-<text>Череда событий: Обыскать труп Гильзы</text>
+<text>Chain of events: search Shell’s corpse</text>
 </string>
 <string id="pb_found_to_shell_part_3_text">
-<text>Гильза мертв, самое время осмотреть его рюкзак.</text>
+<text>Shell is dead. Time to check out his possessions.</text>
 </string>
 <string id="pb_found_to_shell_part_4_name">
-<text>Череда событий: Вернуться обратно к Маркусу</text>
+<text>Chain of events: return back to Markus</text>
 </string>
 <string id="pb_found_to_shell_part_4_text">
-<text>После того как я поднял брелок Гильзы в подземелье, я очнулся в подвале, но произошедшее не может быть сном, так как брелок до сих пор у меня. Да еще и старик этот подтвердил, что это не сон, пока лучше не рассказывать никому ни о нем, ни о произошедшем в подземелье.</text>
+<text>After I retrieved a keyring from Shell, I woke up in a basement… but what happened couldn’t have been a dream, since the trinket is still with me. An old man has reassured me that this isn’t a dream, so I better not tell anyone about what happened in the underground.</text>
 </string>
 
 
-<!-- Квест: Опасная охота -->
+<!-- Quest: dangerous hunt -->
 <string id="pb_kill_to_squad_flash_part_1_name">
-<text>Опасная охота: Поговорить с Змеем</text>
+<text>Dangerous hunt: Speak to Snake</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_1_text">
-<text>Маркус сказал, чтобы я перед охотой поговорил с Змеем.</text>
+<text>Markus asked me to speak to Snake before the hunt.</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_2_name">
-<text>Опасная охота: Убить плотей</text>
+<text>Dangerous hunt: Kill the flesh</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_2_text">
-<text>Убить плотей в указанной точке.</text>
+<text>The flesh located at the marker need to be taken out.</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_3_name">
-<text>Опасная охота: Вернуться на базу и поговорить с Маркусом</text>
+<text>Dangerous hunt: return to the base and speak to Markus</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_3_text">
-<text>Нужно вернуться на базу и поговорить с Маркусом.</text>
+<text>I need to return to base and speak to Markus.</text>
 </string>
 
 
-<!-- Квест: Поговорить с Маркусом -->
+<!-- Quest: speak to Markus -->
 <string id="pb_talk_to_markus_part_1_name">
-<text>Поговорить с Маркусом</text>
+<text>Speak to Markus</text>
 </string>
 <string id="pb_talk_to_markus_part_1_text">
 <text>Маркус написал мне, что хочет поговорить. Нужно подойти к нему.</text>
 </string>
 
 
-<!-- Квест: Без вести пропавший -->
+<!-- Quest: missing in action -->
 <string id="pb_found_to_markus_part_1_name">
-<text>Без вести пропавший: Спросить у Лютого, куда подевался Маркус</text>
+<text>Missing in action: ask Savage where Markus has gone</text>
 </string>
 <string id="pb_found_to_markus_part_1_text">
-<text>Маркус так и не вернулся на базу, нужно расспросить у Лютого, куда отправился Маркус.</text>
+<text>Markus hasn’t showed up at the base. I need to ask Savage about where he’s taken off.</text>
 </string>
 <string id="pb_found_to_markus_part_2_name">
-<text>Без вести пропавший: Подождать, пока Лютый найдет сигнал</text>
+<text>Missing in action: wait until Savage finds a signal</text>
 </string>
 <string id="pb_found_to_markus_part_2_text">
-<text>Мне нужно подождать, пока Лютый найдет сигнал.</text>
+<text>I need to wait for a moment until Savage gets a signal.</text>
 </string>
 <string id="pb_found_to_markus_part_3_name">
-<text>Без вести пропавший: Поговорить с Лютым</text>
+<text>Missing in action: speak to Savage</text>
 </string>
 <string id="pb_found_to_markus_part_3_text">
-<text>Мне нужно поговорить с Лютым.</text>
+<text>I need to speak to Savage.</text>
 </string>
 <string id="pb_found_to_markus_part_4_name">
-<text>Без вести пропавший: Найти Маркуса</text>
+<text>Missing in action: find Markus</text>
 </string>
 <string id="pb_found_to_markus_part_4_text">
-<text>Мне нужно отыскать Маркуса.</text>
+<text>I need to find Markus.</text>
 </string>
 <string id="pb_found_to_markus_part_5_name">
-<text>Без вести пропавший: Узнать от Маркуса о произошедшем</text>
+<text>Missing in action: learn about what happened from Markus</text>
 </string>
 <string id="pb_found_to_markus_part_5_text">
-<text>Мне нужно узнать от Маркуса о произошедшем.</text>
+<text>I need to find out recent events from Markus.</text>
 </string>
 
 
-<!-- Квест: По горячим следам -->
+<!-- Quest: hot on the trail -->
 <string id="pb_go_to_signal_part_1_name">
-<text>По горячим следам: Проверить зону последней активности КПК Маркуса</text>
+<text>Hot on the trail: search the zone of last activity from Markus’ PDA</text>
 </string>
 <string id="pb_go_to_signal_part_1_text">
-<text>Нужно проверить зону последней активности КПК Маркуса.</text>
+<text>I need to search the zone of last activity from Markus’ PDA.</text>
 </string>
 
 
-<!-- Квест: Душевный разговор -->
+<!-- Quest: heart-to-heart -->
 <string id="pb_merc_leader_talk_part_1_name">
-<text>Душевный разговор: Поговорить с Тесаком</text>
+<text>Heart-to-heart: speak to Hatchet</text>
 </string>
 <string id="pb_merc_leader_talk_part_1_text">
-<text>Тесак и его группа оказалась в пузыре, нужно выяснить, что они здесь делают.</text>
+<text>Hatchet and his group have showed up in the bubble. I need to find out what the heck they’re doing here.</text>
 </string>
 
 
-<!-- Квест: Старые обиды -->
+<!-- Quest: old grievances -->
 <string id="pb_markus_alive_quest_part_1_name">
-<text>Старые обиды: Поговорить с Маркусом</text>
+<text>Old grievances: speak to Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_1_text">
-<text>Нужно поговорить с Маркусом.</text>
+<text>I need to speak to Markus.</text>
 </string>
 <string id="pb_markus_alive_quest_part_2_name">
-<text>Старые обиды: Следовать за Маркусом</text>
+<text>Old grievances: follow Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_2_text">
-<text>У Маркуса есть план по освобождению Лютого и остальных из плена наёмников..</text>
+<text>Markus has a plan to free Savage and the rest of the captive mercenaries.</text>
 </string>
 <string id="pb_markus_alive_quest_part_3_name">
-<text>Старые обиды: Поговорить с Маркусом</text>
+<text>Old grievances: speak to Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_3_text">
-<text>По всей видимости мы на месте, нужно поговорить с Маркусом.</text>
+<text>It looks like we’re at the right place. I need to speak to Markus.</text>
 </string>
 <string id="pb_markus_alive_quest_part_4_name">
-<text>Старые обиды: Взять снаряжение и вернуться к Маркусу</text>
+<text>Old grievances: take the equipment and return to Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_4_text">
-<text>Маркус нашел ключ от диспетчерской, теперь у нас есть амуниция. Нужно пополнить свой боезапас и вернуться обратно к Маркусу.</text>
+<text>Markus has located the key to the control room; now, we have ammunition. I need to replenish my ammo and return back to Markus.</text>
 </string>
 <string id="pb_markus_alive_quest_part_5_name">
-<text>Старые обиды: Отключить электричество на базе</text>
+<text>Old grievances: turn off the base electricity</text>
 </string>
 <string id="pb_markus_alive_quest_part_5_text">
-<text>Мне нужно отключить электричество на базе, это поможет неожиданно напасть на наёмников. Важно, чтобы меня не заметили, в противном случае не удастся неожиданно напасть.</text>
+<text>I need to turn off the electricity in the base, which will allow a surprise attack on the mercenaries. It’s important they don’t notice me, or else the sneaky route won’t work out.</text>
 </string>
 <string id="pb_markus_alive_quest_part_6_name">
-<text>Старые обиды: Убить наёмников</text>
+<text>Old grievances: kill the mercenaries</text>
 </string>
 <string id="pb_markus_alive_quest_part_6_text">
-<text>Мне нужно убить наёмников на базе.</text>
+<text>I need to take out the mercenaries in the base.</text>
 </string>
 <string id="pb_markus_alive_quest_part_7_name">
-<text>Старые обиды: Поговорить с Шурупом</text>
+<text>Old grievances: speak to Screw</text>
 </string>
 <string id="pb_markus_alive_quest_part_7_text">
-<text>Наёмники мертвы, теперь можно заняться освобождением пленных.</text>
+<text>The mercs are down. Now, I can focus on freeing the captives.</text>
 </string>
 <string id="pb_markus_alive_quest_part_8_name">
-<text>Старые обиды: Помочь Маркусу</text>
+<text>Old grievances: help Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_8_text">
-<text>Я освободил Шурупа, теперь можно помочь Маркусу освободить остальных.</text>
+<text>I’ve freed Screw. I should head over to Markus and help him free the rest of the captives.</text>
 </string>
 <string id="pb_markus_alive_quest_part_9_name">
-<text>Старые обиды: Поговорить с Лютым</text>
+<text>Old grievances: speak to Savage</text>
 </string>
 <string id="pb_markus_alive_quest_part_9_text">
-<text>Маркус написал, что им удалось освободится из плена наёмников, а Тесак и его компания убежали. Нужно поговорить с Лютым по этому поводу.</text>
+<text>Markus has written to me and said that everyone’s been set free; however, Hatchet and his group have fled. I need to speak to Savage about this.</text>
 </string>
 
 
-<!-- Квест: Тайна подземелья -->
+<!-- Quest: mysteries of the underground -->
 <string id="pb_turn_on_transformator_part_1_name">
-<text>Тайна подземелья: Поговорить с Шурупом</text>
+<text>Mysteries of the underground: speak to Screw</text>
 </string>
 <string id="pb_turn_on_transformator_part_1_text">
-<text>Нужно включить свет в бункере, для это требуется перезапустить трансформатор в подземелье, но дверь, что туда ведет закрыта, Лютый сказал, чтобы я поговорил по этому поводу с Шурупом, он поможет её открыть.</text>
+<text>I need to turn the bunker lights back on. To do that, the transformer in the underground needs to be restarted, but the door that leads there is closed. Savage told me that Screw might be able to get it open.</text>
 </string>
 <string id="pb_turn_on_transformator_part_2_name">
-<text>Тайна подземелья: Следовать за Шурупом</text>
+<text>Mysteries of the underground: follow Screw</text>
 </string>
 <string id="pb_turn_on_transformator_part_2_text">
-<text>Нужно следовать за Шурупом.</text>
+<text>I need to follow Screw.</text>
 </string>
 <string id="pb_turn_on_transformator_part_3_name">
-<text>Тайна подземелья: Подождать пока Шуруп вскроет замок</text>
+<text>Mysteries of the underground: wait until Screw unlocks the door</text>
 </string>
 <string id="pb_turn_on_transformator_part_3_text">
-<text>Нужно подождать пока Шуруп вскроет замок.</text>
+<text>I need to wait. Screw’s unlocking the door.</text>
 </string>
 <string id="pb_turn_on_transformator_part_4_name">
-<text>Тайна подземелья: Спуститься в подземелье</text>
+<text>Mysteries of the underground: head into the underground</text>
 </string>
 <string id="pb_turn_on_transformator_part_4_text">
-<text>Дверь открыта, теперь можно спуститься в подземелье и перезапустить трансформатор.</text>
+<text>The door is open. Now, I can head down into the underground and restart the transformer.</text>
 </string>
 <string id="pb_turn_on_transformator_part_5_name">
-<text>Тайна подземелья: Поговорить с генералом Таченко</text>
+<text>Mysteries of the underground: speak to general Tachenko</text>
 </string>
 <string id="pb_turn_on_transformator_part_5_text">
-<text>В подземелья я встретил группу долговцев, нужно переговорить с их главой.</text>
+<text>I’ve encountered a group of Dutyers in the underground. I need to speak to their leader.</text>
 </string>
 <string id="pb_turn_on_transformator_part_6_name">
-<text>Тайна подземелья: Перезапустить трансформатор</text>
+<text>Mysteries of the underground: restart the transformer</text>
 </string>
 <string id="pb_turn_on_transformator_part_6_text">
-<text>Теперь нужно перезапустить трансформатор, чтобы восстановить подачу электричества в бункере.</text>
+<text>Now, I need to restart the transformer in order to restore the electricity in the base.</text>
 </string>
 <string id="pb_turn_on_transformator_part_7_name">
-<text>Тайна подземелья: Вернуться к Лютому</text>
+<text>Mysteries of the underground: return to Savage</text>
 </string>
 <string id="pb_turn_on_transformator_part_7_text">
-<text>Все, я перезапустил трансформатор, можно возвращаться обратно к Лютому.</text>
+<text>There. I’ve restarted the transformer. I can now return back to Savage.</text>
 </string>
 
 
-<!-- Квест: Сложности выживания -->
+<!-- Quest: survival -->
 <string id="pb_epidemy_on_base_part_1_name">
-<text>Сложности выживания: Вернуться на базу и поговорить с Лютым</text>
+<text>Survival: return to the base and speak to Savage</text>
 </string>
 <string id="pb_epidemy_on_base_part_1_text">
-<text>Мне удалось найти кое-какие медикаменты, что помогут смягчить симптомы болезни у заразившихся, правда медикаментов крайне мало, стоит рассказать обо всем Лютому.</text>
+<text>I’ve managed to find some medicine that’ll help the infected, although the amount of medicine in general is low. I should tell everything to Savage.</text>
 </string>
 <string id="pb_epidemy_on_base_part_2_name">
-<text>Сложности выживания: Отдать медикаменты заразившимся</text>
+<text>Survival: give the medicine to the infected</text>
 </string>
 <string id="pb_epidemy_on_base_part_2_text">
-<text>У меня есть две ампулы препарата, что поможет смягчить симптомы болезни, осталось выбрать тех, кто эти ампулы получит, ведь заразившихся трое и всем лекарства не хватит.</text>
+<text>I have two ampules of the drug that’ll help mitigate the symptoms of the disease. I have to choose who to hand it to, because there’s not enough for everyone.</text>
 </string>
 <string id="pb_epidemy_on_base_part_3_name">
-<text>Сложности выживания: Переговорить с Лютым</text>
+<text>Survival: speak to Savage</text>
 </string>
 <string id="pb_epidemy_on_base_part_3_text">
-<text>Мне не удалось найти дополнительные медикаменты, стоит рассказать об этом Лютому.</text>
+<text>I haven’t been able to find any extra medicine. I should talk to to Savage about it.</text>
 </string>
 
 
-<!-- Квест: Неизвестный сигнал -->
+<!-- Quest: unknown signal -->
 <string id="pb_enemy_signal_found_part_1_name">
-<text>Неизвестный сигнал: Выявить источник сигнала</text>
+<text>Unknown signal: identify the source of the signal</text>
 </string>
 <string id="pb_enemy_signal_found_part_1_text">
-<text>Маркус написал о том, что засёк недалеко от сарая какой-то сигнал, нужно проверить это место.</text>
+<text>Markus has sent a message about a signal near the barn. I need to investigate it.</text>
 </string>
 <string id="pb_enemy_signal_found_part_2_name">
-<text>Неизвестный сигнал: Поговорить с неизвестным</text>
+<text>Unknown signal: speak to the unknown man</text>
 </string>
 <string id="pb_enemy_signal_found_part_2_text">
-<text>В указанной точке я встретил старика, нужно с ним поговорить.</text>
+<text>I’ve met an old man at the designated point. I should talk to him.</text>
 </string>
 <string id="pb_enemy_signal_found_part_3_name">
-<text>Неизвестный сигнал: Сопроводить Лесника в лагерь</text>
+<text>Unknown signal: lead Forester to the base</text>
 </string>
 <string id="pb_enemy_signal_found_part_3_text">
-<text>Старик назвался Лесником и сказал, что может вывести нас из аномалии, он попросил показать ему дорогу к лагерю, чтобы он смог поговорить с группой.</text>
+<text>The old man’s name is Forester. He says that he can lead us out of the anomaly. He’s asked me to lead him to the base so that he can speak to the rest of the group.</text>
 </string>
 <string id="pb_enemy_signal_found_part_4_name">
-<text>Неизвестный сигнал: Поговорить с Лютым</text>
+<text>Unknown signal: speak to Savage</text>
 </string>
 <string id="pb_enemy_signal_found_part_4_text">
-<text>Я довел Лесника к лагерю, нужно рассказать об этом Лютому.</text>
+<text>I’ve led Forester to base. I should talk to Savage next.</text>
 </string>
 
 
-<!-- Квест: Слабый сигнал -->
+<!-- Quest: weak signal -->
 <string id="pb_finality_signal_founded_part_1_name">
-<text>Слабый сигнал: Проверить указанную точку</text>
+<text>Weak signal: Проверить указанную точку</text>
 </string>
 <string id="pb_finality_signal_founded_part_1_text">
-<text>Лютый сказал, что они словили еще один сигнал, нужно проверить, что является его источником.</text>
+<text>Savage says that they’ve picked up another signal. I need to find its source.</text>
 </string>
 <string id="pb_finality_signal_founded_part_2_name">
-<text>Слабый сигнал: Поговорить с сталкером</text>
+<text>Weak signal: speak to the stalker</text>
 </string>
 <string id="pb_finality_signal_founded_part_2_text">
-<text>Нужно поговорить с неизвестным.</text>
+<text>I should speak to the unknown stalker.</text>
 </string>
 
 
-<!-- Квест: Последнее послание -->
+<!-- Quest: last message -->
 <string id="pb_duty_tachenko_final_quest_meet_part_1_name">
-<text>Последнее послание: Поговорить с генералом Таченко</text>
+<text>Last message: speak to general Tachenko</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_1_text">
-<text>Генерал Таченко прислал сообщение, что хочет поговорить со мной.</text>
+<text>A general Tachenko has sent me a message. He wants to speak to me.</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_2_name">
-<text>Последнее послание: Попытаться еще раз подойти к генералу</text>
+<text>Last message: try to reach the general once more</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_2_text">
-<text>Я не могу подобраться к Таченко, меня откинул обратно телепорт, нужно попытаться еще раз подойти к генералу.</text>
+<text>I can’t quite make it to Tachenko’s position; a teleporter has thrown me off course. I need to give it another shot.</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_3_name">
-<text>Последнее послание: Покинуть подземелье</text>
+<text>Last message: leave the underground</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_3_text">
-<text>Группа генерала Таченко мертва, да и его смерть не за горами, он попросил, чтобы я покинул подземелье, нужно сделать это.</text>
+<text>General Tachenko and his group are dead, and his death wasn’t far off. He’s asked me to leave the underground.</text>
 </string>
 
 
-<!-- Квест: На свободу -->
+<!-- Quest: На свободу -->
 <string id="pb_go_to_lesnik_scene_part_1_name">
-<text>На свободу: Поговорить с Лесником</text>
+<text>Freedom: speak to Forester</text>
 </string>
 <string id="pb_go_to_lesnik_scene_part_1_text">
-<text>Лесник отправил сообщение, что он меня ожидает недалеко от бункера, нужно встретиться с ним и поговорить.</text>
+<text>Lesnik has sent me a message. He’s waiting for me not far from the bunker. I should meet up with him and speak to him.</text>
 </string>
 <string id="pb_go_to_lesnik_scene_part_2_name">
-<text>На свободу: Следовать за Лесником</text>
+<text>Freedom: follow Forester</text>
 </string>
 <string id="pb_go_to_lesnik_scene_part_2_text">
-<text>Нужно следовать за Лесником, чтобы выйти из аномалии.</text>
+<text>I need to follow Forester in order to leave the anomaly.</text>
 </string>
 
 
-<!-- Второстепенные квесты -->
+<!-- Secondary quests -->
 
-<!-- Квест: Убить контроллера -->
+<!-- Quest: kill the controller -->
 <string id="pb_kill_to_controller_part_1_name">
-<text>Убить контроллера</text>
+<text>Kill the controller</text>
 </string>
 <string id="pb_kill_to_controller_part_1_text">
-<text>На базу забрел контроллер, нужно уничтожить его.</text>
+<text>A controller has showed up at our doorstep. I need to take it out.</text>
 </string>
 <string id="pb_kill_to_controller_part_2_name">
-<text>Поговорить с Лютым</text>
+<text>Speak to Savage</text>
 </string>
 <string id="pb_kill_to_controller_part_2_text">
-<text>Нужно обговорить произошедшее с Лютым.</text>
+<text>You must discuss recent events with Savage.</text>
 </string>
 
 
-<!-- Квест: Поиск патронов -->
+<!-- Quest: rounds for Mosquito -->
 <string id="pb_find_ammo_7_62_part_1_name">
-<text>Патроны для Москита: Найти пачку патронов 7.62x54</text>
+<text>Rounds for Mosquito: Найти пачку патронов 7.62x54</text>
 </string>
 <string id="pb_find_ammo_7_62_part_1_text">
 <text>Нужно найти пачку патронов 7.62x54 и отнести её Москиту.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_2_name">
-<text>Патроны для Москита: Найти еще 3 пачки патронов 7.62x54</text>
+<text>Rounds for Mosquito: Найти еще 3 пачки патронов 7.62x54</text>
 </string>
 <string id="pb_find_ammo_7_62_part_2_text">
 <text>Нужно найти еще 3 пачки патронов 7.62x54.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_3_name">
-<text>Патроны для Москита: Найти еще 2 пачки патронов 7.62x54</text>
+<text>Rounds for Mosquito: Найти еще 2 пачки патронов 7.62x54</text>
 </string>
 <string id="pb_find_ammo_7_62_part_3_text">
 <text>Нужно найти еще 2 пачки патронов 7.62x54.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_4_name">
-<text>Патроны для Москита: Найти еще 1 пачку патронов 7.62x54</text>
+<text>Rounds for Mosquito: Найти еще 1 пачку патронов 7.62x54</text>
 </string>
 <string id="pb_find_ammo_7_62_part_4_text">
 <text>Нужно найти еще 1 пачку патронов 7.62x54.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_5_name">
-<text>Патроны для Москита: Отдать патроны Москиту</text>
+<text>Rounds for Mosquito: Отдать патроны Москиту</text>
 </string>
 <string id="pb_find_ammo_7_62_part_5_text">
 <text>Я нашел нужные Москиту патроны, нужно теперь отдать их ему.</text>
 </string>
 
 
-<!-- Квест: Провести Мурада к базе -->
+<!-- Quest: Провести Мурада к базе -->
 <string id="pb_murad_go_to_base_part_1_name">
 <text>Сигнал SOS: Откликнуться на сигнал о помощи</text>
 </string>
@@ -578,7 +578,7 @@
 <text>Нужно поговорить с Мурадом.</text>
 </string>
 
-<!-- Квест: Найти тайник Падальщика -->
+<!-- Quest: Найти тайник Падальщика -->
 <string id="pb_find_habar_padalshik_part_1_name">
 <text>Хабар Падальщика: Найти тайник</text>
 </string>
@@ -605,7 +605,7 @@
 </string>
 
 
-<!-- Квест: Экстренная связь -->
+<!-- Quest: Экстренная связь -->
 <string id="pb_find_razya_to_rezak_part_1_name">
 <text>Экстренная связь: Найти два мотка проволоки и аккумулятор</text>
 </string>
@@ -650,7 +650,7 @@
 </string>
 
 
-<!-- Квест: Ночной кошмар -->
+<!-- Quest: Ночной кошмар -->
 <string id="pb_podzemka_search_part_1_name">
 <text>Ночной кошмар: Исследовать подземелье</text>
 </string>
@@ -659,7 +659,7 @@
 </string>
 
 
-<!-- Квест: Важный разговор -->
+<!-- Quest: Важный разговор -->
 <string id="pb_duty_tachenko_meet_part_1_name">
 <text>Важный разговор: Поговорить с генералом Таченко</text>
 </string>
@@ -668,7 +668,7 @@
 </string>
 
 
-<!-- Квест: Потребность в провизии -->
+<!-- Quest: Потребность в провизии -->
 <string id="pb_find_food_for_duty_part_1_name">
 <text>Потребность в провизии: Найти восемь едениц продовольствия для Таченко</text>
 </string>
@@ -683,7 +683,7 @@
 </string>
 
 
-<!-- Квест: Потерянный автомат -->
+<!-- Quest: Потерянный автомат -->
 <string id="pb_found_duty_weapon_part_1_name">
 <text>Потерянный автомат: Поговорить с Бунчуком</text>
 </string>
@@ -704,7 +704,7 @@
 </string>
 
 
-<!-- Квест: Предсмертная просьба -->
+<!-- Quest: Предсмертная просьба -->
 <string id="pb_found_lisiy_and_give_art_part_1_name">
 <text>Предсмертная просьба: Найти сталкера Лысого и поведать ему о судьбе Рябого</text>
 </string>
@@ -719,7 +719,7 @@
 </string>
 
 
-<!-- Квест: Принципы выживания -->
+<!-- Quest: Принципы выживания -->
 <string id="pb_find_meat_boar_food_part_1_name">
 <text>Принципы выживания: Добыть и приготовить кусок мяса для Дуболома</text>
 </string>
@@ -740,7 +740,7 @@
 </string>
 
 
-<!-- Квест: Редкий артефакт -->
+<!-- Quest: Редкий артефакт -->
 <string id="pb_find_af_vyvert_part_1_name">
 <text>Редкий артефакт: Найти артефакт Выверт для Маркуса</text>
 </string>
@@ -755,7 +755,7 @@
 </string>
 
 
-<!-- Квест: Топливо для генератора -->
+<!-- Quest: Топливо для генератора -->
 <string id="pb_find_kanistra_for_kuvalda_part_1_name">
 <text>Топливо для генератора: Найти топливо и отдать его Кувалде</text>
 </string>
@@ -775,7 +775,7 @@
 <text>Нужно отдать канистру с топливом.</text>
 </string>
 
-<!-- Квест: Аномальное растение -->
+<!-- Quest: Аномальное растение -->
 <string id="pb_snake_anomy_plant_part_1_name">
 <text>Аномальное растение: Поговорить со Змеем</text>
 </string>
@@ -795,7 +795,7 @@
 <text>Мы вернулись на базу, стоит поговорить со Змеем.</text>
 </string>
 
-<!-- Квест: Законченные дела -->
+<!-- Quest: Законченные дела -->
 <string id="pb_talk_to_lutiy_come_part_1_name">
 <text>Законченные дела: Поговорить с Лютым</text>
 </string>

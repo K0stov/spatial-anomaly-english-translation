@@ -62,7 +62,7 @@ A list of all files with their detailed progress can be found below.
     - [st_quests_general.xml](gamedata/configs/text/eng/st_quests_general.xml)
         - incomplete
     - [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
-        - incomplete
+        - in progress (**SashaTheRed**)
     - [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
         - incomplete
     - [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
@@ -72,9 +72,9 @@ A list of all files with their detailed progress can be found below.
     - [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
         - incomplete
     - [ui_st_other.xml](gamedata/configs/text/eng/ui_st_other.xml)
-        - incomplete
+        - done
     - [ui_st_pda.xml](gamedata/configs/text/eng/ui_st_pda.xml)
-        - incomplete
+        - done
     - [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
         - incomplete
 - **[gamedata/scripts](gamedata/scripts)**

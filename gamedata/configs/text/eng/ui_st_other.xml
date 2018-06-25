@@ -1,643 +1,643 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_modification">
-		<text>Создатели модификации</text>
+		<text>Mod creators</text>
 	</string>
 	<string id="st_create_game">
-		<text>Основатель проекта</text>
+		<text>Project creator</text>
 	</string>
 	<string id="st_proffesional">
-		<text>Игорь «PROFFESIONAL» Мельник</text>
+		<text>Igor “PROFFESIONAL” Melnyk</text>
 	</string>
 	<string id="st_game_desings">
-		<text>Дизайн уровней</text>
+		<text>Level designs</text>
 	</string>
 	<string id="st_kirilchik">
-		<text>Виталий «vxsk98» Кирильчик</text>
+		<text>Vitaly “vxsk98” Kirylchyk</text>
 	</string>
 	<string id="st_kondakov">
-		<text>Виталий «Audron» Кондаков</text>
+		<text>Vitaly “Audron” Kondakov</text>
 	</string>
 	<string id="st_game_desings_escape">
-		<text>Переработка Кордона</text>
+		<text>Cordon redesign</text>
 	</string>
 	<string id="st_kirilchik_edit">
-		<text>Виталий Кирильчик - наполнение, правка багов</text>
+		<text>Vitaly Kirylchyk: extras, bug fixing</text>
 	</string>
 	<string id="st_kondakov_edit">
-		<text>Виталий Кондаков - оптимизация, правка багов</text>
+		<text>Vitaly Kondakov: optimization, bug fixing</text>
 	</string>
 	<string id="st_game_desings_puzir_zastava">
-		<text>Доработка Пузыря и Заставы</text>
+		<text>Bubble and outpost modifications</text>
 	</string>
 	<string id="st_thank_you_alexfilm">
-		<text>Огромное спасибо студии AlexFilm за озвучку проекта.</text>
+		<text>Huge thanks to AlexFilm for voicing the project.</text>
 	</string>
 	<string id="st_audio_actor">
-		<text>Роли озвучивали</text>
+		<text>Voice actor</text>
 	</string>
 	<string id="st_sopko">
-		<text>Роман Сопко</text>
+		<text>Roman Sopko</text>
 	</string>
 	<string id="st_suslov">
-		<text>Михаил Суслов</text>
+		<text>Mikhail Suslov</text>
 	</string>
 	<string id="st_pogodaev">
-		<text>Константин Погодаев</text>
+		<text>Konstantin Pogodayev</text>
 	</string>
 	<string id="st_patrino">
-		<text>Кирилл Патрино</text>
+		<text>Kirill Patrino</text>
 	</string>
 	<string id="st_stakionis">
-		<text>Андрей Стакионис</text>
+		<text>Andrey Stakionis</text>
 	</string>
 	<string id="st_nikitin">
-		<text>Алексей Никитин</text>
+		<text>Alexey Nikitin</text>
 	</string>
 	<string id="st_cherskov">
-		<text>Станислав Черсков</text>
+		<text>Stanislav Cherskov</text>
 	</string>
 	<string id="st_gapaev">
-		<text>Алан Гапаев</text>
+		<text>Alan Gapayev</text>
 	</string>
 	<string id="st_ovsyannikov">
-		<text>Алексей Овсянников</text>
+		<text>Alexey Ovsyannikov</text>
 	</string>
 	<string id="st_sound_editor">
-		<text>Звукорежиссер</text>
+		<text>Sound editor</text>
 	</string>
 	<string id="st_guitar">
-		<text>Гитарные композиции</text>
+		<text>Guitar compositions</text>
 	</string>
 	<string id="st_gneyushev">
-		<text>Алексей Гнеушев</text>
+		<text>Alexey Gneushev</text>
 	</string>
 	<string id="st_engine_edit">
-		<text>Правка движка</text>
+		<text>Engine edits</text>
 	</string>
 	<string id="st_skuratov">
-		<text>Владислав «SkyLoader» Скуратов</text>
+		<text>Vladislav “SkyLoader” Skuratov</text>
 	</string>
 	<string id="st_scenarist">
-		<text>Авторы сценария</text>
+		<text>Scenario authors</text>
 	</string>
 	<string id="st_shved">
-		<text>Артём «Shved» Кошель</text>
+		<text>Artyom “Shved” Koshel</text>
 	</string>
 	<string id="st_help_script">
-		<text>Помощь по скриптовой части</text>
+		<text>Assistance with scripts</text>
 	</string>
 	<string id="st_doroshenkoicw">
-		<text>Глеб «FantomICW» Дорошенко</text>
+		<text>Gleb “FantomICW” Doroshenko</text>
 	</string>
 	<string id="st_naxac">
-		<text>Павел «naxac» Щегольников</text>
+		<text>Pavel “naxac” Shchegolnikov</text>
 	</string>
 	<string id="st_models_edith">
-		<text>Правка моделей</text>
+		<text>Model edits</text>
 	</string>
 	<string id="st_sherhan">
-		<text>Хирург «3vtiger» Шерхан</text>
+		<text>Surgeon “3vtiger” Sherkhan</text>
 	</string>
 	<string id="st_testers_mod">
-		<text>Тестеры обновления</text>
+		<text>Mod testers</text>
 	</string>
 	<string id="st_tester_1">
-		<text>Альберт Ажбаев</text>
+		<text>Albert Azhbayev</text>
 	</string>
 	<string id="st_tester_2">
-		<text>Владислав Халимов</text>
+		<text>Vladislav Khalimov</text>
 	</string>
 	<string id="st_tester_3">
-		<text>Владимир Бидненко</text>
+		<text>Vladimir Bidnenko</text>
 	</string>
 	<string id="st_tester_4">
-		<text>Глеб Поликарпов</text>
+		<text>Gleb Polikarpov</text>
 	</string>
 	<string id="st_tester_5">
-		<text>Максим Булатецкий</text>
+		<text>Maxim Bulatetskiy</text>
 	</string>
 	<string id="st_thank_gsc">
-		<text>Спасибо GSC Game World за вдохновение и отличную игру!</text>
+		<text>Thanks to GSC Game World for the inspiration as well as a great game!</text>
 	</string>
 	<string id="quicksave">
-		<text>Быстрое сохранение</text>
+		<text>Quicksave</text>
 	</string>
 	<string id="Btn_Cancel">
-		<text>Отменить</text>
+		<text>Cancel</text>
 	</string>
 	<string id="Btn_No">
-		<text>Нет</text>
+		<text>No</text>
 	</string>
 	<string id="Btn_OK">
 		<text>OK</text>
 	</string>
 	<string id="Btn_Yes">
-		<text>Да</text>
+		<text>Yes</text>
 	</string>
 	<string id="bad">
-		<text>Плохо</text>
+		<text>Bad</text>
 	</string>
 	<string id="enemy">
-		<text>Враг</text>
+		<text>Enemy</text>
 	</string>
 	<string id="excellent">
-		<text>Отлично</text>
+		<text>Excellent</text>
 	</string>
 	<string id="experienced">
-		<text>Опытный</text>
+		<text>Experienced</text>
 	</string>
 	<string id="friendly">
-		<text>Друг</text>
+		<text>Friend</text>
 	</string>
 	<string id="global_map">
-		<text>Карта Зоны</text>
+		<text>Map of the Zone</text>
 	</string>
 	<string id="good">
-		<text>Хорошо</text>
+		<text>Good</text>
 	</string>
 	<string id="indifferent">
-		<text>Безразлично</text>
+		<text>Indifferent</text>
 	</string>
 	<string id="master">
-		<text>Мастер</text>
+		<text>Master</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Бонус за КПК</text>
+		<text>PDA bonus</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Разрешено только одно активное голосование</text>
+		<text>Only one active vote permitted.</text>
 	</string>
 	<string id="neutral">
-		<text>Нейтрал</text>
+		<text>Neutral</text>
 	</string>
 	<string id="novice">
-		<text>Новичок</text>
+		<text>Rookie</text>
 	</string>
 	<string id="st_game">
-		<text>Игра</text>
+		<text>Game</text>
 	</string>
 	<string id="st_item_used">
-		<text>Использовано</text>
+		<text>Used</text>
 	</string>
 	<string id="st_level">
-		<text>Уровень</text>
+		<text>Level</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Загрузка ИИ объектов</text>
+		<text>Loading AI objects</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>Сервер: Загрузка симуляции жизни</text>
+		<text>Server: Loading alife simulator</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Загрузка формы объектов</text>
+		<text>Loading CFORM</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Загрузка детальных объектов</text>
+		<text>Loading details</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Загрузка геометрии</text>
+		<text>Loading geometry</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Загрузка игры</text>
+		<text>Loading saved game</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Загрузка секторов и порталов</text>
+		<text>Loading sectors & portals</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Загрузка шейдеров</text>
+		<text>Loading shaders</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Загрузка базы пространств</text>
+		<text>Loading spatial-DB</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Загрузка текстур</text>
+		<text>Loading textures</text>
 	</string>
 	<string id="st_mp_direct_ip">
-		<text>Прямой IP</text>
+		<text>Direct IP</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>Нет активного задания</text>
+		<text>No active task</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Недостаточно денег</text>
+		<text>Not enough money</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>У NPC недостаточно денег</text>
+		<text>The NPC does not have enough money</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Открытие потока</text>
+		<text>Opening stream</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Кэширование объектов</text>
+		<text>Prefetching objects</text>
 	</string>
 	<string id="st_rubles">
-		<text>рублей.</text>
+		<text>rubles.</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>Сервер: Соединение</text>
+		<text>SERVER: Connecting</text>
 	</string>
 	<string id="st_server_starting">
-		<text>Сервер: Старт</text>
+		<text>SERVER: Starting</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Проверка ключа</text>
+		<text>Validating CD Key</text>
 	</string>
 	<string id="st_video">
-		<text>Видео</text>
+		<text>Video</text>
 	</string>
 	<string id="terrible">
-		<text>Ужасно</text>
+		<text>Terrible</text>
 	</string>
 	<string id="ui_inv_repair">
-		<text>Починить</text>
+		<text>Repair</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Вы не можете запустить второй рендер на вашем компьютере</text>
+		<text>You can't run Render 2 on your PC</text>
 	</string>
 	<string id="ui_st_community">
-		<text>Группировка</text>
+		<text>Faction</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Ошибка соединения: Ваш CD-key заблокирован. Свяжитесь со службой поддержки.</text>
+		<text>Connection error: Your CD-Key is disabled. Contact customer service.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Ошибка соединения: такой CD-key уже используется</text>
+		<text>Connection error: CD-Key already in use.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Ошибка соединения: неверный CD-key</text>
+		<text>Connection error: Invalid CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Ошибка соединения: неверный хост</text>
+		<text>Connection error: Invalid host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Ошибка соединения: неверный пароль</text>
+		<text>Connection error: Invalid password</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Доступен новый патч. \n Версия: %s\n %s\n Хотите загрузить его сейчас?</text>
+		<text>A new patch is available.\n Version: %s\n Location: %s\nDo you want to download it now?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Нет новых патчей</text>
+		<text>No new patches currently available</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Ошибка соединения: соединение прервано сервером</text>
+		<text>Connection error: connection rejected by server</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Ошибка соединения: сервер заполнен</text>
+		<text>Connection error: server full</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Ошибка соединения: различные версии</text>
+		<text>Connection error: Different version.</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Соединение с мастер-сервером</text>
+		<text>Connecting to master server</text>
 	</string>
 	<string id="ui_st_days">
-		<text>дн.</text>
+		<text>Days</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Ошибка</text>
+		<text>Error</text>
 	</string>
 	<string id="ui_st_error_loading">
-		<text>Ошибка загрузки</text>
+		<text>Load error</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Файл с таким именем уже существует. Перезаписать?</text>
+		<text>A file with this name already exists. Do you want to overwrite it?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Имя файла пустое</text>
+		<text>The file name is empty</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>час.</text>
+		<text>Hours</text>
 	</string>
 	<string id="ui_st_kicked_by_battleye">
-		<text>был отключён защитой BattlEye:</text>
+		<text>Was disconnected by BattleEye protection system:</text>
 	</string>
 	<string id="ui_st_kicked_by_server">
-		<text>Отключён. Причина - </text>
+		<text>Disconnected. Reason:</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Уйти</text>
+		<text>Leave</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Загрузка игры приведёт к потере несохраненных данных. Желаете продолжить?</text>
+		<text>Loading this game will cause unsaved data to be lost. Proceed?</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>мин.</text>
+		<text>min</text>
 	</string>
 	<string id="ui_st_months">
-		<text>мес.</text>
+		<text>months</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Рюкзак</text>
+		<text>Backpack</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Параметры</text>
+		<text>Parameters</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Невозможно загрузить патч.</text>
+		<text>Unable to download the patch.</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Патч успешно загружен. Желаете установить?</text>
+		<text>Patch successfully downloaded. Do you want to install it?</text>
 	</string>
 	<string id="ui_st_price">
-		<text>Цена</text>
+		<text>Price</text>
 	</string>
 	<string id="ui_st_rank">
-		<text>Ранг</text>
+		<text>Rank</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>Отношение</text>
+		<text>Attitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>Репутация</text>
+		<text>Reputation</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>сек.</text>
+		<text>sec</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Пожалуйста, выберите хотя бы одну карту</text>
+		<text>Please select at least one map</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Взять всё</text>
+		<text>Take all</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Осталось</text>
+		<text>Remaining</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Голосование отключено</text>
+		<text>Vote failed</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Вы действительно хотите покинуть игру?</text>
+		<text>Do you really want to leave the game?</text>
 	</string>
 	<string id="ui_total_price">
-		<text>Всего</text>
+		<text>Total</text>
 	</string>
 	<string id="very_bad">
-		<text>оч. плохо</text>
+		<text>very bad</text>
 	</string>
 	<string id="very_good">
-		<text>оч. хорошо</text>
+		<text>very good</text>
 	</string>
 	<string id="veteran">
-		<text>Ветеран</text>
+		<text>Veteran</text>
 	</string>
 	<string id="ui_st_inv_repair">
-		<text>Ремонт</text>
+		<text>Repair</text>
 	</string>
 	<string id="ui_repair_button_hint">
-		<text>Починить выбранную вещь</text>
+		<text>Repair selected item</text>
 	</string>
 	<string id="st_key_notbinded">
 		<text>...</text>
 	</string>
 	<string id="st_save_uni_travel_generic">
-		<text>переход по локации</text>
+		<text>moving within an area</text>
 	</string>
 	<string id="st_save_uni_travel_zat_to_jup">
-		<text>переход с Затона на «Янов»</text>
+		<text>moving from Zaton to Yanov</text>
 	</string>
 	<string id="st_save_uni_travel_zat_to_pri">
-		<text>переход с Затона в Припять</text>
+		<text>moving from Zaton to Pripyat</text>
 	</string>
 	<string id="st_save_uni_travel_jup_to_zat">
-		<text>переход с «Янова» на Затон</text>
+		<text>moving from Yanov to Zaton</text>
 	</string>
 	<string id="st_save_uni_travel_jup_to_pri">
-		<text>переход с «Янова» в Припять</text>
+		<text>moving from Yanov to Pripyat</text>
 	</string>
 	<string id="st_save_uni_travel_pri_to_zat">
-		<text>переход из Припяти на Затон</text>
+		<text>moving from Pripyat to Zaton</text>
 	</string>
 	<string id="st_save_uni_travel_pri_to_jup">
-		<text>переход из Припяти на «Янов»</text>
+		<text>moving from Pripyat to Yanov</text>
 	</string>
 	<string id="st_save_uni_pri_to_labx8">
-		<text>переход из Припяти в X8</text>
+		<text>moving from Pripyat to X8</text>
 	</string>
 	<string id="st_save_uni_labx8_to_pri">
-		<text>переход из X8 в Припять</text>
+		<text>moving from X8 to Pripyat</text>
 	</string>
 	<string id="st_save_uni_surge_start">
-		<text>выброс</text>
+		<text>emission</text>
 	</string>
 	<string id="st_save_zat_a1_game_start">
-		<text>начало игры</text>
+		<text>beginning of the game</text>
 	</string>
 	<string id="st_save_zat_a2_reached_skadovsk">
-		<text>прибытие на «Скадовск»</text>
+		<text>arrival at the Skadovsk</text>
 	</string>
 	<string id="st_save_jup_b9_searched_heli_1">
-		<text>исследован «Скат-1»</text>
+		<text>Stingray 1 examined</text>
 	</string>
 	<string id="st_save_zat_b100_searched_heli_2">
-		<text>исследован «Скат-2»</text>
+		<text>Stingray 2 examined</text>
 	</string>
 	<string id="st_save_zat_b28_searched_heli_3">
-		<text>исследован «Скат-3»</text>
+		<text>Stingray 3 examined</text>
 	</string>
 	<string id="st_save_jup_b8_searched_heli_4">
-		<text>исследован «Скат-4»</text>
+		<text>Stingray 4 examined</text>
 	</string>
 	<string id="st_save_zat_b101_searched_heli_5">
-		<text>исследован «Скат-5»</text>
+		<text>Stingray 5 examined</text>
 	</string>
 	<string id="st_save_zat_b18_noah_showed_teleport">
-		<text>путь на плато</text>
+		<text>getting to the plateau</text>
 	</string>
 	<string id="st_save_jup_b217_arrived_to_jup">
-		<text>прибытие на «Янов»</text>
+		<text>arrival at Yanov</text>
 	</string>
 	<string id="st_save_jup_a9_got_underpass_docs">
-		<text>найден путь в Припять</text>
+		<text>road to Pripyat found</text>
 	</string>
 	<string id="st_save_jup_b15_drunk_with_zulu">
-		<text>к отряду примкнул Зулус</text>
+		<text>Zulu joins the squad</text>
 	</string>
 	<string id="st_save_jup_a10_gonna_return_debt">
-		<text>возврат долга Вано</text>
+		<text>Vano’s debt repaid</text>
 	</string>
 	<string id="st_save_jup_b218_vano_in_squad">
-		<text>к отряду примкнул Вано</text>
+		<text>Vano joins the squad</text>
 	</string>
 	<string id="st_save_jup_b206_got_anomalous_plant">
-		<text>взято аномальное растение</text>
+		<text>anomalous plant collected</text>
 	</string>
 	<string id="st_save_jup_b218_sokolov_in_squad">
-		<text>к отряду примкнул Соколов</text>
+		<text>Sokolov joins the squad</text>
 	</string>
 	<string id="st_save_jup_b218_strider_in_squad">
-		<text>к отряду примкнул Бродяга</text>
+		<text>Strider joins the squad</text>
 	</string>
 	<string id="st_save_jup_b218_travel_jup_to_pas">
-		<text>отряд собран</text>
+		<text>squad assembled</text>
 	</string>
 	<string id="st_save_pas_b400_underpass_start">
-		<text>прибытие в путепровод</text>
+		<text>arrival in the underpass</text>
 	</string>
 	<string id="st_save_uni_travel_pas_to_pri">
-		<text>выход в Припять</text>
+		<text>arrival in Pripyat</text>
 	</string>
 	<string id="st_save_pri_a16_arrived_to_pri">
-		<text>найдены военные</text>
+		<text>military forces located</text>
 	</string>
 	<string id="st_save_pri_a17_hospital_start">
-		<text>захват неизвестного оружия</text>
+		<text>unidentified weapon captured</text>
 	</string>
 	<string id="st_save_pri_a20_found_dead_recon">
-		<text>найдена разведгруппа</text>
+		<text>recon squad found</text>
 	</string>
 	<string id="st_save_pri_a18_met_reinforcement">
-		<text>прибыло подкрепление</text>
+		<text>reinforcements arrived</text>
 	</string>
 	<string id="st_save_pri_a18_searched_antenna">
-		<text>исследована «антенна»</text>
+		<text>“antenna” examined</text>
 	</string>
 	<string id="st_save_pri_a21_approached_mad_sentry">
-		<text>найден пропавший часовой</text>
+		<text>missing sentry found</text>
 	</string>
 	<string id="st_save_pri_a21_killed_controller">
-		<text>убит контролёр возле часового</text>
+		<text>controller near sentry killed</text>
 	</string>
 	<string id="st_save_zat_a23_entered_test_center">
-		<text>вход в испытательный цех</text>
+		<text>testing workshop accessed</text>
 	</string>
 	<string id="st_save_zat_a23_got_gauss_docs">
-		<text>найдена документация на гаусс-пушку</text>
+		<text>Gauss rifle documentation found</text>
 	</string>
 	<string id="st_save_pri_a22_found_dead_squad">
-		<text>найден погибший боец</text>
+		<text>dead fighter found</text>
 	</string>
 	<string id="st_save_pri_a25_gonna_place_explosive">
-		<text>вход в детский сад</text>
+		<text>entry to the kindergarten</text>
 	</string>
 	<string id="st_save_pri_a25_freed_medic">
-		<text>спасён военный медик</text>
+		<text>military medic rescued</text>
 	</string>
 	<string id="st_save_pri_a28_talked_with_ssu">
-		<text>установлена связь с командованием</text>
+		<text>established communications with HQ</text>
 	</string>
 	<string id="st_save_pri_a28_evacutaion_start">
-		<text>начало эвакуации из Припяти</text>
+		<text>Pripyat evacuation initiated</text>
 	</string>
 	<string id="st_save_pri_a28_evacuation_end">
-		<text>достигнуты вертолёты эвакуации</text>
+		<text>evacuation helicopters reached</text>
 	</string>
 	<string id="st_save_uni_zone_to_reality">
-		<text>уход из Зоны</text>
+		<text>evacuation complete</text>
 	</string>
 	<string id="st_save_jup_b209_placed_mutant_scanner">
-		<text>датчик присутствия мутантов</text>
+		<text>mutant detector</text>
 	</string>
 	<string id="st_save_jup_a12_gave_artefact_for_hostage">
-		<text>выкуплен заложник</text>
+		<text>ransom paid for hostage</text>
 	</string>
 	<string id="st_save_jup_a12_met_with_liberators">
-		<text>освобождение заложника</text>
+		<text>hostage freed</text>
 	</string>
 	<string id="st_save_jup_b6_arrived_to_ash_heap">
-		<text>замеры аномалии «Пепелище»</text>
+		<text>Ash Heap anomaly measurements</text>
 	</string>
 	<string id="st_save_jup_b6_arrived_to_fen">
-		<text>замеры аномалии «Плавни»</text>
+		<text>Plavni anomaly measurements</text>
 	</string>
 	<string id="st_save_zat_b38_met_with_grouse">
-		<text>логово кровососов</text>
+		<text>bloodsucker lair</text>
 	</string>
 	<string id="st_save_jup_b19_arrived_to_kopachy">
-		<text>отправка в Копачи</text>
+		<text>sent to Kopachy</text>
 	</string>
 	<string id="st_save_zat_b40_warned_by_mercs">
-		<text>подход к станции переработки отходов</text>
+		<text>approach to the waste processing station</text>
 	</string>
 	<string id="st_save_zat_b7_met_with_robbers">
-		<text>наезд на сталкеров</text>
+		<text>stalker hit</text>
 	</string>
 	<string id="st_save_zat_b33_got_container">
-		<text>найден контейнер в тайнике</text>
+		<text>container found in stash</text>
 	</string>
 	<string id="st_save_zat_b106_arrived_to_chimera_lair">
-		<text>охота на химеру</text>
+		<text>hunting the chimera</text>
 	</string>
 	<string id="st_save_jup_b16_passed_labyrinth">
-		<text>найден «Оазис»</text>
+		<text>Oasis found</text>
 	</string>
 	<string id="st_save_pri_b35_ready_to_snipe">
-		<text>начало операции «Один выстрел»</text>
+		<text>Operation One Shot initiated</text>
 	</string>
 	<string id="st_save_jup_b1_entered_railroad_tunnel">
-		<text>поиск источника пси-излучения</text>
+		<text>search for the psy-emission source</text>
 	</string>
 	<string id="st_save_jup_b47_got_admin_docs">
-		<text>административные документы</text>
+		<text>administrative documents</text>
 	</string>
 	<string id="st_save_zat_b103_warned_by_mercs">
-		<text>подход к цехам подстанции</text>
+		<text>approach to the substation workshop</text>
 	</string>
 	<string id="st_save_zat_b5_met_with_others">
-		<text>сделка возле лесничества</text>
+		<text>deal by the ranger station</text>
 	</string>
 	<string id="st_save_jup_b207_arrived_to_duty_depot">
-		<text>склад «Долга»</text>
+		<text>Duty warehouse</text>
 	</string>
 	<string id="st_save_zat_b14_got_altered_wheel">
-		<text>найден источник странного свечения</text>
+		<text>strange glow source found</text>
 	</string>
-	<string id="st_save_pri_b301_arrived_to_help_zulu">
-		<text>найден Зулус</text>
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>dangerous cave</text>
 	</string>
 	<string id="ui_st_upgrade">
-		<text>Ремонт/модификация</text>
+		<text>Repair/modifications</text>
 	</string>
 	<string id="ui_st_buy">
-		<text>Купить</text>
+		<text>Buy</text>
 	</string>
 	<string id="ui_st_sell">
-		<text>Продать</text>
+		<text>Sell</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Торговля</text>
+		<text>Trade</text>
 	</string>
 	<string id="ui_st_exit_hint">
-		<text>Закрыть окно ($$ACTION_USE$$)</text>
+		<text>Close window ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_st_trade_hint">
-		<text>Открыть окно торговли ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Open trading window ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_upgrade_hint">
-		<text>Открыть окно ремонта и модификации ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Open repair and modification window ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_take_all_hint">
-		<text>Переместить все вещи в свой рюкзак ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Move all items to your backpack ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_buy_hint">
-		<text>Купить выбранные вещи</text>
+		<text>Buy selected items</text>
 	</string>
 	<string id="ui_st_sell_hint">
-		<text>Продать выбранные вещи</text>
+		<text>Sell selected items</text>
 	</string>
 	<string id="st_save_pri_a28_evacuation_heli">
-		<text>отлёт вертолётов эвакуации</text>
+		<text>evacuation helicopter take-off</text>
 	</string>
 	<string id="st_save_perevalochnaya_baza_start_game">
-		<text>ПА - Пролог</text>
+		<text>SA - prologue</text>
 	</string>
 	<string id="st_save_escape_start_game">
-		<text>ПА - Былые времена</text>
+		<text>SA - old times</text>
 	</string>
 	<string id="st_esc_come_to_base">
-		<text>ПА - Прибытие в деревню новичков</text>
+		<text>SA - arrival in the rookie village</text>
 	</string>
 	<string id="st_blck_val_actor_prisoner">
-		<text>ПА - Больше не пленник</text>
+		<text>SA - no longer captive</text>
 	</string>
 	<string id="st_blck_val_actor_in_anomaly_wild">
-		<text>ПА - Взбираясь на Аномальную рощу</text>
+		<text>SA - climbing the anomalous grove</text>
 	</string>
 	<string id="st_blck_val_stavrid_night_shooter_dialog_done_save">
-		<text>ПА - Атака на Северный хутор отражена</text>
+		<text>SA - attack on the northern farm repeled</text>
 	</string>
 	<!-- bolt mod -->
 	<string id="bolt_description">
-		<text>Болт 32х100. Лучший друг сталкера.</text>
+		<text>A 32х100 bolt. A stalker’s best friend.</text>
 	</string>
 </string_table>

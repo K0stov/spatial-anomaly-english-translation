@@ -1,430 +1,430 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Time">
-		<text>Время</text>
+		<text>Time</text>
 	</string>
 	<string id="actor">
-		<text>Наёмник</text>
+		<text>Mercenary</text>
 	</string>
 	<string id="army">
-		<text>Военный</text>
+		<text>Military</text>
 	</string>
 	<string id="digger">
-		<text>Диггер</text>
+		<text>Digger</text>
 	</string>
 	<string id="hunter">
-		<text>Охотник</text>
+		<text>Hunter</text>
 	</string>
 	<string id="bandit">
-		<text>Бандит</text>
+		<text>Bandit</text>
 	</string>
 	<string id="bandit_1">
-		<text>Бандит</text>
+		<text>Bandit</text>
 	</string>
 	<string id="dolg">
-		<text>«Долг»</text>
+		<text>Duty</text>
 	</string>
 	<string id="ecolog">
-		<text>Учёный</text>
+		<text>Scientist</text>
 	</string>
 	<string id="filter_secondary_tasks_text">
-		<text>Попутные задания</text>
+		<text>Side missions</text>
 	</string>
 	<string id="filter_treasures_text">
-		<text>Тайники</text>
+		<text>Stashes</text>
 	</string>
 	<string id="freedom">
-		<text>«Свобода»</text>
+		<text>Freedom</text>
 	</string>
 	<string id="killer">
-		<text>Наёмник</text>
+		<text>Mercenary</text>
 	</string>
 	<string id="killer_1">
-		<text>Наёмник</text>
+		<text>Mercenary</text>
 	</string>
 	<string id="trader">
-		<text>Торговец</text>
+		<text>Trader</text>
 	</string>
 	<string id="missions_list">
-		<text>Список заданий</text>
+		<text>Mission log</text>
 	</string>
 	<string id="monolith">
-		<text>«Монолит»</text>
+		<text>Monolith</text>
 	</string>
 	<string id="fake_monolit">
-		<text>«Монолит»</text>
+		<text>Monolith</text>
 	</string>
 	<string id="monster">
-		<text>Мутант</text>
+		<text>Mutant</text>
 	</string>
 	<string id="dolg_1">
-		<text>«Долг»</text>
+		<text>Duty</text>
 	</string>
 	<string id="freedom_1">
-		<text>«Свобода»</text>
+		<text>Freedom</text>
 	</string>
 	<string id="no_communities">
-		<text>Нет данных</text>
+		<text>No data</text>
 	</string>
 	<string id="month_april">
-		<text>Апрель</text>
+		<text>April</text>
 	</string>
 	<string id="month_august">
-		<text>Август</text>
+		<text>August</text>
 	</string>
 	<string id="month_december">
-		<text>Декабрь</text>
+		<text>December</text>
 	</string>
 	<string id="month_february">
-		<text>Февраль</text>
+		<text>February</text>
 	</string>
 	<string id="month_january">
-		<text>Январь</text>
+		<text>January</text>
 	</string>
 	<string id="month_july">
-		<text>Июль</text>
+		<text>July</text>
 	</string>
 	<string id="month_june">
-		<text>Июнь</text>
+		<text>June</text>
 	</string>
 	<string id="month_march">
-		<text>Март</text>
+		<text>March</text>
 	</string>
 	<string id="month_may">
-		<text>Май</text>
+		<text>May</text>
 	</string>
 	<string id="month_november">
-		<text>Ноябрь</text>
+		<text>November</text>
 	</string>
 	<string id="month_october">
-		<text>Октябрь</text>
+		<text>October</text>
 	</string>
 	<string id="month_september">
-		<text>Сентябрь</text>
+		<text>September</text>
 	</string>
 	<string id="pda_btn_close">
-		<text>Выключить КПК</text>
+		<text>Deactivate PDA</text>
 	</string>
 	<string id="pda_btn_logs">
-		<text>История сообщений</text>
+		<text>Message log</text>
 	</string>
 	<string id="pda_btn_logs_hint">
-		<text>Показать историю сообщений</text>
+		<text>Show message history</text>
 	</string>
 	<string id="pda_btn_quests">
-		<text>Карта местности</text>
+		<text>Area map</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Показать карту Зоны и список заданий</text>
+		<text>Show Zone map and mission log</text>
 	</string>
 	<string id="pda_btn_ranking">
-		<text>Статистика</text>
+		<text>Stats</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Показать личную статистику</text>
+		<text>Show personal stats</text>
 	</string>
 	<string id="pda_cur_time">
-		<text>Текущее время:</text>
+		<text>Current time:</text>
 	</string>
 	<string id="pda_date_filter">
-		<text>Фильтр даты</text>
+		<text>Date filter</text>
 	</string>
 	<string id="pda_filter_news">
-		<text>Показать новости</text>
+		<text>Show news</text>
 	</string>
 	<string id="pda_filter_talk">
-		<text>Показать диалоги</text>
+		<text>Show dialogs</text>
 	</string>
 	<string id="pda_legend_caption">
-		<text>Условные обозначения</text>
+		<text>Legend</text>
 	</string>
 	<string id="pda_stat_1">
-		<text>Время в зоне:</text>
+		<text>Zone time:</text>
 	</string>
 	<string id="pda_stat_2">
-		<text>Пережито выбросов:</text>
+		<text>Emissions survived:</text>
 	</string>
 	<string id="pda_stat_3">
-		<text>Выполнено заданий:</text>
+		<text>Missions completed:</text>
 	</string>
 	<string id="pda_stat_4">
-		<text>Убито мутантов:</text>
+		<text>Mutants killed:</text>
 	</string>
 	<string id="pda_stat_5">
-		<text>Убито сталкеров:</text>
+		<text>Stalkers killed:</text>
 	</string>
 	<string id="pda_stat_6">
-		<text>Найдено артефактов:</text>
+		<text>Artifacts found:</text>
 	</string>
 	<string id="pda_stat_7">
-		<text>Найдено тайников:</text>
+		<text>Stashes found:</text>
 	</string>
 	<string id="pda_stat_favorite_weapon">
-		<text>Любимое оружие</text>
+		<text>Favorite weapon</text>
 	</string>
 	<string id="pda_stat_mutant_killed">
-		<text>Самый сильный убитый мутант</text>
+		<text>Most powerful mutant killed</text>
 	</string>
 	<string id="st_location">
-		<text>Местонахождение:</text>
+		<text>Location:</text>
 	</string>
 	<string id="st_target">
-		<text>Цель</text>
+		<text>Objective</text>
 	</string>
 	<string id="st_ui_pda_legend_additional_task">
-		<text>Побочное задание</text>
+		<text>Side mission</text>
 	</string>
 	<string id="st_ui_pda_legend_enemies">
-		<text>Враги</text>
+		<text>Enemies</text>
 	</string>
 	<string id="st_ui_pda_legend_friends">
-		<text>Друзья</text>
+		<text>Friends</text>
 	</string>
 	<string id="st_ui_pda_legend_leader">
-		<text>Лидер группировки</text>
+		<text>Faction leader</text>
 	</string>
 	<string id="st_ui_pda_legend_main_task">
-		<text>Основное задание</text>
+		<text>Main mission</text>
 	</string>
 	<string id="st_ui_pda_legend_neutrals">
-		<text>Нейтралы</text>
+		<text>Neutrals</text>
 	</string>
 	<string id="st_ui_pda_legend_scout">
-		<text>Важный персонаж</text>
+		<text>Important character</text>
 	</string>
 	<string id="st_ui_pda_legend_vip">
-     	     <text>Важный персонаж</text>
+     	     <text>Important character</text>
 	</string>
 	<string id="st_ui_pda_legend_secrets">
-		<text>Тайники</text>
+		<text>Stashes</text>
 	</string>
 	<string id="st_ui_pda_legend_squad">
-		<text>Командир отряда</text>
+		<text>Squad commander</text>
 	</string>
 	<string id="st_ui_pda_legend_trader">
-		<text>Торговец</text>
+		<text>Trader</text>
 	</string>
 	<string id="stalker">
-		<text>Вольный сталкер</text>
+		<text>Stalker</text>
 	</string>
 	<string id="stalker_1">
-		<text>Вольный сталкер</text>
+		<text>Stalker</text>
 	</string>
 	<string id="stalker_2">
-		<text>Вольный сталкер</text>
+		<text>Stalker</text>
 	</string>
 	<string id="ui_logs_center_caption">
-		<text>История сообщений</text>
+		<text>Message log</text>
 	</string>
 	<string id="ui_map_btn_center">
-		<text>Центрировать на игроке</text>
+		<text>Center on player</text>
 	</string>
 	<string id="ui_map_btn_down">
-		<text>Переместить вниз</text>
+		<text>Move down</text>
 	</string>
 	<string id="ui_map_btn_left">
-		<text>Переместить влево</text>
+		<text>Move left</text>
 	</string>
 	<string id="ui_map_btn_legend">
-		<text>Показать легенду</text>
+		<text>Show legend</text>
 	</string>
 	<string id="ui_map_btn_right">
-		<text>Переместить вправо</text>
+		<text>Move right</text>
 	</string>
 	<string id="ui_map_btn_up">
-		<text>Переместить вверх</text>
+		<text>Move up</text>
 	</string>
 	<string id="ui_map_btn_zmreset">
-		<text>Максимальное отдаление</text>
+		<text>Maximum zoom out</text>
 	</string>
 	<string id="ui_map_btn_zoom_in">
-		<text>Приблизить</text>
+		<text>Zoom</text>
 	</string>
 	<string id="ui_map_btn_zoom_out">
-		<text>Отдалить</text>
+		<text>Zoom out</text>
 	</string>
 	<string id="ui_ranking_center_caption">
-		<text>Достижения</text>
+		<text>Achievements</text>
 	</string>
 	<string id="ui_task_btn_focus_center">
-		<text>Центрировать карту на задании</text>
+		<text>Center map on mission</text>
 	</string>
 	<string id="ui_task_btn_focus_center2">
-		<text>Центрировать карту на задании</text>
+		<text>Center map on mission</text>
 	</string>
 	<string id="zombied">
-		<text>Зомбированный</text>
+		<text>Zombie</text>
 	</string>
 	<string id="zombied_1">
-		<text>Зомбированный</text>
+		<text>Zombie</text>
 	</string>
 	<string id="zoom_in_btn_hint">
-		<text>масштаб +</text>
+		<text>scale +</text>
 	</string>
 	<string id="zoom_out_btn_hint">
-		<text>масштаб -</text>
+		<text>scale -</text>
 	</string>
 	<string id="st_ui_pda_legend_mechanic">
-		<text>Техник</text>
+		<text>Technician</text>
 	</string>
 	<string id="st_ui_pda_legend_medic">
-		<text>Медик</text>
+		<text>Medic</text>
 	</string>
 	<string id="ui_pda_secondary_task">
-		<text>Текущие задания</text>
+		<text>Current Missions</text>
 	</string>
 	<string id="ui_show_second_task_wnd">
-		<text>Скрыть или отобразить список заданий</text>
+		<text>Show/Hide Missions</text>
 	</string>
 	<string id="st_ui_pda_actor_box">
-		<text>Личный ящик</text>
+		<text>Personal box</text>
 	</string>
 	<string id="zaton">
-		<text>Затон</text>
+		<text>Zaton</text>
 	</string>
 	<string id="jupiter">
-		<text>Окрестности «Юпитера»</text>
+		<text>The area around Jupiter</text>
 	</string>
 	<string id="pripyat">
-		<text>Припять</text>
+		<text>Pripyat</text>
 	</string>
 	<string id="jupiter_underground">
-		<text>Путепровод «Припять-1»</text>
+		<text>Pripyat 1 underpass</text>
 	</string>
 	<string id="labx8">
-		<text>Лаборатория X8</text>
+		<text>Laboratory X8</text>
 	</string>
 	<string id="filter_primary_objects_text">
-		<text>Локации</text>
+		<text>Areas</text>
 	</string>
 	<string id="filter_quest_npcs_text">
-		<text>Важные объекты</text>
+		<text>Important objects</text>
 	</string>
 	<string id="st_ui_pda_legend_primary_objects">
-		<text>Локация</text>
+		<text>Area</text>
 	</string>
 	<string id="st_jup_b32_has_af">
-		<text>Сканеры регистрируют присутствие артефактов:</text>
+		<text>Scanners have detected artifacts:</text>
 	</string>
 	<string id="st_jup_b32_no_af">
-		<text>Согласно данным сканеров, артефакты отсутствуют</text>
+		<text>Scanners have not detected any artifacts</text>
 	</string>
 	<string id="st_ui_pda_secret">
-		<text>Тайник</text>
+		<text>Stash</text>
 	</string>
 	<string id="st_ui_pda_sleep_place">
-		<text>Место сна</text>
+		<text>Sleeping area</text>
 	</string>
 
 	<string id="prostranstvenniy_puzir">
-		<text>Пространственная аномалия</text>
+		<text>Spatial anomaly</text>
 	</string>
 	<string id="st_pb_a1_name">
-		<text>Старый склад</text>
+		<text>Old warehouse</text>
 	</string>
 	<string id="st_pb_a2_name">
-		<text>Лагерь на холме</text>
+		<text>Camp on the hill</text>
 	</string>
 	<string id="st_pb_a3_name">
-		<text>Барьер</text>
+		<text>Barrier</text>
 	</string>
 	<string id="st_pb_a4_name">
-		<text>Диспетчерская</text>
+		<text>Control room</text>
 	</string>
 	<string id="st_pb_a5_name">
-		<text>Резерв</text>
+		<text>Reserves</text>
 	</string>
 	<string id="st_pb_a6_name">
-		<text>Склад продовольствия</text>
+		<text>Food warehouse</text>
 	</string>
 	<string id="st_pb_a7_name">
-		<text>Заброшенное убежище</text>
+		<text>Abandoned asylum</text>
 	</string>
 	<string id="digger_stash">
-		<text>Нора</text>
+		<text>Nora</text>
 	</string>
 	<string id="escape_memmory">
-		<text>Кордон</text>
+		<text>Cordon</text>
 	</string>
 	<string id="st_esc_a1_spot_name">
-		<text>Блокпост военных</text>
+		<text>Military outpost</text>
 	</string>
 	<string id="st_esc_a2_spot_name">
-		<text>Деревня новичков</text>
+		<text>Rookie village</text>
 	</string>
 	<string id="st_esc_a3_spot_name">
-		<text>КПП</text>
+		<text>Checkpoint</text>
 	</string>
 	<string id="st_esc_a4_spot_name">
-		<text>Лагерь нейтралов</text>
+		<text>Neutral camp</text>
 	</string>
 	<string id="st_esc_a5_spot_name">
-		<text>АТП</text>
+		<text>Vehicle station</text>
 	</string>
 	<string id="st_esc_a6_spot_name">
-		<text>Элеватор</text>
+		<text>Farm</text>
 	</string>
 	<string id="st_esc_a7_spot_name">
-		<text>Ж/Д мост</text>
+		<text>Bridge</text>
 	</string>
 	<string id="st_esc_a8_spot_name">
-		<text>Аномалия "Разрыв"</text>
+		<text>Gap anomaly</text>
 	</string>
 	<string id="st_esc_a9_spot_name">
-		<text>Аномалия "Пылающая земля"</text>
+		<text>Burning Earth anomaly</text>
 	</string>
 	<string id="black_valley">
-		<text>Застава</text>
+		<text>Outpost</text>
 	</string>
 	<string id="st_blck_val_a1_spot_name">
-		<text>Северный хутор</text>
+		<text>Northern farm</text>
 	</string>
 	<string id="st_blck_val_a2_spot_name">
-		<text>Аномалия "Адский круг"</text>
+		<text>Hell Circle anomaly</text>
 	</string>
 	<string id="st_blck_val_a3_spot_name">
-		<text>Стройплощадка</text>
+		<text>Construction site</text>
 	</string>
 	<string id="st_blck_val_a4_spot_name">
-		<text>Отстойник</text>
+		<text>Car park</text>
 	</string>
 	<string id="st_blck_val_a5_spot_name">
-		<text>Аномальная роща</text>
+		<text>Anomalous grove</text>
 	</string>
 	<string id="st_blck_val_a6_spot_name">
-		<text>Металлургический завод</text>
+		<text>Metallurgical plant</text>
 	</string>
 	<string id="st_blck_val_a7_spot_name">
-		<text>Панский хутор</text>
+		<text>Pansky farm</text>
 	</string>
 	<string id="labx7">
-		<text>Лаборатория X7</text>
+		<text>Laboratory X7</text>
 	</string>
 	<string id="station_digger">
-		<text>Диггерская станция</text>
+		<text>Digger station</text>
 	</string>
 	<string id="st_perehod_in_valley_to_labx6">
-		<text>В лабораторию Х7</text>
+		<text>To laboratory X7</text>
 	</string>
 	<string id="pb_outro_text_1">
-		<text>Конец.</text>
+		<text>The end.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_closed">
-		<text>Я не собираюсь покидать локацию сейчас, на ней пребывает моя группа и контракт у Сидоровича еще не выполнен.</text>
+		<text>I’m not about to exit the area yet; my group is still here, and Sidorovich’s contract has not yet been fulfilled.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_labx7">
-		<text>Спуститься в лабораторию?</text>
+		<text>Descend into the laboratory?</text>
 	</string>
 	<string id="ui_st_sr_level_changer_closed_labx7">
-		<text>А в билде сюда попасть нельзя, да и рано вам сюда еще.</text>
+		<text>Can’t get here in a build. It’s too early to get here anyway.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_station">
-		<text>Подняться вверх по лестнице?</text>
+		<text>Go up the stairs?</text>
 	</string>
 	<string id="ui_st_sr_level_changer_station_closed">
-		<text>Перед уходом нужно завалить проход, чтобы Стронглав не последовал за мной.</text>
+		<text>I need to block the path so that Stronglav doesn’t follow me.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_explosive">
-		<text>Назад дороги нет, я подорвал проход.</text>
+		<text>There’s no way back; I’ve blocked the path.</text>
 	</string>
 </string_table>

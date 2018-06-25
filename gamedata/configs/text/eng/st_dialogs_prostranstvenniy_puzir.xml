@@ -628,37 +628,37 @@
         <text>Ўел бы ты спать, наЄмник... ” мен€ нет желани€ говорить с тобой сейчас.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_7">
-        <text>«дравствуй, наЄмник. ƒавай знакомитьс€ что ли... ћен€ тут все  увалдой называют, в прошлом свободовцем был, сейчас уже нет, заставило мен€ это место свои взгл€ды на жизнь пересмотреть.</text>
+        <text>Hey, merc. CТmon; letТs get to know each otherЕ IТm Sledgehammer, or just Sledge. Used to be a Freedomer, but not anymore. This place made me reconsider my views on life.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_8">
-        <text>Ќу, мою кличку ты уже знать должен, «верь €.</text>
+        <text>Well, you should already know my name. IТm Beast.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_9">
-        <text>Ќе буду лукавить и говорить, что это при€тное знакомство, в свое врем€ ваши реб€та частенько мне дорогу переходили. ”видел бы € теб€ несколькими мес€цами ранее, разговор у нас не сложилс€ бы, но как € сказал до этого, мне пришлось пересмотреть свои взгл€ды на жизнь.</text>
+        <text>IТm not gonna fool around and say that IТm pleased to meet you. Your guys caused a lot of trouble for me in my time. Had I seen you a few months before now, we wouldnТt be having this conversationЕ but, like I said, IТve taken on a different perspective on life.</text>
     </string>
     <string id="pb_lesnik_end_line_meet_0">
-        <text>ЌаЄмник, ты, где был-то? я уже устал теб€ ждать здесь один...</text>
+        <text>Merc, where have you been? IТm already tired of waiting for you aloneЕ</text>
     </string>
     <string id="pb_lesnik_end_line_meet_1">
-        <text>ј где все остальные?</text>
+        <text>Where are the rest?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_2">
-        <text>¬ышли из аномалии уже, а € вот теб€ стою жду. “ы что-то о долговцах здешних говорил, они выходить из аномалии собираютс€?</text>
+        <text>They already left the anomaly, but I stayed behind to wait for you. You mentioned something about the local Dutyers; are they planning on leaving the anomaly?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_3">
-        <text>ƒолговцы мертвы...  уда нас выведет этот выход из аномалии?</text>
+        <text>The Dutyers are deadЕ Where is the anomaly exit going to take us?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_4">
-        <text>Ќу, пусть земл€ им будет пухом...  уда нас выведет аномали€, € и сам не знаю. Ћадно, ты как вообще готов к перемещению?</text>
+        <text>May they rest in peaceЕ As for the exit, I donТt really know, but are you ready to get out of here?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_5">
-        <text>ƒа, давай уже наконец-то покинем этот чЄртов пузырь.</text>
+        <text>Yeah. LetТs leave this godforsaken bubble already.</text>
     </string>
     <string id="pb_lesnik_end_line_meet_6">
-        <text>«начит так, предупреждаю сразу, после такого долгого перемещени€ есть веро€тность потер€ть сознание. Ёто € так, на вс€кий случай сказал. Ќужно ко всему быть готовым. —ейчас слушай, идти нужно ровно за мной, не отходи ни на шаг, пон€л?</text>
+        <text>All right, but IТll warn you: after such a large change in position, thereТs a chance of losing your consciousness. IТm letting you know just in case. You need to be ready for anything. And, listen: stay behind me at all times. DonТt trail off by a single step. Got it?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_7">
-        <text>ѕон€л, пойдем уже.</text>
+        <text>Got it. Now, letТs just go.</text>
     </string>
     <string id="pb_lesnik_first_meet_start_0">
         <text>—пасибо тебе, добрый человек. —ам € точно не справилс€ бы, слишком стар € уже. ј зверьЄ взбесилось что-то в последнее врем€ - проходу не дают.</text>
@@ -940,7 +940,7 @@
         <text>Ќе зан€т, что за помощь нужна?</text>
     </string>
     <string id="pb_markus_start_dialog_28">
-        <text>ѕрости, но € зан€т сейчас.</text>
+        <text>Sorry, but IТm busy right now.</text>
     </string>
     <string id="pb_markus_start_dialog_29">
         <text>Ќичего особо сложного, мне нужен артефакт "¬ыверт", он хорошо радиацию из организма выводит.  ак видишь, гравитационных аномалий здесь хватает, он точно должен по€вл€тьс€ в этих местах. —ам сходить не смогу, вокруг мутантов куча, а патронов у мен€ почти не осталось. — наградой не обижу, не переживай, есть у мен€ другой артефакт, он хоть и радиоактивен, но полезные свойства у него тоже есть.</text>
@@ -1078,7 +1078,7 @@
         <text>«ан€т пока еще.</text>
     </string>
     <string id="pb_moskit_start_dialog_9">
-        <text>ѕрости, но € зан€т сейчас.</text>
+        <text>Sorry, but IТm busy right now.</text>
     </string>
     <string id="pb_mrakobes_talk_0">
         <text> акие люди!.. ѕривет, животное, ты что тут забыл вообще?</text>
@@ -1495,7 +1495,7 @@
         <text>Right now, we need to get the guys some more ammo. We wonТt be able to protect ourselves otherwise.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_4">
-        <text>YouТre right about that, but the ammo shortage isnТt our main problem: our food supply is almost out, and weТve got almost no drinking water. The morale here is dropping every day. Many of them are saying that thereТs no way out of here and that weТre all going to die starving. I get such thoughts myself, but I try to keep them at bay.</text>
+        <text>YouТre right about that, but the ammo shortage isnТt our main problem: our food supply is almost out, and weТve got almost no drinking water. The morale here is dropping every day. Many of them are saying that thereТs no way out of here and that weТre all going to die starving. I do get such thoughts myself from time to time, but I try to keep them at bay.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_5">
         <text>IТll do everything I can in my power to find a way out of here.</text>
@@ -2200,58 +2200,58 @@
         <text>ѕривет, наЄмник. —лушаю, теб€.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_10">
-        <text>Ѕлин... ћужик... ƒай аптечку, а то загнусь ведь...</text>
+        <text>DamnЕ ManЕ Give me a medkit, or IТm riding the pale horseЕ</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_11">
-        <text>ƒобрались... Ѕлагодарю за помощь, кто его знает, как бы все обернулось если бы ты не помог. Ѕоль утихла немного. –асскажи где мы? „то это за место?</text>
+        <text>WeТre hereЕ Thanks for your help. Who knows what wouldТve happened if you didnТt help out. IТm feeling a bit better. Can you tell me where we are? What is this place?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_12">
-        <text>“ы слышал хоть что-то о пространственном пузыре?</text>
+        <text>Have you ever heard about space bubbles?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_13">
-        <text>Ќу, слышал кое-что и знаю, в общих чертах, что он из себ€ представл€ет. ј что?</text>
+        <text>Well, IТve heard things, and I know what they do in general terms. What about them?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_14">
-        <text>ѕоздравл€ю, ты как раз таки сейчас в пространственном пузыре.</text>
+        <text>Congratulations: youТre in a spatial anomaly right now.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_15">
-        <text>¬от же... ”гораздило нас к складам именно сегодн€ лететь... » что самое главное, хрен его знает как мы над этим местом оказались, его ни на одной карте наших маршрутов нет. Ћадно, проехали с этим. ј вы, как € пон€л, выхода из аномалии не нашли?</text>
+        <text>Well, thenЕ Sucks that they sent us to fly today of all daysЕ And most importantly, how the hell did we even end up here? This place doesnТt appear in any of the maps of our routes. Whatever. WhatТs done is done. And, as I understand it, you havenТt found any way out of the anomaly?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_16">
-        <text>Ќет, пока не нашли. √де остальные военные из вертолЄта сейчас?</text>
+        <text>Nope. So far, not a thing. Where are the other soldiers who were in the helicopter?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_17">
-        <text>’реново... ¬се в вертолЄте, вернее в том, что от него осталось... –азорвало реб€т, скорее всего. ј мен€, по счастливой случайности, через окно волной выбросило. √ребана€ воздушна€ аномали€, что б еЄ, в секунде вс€ электроника выгорела.</text>
+        <text>Just greatЕ The chopper crew was most likely torn apart. Me, thoughЕ Seems like I got lucky. God damn aerial anomaly. Thanks to it, all the electronics were fried in seconds.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_18">
-        <text>Ћадно, поправл€йс€, боец. —коро нам понадобитс€ тво€ помощь.</text>
+        <text>Yeah. Anyway, get better, soldier. WeТll be needing your help soon.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_20">
-        <text>Ћадно, поищу, если твой ствол все еще где-то здесь.</text>
+        <text>All right. IТll see if your shooterТs still around.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_23">
-        <text>«доров, наЄмник, чего тебе?</text>
+        <text>Hey there, merc. What do you need?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_3">
-        <text>¬от же... ”гораздило мен€... ћужик... ћужик добей, не могу терпеть это...</text>
+        <text>IТm finishedЕ ManЕ Man, finish it. I canТt last thisЕ</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_4">
-        <text>ѕогоди ты. ћожет € тебе еще смогу помочь.</text>
+        <text>Just you wait. I might be able to help you still.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_5">
-        <text>ƒумаешь у мен€ есть шанс?.. јдска€ боль просто... Ќе могу терпеть... ќблегчи мои страдани€...</text>
+        <text>You think I still have a chance? This pain is hellishЕ I canТt handle itЕ Relieve my sufferingЕ</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_6">
-        <text>¬ыживешь, € видел раны и похуже. ƒл€ начала нужно теб€ аптечкой подлечить, чтобы ты смог к базе дойти.</text>
+        <text>YouТll live; IТve seen worse. First, we need to get you a medkit, so that I can get you back to base.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_7">
-        <text>Ћадно... ƒелай, что желаешь... “олько... “олько пусть прекратитс€ эта адска€ боль... ƒавай свою аптечку...</text>
+        <text>AlrightЕ Do whatever you wantЕ JustЕ Just make this pain stopЕ Give me your medkitЕ</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_8">
-        <text>ƒержи аптечку.</text>
+        <text>Here.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_9">
-        <text>” мен€ нет аптечки, но € сейчас попытаюсь найти.</text>
+        <text>I donТt have any medkit right now, but IТll find one.</text>
     </string>
     <string id="super_0">
         <text>default text</text>
