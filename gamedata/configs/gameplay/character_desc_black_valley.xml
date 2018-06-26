@@ -327,7 +327,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_5" team_default="1">
-		<name>Ћысый</name>
+		<name>Baldy</name>
 		<icon>ui_inGame2_Lisiy</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

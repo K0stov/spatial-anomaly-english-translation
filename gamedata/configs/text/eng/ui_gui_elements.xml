@@ -38,10 +38,10 @@
 		<text>Список прочего снаряжения</text>
 	</string>
 	<string id="ui_gui_pc_document_1">
-		<text>This document is encrypted. View content is possible only after decryption.</text>
+		<text>This document is encrypted. Viewing the contents is possible only after decryption.</text>
 	</string>
 	<string id="ui_gui_pc_document_2">
-		<text>This document is encrypted. View content is possible only after decryption.</text>
+		<text>This document is encrypted. Viewing the contents is possible only after decryption.</text>
 	</string>
 	<string id="ui_gui_pc_zametka_1">
 		<text>Расположение объектов закрытого лабораторного комплекса по разработке наших перспективным боевых средств было изменено. В результате дополнительных договоренностей все они были вывезены в Долину Теней для дальнейшего размещения. Сведения в имеющихся документах возможно расшифровать только после посещения основной лаборатории в Долине Теней.</text>
@@ -50,76 +50,76 @@
 		<text>Кодовый замок</text>
 	</string>
 	<string id="ui_bai_1_priem_text">
-		<text>Предметы</text>
+		<text>Items</text>
 	</string>
 	<string id="ui_bai_2_priem_text">
-		<text>Костёр</text>
+		<text>Campfire</text>
 	</string>
 	<string id="ui_bai_3_priem_text">
-		<text>Кол-во:</text>
+		<text>Amount:</text>
 	</string>
 	<string id="st_menu_close">
-		<text>Закрыть</text>
+		<text>Close</text>
 	</string>
 	<string id="st_menu_info_use">
-		<text>Информация</text>
+		<text>Info</text>
 	</string>
 	<string id="st_menu_weapon_use">
-		<text>Вооружение</text>
+		<text>Weaponry</text>
 	</string>
 	<string id="st_menu_perk_close">
-		<text>Навыки</text>
+		<text>Skills</text>
 	</string>
 	<string id="ui_rai_1_priem_text">
-		<text>Содержание</text>
+		<text>Contents</text>
 	</string>
 	<string id="ui_rai_2_priem_text">
-		<text>КПК</text>
+		<text>PDA</text>
 	</string>
 	<string id="ui_rai_3_priem_text">
-		<text>Раздел изучаемых навыков:</text>
+		<text>Skills section:</text>
 	</string>
 	<string id="ui_mm_reat_1">
-		<text>Навык 1</text>
+		<text>Skills 1</text>
 	</string>
 	<string id="ui_mm_reat_2">
-		<text>Навык 2</text>
+		<text>Skills 2</text>
 	</string>
 	<string id="ui_mm_reat_3">
-		<text>Навык 3</text>
+		<text>Skill 3</text>
 	</string>
 	<string id="ui_mm_reat_4">
-		<text>Навык 4</text>
+		<text>Skill 4</text>
 	</string>
 	<string id="ui_mm_reat_5">
-		<text>Навык 5</text>
+		<text>Skill 5</text>
 	</string>
 	<string id="ui_mm_reat_6">
-		<text>Навык 6</text>
+		<text>Skill 6</text>
 	</string>
 	<string id="ui_mm_reat_7">
-		<text>Навык 7</text>
+		<text>Skill 7</text>
 	</string>
 	<string id="ui_mm_reat_8">
-		<text>Навык 8</text>
+		<text>Skill 8</text>
 	</string>
 	<string id="ui_mm_reat_9">
-		<text>Навык 9</text>
+		<text>Skill 9</text>
 	</string>
 	<string id="ui_mm_reat_10">
-		<text>Навык 10</text>
+		<text>Skill 10</text>
 	</string>
 	<string id="ui_mm_reat_11">
-		<text>Навык 11</text>
+		<text>Skill 11</text>
 	</string>
 	<string id="ui_mm_reat_12">
-		<text>Навык 12</text>
+		<text>Skill 12</text>
 	</string>
 	<string id="ui_mm_reat_13">
-		<text>Навык 13</text>
+		<text>Skill 13</text>
 	</string>
 	<string id="ui_mm_reat_14">
-		<text>Навык 14</text>
+		<text>Skill 14</text>
 	</string>
 	<string id="ui_gui_perkfife_1_hint">
 		<text>Просмотр навыка "Селекция"</text>
@@ -165,34 +165,34 @@
 	</string>
 	
 	<string id="ui_mm_beat_1">
-		<text>Мясо кабана</text>
+		<text>Boar meat</text>
 	</string>
 	<string id="ui_mm_beat_2">
-		<text>Мясо собаки</text>
+		<text>Dog meat</text>
 	</string>
 	<string id="ui_mm_beat_3">
-		<text>Мясо плоти</text>
+		<text>Flesh meat</text>
 	</string>
 	<string id="ui_gui_bonfife_1_hint">
-		<text>Пожарить на костре мясо кабана</text>
+		<text>Cook boar meat</text>
 	</string>
 	<string id="ui_gui_bonfife_2_hint">
-		<text>Пожарить на костре мясо собаки</text>
+		<text>Cook dog meat</text>
 	</string>
 	<string id="ui_gui_bonfife_3_hint">
-		<text>Пожарить на костре мясо плоти</text>
+		<text>Cook flesh meat</text>
 	</string>
 	<string id="ui_gui_copinf_caption">
-		<text>Копирование информации</text>
+		<text>Copy information</text>
 	</string>
 	<string id="st_mutant_type_no_title">
-		<text>Неизвестный тип.</text>
+		<text>Unknown type.</text>
 	</string>
 	<string id="st_menu_copy_use">
-		<text>Копировать</text>
+		<text>Copy</text>
 	</string>
 	<string id="st_npcrac_attach_1">
-		<text>Старт</text>
+		<text>Start</text>
 	</string>
 	<string id="st_npcrac_1_hint">
 		<text>Прослушивание радио-частоты.</text>
@@ -2976,7 +2976,7 @@ X*(реа-нт1)3+Y*(реа-нт2)2+Z*(реа-нт3)2=2*(реа-нт1)(реа-нт2)5+6*(реа-нт3)+2*(реа-
 		<text>14. РЭБ</text>
 	</string>
 	<string id="st_perk_14_transcription">
-		<text>Навык радиолокационной борьбы, необходимый для осуществления различных операций по данной специальности.</text>
+		<text>Skill радиолокационной борьбы, необходимый для осуществления различных операций по данной специальности.</text>
 	</string>
 	
 	<string id="st_ui_dnevnik_podzemka_1">

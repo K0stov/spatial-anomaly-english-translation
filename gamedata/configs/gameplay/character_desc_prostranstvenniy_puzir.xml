@@ -594,7 +594,7 @@
   </specific_character>
 
 	<specific_character id="pb_dubolom" team_default="1">
-		<name>Dummy</name>
+		<name>Knucklehead</name>
 		<icon>ui_inGame2_Dubolom</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
