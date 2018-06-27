@@ -5,7 +5,7 @@
 	<!--black_valley_a31-->
 
 	<specific_character id="blck_val_a31_bandit_kom" team_default="1">
-		<name>Ставрид</name>
+		<name>Saurel</name>
 		<icon>ui_inGame2_Stavrid</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -40,7 +40,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_medic" team_default="1">
-		<name>Антибиотик</name>
+		<name>Antibiotic</name>
 		<icon>ui_inGame2_Kostoprav</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -78,7 +78,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_mechanic" team_default="1">
-		<name>Петрович</name>
+		<name>Petrovich</name>
 		<icon>ui_inGame2_Petrovich</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -118,7 +118,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_barmen" team_default="1">
-		<name>Распутин</name>
+		<name>Rasputin</name>
 		<icon>ui_inGame2_Rasputin</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -159,7 +159,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_sologub_trader" team_default="1">
-		<name>Сологуб</name>
+		<name>Sologub</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -294,7 +294,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_4" team_default="1">
-		<name>Горелый</name>
+		<name>Burnt</name>
 		<icon>ui_inGame2_Lom</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -429,7 +429,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_bandit_8" team_default="1">
-		<name>Косой</name>
+		<name>Skew</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -497,7 +497,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_stalker_1" team_default="1">
-		<name>Шмыга</name>
+		<name>Shmyga</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -526,7 +526,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_stalker_2" team_default="1">
-		<name>Кривой</name>
+		<name>Crooked</name>
 		<icon>ui_inGame2_Krivoy</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -555,7 +555,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_bandit_minigame" team_default="1">
-		<name>Букмекер</name>
+		<name>Bookmaker</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -659,7 +659,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a35_freedom_3" team_default="1">
-		<name>Кислый</name>
+		<name>Spotty</name>
 		<icon>ui_inGame2_Freedom_3</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -762,7 +762,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a37_bandit_3" team_default="1">
-		<name>Гонта</name>
+		<name>Gonta</name>
 		<icon>ui_inGame2_Gonta</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -866,7 +866,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_b203_stalker" team_default="1">
-		<name>Левша</name>
+		<name>Lefty</name>
 		<icon>ui_inGame2_neutral_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -966,7 +966,7 @@
   </specific_character>
 
 <specific_character id="blck_val_default_zombied_1" team_default = "1">
-		<name>Сашка Ковбой</name>
+		<name>Sashka Cowboy</name>
 		<icon>ui_inGame2_Zombied_1</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio></bio>
@@ -1027,7 +1027,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_spatial_burguy" team_default="1">
-		<name>Буржуй</name>
+		<name>Burgeois</name>
 		<icon>ui_inGame2_bandit_3</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1059,7 +1059,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_spatial_igla" team_default="1">
-		<name>Игла</name>
+		<name>Needle</name>
 		<icon>ui_inGame2_bandit_3</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1091,7 +1091,7 @@
   </specific_character>
 
         	<specific_character id="blck_val_hunter_leader" team_default="1">
-		<name>Хантер</name>
+		<name>Hunter</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1124,7 +1124,7 @@
         </specific_character>
 
 	<specific_character id="blck_val_lutiy_monolith" team_default="1">
-		<name>Лютый</name>
+		<name>Savage</name>
 		<icon>ui_inGame2_Lutiy</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1157,7 +1157,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_monolith_leader" team_default="1">
-		<name>Вервольф</name>
+		<name>Werewolf</name>
 		<icon>ui_inGame2_monolit_4</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1224,7 +1224,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_zastava_provodnik" team_default="1">
-		<name>Трепач</name>
+		<name>Jawsmith</name>
 		<icon>ui_inGame2_bandit_4</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -1255,7 +1255,7 @@
   </specific_character>
 
     <specific_character id="blck_val_stalker_hutor_1" team_default = "1">
-		<name>Марчук</name>
+		<name>Marchuk</name>
 		<icon>ui_inGame2_Gas_raspirator_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1281,7 +1281,7 @@
 	</specific_character>
 
     <specific_character id="blck_val_stalker_hutor_2" team_default = "1">
-		<name>Портной</name>
+		<name>Tailor</name>
 		<icon>ui_inGame2_Enot</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1306,7 +1306,7 @@
 	</specific_character>
 
     <specific_character id="blck_val_final_scene_actor" team_default = "1">
-		<name>Зверь</name>
+		<name>Beast</name>
 		<icon>ui_inGame2_hero</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>

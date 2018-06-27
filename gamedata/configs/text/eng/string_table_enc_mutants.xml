@@ -38,35 +38,35 @@
 	</string>
 	
 	<string id="boar_character_use">
-		<text>Отрезать копыта кабана ($$ACTION_USE$$)</text>
+		<text>Extract boar hoof ($$ACTION_USE$$)</text>
 	</string>
 	<string id="krovosos_character_use">
-		<text>Отрезать щупальца кровососа ($$ACTION_USE$$)</text>
+		<text>Extract bloodsucker tentacles ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dog_character_use">
-		<text>Отрезать хвост собаки ($$ACTION_USE$$)</text>
+		<text>Extract dog tail ($$ACTION_USE$$)</text>
 	</string>
 	<string id="psevdodog_character_use">
-		<text>Отрезать хвост псевдособаки ($$ACTION_USE$$)</text>
+		<text>Extract pseudodog tail ($$ACTION_USE$$)</text>
 	</string>
 	<string id="flesh_character_use">
-		<text>Отрезать глаз плоти ($$ACTION_USE$$)</text>
+		<text>Extract flesh eye ($$ACTION_USE$$)</text>
 	</string>
 	<string id="snork_character_use">
-		<text>Отрезать стопы снорка ($$ACTION_USE$$)</text>
+		<text>Extract snork foot ($$ACTION_USE$$)</text>
 	</string>
 	<string id="monstr_character_use">
-		<text>Отрезать часть монстра ($$ACTION_USE$$)</text>
+		<text>Extract mutant part ($$ACTION_USE$$)</text>
 	</string>
 
 	<string id="boar_meat_character_use">
-		<text>Отрезать кусок мяса кабана ($$ACTION_USE$$)</text>
+		<text>Extract boar meat ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dog_meat_character_use">
-		<text>Отрезать кусок мяса собаки ($$ACTION_USE$$)</text>
+		<text>Extract dog meat ($$ACTION_USE$$)</text>
 	</string>
 	<string id="flesh_meat_character_use">
-		<text>Отрезать кусок мяса плоти ($$ACTION_USE$$)</text>
+		<text>Extract flesh meat ($$ACTION_USE$$)</text>
 	</string>
 	
 </string_table>

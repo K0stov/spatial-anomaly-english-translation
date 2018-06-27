@@ -2,30 +2,30 @@
 <string_table>
 
 	<string id="esc_first_dop_action_name">
-		<text>Дополнительное действие: \nПоговорить с Грифом</text>
+		<text>Extra assignment: \nSpeak to Vulture</text>
 	</string>
 
 	<string id="blck_val_stavrid_dop_action_name">
-		<text>Дополнительное действие: \nРассказать Ставриду о планах бандитов</text>
+		<text>Extra assignment: \nTell Saurelу about the bandits’ plans</text>
 	</string>
 
 	<string id="blck_val_vihr_dop_action_name">
-		<text>Дополнительное действие: \nСпроосить о СР-3 "Вихрь"</text>
+		<text>Extra assignment: \nAsk about the SR-3 Vikhr</text>
 	</string>
 
 	<string id="pro_snake_dop_action_name">
-		<text>Дополнительное действие: \nПоговорить со Змеем</text>
+		<text>Extra assignment: \nSpeak to Snake</text>
 	</string>
 
 	<string id="pro_soldier_dop_action_name">
-		<text>Дополнительное действие: \nПоговорить с военным</text>
+		<text>Extra assignment: \nSpeak to the soldier</text>
 	</string>
 
 	<string id="pro_inventory_zone_dop_action_name">
-		<text>Дополнительное действие: \nНайти своё снаряжение в указанном районе</text>
+		<text>Extra assignment: \nFind your equipment in the marked area</text>
 	</string>
 	<string id="pro_actor_ready_to_give_medicament_name">
-		<text>Дополнительное действие: \nОтдать вакцину</text>
+		<text>Extra assignment: \nDistribute the vaccine</text>
 	</string>
 	<string id="st_zat_b104_name">
 		<text>Лесопилка</text>

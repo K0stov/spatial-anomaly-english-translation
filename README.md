@@ -7,17 +7,17 @@ A list of all files with their detailed progress can be found below.
 
 - **[configs/gameplay](gamedata/configs/gameplay)**
 	- [character_desc_black_valley.xml](gamedata/configs/gameplay/character_desc_black_valley.xml)
-		- incomplete
+		- done
 	- [character_desc_digger_stash.xml](gamedata/configs/gameplay/character_desc_digger_stash.xml)
-		- incomplete
+		- done
 	- [character_desc_escape.xml](gamedata/configs/gameplay/character_desc_escape.xml)
-		- incomplete
+		- done
 	- [character_desc_general.xml](gamedata/configs/gameplay/character_desc_general.xml)
-		- incomplete
+		- done
 	- [character_desc_prostranstvenniy_puzir.xml](gamedata/configs/gameplay/character_desc_prostranstvenniy_puzir.xml)
-		- incomplete
+		- done
 	- [character_desc_station_digger.xml](gamedata/configs/gameplay/character_desc_station_digger.xml)
-		- incomplete
+		- done
 - **[configs/text/eng](gamedata/configs/text/eng)**
 	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
 		- incomplete
@@ -52,7 +52,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
 		- incomplete
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
-		- incomplete (seemingly unused)
+		- incomplete
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
 		- incomplete
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
@@ -83,7 +83,7 @@ A list of all files with their detailed progress can be found below.
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
 		- incomplete
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
-		- in progress (**SashaTheRed**)
+		- done (needs revision)
 - **[gamedata/textures/ui](gamedata/textures/ui)**
 	- [ui_actor_loadgame_screen.dds](gamedata/textures/ui/ui_actor_loadgame_screen.dds)
 		- incomplete

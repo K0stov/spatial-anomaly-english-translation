@@ -1366,13 +1366,13 @@
         <text>If I find anything, I’ll shoot you a message.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_17">
-        <text>Speak to Knucklehead on that matter. He’ll help you solve the issue. Oh, also, Snake wanted to see you. Said that he’s got an important matter. After you’re done with that, you come to me. I’ve got something else for you.</text>
+        <text>Speak to Knucklehead on that matter. He’ll help you solve the issue. Oh, also: Snake wanted to see you. Said that he’s got an important matter. After you’re done with that, you come to me. I’ve got something else for you.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_19">
-        <text>Well, this is great. I thought this was going to be our ticket to freedom… This anomaly doesn’t want to let us free… How’s that soldier? He going to live?</text>
+        <text>Well, this is great. I thought this was going to be our ticket to freedom. This anomaly doesn’t want to let us free… How’s that soldier? He going to live?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_2">
-        <text>That’s great. I have a suspicion this place used to be some kind of military area before the whole anomaly showed up. Maybe the jarhead can give us some info about it.</text>
+        <text>That’s great. I have a feeling this place used to be some kind of military area before the anomaly showed up. Maybe the jarhead can give us some info about it.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_20">
         <text>All right. I’ll go talk to him.</text>
@@ -1489,13 +1489,13 @@
         <text>I don’t know. I did fall under the control of one of those mutants in the past. It almost managed to zombify me, but then Fish saved me.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_2">
-        <text>That Fish is certainly a good man. Anyway… Good thing you managed to steer clear of that controller’s influence, else we’d all have been on a leash. What was I thinking?… With our security, anyone can waltz in here without a problem. The really scary part is that this zombies have been wandering around this barn for a while, and that means that the controller was also under our nose this whole time…</text>
+        <text>That Fish is certainly a good man. Anyway… Good thing you managed to steer clear of that controller’s influence, else we’d all have been on a leash. What was I thinking?… With our security, anyone can waltz in here without a problem. The really scary part is that these zombies have been wandering around the barn for a while, and that means that the controller was also under our nose this whole time…</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_3">
         <text>Right now, we need to get the guys some more ammo. We won’t be able to protect ourselves otherwise.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_4">
-        <text>You’re right about that, but the ammo shortage isn’t our main problem: our food supply is almost out, and we’ve got almost no drinking water. The morale here is dropping every day. Many of them are saying that there’s no way out of here and that we’re all going to die starving. I do get such thoughts myself from time to time, but I try to keep them at bay.</text>
+        <text>You’re right about that, but the ammo shortage isn’t our main problem: our food supply is dangerously low, and we’re almost out of drinking water. The morale here is dropping every day. Several of our men are saying that there’s no way out of here and that we’re all going to die of starvation. I do get such thoughts myself from time to time, but I try to keep them at bay.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_5">
         <text>I’ll do everything I can in my power to find a way out of here.</text>
@@ -1507,7 +1507,7 @@
         <text>Yeah. The situation isn’t easy. Do you have any other task for me?</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_8">
-        <text>Listen, Beast: you look pretty beat up. You spent a lot of time in that bed, blacked out, but I can see it didn’t help you nothing. A face-to-face meeting with a controller isn’t the best medicine, either. Go and rest up; seeing you is painful. We’ll talk more in the morning. In the meantime, the guys and I are going to deal with the corpse of that controller.</text>
+        <text>Listen, Beast: you look pretty beat up. You spent a lot of time in that bed, blacked out, but I can see it didn’t help you nothing. A face-to-face meeting with a controller isn’t the best treatment, either. Go and rest up; seeing you in your current state is painful. We’ll talk more in the morning. In the meantime, the guys and I are going to deal with the corpse of that controller.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_to_go_sleep_9">
         <text>Some shut-eye wouldn’t hurt.</text>
@@ -1738,7 +1738,7 @@
         <text>Tell me about Screw.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_9">
-        <text>Tell me about yourself..</text>
+        <text>Tell me about yourself.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_markus_0">
         <text>Hi there, Beast. You need something from me?</text>
@@ -1753,7 +1753,7 @@
         <text>All right. I’m waiting.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_markus_end_2">
-        <text>Beast, it seems I’ve picked up the signal of Markus’ PDA… or, rather, its last signs of activity. Head over there at once. I can tell something’s not going well over there.</text>
+        <text>Beast, it seems I’ve picked up the Markus’ PDA signal… or, rather, his last signs of activity. Head over there at once. I can tell something’s not right.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_markus_end_3">
         <text>Got you, Savage. Send over the coordinates and I’ll head there.</text>
@@ -1819,7 +1819,7 @@
         <text>So that son of a gun took all the most valuable loot for himself? God damn… If you find his stash, bring it to base. We’ll find out what to do with it.</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_16">
-        <text>You serious right now? Motherfucker! If I knew about this earlier, I’d have him pulverized. Thank goodness he kicked the bucket. That’s what he deserves.</text>
+        <text>You serious right now? Motherfucker! If I knew about this earlier, I’d have him pulverized. Good thing he kicked the bucket. That’s what he deserves.</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_17">
         <text>Yeah. He was a slippery type, but now, he’s dead.</text>
@@ -1828,7 +1828,7 @@
         <text>God dammit! And I trusted him all this time… Thanks for opening my eyes. Did that weasel’s PDA contain anything else?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_19">
-        <text>Nope. That’s everything. You can have his PDA. It’ll describe everythin in more detail.</text>
+        <text>Nope. That’s everything. You can have his PDA. It’ll describe everything in more detail.</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_2">
         <text>By the fence. Apparently, he went through the teleporter to the north. That’s how I found him.</text>
@@ -1963,7 +1963,7 @@
         <text>And thanks to you for saving my hide. So, where’d you even find me? Maybe some of my equipment was left behind.</text>
     </string>
     <string id="pb_rezak_first_meet_4">
-        <text>Of course I remember. How could I not? You won’t find anything there, though. I scouted that place far and wide. Tried finding your stuff by myself, and I also looked possibility of an exit from this hellhole, but, as you can see, I’m still here.</text>
+        <text>Of course I remember. How could I not? You won’t find anything there, though. I scouted that place far and wide. Tried finding your stuff by myself, and I also looked a the possibility of an exit from this hellhole, but, as you can see, I’m still here.</text>
     </string>
     <string id="pb_rezak_first_meet_5">
         <text>Send the coordinates anyway. I want to see it for myself.</text>
@@ -1972,7 +1972,7 @@
         <text>Be my guest. There. You should have it. Check your PDA.</text>
     </string>
     <string id="pb_rezak_first_meet_7">
-        <text>Thank you. All right. Time to go find my backpack</text>
+        <text>Thank you. Time to go find my backpack.</text>
     </string>
     <string id="pb_rezak_first_meet_9">
         <text>So, merc, what’ve you got?</text>
@@ -2134,7 +2134,7 @@
         <text>Hey, merc. I’m all ears.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_35">
-        <text>Nope. Haven’t found it yet.</text>
+        <text>Nope. Haven’t found anything yet.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_36">
         <text>Excellent, merc. Hand me the wiring. Too bad that not much will come out of it without a battery…</text>
@@ -2149,7 +2149,7 @@
         <text>Yeah. I’ll be going now.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_4">
-        <text>Yes, merc. Got a bit of an important task for you. In short terms, the radio transceiver that’s been lying in this basement can be fixed; I’ve had my moments with such devices before. The main thing of note is its broken battery, as well as some of the wiring having fried. I could use a couple of rolls with copper wiring and a new battery. Once I have all that, I might be able to breathe some life into that thing. It might save our day; if we get it working, we might be able to send a signal outside the borders of this forsaken anomaly, and if anyone gets the signal, maybe they can help us escape.</text>
+        <text>Yes, merc. Got a bit of an important task for you. I’ve found out that the radio transceiver that’s been lying in this basement can be fixed; I’ve had my moments with such devices before. The main thing of note is its broken battery, as well as some of the wiring having fried. I could use a couple of rolls with copper wiring and a new battery. Once I have all that, I might be able to breathe some life into that thing. It might save our day; if we get it working, we might be able to send a signal outside the borders of this forsaken anomaly, and if anyone gets the signal, maybe they can help us escape.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_40">
         <text>Excellent, merc. Hand me the copper wiring and come back to me in about twenty minutes. I’ll try to get the battery and the fried wiring replaced.</text>
@@ -2182,7 +2182,7 @@
         <text>I’m busy right now. Let’s discuss that later.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_7">
-        <text>I’m just giving us some options, merc. It’s gonna take some luck and persistence to find a battery in these parts, but since we ended up here in the first place, I wouldn’t say our chances are too high… Two rolls of copper wiring should be pretty easy to find somewhere, but without a battery, this thing won’t work. All in all, if you find anything resembling a wire or a battery, bring it to me.</text>
+        <text>I’m just giving us options, merc. It’s gonna take some luck and persistence to find a battery in these parts, but since we ended up here in the first place, I wouldn’t say our chances are too high… Two rolls of copper wiring should be pretty easy to find somewhere, but without a battery, this thing won’t work. All in all, if you find anything resembling a wire or a battery, bring it to me.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_8">
         <text>You have me on board. If I find anything of note, I’ll bring it to you.</text>
@@ -2203,7 +2203,7 @@
         <text>Damn… Man… Give me a medkit, or I’m riding the pale horse…</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_11">
-        <text>We’re here… Thanks for your help. Who knows what would’ve happened if you didn’t help out. I’m feeling a bit better. Can you tell me where we are? What is this place?</text>
+        <text>We’re here… Thanks for the help. Who knows what would’ve happened if you didn’t help out. I’m feeling a bit better now. Can you tell me where we are? What is this place?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_12">
         <text>Have you ever heard about space bubbles?</text>
@@ -2215,13 +2215,13 @@
         <text>Congratulations: you’re in a spatial anomaly right now.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_15">
-        <text>Well, then… Sucks that they sent us to fly today of all days… And most importantly, how the hell did we even end up here? This place doesn’t appear in any of the maps of our routes. Whatever. What’s done is done. And, as I understand it, you haven’t found any way out of the anomaly?</text>
+        <text>Well, then… Sucks that they sent us to fly today of all days… And most importantly, how the hell did we even end up here? This place never appeared in any of our maps. Whatever. What’s done is done. And, as I understand it, you haven’t found any way out of the anomaly?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_16">
         <text>Nope. So far, not a thing. Where are the other soldiers who were in the helicopter?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_17">
-        <text>Just great… The chopper crew was most likely torn apart. Me, though… Seems like I got lucky. God damn aerial anomaly. Thanks to it, all the electronics were fried in seconds.</text>
+        <text>Just great… The chopper crew was most likely torn apart. Me, though… Seems like I got lucky. God damn aerial anomaly. Thanks to it, all electronics were fried in seconds.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_18">
         <text>Yeah. Anyway, get better, soldier. We’ll be needing your help soon.</text>

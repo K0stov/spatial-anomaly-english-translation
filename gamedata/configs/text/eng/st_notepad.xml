@@ -54,19 +54,19 @@
 </string>
 
 <string id="ui_notepad_button_kris_use_2">
-	<text>Последние контакты:</text>
+	<text>Last contacts:</text>
 </string>
 <string id="ui_notepad_button_kris_use_3">
-	<text>Карты маршрутов:</text>
+	<text>Path maps:</text>
 </string>
 <string id="ui_notepad_button_kris_use_4">
-	<text>Личные данные:</text>
+	<text>Personal data:</text>
 </string>
 <string id="ui_notepad_button_kris_use_1">
-	<text>Документы:</text>
+	<text>Documents:</text>
 </string>
 <string id="ui_notepad_button_kris_use_5">
-	<text>Прочее:</text>
+	<text>Other:</text>
 </string>
 <string id="notepad_btn_kris_use_2_hint">
 	<text>Раздел с информацией о последних контактах пользователя.</text>
@@ -178,63 +178,63 @@
 	<text>GXefath.docx</text>
 </string>
 <string id="ars_mar_b1_documents_1">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b1_documents_2">
 	<text>NuMytre.doc.</text>
 </string>
 <string id="ars_mar_b1_documents_2">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b1_documents_3">
 	<text>JUthbv.txt.</text>
 </string>
 <string id="ars_mar_b1_documents_3">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 
 <string id="mar_b2_documents_1">
 	<text>Новый_документ.txt</text>
 </string>
 <string id="ars_mar_b2_documents_1">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b2_documents_2">
 	<text>Исполнитель.docx</text>
 </string>
 <string id="ars_mar_b2_documents_2">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b2_documents_3">
 	<text>Приговор.rtf</text>
 </string>
 <string id="ars_mar_b2_documents_3">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 
 <string id="mar_b3_documents_1">
 	<text>Dsstdfx.exe</text>
 </string>
 <string id="ars_mar_b3_documents_1">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b3_documents_2">
 	<text>anomaly.ppe</text>
 </string>
 <string id="ars_mar_b3_documents_2">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b3_documents_3">
 	<text>mssdsp.flt</text>
 </string>
 <string id="ars_mar_b3_documents_3">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 <string id="mar_b3_documents_3_1">
 	<text>xrEngine.exe</text>
 </string>
 <string id="ars_mar_b3_documents_3_1">
-	<text>Файл поврежден.</text>
+	<text>File damaged.</text>
 </string>
 
 <string id="mar_b4_documents_1">
@@ -437,7 +437,7 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Друид: "Подготовь все в лучшем виде. Они не заставят себя ждать. Вопрос с долговцами нужно решать в ближайшее время. Так что думай. С Посредником это дело обсуди."\n Крис: "Я понял. Ложные данные уже переданы группировке. Будем ждать их следующего шага. Сообщи Варгу, что его ход следующий."\n Аякс: "Куда запропал? Выход к намеченному району как договаривались. Необходимо обеспечить прикрытие Свободе. Ждем тебя.."\n Крис: "Принято, уже выступаю. У меня вроде все тихо. Посмотрим, как дальше пойдет. Сообщите Фараону что группа может идти". Сапсан: "Группа вольных на подходе. Мы следим за ними. Можете брать на нашему сигналу". \n Крис: "Мое почтение тебе, друг. Я сам ими займусь".</text>
 </string>
 <string id="jupiter">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="enc_location_jupiter">
 	<text>Друид: "Долговцы врятли пойдут в открытую конфрантацию. Пока дальнейшие действия здесь откладываются. Посмотрим что посоветует Варг. Ты же работаешь сейчас со вторым фронтом. Птенчики все-равно никуда не денуться. Подготовь засаду на группу в лучшем виде." \n Крис: "Принято."</text>
@@ -455,29 +455,29 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Восточная часть города. Пересечение улицы Дружбы Народов с улицей Курчатова. Среди стратегически важных объектов можно выделить только небольшой речной вокзал с прилегающим к нему зданием кафе "Припять". Идеальное место для обустройства укрепленной точки, поскольку с крыши кафе полностью простреливается вся улица Курчатова, тогда как с крыши вокзала простреливается и улица Дружбы Народов. Дополнительно можно отметить, что в случае одновременного захвата здания кинотеатра "Прометей" с прилегающей музыкальной школой, откуда уже простреливается вся центральная часть города, фактически весь район оказывается под контролем и выбить противника, закрепившегося на этих точках, будет чрезвычайно сложно. Среди крупных строений, где может выгодно для себя закрепиться противник, можно выделить также городскую больницу с поликлиникой МСЧ-126 и Припятскую Среднюю Школу №1 в северной части района, а также комплекс общежитий в южной, соединяющихся через здание столовой "Встреча".</text>
 </string>
 <string id="labx8">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_location_labx8">
 	<text>Посредник: "Этот ублюдок вычислил тебя. Какого хера ты не работал на закрытой частоте? Хотя это уже не имеет для тебя никакого значения." \n Крис: "Что ты имеешь ввиду? Операция отменяется?" \n Посредник: "Нет. Группа пройдет как и должна пройти. С ней работаете по стандарту, после ты переходишь к работе на Янове. Тебя выведут." \n Крис: "Ты даешь гарантии моей жизни?" Посредник: "Все будет зависеть от тебя самого. Объект пока в узде. Я позабочусь чтобы он не успел к назначенному сроку. И молись чтобы было именно так." \n Крис: "Не проще ли его устранить?" Посредник: "Нет. Команды пока не было. О себе лучше подумай. Это был твой последний прокол. Все, жди группу..."</text>
 </string> 
 
 <string id="mar_b1_doc_4">
-	<text>Затон.</text>
+	<text>Zaton.</text>
 </string>
 <string id="mar_b1_doc_5">
-	<text>Припять.</text>
+	<text>Pripyat.</text>
 </string>
 <string id="mar_b1_doc_6">
-	<text>Рыжий лес.</text>
+	<text>Red Forest.</text>
 </string>
 <string id="enc_location_mar_b1_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b1_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b1_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string> 
 
 <string id="mar_b2_doc_4">
@@ -490,13 +490,13 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Кордон.</text>
 </string>
 <string id="enc_location_mar_b2_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b2_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b2_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b3_doc_4">
@@ -512,16 +512,16 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Тёмная Долина</text>
 </string>
 <string id="enc_location_mar_b3_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b3_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b3_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b3_doc_6_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b4_doc_4">
@@ -531,16 +531,16 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Янтарь.</text>
 </string>
 <string id="mar_b4_doc_6">
-	<text>Рыжий Лес.</text>
+	<text>Red Forest.</text>
 </string>
 <string id="enc_location_mar_b4_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b4_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b4_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b5_doc_4">
@@ -553,32 +553,32 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Темная Долина.</text>
 </string>
 <string id="enc_location_mar_b5_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b5_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b5_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b6_doc_4">
-	<text>Припять.</text>
+	<text>Pripyat.</text>
 </string>
 <string id="mar_b6_doc_5">
-	<text>Затон.</text>
+	<text>Zaton.</text>
 </string>
 <string id="mar_b6_doc_6">
 	<text>Янов.</text>
 </string>
 <string id="enc_location_mar_b6_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b6_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b6_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b7_doc_4">
@@ -591,13 +591,13 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Радар.</text>
 </string>
 <string id="enc_location_mar_b7_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b7_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b7_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b8_doc_4">
@@ -610,13 +610,13 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Болота.</text>
 </string>
 <string id="enc_location_mar_b8_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b8_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b8_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b9_doc_4">
@@ -629,13 +629,13 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Янтарь.</text>
 </string>
 <string id="enc_location_mar_b9_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b9_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_b9_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a10_doc_4">
@@ -648,13 +648,13 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Свалка.</text>
 </string>
 <string id="enc_location_mar_a10_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a10_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a10_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string> 
 
 <string id="mar_b11_doc1_1">
@@ -1111,13 +1111,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Кордон.</text>
 </string>
 <string id="enc_location_mar_a2_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a2_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a2_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a3_doc_4">
@@ -1130,13 +1130,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Дикая территория.</text>
 </string>
 <string id="enc_location_mar_a3_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a3_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a3_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a4_doc_4">
@@ -1146,16 +1146,16 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Янтарь.</text>
 </string>
 <string id="mar_a4_doc_6">
-	<text>Рыжий Лес.</text>
+	<text>Red Forest.</text>
 </string>
 <string id="enc_location_mar_a4_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a4_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a4_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a5_doc_4">
@@ -1168,32 +1168,32 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Темная Долина.</text>
 </string>
 <string id="enc_location_mar_a5_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a5_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a5_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a6_doc_4">
-	<text>Припять.</text>
+	<text>Pripyat.</text>
 </string>
 <string id="mar_a6_doc_5">
-	<text>Затон.</text>
+	<text>Zaton.</text>
 </string>
 <string id="mar_a6_doc_6">
 	<text>Янов.</text>
 </string>
 <string id="enc_location_mar_a6_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a6_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a6_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a7_doc_4">
@@ -1206,13 +1206,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Радар.</text>
 </string>
 <string id="enc_location_mar_a7_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a7_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a7_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a8_doc_4">
@@ -1225,13 +1225,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Болота.</text>
 </string>
 <string id="enc_location_mar_a8_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a8_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a8_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a9_doc_4">
@@ -1244,13 +1244,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Янтарь.</text>
 </string>
 <string id="enc_location_mar_a9_doc_4">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a9_doc_5">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_location_mar_a9_doc_6">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <!--/Location-->
 
@@ -1284,22 +1284,22 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b1_doc_7">
-	<text>Придурки сталкернутые</text>
+	<text>Idiot stalkers</text>
 </string>
 <string id="mar_b1_doc_8">
 	<text>Тайничек чё надо</text>
 </string>
 <string id="mar_b1_doc_9">
-	<text>Дешифратор</text>
+	<text>Decoder</text>
 </string>
 <string id="enc_faction_mar_b1_doc_7">
-	<text>(12.04.11 16:48) Твою ж мать, я уже 6-ой день, мля, торчу в этой аномалии, спасает меня сталкерня, что попадает в аномалию, валю всех без разбору, приличный хабар уже собрал, а продать... Нужно срочно барыгу искать или выход из этой шняги. Нужно пройтись и осмотрется, вдруг чёто интересное найду. (12.04.11 19:43) Ого, то чё искал прям, подошел к сараю, а там сталкерня, валить их не стал, много слишком там фраеров, сказал мол, что вольник я, если бы они знали кто я на самом деле. Поживу с ними пока, хабаром своим поделюсь, войду в доверие, а там посмотрим, чё делать с ними.</text>
+	<text>(2011-04-21 16:48) Твою ж мать, я уже 6-ой день, мля, торчу в этой аномалии, спасает меня сталкерня, что попадает в аномалию, валю всех без разбору, приличный хабар уже собрал, а продать... Нужно срочно барыгу искать или выход из этой шняги. Нужно пройтись и осмотрется, вдруг чёто интересное найду. (2011-04-21 19:43) Ого, то чё искал прям, подошел к сараю, а там сталкерня, валить их не стал, много слишком там фраеров, сказал мол, что вольник я, если бы они знали кто я на самом деле. Поживу с ними пока, хабаром своим поделюсь, войду в доверие, а там посмотрим, чё делать с ними.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_8">
-	<text>(23.06.11 11:23) В общем, ужился я с этими фраерами, но вот Лютый этот, меня бесит сильно... Из последних сил держусь, чтобы не шмальнуть в него разок-другой. Ну и ладно, пусть пока живет себе. Самый четкий хабар, который я с тех жмуров снимал, я припрятал. Давно у меня не было такого добра, похвастатся нет кому, обидно даже. Ну ладно, пойду ка я еще раз тайничек проверю, на месте ли все.</text>
+	<text>(2011-06-23 11:23) В общем, ужился я с этими фраерами, но вот Лютый этот, меня бесит сильно... Из последних сил держусь, чтобы не шмальнуть в него разок-другой. Ну и ладно, пусть пока живет себе. Самый четкий хабар, который я с тех жмуров снимал, я припрятал. Давно у меня не было такого добра, похвастатся нет кому, обидно даже. Ну ладно, пойду ка я еще раз тайничек проверю, на месте ли все.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_9">
-	<text>(14.07.11 18:53) Мда, изменила меня эта аномалия все-таки, уже и забыл, как это, быть бандитом, одно радует, стрелять хорошо научился. Ну и ладно, в общем завалил трех фраеров сегодня, два наёмника и ученый. В вещах яйцеголового была хрень какая-то, посмотрев документы, я узнал, что это "Дешифратор" и, что с помощью этой херни можно отсюда выбратся, но как? Заныкаю я пока его, а пока поизучаю лучше документы эти.</text>
+	<text>(2011-07-14 18:53) Мда, изменила меня эта аномалия все-таки, уже и забыл, как это, быть бандитом, одно радует, стрелять хорошо научился. Ну и ладно, в общем завалил трех фраеров сегодня, два наёмника и ученый. В вещах яйцеголового была хрень какая-то, посмотрев документы, я узнал, что это "Дешифратор" и, что с помощью этой херни можно отсюда выбратся, но как? Заныкаю я пока его, а пока поизучаю лучше документы эти.</text>
 </string>
 
 <string id="mar_b2_doc_7">
@@ -5951,41 +5951,41 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b1_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b1_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b1_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b2_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b2_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b2_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b3_doc_1">
@@ -5998,171 +5998,171 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>19.03.2009</text>
 </string>
 <string id="mar_b3_doc_3_1">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b3_doc_3_2">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b4_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b4_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b4_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b5_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b5_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b5_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b6_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b6_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b6_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b7_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b7_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b7_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b8_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b8_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b8_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b9_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_b9_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_b9_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_1">
 	<text>Вход в объект замаскирован под канализационные коммуникации. И когда просвещённый нес знания, свет снизошел с небес, который заволок  их обитель  сиянием, указывающим на северо-восток. В самую крайнюю точку.</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a10_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a10_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a10_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_2">
 	<text>Поток аномальной энергии от ангела был огромен.  Завораживающая по своей красоте аномалия была самим совершенством. Она и станет нашим козырным тузом в колоде. Пентаграмма ангелов сиих накроет город и покарает фанатиков. Они всегда рождаются по одной схеме, друг за другом. Найти прошлое место по существующим не составит труда.</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a2_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a2_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a2_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a2_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a2_doc_2">
 	<text>.огород и олам ,онревкс ьтавад онжом умотэоп .»морад и огонм ,ошорох« :хапицнирп херт ан анавонсо арим амалкер ясв ...ыпулг еж есв идюл .2
@@ -6176,13 +6176,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a3_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a3_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a3_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_1">
 	<text>.огород и олам ,онревкс ьтавад онжом умотэоп .»морад и огонм ,ошорох« :хапицнирп херт ан анавонсо арим амалкер ясв ...ыпулг еж есв идюл .2
@@ -6192,46 +6192,46 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 ,йеовс ьсилед ен йонйат ыт имьдюл с .1</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a4_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a4_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a4_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_2">
 	<text>.еинеримирп ,еинадварпо ,еинещорп мозар — еинаминоп отч умотоп ,вогарв еинаминоп отэ — йиксечеволеч ешьлоб еще ,йынсаркерп еелоб еще гивдоп ьтсе он ;гивдоп йынсаркерп — вогарв еинещорп .2
 .еинещорп ьтаворад и — еиненивбо ьтисорб одан йе огечто тов .ансунг и еще ано он !анчигарт окьлот алыб ахопэ ашан ыб илсе .1</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a5_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a5_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a5_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_3">
 	<text>.ястачорпу еелоб еще илетедорбод иовт адгот .ондив ен ынив едг ,мат унив ищи ,ябес ьшидус адгок .еисалгос тедуб хядюл в адгот .ынив еивтстусто енив хи в ищи ,хигурд ьшидус адгок .2
@@ -6239,80 +6239,80 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a6_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a6_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a6_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_1">
 	<text>.меинадартс и имакум хин ялд ястеачнок ,еинеджалсан ми ьтиватсод ыботч ,огот отсемв хи еивтсешетуп умотэоп .усрук умонрев ьдубин-умокак оп ьлбарок итсев ыботч ,амузар ончотатсоден хин у ,ьтуп йовс ьтиварпан ыботч ,асапмок тен хин у он ,хасурап хесв ан ером в ястюаксуп ино ,оге итйан ьсямертс .йедюл хыдолом овтснишьлоб ястюавибзар йыроток бо ,фир отэ — еивтсьловоду .2
 .теавигятирп хи яароток ,ихетоп йовон йот ытотсуп еще тюувтсвуч ен он ,инзиж йеовс утотсуп тюувтсвуч отч ,умотоп окьлот ,уноротс в ыноротс зи ьсяасорб ,яивтсьловоду тущи идюл .1</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a7_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a7_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a7_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_1">
 	<text>Данные по установке активировавших ангелов и основной архив находиться на нашей главное базе, секретный путь к которой лежит через объект Болота.</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a8_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a8_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a8_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_1">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_a9_doc_1">
-	<text>Позавчера</text>
+	<text>Two days ago</text>
 </string>
 <string id="mar_a9_doc_2">
-	<text>Вчера</text>
+	<text>Yesterday</text>
 </string>
 <string id="mar_a9_doc_3">
-	<text>Сегодня</text>
+	<text>Today</text>
 </string>
 <string id="enc_mutant_mar_a9_doc_1">
 	<text>Долгой дорогой  путник проходишь ты. Столько тайн и загадок на твоем пути. Осознай суть тайны той и пойми что скрыто за печатью ангельской из букв пяти. Буквы те, что в словах-отгадках манускриптов  сих на первом месте восседают, между ними и тобою восседает. </text>
 </string>
 <string id="enc_mutant_mar_a9_doc_2">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="enc_mutant_mar_a9_doc_3">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <!--/Monsters-->
@@ -6373,60 +6373,60 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Через разные промежутки времени по Зоне проходят волны выброса гравитационного рода в сочетании с резко повышенным психотропным воздействием. Во время этой активности, нахождение в Зоне смертельно опасно, по всей территории проходят невидимые волны, человек без спецоборудования гибнет в считанные секунды, начинает трястись земля, затем следует серия вспышек. Ярко светящееся небо и черно-белый мир, глаза не выдерживают слепящего солнца. Во время выброса можно увидеть фантомные образования и марево на местах гравитационных аномалий.</text>
 </string>
 <string id="mar_b1_doc_10">
-	<text>Малява.</text>
+	<text>Record.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_10">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b1_doc_11">
-	<text>На Свалку.</text>
+	<text>To the Garbage.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_11">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b1_doc_12">
-	<text>Зуб.</text>
+	<text>Tooth.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_12">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b2_doc_10">
 	<text>Застава - помойка</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_10">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b2_doc_11">
 	<text>Надо сваливать</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_11">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b2_doc_12">
 	<text>Ставрид</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_12">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b3_doc_10">
 	<text>Участники проекта «Х»</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_10">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b3_doc_11">
 	<text>Х-6</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_11">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 <string id="mar_b3_doc_12">
 	<text>Х-10</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_12">
-	<text>Данные заблокированы...</text>
+	<text>Data encrypted.</text>
 </string>
 
 <string id="mar_b4_doc_10">

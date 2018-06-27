@@ -323,7 +323,7 @@
 		<text>Old warehouse</text>
 	</string>
 	<string id="st_pb_a2_name">
-		<text>Camp on the hill</text>
+		<text>Hill camp</text>
 	</string>
 	<string id="st_pb_a3_name">
 		<text>Barrier</text>
@@ -338,7 +338,7 @@
 		<text>Food warehouse</text>
 	</string>
 	<string id="st_pb_a7_name">
-		<text>Abandoned asylum</text>
+		<text>Abandoned refuge</text>
 	</string>
 	<string id="digger_stash">
 		<text>Nora</text>

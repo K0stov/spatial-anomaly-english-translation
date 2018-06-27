@@ -2,7 +2,7 @@
 
 <xml>
 	<specific_character id="bar_zmeelov_digger" team_default="1">
-		<name>Змеелов</name>
+		<name>Snaker</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -95,7 +95,7 @@
 
 
         	<specific_character id="bar_digger_semen" team_default="1">
-		<name>Семён</name>
+		<name>Semyon</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -126,7 +126,7 @@
 
 
 	<specific_character id="bar_markus_end_game" team_default="1">
-		<name>Маркус</name>
+		<name>Markus</name>
 		<icon>ui_inGame2_Markus</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -160,7 +160,7 @@
 
 
 	<specific_character id="bar_otshelnik" team_default="1">
-		<name>Отшельник</name>
+		<name>Hermit</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -222,7 +222,7 @@
         </specific_character>
         
         <specific_character id="bar_medic" team_default="1">
-		<name>Ворон</name>
+		<name>Raven</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -251,7 +251,7 @@
 #include "gameplay\character_criticals_4.xml"
         </specific_character>
                 	<specific_character id="bar_barman" team_default="1">
-		<name>Ворон</name>
+		<name>Raven</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -330,7 +330,7 @@
 	</specific_character>
 
 	<specific_character id="labx7_lutiy_monolith" team_default="1">
-		<name>Лютый</name>
+		<name>Savage</name>
 		<icon>ui_inGame2_Lutiy</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

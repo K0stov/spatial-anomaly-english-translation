@@ -148,7 +148,7 @@
 
 <!-- Quest: night hunt -->
 <string id="pb_night_hunting_part_1_name">
-<text>Night hunt: wait for the night</text>
+<text>Night hunt: wait until night</text>
 </string>
 <string id="pb_night_hunting_part_1_text">
 <text>The chimera only enters the bunker at night. We need to wait until the sun sets to hunt it down.</text>
@@ -222,13 +222,13 @@
 
 <!-- Quest: dangerous hunt -->
 <string id="pb_kill_to_squad_flash_part_1_name">
-<text>Dangerous hunt: Speak to Snake</text>
+<text>Dangerous hunt: speak to Snake</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_1_text">
 <text>Markus asked me to speak to Snake before the hunt.</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_2_name">
-<text>Dangerous hunt: Kill the flesh</text>
+<text>Dangerous hunt: kill the flesh</text>
 </string>
 <string id="pb_kill_to_squad_flash_part_2_text">
 <text>The flesh located at the marker need to be taken out.</text>
@@ -552,7 +552,7 @@
 </string>
 
 
-<!-- Quest: Lead Murad to the base -->
+<!-- Quest: lead Murad to the base -->
 <string id="pb_murad_go_to_base_part_1_name">
 <text>SOS: respond to the distress signal</text>
 </string>

@@ -55,7 +55,7 @@
 
 
 	<specific_character id="esc_leader_orest" team_default = "1">
-		<name>Орест</name>
+		<name>Orest</name>
 		<icon>ui_inGame2_Orest</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -86,7 +86,7 @@
 
 
 	<specific_character id="esc_army_leader" team_default = "1">
-		<name>Майор Халецкий</name>
+		<name>Major Khaletskiy</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -114,7 +114,7 @@
 	
 	
 <specific_character id="esc_army_yaroshuk" team_default = "1">
-	    <name>Лейтенант Ярощук</name>
+	    <name>Lieutenant Yaroshchuk</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -142,7 +142,7 @@
 
 
     <specific_character id="esc_stalker_to_atp" team_default = "1">
-		<name>Курьер</name>
+		<name>Courier</name>
 		<icon>ui_inGame2_Enot</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -218,7 +218,7 @@
 	</specific_character>
 
     <specific_character id="esc_b46_friend_to_kurer_dead" team_default = "1">
-		<name>Зохан</name>
+		<name>Zokhan</name>
 		<icon>ui_inGame2_Zoxan</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -253,7 +253,7 @@
 
 
 	<specific_character id="esc_barmen_base" team_default = "1">
-		<name>Шилов</name>
+		<name>Shilov</name>
 		<icon>ui_inGame2_Shtik</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -281,7 +281,7 @@
 
 
     <specific_character id="esc_lom" team_default = "1">
-		<name>Лом</name>
+		<name>Crowbar</name>
 		<icon>ui_inGame2_Lom</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -314,7 +314,7 @@
 
 
     <specific_character id="esc_wolf" team_default = "1">
-		<name>Волк</name>
+		<name>Wolf</name>
 		<icon>ui_inGame2_Wolf</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -351,7 +351,7 @@
 
 
     <specific_character id="esc_wolf_brother" team_default = "1">
-		<name>Пёс</name>
+		<name>Hound</name>
 		<icon>ui_inGame2_wolf</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -387,7 +387,7 @@
 
 
     <specific_character id="esc_mechanic_furgon" team_default = "1">
-		<name>Фургон</name>
+		<name>Van</name>
 		<icon>ui_inGame2_Furgon</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -420,7 +420,7 @@
 	
 	
 	<specific_character id="esc_mechanic_barkas" team_default = "1">
-		<name>Баркас</name>
+		<name>Longboat</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -449,7 +449,7 @@
 	
 	
 	<specific_character id="esc_trader_kusto" team_default = "1">
-		<name>Кусто</name>
+		<name>Kusto</name>
 		<icon>ui_inGame2_kusto</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -478,7 +478,7 @@
 	
 	
 	<specific_character id="esc_barman_patogen" team_default = "1">
-		<name>Шаман</name>
+		<name>Shaman</name>
 		<icon>ui_inGame2_Shaman</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -511,7 +511,7 @@
 	
 	
 	<specific_character id="esc_shaman" team_default = "1">
-		<name>Шаман</name>
+		<name>Shaman</name>
 		<icon>ui_inGame2_shaman</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -544,7 +544,7 @@
 	
 	
 	<specific_character id="esc_risovalshik" team_default = "1">
-		<name>Рисовальщик</name>
+		<name>Penciller</name>
 		<icon>ui_inGame2_risovalshik</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -573,7 +573,7 @@
 	</specific_character>
 	
 		<specific_character id="esc_medic_antibiotic" team_default = "1">
-		<name>Антибиотик</name>
+		<name>Antibiotic</name>
 		<icon>ui_inGame2_antibiotic</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -600,7 +600,7 @@
 
 	
 	<specific_character id="esc_colonel_kolyazin" team_default = "1">
-		<name>Полковник Колязин</name>
+		<name>Colonel Kolyazin</name>
 		<icon>ui_inGame2_kolyazin</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -628,7 +628,7 @@
 	
 	
 	<specific_character id="esc_bandit_logoped" team_default = "1">
-		<name>Логопед</name>
+		<name>Logopedist</name>
 		<icon>ui_inGame2_logoped</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -658,7 +658,7 @@
 	
 	
 	<specific_character id="esc_bandit_tick" team_default = "1">
-		<name>Клещ</name>
+		<name>Tick</name>
 		<icon>ui_inGame2_tick</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -686,7 +686,7 @@
 	
 	
 	<specific_character id="esc_borland_start" team_default = "1">
-		<name>Борланд</name>
+		<name>Borland</name>
 		<icon>ui_inGame2_borland</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -711,7 +711,7 @@
 	</specific_character>
 	
 		<specific_character id="esc_borland" team_default = "1">
-		<name>Борланд</name>
+		<name>Borland</name>
 		<icon>ui_inGame2_borland</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -739,7 +739,7 @@
 	
 	
 	<specific_character id="esc_borland_quest" team_default = "1">
-		<name>Борланд</name>
+		<name>Borland</name>
 		<icon>ui_inGame2_borland</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -771,7 +771,7 @@
 	
 	
 	<specific_character id="esc_borland_underground" team_default = "1">
-		<name>Борланд</name>
+		<name>Borland</name>
 		<icon>ui_inGame2_borland</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -802,7 +802,7 @@
 	
 	
  <specific_character id="esc_borland_lab" team_default = "1">
-		<name>Борланд</name>
+		<name>Borland</name>
 		<icon>ui_inGame2_borland</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -833,7 +833,7 @@
 	
 	
 	<specific_character id="esc_trepach" team_default = "1">
-		<name>Трепач</name>
+		<name>Jawsmith</name>
 		<icon>ui_inGame2_bandit_3</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -863,7 +863,7 @@
 	
 	
 	<specific_character id="esc_dybolom" team_default = "1">
-		<name>Дуболом</name>
+		<name>Knucklehead</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -920,7 +920,7 @@
 	
 	
 	<specific_character id="esc_army_chernenco" team_default = "1">
-	    <name>Ефрейтор Черненко</name>
+	    <name>Lance Corporal Chernenko</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -948,7 +948,7 @@
 	
 	
 		<specific_character id="esc_klim" team_default = "1">
-		<name>Клим</name>
+		<name>Klim</name>
 		<icon>ui_inGame2_klin</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -975,7 +975,7 @@
 	
 	
 	<specific_character id="esc_npc_wood_goblin" team_default = "1">
-		<name>Дуболом</name>
+		<name>Knucklehead</name>
 		<icon>ui_inGame2_Dubolom</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1004,7 +1004,7 @@
 	
 	
 	<specific_character id="esc_npc_sour" team_default = "1">
-		<name>Кислый</name>
+		<name>Spotty</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1033,7 +1033,7 @@
 	
 	
 	<specific_character id="esc_npc_garlic" team_default = "1">
-		<name>Чеснок</name>
+		<name>Garlic</name>
 		<icon>ui_inGame2_none</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1062,7 +1062,7 @@
 	
 	
 	<specific_character id="esc_npc_pate" team_default = "1">
-		<name>Паштет</name>
+		<name>Pate</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1093,7 +1093,7 @@
 	
 	
 	<specific_character id="esc_quest_sb_tryp" team_default = "1">
-		<name>Колотун</name>
+		<name>Kolotun</name>
 		<icon>ui_inGame2_bandit_3</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1118,7 +1118,7 @@
 	
 	
 	<specific_character id="esc_merc_bear" team_default = "1">
-		<name>Медведь</name>
+		<name>Bear</name>
 		<icon>ui_inGame2_none</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1146,7 +1146,7 @@
 	
 	
 	<specific_character id="esc_bandit_shmiga" team_default = "1">
-		<name>Шмыга</name>
+		<name>Shmyga</name>
 		<icon>ui_inGame2_none</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1176,7 +1176,7 @@
 	
 
   <specific_character id="esc_npc_shvabroid" team_default = "1">
-		<name>Шпала</name>
+		<name>Sleeper</name>
 		<icon>ui_inGame2_bandit_3_mask</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1204,7 +1204,7 @@
 
 
 	<specific_character id="esc_npc_student" team_default = "1">
-		<name>Студент</name>
+		<name>Student</name>
 		<icon>ui_inGame2_none</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1233,7 +1233,7 @@
 
 
 	<specific_character id="esc_killer_bizon" team_default = "1">
-		<name>Бизон</name>
+		<name>Bizon</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1261,7 +1261,7 @@
 
 
 	<specific_character id="esc_killer_duplet" team_default = "1">
-		<name>Дуплет</name>
+		<name>Doublet</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1292,7 +1292,7 @@
 
 
 	<specific_character id="esc_killer_grif" team_default = "1">
-		<name>Гриф</name>
+		<name>Vulture</name>
 		<icon>ui_inGame2_Grif</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1321,7 +1321,7 @@
 
 
 	<specific_character id="esc_killer_raven" team_default = "1">
-		<name>Ворон</name>
+		<name>Raven</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1348,7 +1348,7 @@
 	</specific_character>
 
 	<specific_character id="esc_killer_raven_sniper" team_default = "1">
-		<name>Ворон</name>
+		<name>Raven</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1375,7 +1375,7 @@
 	</specific_character>
 
 	<specific_character id="esc_killer_raven_final" team_default = "1">
-		<name>Ворон</name>
+		<name>Raven</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1454,7 +1454,7 @@
 	</specific_character>
 
 	<specific_character id="esc_koordinator" team_default = "1">
-		<name>Координатор</name>
+		<name>Coordinator</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -1531,7 +1531,7 @@
 	</specific_character>
 
     <specific_character id="esc_stalker_muravei" team_default = "1">
-		<name>Муравей</name>
+		<name>Ant</name>
 		<icon>ui_inGame2_Muravei</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1552,7 +1552,7 @@
 	</specific_character>
 
     <specific_character id="esc_stalker_levsha" team_default = "1">
-		<name>Енот</name>
+		<name>Raccoon</name>
 		<icon>ui_inGame2_Enot</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1573,7 +1573,7 @@
 	</specific_character>
 
     <specific_character id="esc_bar_security" team_default = "1">
-		<name>Вышибала</name>
+		<name>Bouncer</name>
 		<icon>ui_inGame2_Bar_security</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1672,7 +1672,7 @@
 	</specific_character>
 
     <specific_character id="esc_bar_stalker_drunk" team_default = "1">
-		<name>Бухарь</name>
+		<name>Drunkard</name>
 		<icon>ui_inGame2_neutral_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1693,7 +1693,7 @@
 	</specific_character>
 
     <specific_character id="esc_bar_storyman" team_default = "1">
-		<name>Сказочник</name>
+		<name>Storyteller</name>
 		<icon>ui_inGame2_Storyman</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
@@ -1719,7 +1719,7 @@
 	</specific_character>
 
     <specific_character id="esc_atp_visual" team_default = "1">
-		<name>Митяй</name>
+		<name>Mitay</name>
 		<icon>ui_inGame2_neutral_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Детальная информация отсутствует.</bio>
