@@ -453,7 +453,7 @@
 
 <!-- Quest: weak signal -->
 <string id="pb_finality_signal_founded_part_1_name">
-<text>Weak signal: Проверить указанную точку</text>
+<text>Weak signal: check the marked area</text>
 </string>
 <string id="pb_finality_signal_founded_part_1_text">
 <text>Savage says that they’ve picked up another signal. I need to find its source.</text>
@@ -706,7 +706,7 @@
 
 <!-- Quest: death wish -->
 <string id="pb_found_lisiy_and_give_art_part_1_name">
-<text>Death wish: find the staker Baldy and inform him about the fate of Spotty</text>
+<text>Death wish: find the stalker Baldy and inform him about the fate of Spotty</text>
 </string>
 <string id="pb_found_lisiy_and_give_art_part_1_text">
 <text>Before dying, Spotty asked me to pass on an artifact to a stalker by the name of Baldy. I should fulfill his request, though I could also keep the artifact to myself.</text>

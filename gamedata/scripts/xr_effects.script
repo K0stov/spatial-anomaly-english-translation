@@ -3772,7 +3772,7 @@ end
 function pb_new_text_in_bloknot()
      local snd = sound_object([[interface\inv_new_text]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-     local news_text = "%c[default]".."A new entry has been added to personal notes"
+     local news_text = "%c[default]".."A new entry has been added to your personal notes"
      local news_caption = game.translate_string("st_tip")
         local texture = "new_text_in_bloknot"
 
@@ -4438,13 +4438,13 @@ end
 function esc_zver_sends_sms_raven()
      local snd = sound_object([[characters_voice\scenario\actor\esc_zver_sends_sms_raven]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Raven, get away from the corpse and return to the vehicle station. I知 heading to the military for our payment.", "Beast:", nil, 10, "ui_inGame2_Hero")
+	SendTip("%c[54,199,169,96]Raven, get away from the corpses and return to the vehicle station. I知 heading to the military to get our payment.", "Beast:", nil, 10, "ui_inGame2_Hero")
 end
 
 function esc_yaroshuk_sends_sms_zver()
      local snd = sound_object([[characters_voice\scenario\escape\esc_yaroshuk_sends_sms_zver]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Great. I値l wait for you there in the morning.", "Lieutenant Yaroshchuk:", nil, 10, "ui_sms_army")
+	SendTip("%c[255,220,20,60]Excellent. I値l wait for you at the same place in the morning.", "Lieutenant Yaroshchuk:", nil, 10, "ui_sms_army")
 end
 
 function esc_razvedka_quest_sms_1()
@@ -4540,7 +4540,7 @@ end
 function esc_way_to_base_open()
      local snd = sound_object([[characters_voice\scenario\escape\esc_stalker_base_yes_pda_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	 SendTip("%c[255,220,20,60]Keep going. The trader put in a good word for you.", "Crowbar:", nil, 10, "ui_inGame2_Lom")
+	 SendTip("%c[255,220,20,60]Go, quick! The trader put in a word for youﾉ", "Crowbar:", nil, 10, "ui_inGame2_Lom")
 end
 
 function blck_val_shaman_quest_sms_1()

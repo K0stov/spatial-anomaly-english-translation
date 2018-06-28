@@ -1,457 +1,457 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
-<!-- Квест: Былые времена -->
+<!-- Quest: old times -->
 <string id="esc_actor_memmory_start_part_1_name">
-<text>Былые времена: Поговорить с Вороном</text>
+<text>Old times: speak to Raven</text>
 </string>
 <string id="esc_actor_memmory_start_part_1_text">
-<text>Шакал назначил меня главой группы и поручил проконтролировать выполнение заданий на Кордоне, скорее всего Ворон хочет поговорить о повышении со мной.</text>
+<text>Jackal has declared me the head of the group and instructed me to keep an eye on our business in the Cordon. Raven probably wants to talk to me about my promotion.</text>
 </string>
 <string id="esc_actor_memmory_start_part_2_name">
-<text>Былые времена: Поговорить с Курьером</text>
+<text>Old times: speak to Courier</text>
 </string>
 <string id="esc_actor_memmory_start_part_2_text">
-<text>Неизвестные пришли к базе, нужно узнать, что они хотят.</text>
+<text>Some unexpected guests have shown up at our doorstep. I need to find out what they want.</text>
 </string>
 <string id="esc_actor_memmory_start_part_3_name">
-<text>Былые времена: Нейтрализовать сталкеров</text>
+<text>Old times: neutralize the stalkers</text>
 </string>
 <string id="esc_actor_memmory_start_part_3_text">
-<text>Нужно уничтожить незваных гостей, они что-то задумали и общение с ними к добру не приведет.</text>
+<text>Our visitors need a taking out. They’ve plotted something, and a discussion with them isn’t leading anywhere good.</text>
 </string>
 <string id="esc_actor_memmory_start_part_4_name">
-<text>Былые времена: Обсудить случившееся с Вороном</text>
+<text>Old times: discuss recent events with Raven</text>
 </string>
 <string id="esc_actor_memmory_start_part_4_text">
-<text>Неизвестные уничтожены, но о их планах, по поводу нас, мы ничего не узнали. Такое чувство, что они специально пришли сюда, чтобы умереть. Нужно обсудить дальнейшие планы с Вороном.</text>
+<text>The unknown stalkers are dead, but we didn’t manage to find out anything about their plans. I get the feeling they came here just to do. I should talk to Raven about this.</text>
 </string>
 
-<!-- Квест: Первые шаги -->
+<!-- Quest: first steps -->
 <string id="esc_come_to_base_part_1_name">
-<text>Первые шаги: Следовать за Вороном</text>
+<text>First steps: follow Raven</text>
 </string>
 <string id="esc_come_to_base_part_1_text">
-<text>Неизвестные не имеют отношения к новичкам и Волку, скорее всего, но нужно проверить так ли это, а заодно и к Сидоровичу зайти.</text>
+<text>It seems that the unknown stalkers have nothing to do with Wolf in the rookie village, but I need to take it up with him and see Sidorovich while I’m at it.</text>
 </string>
 <string id="esc_come_to_base_part_2_name">
-<text>Первые шаги: Поговорить с Волком</text>
+<text>First steps: speak to Wolf</text>
 </string>
 <string id="esc_come_to_base_part_2_text">
-<text>Волк прислал сообщение о том, что к Сидоровичу сейчас нельзя и сначала лучше подойти к нему, думаю нужно поговорить с ним.</text>
+<text>Wolf has sent a message and says that Sidorovich isn’t available right now and that it’d be better if I speak to Wolf personally.</text>
 </string>
 
-<!-- Квест: Пропавшая группа -->
+<!-- Quest: missing squad -->
 <string id="esc_operations_escape_part_1_name">
-<text>Пропавшая группа: Узнать, что произошло с группой Волка</text>
+<text>Missing squad: find out what’s happened with Wolf’s group</text>
 </string>
 <string id="esc_operations_escape_part_1_text">
-<text>Волк попросил найти его группу, которая перестала выходить на связь, находилась группа на территории бандитов и подвергалась их нападению скорее всего.</text>
+<text>Wolf has requested me to find his group, which has broken radio contact. The group was located in bandit territory and has likely come under attack.</text>
 </string>
 <string id="esc_operations_escape_part_2_name">
-<text>Пропавшая группа: Помочь сталкеру</text>
+<text>Missing squad: help the stalker</text>
 </string>
 <string id="esc_operations_escape_part_2_text">
-<text>На месте только один живой сталкер, он ранен, нужно ему помочь.</text>
+<text>Only one stalker is alive at the site, and he’s wounded. He needs help.</text>
 </string>
 <string id="esc_operations_escape_part_3_name">
-<text>Пропавшая группа: Обсудить подробности штурма</text>
+<text>Missing squad: discuss the details of the assault</text>
 </string>
 <string id="esc_operations_escape_part_3_text">
-<text>Можно начинать штурм, но перед этим желательно подробнее рассмотреть его план.</text>
+<text>The assault can begin, but we should discuss a plan first.</text>
 </string>
 <string id="esc_operations_escape_part_4_name">
-<text>Пропавшая группа: Уничтожить бандитов</text>
+<text>Missing squad: eliminate the bandits</text>
 </string>
 <string id="esc_operations_escape_part_4_text">
-<text>Нужно уничтожить бандитов, чтобы спасти плененных сталкеров.</text>
+<text>The bandits need to be eliminated in order to save the captive stalkers.</text>
 </string>
 <string id="esc_operations_escape_part_5_name">
-<text>Пропавшая группа: Освободить пленников</text>
+<text>Missing squad: free the captives</text>
 </string>
 <string id="esc_operations_escape_part_5_text">
-<text>Бандиты уничтожены, теперь осталось освободить сталкеров и можно возвращаться обратно.</text>
+<text>The bandits are all down. Now the stalkers have to be freed, after which we can return back.</text>
 </string>
 <string id="esc_operations_escape_part_6_name">
-<text>Пропавшая группа: Поговорить с Вороном</text>
+<text>Missing squad: speak to Raven</text>
 </string>
 <string id="esc_operations_escape_part_6_text">
-<text>Перед уходом нужно обсудить кое-что с Вороном.</text>
+<text>Before we leave, I need to discuss a little something with Raven.</text>
 </string>
 <string id="esc_operations_escape_part_7_name">
-<text>Пропавшая группа: Поговорить с Волком</text>
+<text>Missing squad: speak to Wolf</text>
 </string>
 <string id="esc_operations_escape_part_7_text">
-<text>Я выполнил задание, теперь можно и с Волком поговорить.</text>
+<text>I’ve fulfilled the task. I should have a few words with Wolf.</text>
 </string>
 
-<!-- Квест: Поговорить с Сидоровичем -->
+<!-- Quest: speak to Sidorovich -->
 <string id="esc_talk_to_sidorovich_part_1_name">
-<text>Заказчик ждет: Поговорить с Сидоровичем</text>
+<text>Waiting customer: speak to Sidorovich</text>
 </string>
 <string id="esc_talk_to_sidorovich_part_1_text">
-<text>Волк сообщил, что Сидорович освободился и готов меня принять, нужно сходить и поговорить с ним.</text>
+<text>Wolf has messaged me that Sidorovich is free and ready to take me. Time to head over there and have a chat.</text>
 </string>
 
-<!-- Квест: Поиск флешки для Сидоровича -->
+<!-- Quest: find the flash drive for Sidorovich -->
 <string id="esc_klim_flash_found_part_1_name">
-<text>Особый заказ: Установить радио-маяк на мосту</text>
+<text>Special order: place the beacon on the bridge</text>
 </string>
 <string id="esc_klim_flash_found_part_1_text">
-<text>Сидорович поручил мне найти сталкера по кличке Клим и забрать флешку, сталкера при этом в живых не оставлять, но чтобы найти его нужно установить радио-маяк на мосту.</text>
+<text>Sidorovich has tasked me with finding a stalker by the name of Klim and retrieving a flash drive from him. Klim is also not to be left alive. In order to find him, I need to place a beacon on the Cordon bridge.</text>
 </string>
 <string id="esc_klim_flash_found_part_2_name">
-<text>Особый заказ: Ожидать дальнейших указаний</text>
+<text>Special order: wait for signs</text>
 </string>
 <string id="esc_klim_flash_found_part_2_text">
-<text>Маяк установлен, теперь осталось дождаться дальнейших указаний от Сидоровича.</text>
+<text>The beacon has been placed. Time to wait for further orders from Sidorovich.</text>
 </string>
 <string id="esc_klim_flash_found_part_3_name">
-<text>Особый заказ: Найти Клима</text>
+<text>Special order: find Klim</text>
 </string>
 <string id="esc_klim_flash_found_part_3_text">
-<text>Сидорович скинул мне координаты сигнала КПК Клима, нужно его найти.</text>
+<text>Sidorovich has given me the coordinates of Klim’s PDA. Time to track him down.</text>
 </string>
 <string id="esc_klim_flash_found_part_4_name">
-<text>Особый заказ: Поговорить с охотником</text>
+<text>Special order: speak to the hunter</text>
 </string>
 <string id="esc_klim_flash_found_part_4_text">
-<text>Нужно поговорить с неизвестным и узнать как он связан со смертью Клима.</text>
+<text>Klim’s already dead, and by his corpse is another stalker. I need to find out how he’s connected to Klim’s death.</text>
 </string>
 <string id="esc_klim_flash_found_part_5_name">
-<text>Особый заказ: Следовать за охотником</text>
+<text>Special order: follow the hunter</text>
 </string>
 <string id="esc_klim_flash_found_part_5_text">
-<text>Есть вероятность, что флешку проглотила пси-собака, нужно помочь охотнику найти и убить её.</text>
+<text>It’s likely that a pseudodog has swallowed the flash drive. I need to help the hunter find it and kill it.</text>
 </string>
 <string id="esc_klim_flash_found_part_6_name">
-<text>Особый заказ: Убить пси-собаку</text>
+<text>Special order: kill the pseudodog</text>
 </string>
 <string id="esc_klim_flash_found_part_6_text">
-<text>Пси-собака обнаружена, нужно её уничтожить.</text>
+<text>We’ve found the pseudodog. Time to kill it.</text>
 </string>
 <string id="esc_klim_flash_found_part_7_name">
-<text>Особый заказ: Извлечь из тела псины флешку</text>
+<text>Special order: extract the flash drive from the pseudodog body</text>
 </string>
 <string id="esc_klim_flash_found_part_7_text">
-<text>Пси-собака мертва, теперь нужно вспороть её брюхо и проверить нет ли там флешки.</text>
+<text>The pseudodog is dead. I can now open up its belly and see if the flash drive is there or not.</text>
 </string>
 <string id="esc_klim_flash_found_part_8_name">
-<text>Особый заказ: Поговорить с охотником</text>
+<text>Special order: speak to the hunter</text>
 </string>
 <string id="esc_klim_flash_found_part_8_text">
-<text>Я нашел флешку, перед уходом нужно поговорить с охотником.</text>
+<text>I’ve found the flash drive. Before I head back to the village, I should speak to the hunter.</text>
 </string>
 <string id="esc_klim_flash_found_part_9_name">
-<text>Особый заказ: Вернуться к Сидоровичу</text>
+<text>Special order: return to Sidorovich</text>
 </string>
 <string id="esc_klim_flash_found_part_9_text">
-<text>Теперь можно отправляться обратно к Сидоровичу, для сдачи заказа.</text>
+<text>Time to return back to Sidorovich and fulfill his order.</text>
 </string>
 <string id="esc_klim_flash_found_part_10_name">
-<text>Особый заказ: Отдать флешку Сидоровичу</text>
+<text>Special order: give the flash drive to Sidorovich</text>
 </string>
 <string id="esc_klim_flash_found_part_10_text">
-<text>Я выполнил задание, теперь нужно отдать флешку Сидоровичу.</text>
+<text>I’ve completed the assignment. I should give the flash drive to Sidorovich.</text>
 </string>
 <string id="esc_klim_flash_found_part_11_name">
-<text>Особый заказ: Взять радио-маяк в подсобке</text>
+<text>Special order: take the beacon in the storeroom</text>
 </string>
 <string id="esc_klim_flash_found_part_11_text">
-<text>Сидорович сказал, что Клима можно найти с помощью радио-маяка, нужно взять его в подсобке и установить на мосту.</text>
+<text>Sidorovich says that a beacon can help with finding Klim. I should take it from the storeroom and place it on the Cordon bridge.</text>
 </string>
 
-<!-- Квест: Поговорить с Зоханом -->
+<!-- Quest: speak to Zokhan -->
 <string id="esc_talk_to_zohan_quest_part_1_name">
-<text>Право на выбор: Поговорить с Зоханом</text>
+<text>Right to choose: speak to Zokhan</text>
 </string>
 <string id="esc_talk_to_zohan_quest_part_1_text">
-<text>Зохан прислал сообщение о том, что у него есть ко мне разговор, нужно поговорить с ним.</text>
+<text>Zokhan has messaged me and says that he needs to talk to me.</text>
 </string>
 
-<!-- Квест: Поговорить с Сидоровичем (на счет охраны) -->
+<!-- Quest: speak to Sidorovich (about protection) -->
 <string id="esc_talk_to_sidorovich_again_part_1_name">
-<text>Требовательный заказчик: Поговорить с Сидоровичем</text>
+<text>Demanding customer: speak to Sidorovich</text>
 </string>
 <string id="esc_talk_to_sidorovich_again_part_1_text">
-<text>У Сидоровича есть ко мне разговор, возможно - очередной заказ, нужно с ним поговорить.</text>
+<text>Sidorovich wants to talk to me about something; likely the next order.</text>
 </string>
 
-<!-- Квест: Работа для наёмника -->
+<!-- Quest: mercenary work -->
 <string id="esc_koordinator_quest_line_part_1_name">
-<text>Работа для наёмника: Поговорить с Грифом на счет охраны для бункера</text>
+<text>Mercenary work: speak to Vulture about protection for the bunker</text>
 </string>
 <string id="esc_koordinator_quest_line_part_1_text">
-<text>Торговец попросил два человека для охраны своего бункера, нужно попросить Грифа связаться с Шакалом, чтобы тот выделил людей для охраны.</text>
+<text>The trader has asked me to provide two able men for protecting the bunker. I should go to the vehicle station and ask Vulture to contact Jackal to spare some extra manpower.</text>
 </string>
 <string id="esc_koordinator_quest_line_part_2_name">
-<text>Работа для наёмника: Принять заказ от Координатора</text>
+<text>Mercenary work: receive the order from Coordinator</text>
 </string>
 <string id="esc_koordinator_quest_line_part_2_text">
-<text>Гриф сообщил о прибытии Координатора на Кордон, нужно встретится с ним и принять еще один заказ.</text>
+<text>Vulture has informed me about Coordinator’s arrival in the Cordon. I should meet up with him and receive another order.</text>
 </string>
 <string id="esc_koordinator_quest_line_part_3_name">
-<text>Работа для наёмника: Встретиться с человеком заказчика</text>
+<text>Mercenary work: meet the client</text>
 </string>
 <string id="esc_koordinator_quest_line_part_3_text">
-<text>Я принял заказ от Координатора, теперь нужно встретиться с человеком заказчика и узнать подробности заказа.</text>
+<text>Coordinator has given me the order. Time to meet up with the customer and find out about its details.</text>
 </string>
 
-<!-- Квест: Заказ из Синдиката -->
+<!-- Quest: Syndicate order -->
 <string id="esc_koordinator_syndikate_quest_part_1_name">
-<text>Заказ из Синдиката: Поговорить с Вороном</text>
+<text>Syndicate order: speak to Raven</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_1_text">
-<text>Координатор передал нам заказ от Шакала, нужно обсудить его детали с Вороном.</text>
+<text>Coordinator has given us an order from Jackal. I need to discuss it with Raven.</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_2_name">
-<text>Заказ из Синдиката: Нейтрализовать Фургона</text>
+<text>Syndicate order: deal with Van</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_2_text">
-<text>Нужно найти способ нелетальной нейтрализации Фургона, при этом он не должен заподозрить того, что мне надо попасть на склад.</text>
+<text>I need to find a non-lethal way to deal with Van in the rookie village. While at it, I need to be quiet about getting to the warehouse.</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_3_name">
-<text>Заказ из Синдиката: Поговорить с Енотом</text>
+<text>Syndicate order: speak to Raccoon</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_3_text">
-<text>Возможно в выполнении этого заказа может помочь местный сталкер - Енот, надо с ним переговорить.</text>
+<text>Perhaps a local stalker can help me with fulfilling the order: Raccoon. I should go see him.</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_4_name">
-<text>Заказ из Синдиката: Украсть "чёрный ящик" со склада</text>
+<text>Syndicate order: retreive the black box from the warehouse</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_4_text">
-<text>Скорее всего Фургон уже спит от выпитого с Енотом алкоголя, самое время для кражи "чёрного ящика".</text>
+<text>Van’s likely to be sleeping from the booze he got from Raccoon. Perfect time to steal the black box.</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_5_name">
-<text>Заказ из Синдиката: Передать "чёрный ящик" Координатору</text>
+<text>Syndicate order: deliver the black box to Coordinator</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_5_text">
-<text>"Чёрный ящик" уже у меня, теперь надо передать его Координатору.</text>
+<text>The black box is in my possession. I should give it to Coordinator.</text>
 </string>
 
-<!-- Квест: Без морали (Убийство Валерьяна) -->
+<!-- Quest: no morals (assassination of Valerian) -->
 <string id="esc_kill_leader_stalkers_part_1_name">
-<text>Без морали: Спланировать убийство Валерьяна</text>
+<text>No morals: plan the assassination of Father Valerian</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_1_text">
-<text>Полученный мной заказ - на убийство, моя цель Отец Валерьян, глава сталкеров. Нужно хорошо спланировать его убийство, перед тем как выполнять заказ.</text>
+<text>My next order involves assassinating the leader of the loners: Father Valerian. I’ll need to plan it carefully before making any move.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_2_name">
-<text>Без морали: Поговорить с Енотом</text>
+<text>No morals: speak to Raccoon</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_2_text">
-<text>У меня появилась одна интересная идейка, нужно найти в Деревне новичков Енота, которого я недавно спас из плена у бандитов.</text>
+<text>I’ve got an interesting idea. I should speak about it to Raccoon in the rookie village, who I saved not long ago from the bandits.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_3_name">
-<text>Без морали: Рассказать Ворону придуманный план</text>
+<text>No morals: tell Raven about the plan</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_3_text">
-<text>Я отправил Енота на базу за насыпью, теперь можно рассказать Ворону мой план.</text>
+<text>I’ve sent Raccoon to the base by the embankment. I can now share my plan with Raven.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_4_name">
-<text>Без морали: Следовать за Вороном</text>
+<text>No morals: follow Raven</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_4_text">
-<text>Выполнение плана запущено, можно возвращаться обратно на базу и ожидать действие от Енота.</text>
+<text>The plan is in effect. Time to return back to base and wait for Raccoon to do his thing.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_5_name">
-<text>Без морали: Дождаться действий от Енота</text>
+<text>No morals: wait for Raccoon’s actions</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_5_text">
-<text>Нужно дождаться действий от Енота, а до этого лучше ничего не предпринимать.</text>
+<text>I need to wait for Raccoon to work his magic. Until then, I had better not do anything particular.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_6_name">
-<text>Без морали: Поговорить с Вороном</text>
+<text>No morals: speak to Raven</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_6_text">
-<text>Валерьян съел наживку и убежал с базы, можно отправляться на его перехват.</text>
+<text>Valerian has taken the bait and left the base. It’s time to take over.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_7_name">
-<text>Без морали: Убить Валерьяна и его группу</text>
+<text>No morals: kill Father Valerian and his group</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_7_text">
-<text>Нужно убить Отца Валерьяна и его группу.</text>
+<text>The time has come to take out Father Valerian and his group.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_8_name">
-<text>Без морали: Взять КПК у Валерьяна</text>
+<text>No morals: take Father Valerian’s PDA</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_8_text">
-<text>Валерьян мертв, для доказательств, о выполнении заказа, нужно забрать его КПК.</text>
+<text>Valerian is dead. I need to bring his PDA as proof that the order has been fulfilled.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_9_name">
-<text>Без морали: Дождаться утра</text>
+<text>No morals: wait until morning</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_9_text">
-<text>Ярощук написал, что будет ждать меня утром на том же месте.</text>
+<text>Yaroshchuk has written me that he’ll wait for me at the same place by morning.</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_10_name">
-<text>Без морали: Сдать заказ</text>
+<text>No morals: complete the order</text>
 </string>
 <string id="esc_kill_leader_stalkers_part_10_text">
-<text>Ярощук уже должен быть на месте, самое время сдать заказ и получить награду.</text>
+<text>Yaroshchuk should be at the place he has informed me about. I can now complete the order and receive my reward.</text>
 </string>
 
-<!-- Квест: Поговорить с Сидоровичем (на счет работы) -->
+<!-- Quest: speak to Sidorovich (about work) -->
 <string id="esc_talk_to_sidorovich_final_part_1_name">
-<text>Знойный торговец: Поговорить с Сидоровичем</text>
+<text>Hot trader: speak to Sidorovich</text>
 </string>
 <string id="esc_talk_to_sidorovich_final_part_1_text">
-<text>Сидорович прислал сообщение, в котором попросил к нему зайти, нужно сделать это.</text>
+<text>Sidorovich has sent me a message in which he asks me to see him.</text>
 </string>
 
-<!-- Квест: Посылка для Ореста -->
+<!-- Quest: package for Orest -->
 <string id="esc_final_sidor_quest_part_1_name">
-<text>Важный груз: Передать посылку Оресту</text>
+<text>Vital package: give the package to Orest</text>
 </string>
 <string id="esc_final_sidor_quest_part_1_text">
-<text>Сидорович передал через меня посылку Оресту, новому главе на базе Нейтралов, нужно передать ему его посылку.</text>
+<text>Sidorovich has handed me a package that needs to go to Orest, the new head of the neutral base.</text>
 </string>
 
-<!-- Квест: Поговорить с Шиловым -->
+<!-- Quest: speak to Shilov -->
 <string id="esc_talk_shilov_quest_part_1_name">
-<text>Легкая добыча: Поговорить с Шиловым</text>
+<text>Easy prey: speak to Shilov</text>
 </string>
 <string id="esc_talk_shilov_quest_part_1_text">
-<text>Орест сказал, что Шилов нужна помощь и если я помогу, то торговец хорошо заплатит, думаю, что стоит поговорить с этим Шиловым.</text>
+<text>Orest has informed me that a Shilov needs help, and that if I help, the trader will pay well. It might be worth seeing this character.</text>
 </string>
 
-<!-- Квест: Поговорить с Мракобесом -->
+<!-- Quest: speak to Obscurant -->
 <string id="esc_final_talk_in_escape_part_1_name">
-<text>Плохое предчувствие: Поговорить с Мракобесом</text>
+<text>Bad feeling: speak to Obscurant</text>
 </string>
 <string id="esc_final_talk_in_escape_part_1_text">
-<text>Ворон отправил сообщение о том, что Мракобес прибыл на Кордон и уже на АТП, нужно поговорить с ним.</text>
+<text>Raven has informed me that Obscurant has arrived at the Cordon and is already at the vehicle station. Time to have a chat with him.</text>
 </string>
 
 
 
 
-<!-- Квест: Принести инструменты Фургону -->
+<!-- Quest: bring Van tools -->
 <string id="esc_get_tools_1_2_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_1_2_text">
-		<text>Фургон просил найти два набора инструментов: один для точной, другой для грубой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for basic work and one for fine work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_1_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_1_3_text">
-		<text>Фургон просил найти два набора инструментов: один для грубой работы, другой для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for basic work and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_1_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_1_text">
-		<text>Фургон просил найти набор инструментов для грубой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for basic work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_2_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_2_3_text">
-		<text>Фургон просил найти два набора инструментов: один для тонкой работы, другой для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for fine work and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_2_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_2_text">
-		<text>Фургон просил найти набор инструментов для тонкой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for fine work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_3_text">
-		<text>Фургон просил найти набор инструментов для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_mechanic_toolkit_search_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_mechanic_toolkit_search_text">
-		<text>Фургон просил найти три набора инструментов: для грубой работы, для тонкой работы плюс набор для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get three sets of tools: one for basic work, one for fine work, and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	
 	
 	<string id="esc_2get_tools_1_2_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_get_tools_1_2_text">
-		<text>Фургон просил найти два набора инструментов: один для тонкой, другой для грубой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for fine work and one for basic work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_2get_tools_1_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2get_tools_1_3_text">
-		<text>Фургон просил найти два набора инструментов: один для грубой работы, другой для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for basic work and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_2get_tools_1_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2get_tools_1_text">
-		<text>Фургон просил найти набор инструментов для грубой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for basic work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_2get_tools_2_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2get_tools_2_3_text">
-		<text>Фургон просил найти два набора инструментов: один для тонкой работы, другой для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get two sets of tools: one for fine work and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_get_tools_2_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2get_tools_2_text">
-		<text>Фургон просил найти набор инструментов для тонкой работы. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for basic work. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_2get_tools_3_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2get_tools_3_text">
-		<text>Фургон просил найти набор инструментов для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get a set of tools for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 	<string id="esc_2mechanic_toolkit_search_name">
-		<text>Инструменты: принести инструменты Фургону</text>
+		<text>Tools: bring Van tools</text>
 	</string>
 	<string id="esc_2mechanic_toolkit_search_text">
-		<text>Фургон просил найти три набора инструментов: для грубой работы, для тонкой работы плюс набор для калибровки. Мастер не только заплатит за инструмент, но и сможет обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Van has asked me to get three sets of tools: one for basic work, one for fine work, and one for calibration. The technician will pay me for the tools and will be able to perform more advanced weapon and armor modifications.</text>
 	</string>
 
-<!-- Квест: Бар №92 -->
+<!-- Quest: Bar #92 -->
 <string id="esc_bar_security_quest_part_1_name">
-<text>Бар №92: Поговорить с Шаманом</text>
+<text>Bar #92: speak to Shaman</text>
 </string>
 <string id="esc_bar_security_quest_part_1_text">
-<text>Торговец сказал, чтобы я поговорил с Шаманом в Баре и помог ему решить возникшую проблему.</text>
+<text>The trader has told me to speak to Shaman in the Bar and help him a new problem.</text>
 </string>
 <string id="esc_bar_security_quest_part_2_name">
-<text>Бар №92: Дождаться охрану для Бара</text>
+<text>Bar #92: wait for security in the Bar</text>
 </string>
 <string id="esc_bar_security_quest_part_2_text">
-<text>Гриф сказал, что охрану для Бара придется подождать какое-то время.</text>
+<text>Vulture has told me that getting security for the Bar will take some time.</text>
 </string>
 <string id="esc_bar_security_quest_part_3_name">
-<text>Бар №92: Забрать оплату у Шамана</text>
+<text>Bar #92: retrieve payment from Shaman</text>
 </string>
 <string id="esc_bar_security_quest_part_3_text">
-<text>Гриф доложил, что наёмники уже прибыли, стоит сходить к Шаману и забрать деньги за их аренду.</text>
+<text>Vulture has reported that the mercenaries have arrived. I should pick up the reward from Shaman and take the money for their rent.</text>
 </string>
 <string id="esc_bar_security_quest_part_4_name">
-<text>Бар №92: Поговорить с Грифом</text>
+<text>Bar #92: speak to Vulture</text>
 </string>
 <string id="esc_bar_security_quest_part_4_text">
-<text>Нужно, чтобы Гриф связался с Шакалом и выбил для нас несколько человек, стоит сходить и поговорить с ним.</text>
+<text>Vulture needs to get in touch with Shaman and take out a few men for us. I should go and speak to Vulture.</text>
 </string>
 
-<!-- Квест: Особый заказ -->
+<!-- Quest: special order -->
 <string id="esc_risovalshik_items_get_order_name">
-<text>Особый заказ: забрать товар</text>
+<text>Special order: take the items</text>
 </string>
 <string id="esc_risovalshik_items_get_order_text">
-<text>Заказ доставлен, необходимо забрать его у Дуплета.</text>
+<text>The order has arrived. I should pick it up from Douplet.</text>
 </string>
 <string id="esc_risovalshik_items_wait_order_name">
-<text>Особый заказ: ожидать доставки</text>
+<text>Special order: wait for the delivery</text>
 </string>
 <string id="esc_risovalshik_items_wait_order_text">
-<text>Заказ сделан. Нужно подождать, пока Дуплет достанет товар.</text>
+<text>The order has been made. I need to wait until Douplet receives it.</text>
 </string>
 
 </string_table>

@@ -40,7 +40,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_dop_action.xml](gamedata/configs/text/eng/st_dop_action.xml)
 		- incomplete
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
-		- incomplete
+		- in progress (**SashaTheRed**)
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
 		- incomplete
 	- [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
@@ -48,9 +48,9 @@ A list of all files with their detailed progress can be found below.
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
 		- incomplete
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- incomplete
+		- in progress
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
-		- incomplete
+		- done (untested)
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
 		- incomplete
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
@@ -58,9 +58,9 @@ A list of all files with their detailed progress can be found below.
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
 		- done (untested)
 	- [st_quests_escape.xml](gamedata/configs/text/eng/st_quests_escape.xml)
-		- incomplete
+		- done (needs revision)
 	- [st_quests_general.xml](gamedata/configs/text/eng/st_quests_general.xml)
-		- incomplete
+		- done
 	- [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
 		- done (needs revision)
 	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
@@ -70,16 +70,16 @@ A list of all files with their detailed progress can be found below.
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
 		- incomplete
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
-		- incomplete
+		- done
 	- [ui_st_other.xml](gamedata/configs/text/eng/ui_st_other.xml)
 		- done
 	- [ui_st_pda.xml](gamedata/configs/text/eng/ui_st_pda.xml)
 		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
-		- incomplete
+		- done
 - **[gamedata/scripts](gamedata/scripts)**
 	- [dengi.script](gamedata/scripts/dengi.script)
-		- incomplete
+		- done
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
 		- incomplete
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)

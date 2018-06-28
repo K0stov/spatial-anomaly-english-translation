@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="hide_from_surge_message">
-		<text>Внимание! До выброса осталось</text>
+		<text>Attention! Emission starts in:</text>
 	</string>
 	<string id="hide_from_surge_descr_1_a">
-		<text>Необходимо срочно бежать к ближайшему укрытию и спрятаться от выброса.</text>
+		<text>I must run to the nearest cover immediately and hide from the emission.</text>
 	</string>
 	<string id="hide_from_surge_descr_2_a">
-		<text>Во время выброса ни в коем случае нельзя покидать укрытие.</text>
+		<text>I must not leave cover during an emission.</text>
 	</string>
 	<string id="hide_from_surge_name_1">
-		<text>Выброс: найти укрытие</text>
+		<text>Emission: find cover</text>
 	</string>
 	<string id="hide_from_surge_name_2">
-		<text>Выброс: переждать в укрытии</text>
+		<text>Emission: wait in cover</text>
 	</string>
 
 	<!-- AtmosFear Fallout -->
 	<string id="hide_from_fallout_rad_message_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="hide_from_fallout_rad_message">
-		<text>Начинаются радиактивные осадки.</text>
+		<text>Radioactive fallout begins.</text>
 	</string>
 	<string id="hide_from_fallout_rad_descr_1_a">
-		<text>Опасный уровень радиации. Необходимо срочно бежать к ближайшему укрытию и спрятаться от радиоактивных осадков.</text>
+		<text>The level of radiation is dangerous. I should hide from the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_descr_2_a">
-		<text>Во время радиоактивных осадков ни в коем случае нельзя покидать укрытие.</text>
+		<text>I shouldn’t leave the shelter during the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_name_1">
-		<text>Радиоактивные осадки: найти укрытие</text>
+		<text>Radioactive fallout: find shelter</text>
 	</string>
 	<string id="hide_from_fallout_rad_name_2">
-		<text>Радиоактивные осадки: переждать в укрытии</text>
+		<text>Radioactive fallout: stay sheltered</text>
 	</string>
 	<string id="end_fallout_rad_message_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="end_fallout_rad_message">
-		<text>Радиоактивные осадки закончились.</text>
+		<text>Radioactive fallout has ended</text>
 	</string>
 	
 	<string id="hide_from_fallout_acid_message_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="hide_from_fallout_acid_message">
-		<text>Начинаются химические осадки.</text>
+		<text>Chemical fallout begins.</text>
 	</string>
 	<string id="hide_from_fallout_acid_descr_1_a">
-		<text>Опасный уровень загрязнения. Необходимо срочно бежать к ближайшему укрытию и спрятаться от химических осадков.</text>
+		<text>The level of contamination is dangerous. I should hide from the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_descr_2_a">
-		<text>Во время химических осадков ни в коем случае нельзя покидать укрытие.</text>
+		<text>I shouldn’t leave the shelter during the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_name_1">
-		<text>Химические осадки: найти укрытие</text>
+		<text>Chemical fallout: find shelter</text>
 	</string>
 	<string id="hide_from_fallout_acid_name_2">
-		<text>Химические осадки: переждать в укрытии</text>
+		<text>Chemical fallout: stay sheltered</text>
 	</string>
 	<string id="end_fallout_acid_message_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="end_fallout_acid_message">
-		<text>Химические осадки закончились.</text>
+		<text>Chemical fallout has ended</text>
 	</string>
 
 	<!-- AtmosFear Psi Storm -->
 	<string id="hide_from_psi_storm_message_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="hide_from_psi_storm_message">
-		<text>Начинается пси-шторм.</text>
+		<text>Psy-storm begins.</text>
 	</string>
 	<string id="hide_from_psi_storm_descr_1_a">
-		<text>Необходимо срочно бежать к ближайшему укрытию и спрятаться от пси-шторма.</text>
+		<text>I should hide from the psy-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_descr_2_a">
-		<text>Во время пси-шторма ни в коем случае нельзя покидать укрытие.</text>
+		<text>I shouldn’t leave the shelter during the psy-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_name_1">
-		<text>Пси-шторм: найти укрытие</text>
+		<text>Psy-storm: find shelter</text>
 	</string>
 	<string id="hide_from_psi_storm_name_2">
-		<text>Пси-шторм: переждать в укрытии</text>
+		<text>Psy-storm: stay sheltered</text>
 	</string>
 	<string id="end_psi_storm_caption">
-		<text>Внимание!</text>
+		<text>Attention!</text>
 	</string>
 	<string id="end_psi_storm_message">
-		<text>Пси-шторм закончился.</text>
+		<text>Psy-storm has ended</text>
 	</string>
 
 </string_table>
