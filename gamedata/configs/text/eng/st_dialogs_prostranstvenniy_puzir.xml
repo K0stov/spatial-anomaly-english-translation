@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="digst_markus_talk_to_actor_0">
-        <text>Damn, you sacred me beast! I didn't think it was possible for a person to be knocked out for so long. Speaking of which: Oh man, are we in deep shit. </text>
+        <text>Damn, you sacred me beast! I didn’t think it was possible for a person to be knocked out for so long. Speaking of which: Oh man, are we in deep shit. </text>
     </string>
     <string id="digst_markus_talk_to_actor_1">
         <text>The hell? What happened?</text>
     </string>
     <string id="digst_markus_talk_to_actor_2">
-        <text>I don't know, but I'm sure it's nothing good. That creature must be playing tricks on us. Going to that place was a huge mistake. The minute I sent you that message, somebody whacked me over the head and I woke up here.  I think this must be the monster's lair. At first, I was happy because I thought I was out of the anomaly but when I opened my PDA, It turned out that I was still inside it. It turns out we are still inside the anomaly, only beneath the ground.</text>
+        <text>I don’t know, but I’m sure it’s nothing good. That creature must be playing tricks on us. Going to that place was a huge mistake. The minute I sent you that message, somebody whacked me over the head and I woke up here.  I think this must be the monster’s lair. At first, I was happy because I thought I was out of the anomaly but when I opened my PDA, It turned out that I was still inside it. It turns out we are still inside the anomaly, only beneath the ground.</text>
     </string>
     <string id="digst_markus_talk_to_actor_3">
-        <text>Yeah, that's sad news indeed. What creature are you talking about?</text>
+        <text>Yeah, that’s sad news indeed. What creature are you talking about?</text>
     </string>
     <string id="digst_markus_talk_to_actor_4">
-        <text>I saw it a few times but I didn't say a word about it to anyone.  I thought that everyone would think I've gone off the deep end but I assure this creature is real. Physically the mutant looks like a bloodsucker but it acts and talks like a human being and it wears clothes like one. Also when it was close to me, I could see a profile in my contacts list with the name "Stronglav". But that's not the worst part. When I tried to shoot it, the creature just disappeared instantly and it was laughing at me beast, it fucking laughed. I don't even know what to do...</text>
+        <text>I saw it a few times but I didn’t say a word about it to anyone.  I thought that everyone would think I’ve gone off the deep end but I assure this creature is real. Physically the mutant looks like a bloodsucker but it acts and talks like a human being and it wears clothes like one. Also when it was close to me, I could see a profile in my contacts list with the name “Stronglav.” But that’s not the worst part. When I tried to shoot it, the creature just disappeared instantly and it was laughing at me beast, it fucking laughed. I don’t even know what to do...</text>
     </string>
     <string id="digst_markus_talk_to_actor_5">
-        <text>I also saw that creature but I thought it was just a hallucination. We need to find way out of here. Marcus, don't worry, we'll get out of here.</text>
+        <text>I also saw that creature but I thought it was just a hallucination. We need to find way out of here. Marcus, don’t worry, we’ll get out of here.</text>
     </string>
     <string id="digst_markus_talk_to_actor_6">
-        <text>You think I didn't try that? Further into the cave there's a ladder leading upwards but if you try to go there something teleports you back. Hold on... Can you feel that?!</text>
+        <text>You think I didn’t try that? Further into the cave there’s a ladder leading upwards but if you try to go there something teleports you back. Hold on... Can you feel that?!</text>
     </string>
     <string id="digst_markus_talk_to_actor_7">
         <text>What am I supposed to feel?</text>
     </string>
     <string id="digst_markus_talk_to_actor_8">
-        <text>That smell... It's like something is burning. That's the scent I felt when I saw that creature for the first time. Don't move, I think the owner of this lair is coming back.</text>
+        <text>That smell... It’s like something is burning. That’s the scent I felt when I saw that creature for the first time. Don’t move, I think the owner of this lair is coming back.</text>
     </string>
     <string id="digst_markus_talk_to_actor_9">
         <text>Great, just what we needed.</text>
@@ -34,49 +34,49 @@
         <text>Goddamn it, you blew our cover and you managed to grab the attention of those mutants.</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_1">
-        <text>I don't know man, I wanted to ice that creature once and for all... What the hell happened?</text>
+        <text>I don’t know man, I wanted to ice that creature once and for all... What the hell happened?</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_2">
         <text>How the hell should I know? Listen, we got to get the fuck out of here; that creature is going to comeback any minute now.</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_3">
-        <text>I Agree, we can't stay here any longer. Let's look for that exit.</text>
+        <text>I Agree, we can’t stay here any longer. Let’s look for that exit.</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_4">
-        <text>I'm no condition to do that right now. How about I cover while you look around?</text>
+        <text>I’m no condition to do that right now. How about I cover while you look around?</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_5">
-        <text>Fine, it's not like we have a better plan.</text>
+        <text>Fine, it’s not like we have a better plan.</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_6">
-        <text>Alright, Then you look for the exit and once you find it, message me, alright? Don't worry about me, I can make it out on my own. Now go!</text>
+        <text>Alright, Then you look for the exit and once you find it, message me, alright? Don’t worry about me, I can make it out on my own. Now go!</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_7">
-        <text>Alright, I'm on my way.</text>
+        <text>Alright, I’m on my way.</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_0">
-        <text>What the hell was that, Beast? What the hell is happening here? The creature is gone now, but I'm sure that it'll be back pretty soon...</text>
+        <text>What the hell was that, Beast? What the hell is happening here? The creature is gone now, but I’m sure that it’ll be back pretty soon...</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_1">
-        <text>I can't tell you, I can't figure out myself what's going on. .</text>
+        <text>I can’t tell you, I can’t figure out myself what’s going on. .</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_2">
-        <text>It laughed again, Beast. It must've seen us. We need to get out of here, fast.</text>
+        <text>It laughed again, Beast. It must’ve seen us. We need to get out of here, fast.</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_3">
-        <text>I Agree, we can't stay here any longer. Let's look for that exit.</text>
+        <text>I Agree, we can’t stay here any longer. Let’s look for that exit.</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_4">
-        <text>I'm no condition to do that right now. How about I cover while you look around?</text>
+        <text>I’m no condition to do that right now. How about I cover while you look around?</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_5">
-        <text>Fine, it's not like we have a better plan.</text>
+        <text>Fine, it’s not like we have a better plan.</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_6">
-        <text>Alright, Then you look for the exit and once you find it, message me, alright? Don't worry about me, I can make it out on my own. Now go!</text>
+        <text>Alright, Then you look for the exit and once you find it, message me, alright? Don’t worry about me, I can make it out on my own. Now go!</text>
     </string>
     <string id="digst_markus_talk_to_actor_good_7">
-        <text>Alright, I'm on my way.</text>
+        <text>Alright, I’m on my way.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_0">
         <text>Hey Knucklehead, how are you feeling?</text>
@@ -85,61 +85,61 @@
         <text>Not good, but I can handle it in the meantime. How about you, any news?</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_10">
-        <text>Alas, I only have two vaccines vial to give out and I can't give it out to all three of you. I decided to give one of them to you.</text>
+        <text>Alas, I only have two vaccines vial to give out and I can’t give it out to all three of you. I decided to give one of them to you.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_11">
-        <text>No, Beast, I won't take it, I rather you give it out to the other guys. Those two have their whole lives ahead of them, while I lived through most of mine. I much rather you save them, instead of me.</text>
+        <text>No, Beast, I won’t take it, I rather you give it out to the other guys. Those two have their whole lives ahead of them, while I lived through most of mine. I much rather you save them, instead of me.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_12">
-        <text>I'll try to find another vaccine, we still have some time.</text>
+        <text>I’ll try to find another vaccine, we still have some time.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_13">
-        <text>I appreciate your help, but for any case, let's say our good byes now while I am still alive. This might be our last conversation.</text>
+        <text>I appreciate your help, but for any case, let’s say our good byes now while I am still alive. This might be our last conversation.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_14">
-        <text>No, it's too early for that. I'll find a cure.</text>
+        <text>No, it’s too early for that. I’ll find a cure.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_2">
-        <text>I found some more of that vaccine, but it's a really small amount.</text>
+        <text>I found some more of that vaccine, but it’s a really small amount.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_3">
-        <text>I'm sorry Knucklehead but I gave the vaccine to someone else.</text>
+        <text>I’m sorry Knucklehead but I gave the vaccine to someone else.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_4">
-        <text>Let's talk later.</text>
+        <text>Let’s talk later.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_5">
-        <text>Don't worry, Beast, I understand, everyone has their own fate and if I have to die in this place then so be it. You shouldn't blame yourself.</text>
+        <text>Don’t worry, Beast, I understand, everyone has their own fate and if I have to die in this place then so be it. You shouldn’t blame yourself.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_6">
-        <text>I'll try to find another vaccine, we still have some time.</text>
+        <text>I’ll try to find another vaccine, we still have some time.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_7">
-        <text>I appreciate your help, but for any case, let's say our good byes now while I am still alive. This might be our last conversation.</text>
+        <text>I appreciate your help, but for any case, let’s say our good byes now while I am still alive. This might be our last conversation.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_8">
-        <text>No, it's too early for that. I'll find a cure.</text>
+        <text>No, it’s too early for that. I’ll find a cure.</text>
     </string>
     <string id="pb_actor_give_dubolom_medicament_9">
-        <text>That's good to hear, do you have enough for everybody?</text>
+        <text>That’s good to hear, do you have enough for everybody?</text>
     </string>
     <string id="pb_actor_give_markus_medicament_0">
         <text>How are feeling, Marcus?</text>
     </string>
     <string id="pb_actor_give_markus_medicament_1">
-        <text>I want to say I'm fine, but that would be total bullshit. Beast, I've never felt so shitty in my life, I think I'm going to die soon. Have you managed to find a cure?</text>
+        <text>I want to say I’m fine, but that would be total bullshit. Beast, I’ve never felt so shitty in my life, I think I’m going to die soon. Have you managed to find a cure?</text>
     </string>
     <string id="pb_actor_give_markus_medicament_2">
         <text>Yeah, I brought a dose of the cure for you, it should help.</text>
     </string>
     <string id="pb_actor_give_markus_medicament_3">
-        <text>Let's talk later.</text>
+        <text>Let’s talk later.</text>
     </string>
     <string id="pb_actor_give_markus_medicament_4">
-        <text>At least now I have a chance... Maybe I'll get lucky and this thing will cure me. Alright, give me the medication.</text>
+        <text>At least now I have a chance... Maybe I’ll get lucky and this thing will cure me. Alright, give me the medication.</text>
     </string>
     <string id="pb_actor_give_markus_medicament_5">
-        <text>Here you go, here's the vial.</text>
+        <text>Here you go, here’s the vial.</text>
     </string>
     <string id="pb_actor_give_markus_medicament_6">
         <text>Thank you, Beast. This means a lot to me.</text>
@@ -151,7 +151,7 @@
         <text>How are you feeling, Rezak?</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_1">
-        <text>Not too good... What's up?</text>
+        <text>Not too good... What’s up?</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_2">
         <text>I have found some medciation for you.</text>
@@ -160,43 +160,43 @@
         <text>Nevermind.</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_4">
-        <text>That's good to hear. Did you find a lot of it?</text>
+        <text>That’s good to hear. Did you find a lot of it?</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_5">
-        <text>No, only two vaccine vials, one of which I'm giving to you.</text>
+        <text>No, only two vaccine vials, one of which I’m giving to you.</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_6">
         <text>So either this vaccine cures me or I die, alright then. Either way, thanks, Beast.</text>
     </string>
     <string id="pb_actor_give_rezak_medicament_7">
-        <text>I'm rooting for you, man.</text>
+        <text>I’m rooting for you, man.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_10">
-        <text>Well, there isn't much of a choice over here so you're gonna have to adapt. You should go and kill a few boars and cook their meat on the campfire. Hey, I know it's not exactly gourmet but at least you won't be hungry.</text>
+        <text>Well, there isn’t much of a choice over here so you’re gonna have to adapt. You should go and kill a few boars and cook their meat on the campfire. Hey, I know it’s not exactly gourmet but at least you won’t be hungry.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_11">
         <text>What is it, merc?</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_12">
-        <text>Alright, if that's the way it is then so be it. Is that all?</text>
+        <text>Alright, if that’s the way it is then so be it. Is that all?</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_13">
-        <text>I'm running out of supplies and Savage said you can help me with that.</text>
+        <text>I’m running out of supplies and Savage said you can help me with that.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_14">
-        <text>I don't know if you are aware of this but we don't really have any food left. Our last stock of canned goods and doctor's sausages came from you. We have already ran out and that's why we are going to have to go back to eating boar and blind dog even though it's poisonous. However if it's prepared correctly, it should be safe to eat.</text>
+        <text>I don’t know if you are aware of this but we don’t really have any food left. Our last stock of canned goods and doctor’s sausages came from you. We have already ran out and that’s why we are going to have to go back to eating boar and blind dog even though it’s poisonous. However if it’s prepared correctly, it should be safe to eat.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_15">
-        <text>I didn't think I'd ever have to eat the local wild life but sense there isn't any other choice...</text>
+        <text>I didn’t think I’d ever have to eat the local wild life but sense there isn’t any other choice...</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_16">
         <text>How do you I prepare the meat correctly then?</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_17">
-        <text>I tell you what: First try and cook a piece and when you're done, I'll tell you wither you did right or not. But when you're craving the boar, try to keep the fatty parts, they are tastier.</text>
+        <text>I tell you what: First try and cook a piece and when you’re done, I’ll tell you wither you did right or not. But when you’re craving the boar, try to keep the fatty parts, they are tastier.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_18">
-        <text>Fine, I'll do that now.</text>
+        <text>Fine, I’ll do that now.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_2">
         <text>Hold on, I know you... You are that same mercenary who helped me hunt down that psi-dog, am I right?</text>
@@ -211,34 +211,34 @@
         <text>Not yet.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_23">
-        <text>Yeah, you did everything correctly, this is perfectly edible. There's almost no chance of getting poisoned from this.</text>
+        <text>Yeah, you did everything correctly, this is perfectly edible. There’s almost no chance of getting poisoned from this.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_24">
         <text>Thanks for the very needed advice. At least, I have some steady source of food now.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_25">
-        <text>Don't mention it, merc. I hope that you remembered what you did there, it's important that you do.</text>
+        <text>Don’t mention it, merc. I hope that you remembered what you did there, it’s important that you do.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_26">
-        <text>I remember, don't worry. Aight, I got to go.</text>
+        <text>I remember, don’t worry. Aight, I got to go.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_28">
         <text>What do you need, merc?</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_3">
-        <text>Yeah, you're right. It turns out the zone is smaller than I thought.</text>
+        <text>Yeah, you’re right. It turns out the zone is smaller than I thought.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_30">
         <text>What do you need, merc?</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_4">
-        <text>Yeah, I agree. You guys sure caused some havoc back then... Don't worry, I won't say a word about it to anyone. </text>
+        <text>Yeah, I agree. You guys sure caused some havoc back then... Don’t worry, I won’t say a word about it to anyone. </text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_5">
         <text>Everything that went down there was my job and nothing more.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_6">
-        <text>Whatever you say... Alright, I won't take any more of your time. See ya.</text>
+        <text>Whatever you say... Alright, I won’t take any more of your time. See ya.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_7">
         <text>Hey.</text>
@@ -253,55 +253,55 @@
         <text>Excellent, that means we can move out right now. The chimera should already be at the bunker.</text>
     </string>
     <string id="pb_dubolom_night_hunting_is_time_2">
-        <text>I told you already, the chimera only goes to the bunker after midnight so you should know it's way too early now. Come back at round 2 a.m. </text>
+        <text>I told you already, the chimera only goes to the bunker after midnight so you should know it’s way too early now. Come back at round 2 a.m. </text>
     </string>
     <string id="pb_dubolom_night_hunting_is_time_3">
-        <text>Let's go then.</text>
+        <text>Let’s go then.</text>
     </string>
     <string id="pb_dubolom_night_hunting_is_time_4">
-        <text>Got it, I'll come by then.</text>
+        <text>Got it, I’ll come by then.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_10">
-        <text>Alright, that's all I needed to know.</text>
+        <text>Alright, that’s all I needed to know.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_11">
         <text>The chimera only appears in the bunker during nighttime, so we might as well go right now.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_12">
-        <text>Alright then, get over here at around 2 a.m, that's the time the chimera usually appears at the bunker.</text>
+        <text>Alright then, get over here at around 2 a.m, that’s the time the chimera usually appears at the bunker.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_13">
-        <text>Hey, Beast, what's up?</text>
+        <text>Hey, Beast, what’s up?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_14">
-        <text>Let's get going then.</text>
+        <text>Let’s get going then.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_15">
-        <text>Alright, I'll to talk to you again at night.</text>
+        <text>Alright, I’ll to talk to you again at night.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_17">
-        <text>Great, now we don't have to worry about that chimera sneaking into our base any longer. Thanks for your help, Beast.</text>
+        <text>Great, now we don’t have to worry about that chimera sneaking into our base any longer. Thanks for your help, Beast.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_18">
-        <text>Don't mention it, this chimera being dead benefits us all anyway. Hell, even I will sleep better knowing that this creature is dead.</text>
+        <text>Don’t mention it, this chimera being dead benefits us all anyway. Hell, even I will sleep better knowing that this creature is dead.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_19">
         <text>Yeah. By the way, I bet you have noticed that are food sources are running out. The thing is, I have, for a week, been trying out this new source of food.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_2">
-        <text>Hey, Beast, I heard you found Scavenger... Yeah, I never expected him to be such a piece of shit but what's done is done. Anyway, I have something important to discuss with you.</text>
+        <text>Hey, Beast, I heard you found Scavenger... Yeah, I never expected him to be such a piece of shit but what’s done is done. Anyway, I have something important to discuss with you.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_20">
         <text>And what is this new source of food?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_21">
-        <text>While everyone else eats their canned goods, I have been eating the local wildlife. There's a chance, of course, that by eating that type of meat you can get poisoned but if you cook it correctly then you shouldn't have anything worry about.</text>
+        <text>While everyone else eats their canned goods, I have been eating the local wildlife. There’s a chance, of course, that by eating that type of meat you can get poisoned but if you cook it correctly then you shouldn’t have anything worry about.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_22">
-        <text>Nothing wrong with that. Sure it's not some gourmet dish but a wild boar is perfectly edible. I have tried their meat before. </text>
+        <text>Nothing wrong with that. Sure it’s not some gourmet dish but a wild boar is perfectly edible. I have tried their meat before. </text>
     </string>
     <string id="pb_dubolom_night_hunting_start_23">
-        <text>I knew that you would get me, Beast. However, boars aren't the only animal that's edible here. Blind dog meat, for example, is far tastier and softer.  Listen, how about we try and cook some of that meat right now? Go and hunt a few boars and try to prepare their meat in the campfire. At least we will have steady source of food that way.</text>
+        <text>I knew that you would get me, Beast. However, boars aren’t the only animal that’s edible here. Blind dog meat, for example, is far tastier and softer.  Listen, how about we try and cook some of that meat right now? Go and hunt a few boars and try to prepare their meat in the campfire. At least we will have steady source of food that way.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_24">
         <text>Yeah, sure. I was getting hungry anyway.</text>
@@ -313,52 +313,52 @@
         <text>Sure thing, Knucklehead.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_28">
-        <text>So what's up, Beast, have you brought the meat?</text>
+        <text>So what’s up, Beast, have you brought the meat?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_29">
         <text>Yeah, here you go.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_3">
-        <text>Alright, tell me what's up, I'm all ears.</text>
+        <text>Alright, tell me what’s up, I’m all ears.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_30">
         <text>Not yet.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_31">
-        <text>Alright... You even cooked it right, nice! Keeping cooking it this way, it's the safest method. Anyway, Thanks.</text>
+        <text>Alright... You even cooked it right, nice! Keeping cooking it this way, it’s the safest method. Anyway, Thanks.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_32">
-        <text>Thanks for the advice. Good to know that there's a food source always nearby.</text>
+        <text>Thanks for the advice. Good to know that there’s a food source always nearby.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_33">
         <text>By the way, before I forget, Marcus told me he wants to talk to you about something. Go see him, once you have some free time.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_34">
-        <text>Alright, I'll go talk to him.</text>
+        <text>Alright, I’ll go talk to him.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_36">
-        <text>Hey, Beast, what's up?</text>
+        <text>Hey, Beast, what’s up?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_37">
         <text>By the way, before I forget, Marcus told me he wants to talk to you about something. Go see him, once you have some free time.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_38">
-        <text>Alright, I'll go talk to him.</text>
+        <text>Alright, I’ll go talk to him.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_4">
-        <text>We have a serious situation on our hands:  A few days ago, I spotted a chimera not far from our base and sense I was alone and didn't have much ammo, so I didn't fight it... Good thing it didn't see me. This is a very dangerous creature and if it sneaks into our base at night then we are all as good as dead.</text>
+        <text>We have a serious situation on our hands:  A few days ago, I spotted a chimera not far from our base and sense I was alone and didn’t have much ammo, so I didn’t fight it... Good thing it didn’t see me. This is a very dangerous creature and if it sneaks into our base at night then we are all as good as dead.</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_5">
         <text>What do you suggest we do?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_6">
-        <text>We need to eliminate it. The safest way to do it is at night; when the mutant goes it sleep in its lair, in the bunker. The two of us can handle a sleeping chimera without a problem, it won't even know what hit it. What do you think?</text>
+        <text>We need to eliminate it. The safest way to do it is at night; when the mutant goes it sleep in its lair, in the bunker. The two of us can handle a sleeping chimera without a problem, it won’t even know what hit it. What do you think?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_7">
-        <text>We are only the two of us going there? Why can't we get any more help?</text>
+        <text>We are only the two of us going there? Why can’t we get any more help?</text>
     </string>
     <string id="pb_dubolom_night_hunting_start_8">
-        <text>First of all, we are the only ones with enough ammo for the job and second, Two guys against a sleeping chimera is way more than enough. I fought these beasts before and I know this shouldn't be a problem.</text>
+        <text>First of all, we are the only ones with enough ammo for the job and second, Two guys against a sleeping chimera is way more than enough. I fought these beasts before and I know this shouldn’t be a problem.</text>
     </string>
     <string id="pb_duty_bunchuk_give_weapon_0">
         <text>About your gun...</text>
@@ -373,16 +373,16 @@
         <text>Not yet.</text>
     </string>
     <string id="pb_duty_bunchuk_give_weapon_4">
-        <text>Nah man, he didn't scare me, I just had no other choice but to run.</text>
+        <text>Nah man, he didn’t scare me, I just had no other choice but to run.</text>
     </string>
     <string id="pb_duty_bunchuk_give_weapon_5">
-        <text>Stop making excuses, I don't care either way. Here's your gun.</text>
+        <text>Stop making excuses, I don’t care either way. Here’s your gun.</text>
     </string>
     <string id="pb_duty_bunchuk_give_weapon_6">
-        <text>Thanks man, really appreciate it. Now I can go on raids like everyone else and not stay behind. Plus it's a lot safer here when you have a gun. Here's a small reward for your good work. I don't need this money here anyway but perhaps you will need it later.  </text>
+        <text>Thanks man, really appreciate it. Now I can go on raids like everyone else and not stay behind. Plus it’s a lot safer here when you have a gun. Here’s a small reward for your good work. I don’t need this money here anyway but perhaps you will need it later.  </text>
     </string>
     <string id="pb_duty_bunchuk_give_weapon_7">
-        <text>Thanks. I'll be on my way.</text>
+        <text>Thanks. I’ll be on my way.</text>
     </string>
     <string id="pb_duty_bunchuk_quest_weapon_0">
         <text>So... Where did you lose your gun? Can you at least give me a ballpark location?</text>
@@ -391,43 +391,44 @@
         <text>I can tell you the exact location and I know where the gun is.</text>
     </string>
     <string id="pb_duty_bunchuk_quest_weapon_2">
-        <text>So what's the problem then? Why can't you just get the gun yourself? It would take less effort then bothering me.</text>
+        <text>So what’s the problem then? Why can’t you just get the gun yourself? It would take less effort then bothering me.</text>
     </string>
     <string id="pb_duty_bunchuk_quest_weapon_3">
-        <text>The thing is, I didn't lose the gun, I threw it away. When I was scouting, I was attacked by a bloodsucker and my gun jammed. I had no time to clear the malfunction, so I threw the gun at the bloodsucker, shot him a few times with my pistol and ran away. I can't tell that to the general because running away from a mutant is considered a cowardly act  and going out there alone with a single handgun is near suicide. Help me out here merc, I'll owe you big time.</text>
+        <text>The thing is, I didn’t lose the gun, I threw it away. When I was scouting, I was attacked by a bloodsucker and my gun jammed. I had no time to clear the malfunction, so I threw the gun at the bloodsucker, shot him a few times with my pistol and ran away. I can’t tell that to the general because running away from a mutant is considered a cowardly act  and going out there alone with a single handgun is near suicide. Help me out here merc, I’ll owe you big time.</text>
     </string>
     <string id="pb_duty_bunchuk_quest_weapon_4">
-        <text>Well, what can you do? Alright I'll look for your gun.</text>
+        <text>Well, what can you do? Alright I’ll look for your gun.</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_0">
-        <text>Stay right there and don't move a muscle! Who are you and what are you doing here?</text>
+        <text>Stay right there and don’t move a muscle! Who are you and what are you doing here?</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_1">
-        <text>Take it easy lieutenant. I'm a mercenary and I came here you to reactivate the transformer.</text>
+        <text>Take it easy lieutenant. I’m a mercenary and I came here you to reactivate the transformer.</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_2">
-        <text>Let's pretend I believe you... How did you open the cage door?</text>
+        <text>Let’s pretend I believe you... How did you open the cage door?</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_3">
         <text>Someone helped me open it. What about you? How long have you been stuck here?</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_4">
-        <text>And you think I'm going to tell you all that? Go talk to the general, he should be more inclined to discuss these things.</text>
+        <text>And you think I’m going to tell you all that? Go talk to the general, he should be more inclined to discuss these things.</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_5">
-        <text>Fine, I'll go talk to him then.</text>
+        <text>Fine, I’ll go talk to him then.</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_0">
-        <text>Yo, merc... Give me some water, please... I can't go on much longer. </text>
+        <text>Yo, merc... Give me some water, please... I can’t go on much longer. </text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_1">
-        <text>The fuck? I can't walk up to you. I'm trying to get to you but I keep getting teleported back. What the fuck is going on?</text>
+        <text>The fuck? I can’t walk up to you. I’m trying to get to you but I keep getting teleported back. What the fuck is going on?</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_2">
-        <text>An anomaly, most likely... Only really small. I can't get out of here and I've ran out of food and water. As for the other guys well, one guy disappeared somewhere while the rest are all dead. The major, he went batshit all of a sudden and started killing people after which he shot himself in the head. So I am left here alone.</text>
+        <text>An anomaly, most likely... Only really small. I can’t get out of here and I’ve ran out of food and water. As for the other guys well, one guy disappeared somewhere while the rest are all dead. The major, he went batshit all of a sudden and started killing people after which he shot himself in the head. So I am left here alone.</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_3">
-        <text>Hold on, I was just here a while back and everything was fine. You sent me message just a second ago? How the hell did all of this happen so fast?</text>
+        <text>Hold on, I was just here a while back and everything was fine. You sent me message just a second ago? How the hell did all of this happen so fast?
+        </text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_4">
         <text>A while back? A whole week has passed sense the moment I sent you that message. After that, I tried to make contact but my pda died all of a sudden.</text>
@@ -436,7 +437,7 @@
         <text>A whole fucking week!? What the hell is going on even? How the fuck is any of this possible?</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_6">
-        <text>I don't know and I don't really give a shit anymore...Go away merc, leave me alone.</text>
+        <text>I don’t know and I don’t really give a shit anymore...Go away merc, leave me alone.</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_7">
         <text>Goodbye, general.</text>
@@ -445,19 +446,19 @@
         <text>Greetings, stalker. Do you have some spare food by any chance? We are all just tired of eating mutant meat and are really craving some real food.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_12">
-        <text>No, general, I don't. I could go for some human food myself right now.</text>
+        <text>No, general, I don’t. I could go for some real food myself right now.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_13">
-        <text>Yeah, I thought so.  Listen, we are not asking for it for free. When we were out on our raid, we collected a couple of artifacts and wanted to sell them off the scientists but couldn't due to our current circumstance. How about you give us some food and we will give you the artifacts? Canned goods, sausages, bread...  We don't really care what as long as it's real food. Bring us at least 8 pieces. Deal?</text>
+        <text>Yeah, I thought so.  Listen, we are not asking for it for free. When we were out on our raid, we collected a couple of artifacts and wanted to sell them off the scientists but couldn’t due to our current circumstance. How about you give us some food and we will give you the artifacts? Canned goods, sausages, bread...  We don’t really care what as long as it’s real food. Bring us at least 8 pieces. Deal?</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_14">
-        <text>Alright, general. I'll try and find some food for you.</text>
+        <text>Alright, general. I’ll try and find some food for you.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_15">
-        <text>Sorry, I can't help with that.</text>
+        <text>Sorry, I can’t help with that.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_17">
-        <text>So, Beast, are you helping us ro what?</text>
+        <text>So, Beast, are you helping us or what?</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_19">
         <text>So... Have you found some food?</text>
@@ -469,55 +470,54 @@
         <text>Here you go, general. It took some effort to find it...</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_21">
-        <text>Yeah, okay. Alright, you did your part, good job. Here's your artifacts, when you finally get out of here you can sell them for a good price. </text>
+        <text>Yeah, okay. Alright, you did your part, good job. Here’s your artifacts, when you finally get out of here you can sell them for a good price. </text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_22">
         <text>Not yet.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_23">
-        <text>Great. Yeah, Only I'm not so sure we will ever get out of here, although I hope we do. Alright, goodbye general.</text>
+        <text>Great. Yeah, Only I’m not so sure we will ever get out of here, although I hope we do. Alright, goodbye general.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_24">
         <text>Hold on, stalker, there might be another job for you. When we were out of the bunker, Tug dropped his gun. Perhaps you can help him find it. </text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_25">
-        <text>Sure, I'll help. Where did he drop it, roughly?</text>
+        <text>Sure, I’ll help. Where did he drop it, roughly?</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_26">
         <text>Go ask him, he should know where it is.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_27">
-        <text>Alright, I'll go talk to him.</text>
+        <text>Alright, I’ll go talk to him.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_29">
         <text>Hello, merc.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_3">
-        <text>I'd like to know that myself... by the looks of it, we are inside some kind of anomaly. Do you remember how you got here?</text>
+        <text>I’d like to know that myself... by the looks of it, we are inside some kind of anomaly. Do you remember how you got here?</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_4">
         <text>A spatial one.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_5">
-        <text>A spatial one. You are not alone here by the way, there's a group of stalkers nearby and they have been stuck here for a while. More than 2 months to be exact. So, do you remember how you ended up in here?</text>
+        <text>A spatial one. You are not alone here by the way, there’s a group of stalkers nearby and they have been stuck here for a while. More than 2 months to be exact. So, do you remember how you ended up in here?</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_6">
-        <text>Fuck, another "gift" from the zone. All, I remember is that we were walking through Agroprom and then we saw a bright light. After that, we woke up here.</text>
+        <text>Fuck! Another “gift” from the zone. All, I remember is that we were walking through Agroprom and then we saw a bright light. After that, we woke up here.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_7">
-        <text>Alright, I need to turn on the electricity right now, I'll talk to you later.</text>
+        <text>Alright, I need to turn on the electricity right now, I’ll talk to you later.</text>
     </string>
     <string id="pb_duty_tachenko_start_dialog_9">
         <text>Hello, merc.</text>
     </string>
     <string id="pb_killer_leader_group_agres_0">
-        <text>I see you are finally starting to grasp the seriousness of the situation... I'll ask again, where the fuck is the "compass"?</text>   
-    </string>
-    <string id="pb_killer_leader_group_agres_1">
-        <text>Fucking hell, I am not lying. You know me, you know I don't lie about these things.</text>
+        <text>I see you are finally starting to grasp the seriousness of the situation... I’ll ask again, where the fuck is the Compass?</text>   
+         <string id="pb_killer_leader_group_agres_1">
+        <text>Fucking hell, I am not lying. You know me, you know I don’t lie about these things.</text>
     </string>
     <string id="pb_killer_leader_group_agres_2">
-        <text>Times change and so do people. Take you for example: Your friends now are a bunch of peasant stalkers who got stuck inside the spatial anomaly. You were unpredictable before so who knows what the hell is in your head now. Alright, I'm getting tired of this conversation, Mrakobes told to take you outside so that's what I'll do.</text>
+        <text>Times change and so do people. Take you for example: Your friends now are a bunch of peasant stalkers who got stuck inside the spatial anomaly. You were unpredictable before so who knows what the hell is in your head now. Alright, I’m getting tired of this conversation, Mrakobes told to take you outside so that’s what I’ll do.</text>
     </string>
     <string id="pb_killer_leader_group_agres_3">
         <text>Wait! No, hold on...</text>
@@ -529,70 +529,70 @@
         <text>What the hell is going on? What the fuck are you doing?</text>
     </string>
     <string id="pb_killer_leader_group_meet_10">
-        <text>Wrong answer... But I'll give you another chance.</text>
+        <text>Wrong answer... But I’ll give you another chance.</text>
     </string>
     <string id="pb_killer_leader_group_meet_11">
-        <text>I'm telling the truth, I don't have any artifacts.</text>
+        <text>I’m telling the truth, I don’t have any artifacts.</text>
     </string>
     <string id="pb_killer_leader_group_meet_2">
         <text>I came here to check up on you, Jackal was beginning to worry where you gone off to.</text>
     </string>
     <string id="pb_killer_leader_group_meet_3">
-        <text>Do you even know what this place is or better yet, how you're going to get out of here?</text>
+        <text>Do you even know what this place is or better yet, how you’re going to get out of here?</text>
     </string>
     <string id="pb_killer_leader_group_meet_4">
-        <text>Why would I want to leave? We just came, plus we might like it here. And if we would want to get out of here we could using our scanner. By the way, I should take that away from you. You know, for safe keeping</text>
+        <text>Why would I want to leave? We just came, plus we might like it here. And if we would want to get out of here we could using our scanner. By the way, I should take that away from you. You know, for safe keeping...</text>
     </string>
     <string id="pb_killer_leader_group_meet_5">
         <text>Why the hell did you even come here? To save me?</text>
     </string>
     <string id="pb_killer_leader_group_meet_6">
-        <text>You think too highly of yourself, Beast. Think, why would we save you? We have a mission related to this anomaly. You and your friends give us the "compass" and we go away peacefully.</text>
+        <text>You think too highly of yourself, Beast. Think, why would we save you? We have a mission related to this anomaly. You and your friends give us the Compass and we go away peacefully.</text>
     </string>
     <string id="pb_killer_leader_group_meet_7">
         <text>What are you talking about?</text>
     </string>
     <string id="pb_killer_leader_group_meet_8">
-        <text>"Compass" is a type of artifact, Stop pretending you don't know what I am talking, you should've found it by now. Okay either you give it to me or things will get ugly fast.</text>
+        <text>Compass is a type of artifact, Stop pretending you don’t know what I am talking, you should’ve found it by now. Okay either you give it to me or things will get ugly fast.</text>
     </string>
     <string id="pb_killer_leader_group_meet_9">
-        <text>We don't have it and even if we did we wouldn't give it you.</text>
+        <text>We don’t have it and even if we did we wouldn’t give it you.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_0">
         <text>You need any help?</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_1">
-        <text>Good thing you've asked merc. Our generator is running out of fuel and there isn't any left in the jerry cans. If we don't find fuel for it then we won't have any electricity which means no light in our base. We need it to see mutants during night time. If you manage to find some fuel I'll give you a couple of bandages and a medkit. I'd give you more than that but you know how it is in this shithole.</text>
+        <text>Good thing you’ve asked merc. Our generator is running out of fuel and there isn’t any left in the jerry cans. If we don’t find fuel for it then we won’t have any electricity which means no light in our base. We need it to see mutants during night time. If you manage to find some fuel I’ll give you a couple of bandages and a medkit. I’d give you more than that but you know how it is in this shithole.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_2">
-        <text>Alright, I'll try and find some.</text>
+        <text>Alright, I’ll try and find some.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_3">
-        <text>I'm kinda busy right now, maybe later.</text>
+        <text>I’m kinda busy right now, maybe later.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_4">
-        <text>Our generator is running out of fuel and there isn't any left in the jerry cans. If we don't find fuel for it then we won't have any electricity which means no light in our base. We need it to see mutants during night time. If you manage to find some fuel I'll give you a couple of bandages and a medkit. I'd give you more than that but you know how it is in this shithole.</text>
+        <text>Our generator is running out of fuel and there isn’t any left in the jerry cans. If we don’t find fuel for it then we won’t have any electricity which means no light in our base. We need it to see mutants during night time. If you manage to find some fuel I’ll give you a couple of bandages and a medkit. I’d give you more than that but you know how it is in this shithole.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_5">
-        <text>Alright, I'll try and find some.</text>
+        <text>Alright, I’ll try and find some.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_6">
-        <text>I'm kinda busy right now, maybe later.</text>
+        <text>I’m kinda busy right now, maybe later.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_7">
-        <text>I don't need your help but thanks for asking.</text>
+        <text>I don’t need your help but thanks for asking.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_10">
-        <text>Well, if you managed to befriend a dutyer than surely a mercenary won't be a problem.</text>
+        <text>Well, if you managed to befriend a dutyer than surely a mercenary won’t be a problem.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_11">
-        <text>Yeah, Snake's a good dude and we managed to find something in common. This place forced has to work together, it's impossible to survive any other way here. Plus, I am far more concerned with getting out of here then fighting in some endless faction war.</text>
+        <text>Yeah, Snake’s a good dude and we managed to find something in common. This place forced has to work together, it’s impossible to survive any other way here. Plus, I am far more concerned with getting out of here then fighting in some endless faction war.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_13">
-        <text>Hey, merc. I'm listening...</text>
+        <text>Hey, merc. I’m listening...</text>
     </string>
     <string id="pb_kuvalda_dialog_start_15">
-        <text>So what's merc, have you managed to find some fuel?</text>
+        <text>So what’s merc, have you managed to find some fuel?</text>
     </string>
     <string id="pb_kuvalda_dialog_start_16">
         <text>Yeah, I did, actually.</text>
@@ -601,13 +601,13 @@
         <text>Not yet.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_18">
-        <text>Best news I heard all week. At least now we won't have to worry about electricity for a while. Give it to me.</text>
+        <text>Best news I heard all week. At least now we won’t have to worry about electricity for a while. Give it to me.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_19">
         <text>Yeah, Here you go.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_2">
-        <text>Merc, let's talk later. First we got to get rid of these zombies.</text>
+        <text>Merc, let’s talk later. First we got to get rid of these zombies.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_20">
         <text>Thanks, merc, you helped us big time. Here, just like I promised, Two bandages and a medkit, they should prove useful.</text>
@@ -616,16 +616,16 @@
         <text>No need to thank me, we are all helping each other after all.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_23">
-        <text>Yeah, merc, I'm listening.</text>
+        <text>Yeah, merc, I’m listening.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_24">
         <text>Alright, See ya.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_3">
-        <text>Okay, I'll be on my way then.</text>
+        <text>Okay, I’ll be on my way then.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_5">
-        <text>You should go get some sleep man... Plus, I'm in no mood to talk.</text>
+        <text>You should go get some sleep man... Plus, I’m in no mood to talk.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_7">
         <text>Hello, merc. I should probably introduce myself... Everyone here calls me Sledgehammer and I used to be a freedomer, not anymore though. This place made me change my outlook on life.</text>
@@ -634,49 +634,49 @@
         <text>Well, you already know that my name is Beast.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_9">
-        <text>I'm not going to lie and pretend that I'm glad you are here. Your faction was a constant threat to us. If I would have seen you a few months ago, we wouldn't be having this conversation but like a said before this place changed me.</text>
+        <text>I’m not going to lie and pretend that I’m glad you are here. Your faction was a constant threat to us. If I would have seen you a few months ago, we wouldn’t be having this conversation but like a said before this place changed me.</text>
     </string>
     <string id="pb_lesnik_end_line_meet_0">
         <text>Merc, where the hell were you? I was getting tired of waiting for you.</text>
     </string>
     <string id="pb_lesnik_end_line_meet_1">
-        <text>Where's everyone else...</text>
+        <text>Where’s everyone else...</text>
     </string>
     <string id="pb_lesnik_end_line_meet_2">
-        <text>They've already left. I'm the only one who stayed behind to wait for you. You said something about some dutyers, aren't they coming?</text>
+        <text>They’ve already left. I’m the only one who stayed behind to wait for you. You said something about some dutyers, aren’t they coming?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_3">
-        <text>Sadly, they're dead. Where are we going exactly?</text>
+        <text>Sadly, they’re dead. Where are we going exactly?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_4">
-        <text>Let them rest in peace then... Where will the exit lead us, I don't know. Alright, so are you ready to leave?</text>
+        <text>Let them rest in peace then... Where will the exit lead us, I don’t know. Alright, so are you ready to leave?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_5">
-        <text>Yes. Ready as I've ever been.</text>
+        <text>Yes. Ready as I’ve ever been.</text>
     </string>
     <string id="pb_lesnik_end_line_meet_6">
-        <text>Just so you know, once you exit the anomaly, there's a chance you will pass out. Usually, that doesn't happen but there's still a chance. I'm just warning you in advance, just in case. Alright, now when we exit, you need to stick close by me and follow my exact path. Don't stop even for a second. Any questions?</text>
+        <text>Just so you know, once you exit the anomaly, there’s a chance you will pass out. Usually, that doesn’t happen but there’s still a chance. I’m just warning you in advance, just in case. Alright, now when we exit, you need to stick close by me and follow my exact path. Don’t stop even for a second. Any questions?</text>
     </string>
     <string id="pb_lesnik_end_line_meet_7">
         <text>No, lets go.</text>
     </string>
     <string id="pb_lesnik_first_meet_start_0">
-        <text>Thank you, young man. I've defiantly wouldn't have handle it myself, I'm way too old for these kind of things. I don't know what's going on but the wild life in the zone has really gotten crazy.</text>
+        <text>Thank you, young man. I’ve defiantly wouldn’t have handle it myself, I’m way too old for these kind of things. I don’t know what’s going on but the wild life in the zone has really gotten crazy.</text>
     </string>
     <string id="pb_lesnik_first_meet_start_1">
-        <text>Don't mention it, old timer. Who are you but the way?</text>
+        <text>Don’t mention it, old timer. Who are you but the way?</text>
     </string>
     <string id="pb_lesnik_first_meet_start_2">
-        <text>They call me forester and I live in the red forest, heard of that place? I caught your call for help on my radio and went to help you out with my "Compass". I'm guessing you are the one who called for help? Or is there someone else stuck here with you?</text>
+        <text>They call me forester and I live in the red forest, heard of that place? I caught your call for help on my radio and went to help you out with my Compass. I’m guessing you are the one who called for help? Or is there someone else stuck here with you?</text>
     </string>
     <string id="pb_lesnik_first_meet_start_3">
         <text>Wait, so you came here to save us?</text>
     </string>
     <string id="pb_lesnik_first_meet_start_4">
-        <text>That's exactly right, son. That's why a brought the "Compass" with me, this artifact shows you the way out of this place.</text>
+        <text>That’s exactly right, son. That’s why a brought the Compass with me, this artifact shows you the way out of this place.</text>
     </string>
     <string id="pb_lesnik_first_meet_start_5">
-        <text>Well, I am not alone here. There's a stalker base not far from here and there's a squad of dutyers stuck underground.</text>
+        <text>Well, I am not alone here. There’s a stalker base not far from here and there’s a squad of dutyers stuck underground.</text>
     </string>
     <string id="pb_lesnik_first_meet_start_6">
         <text>Well then, show me the way to your base so I can meet all the rest of you.</text>
@@ -688,7 +688,7 @@
         <text>Alright, enough about that, right now we need to take the bodies out of the bunker and bury them and we need to pay respect to Sledgehammer.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_11">
-        <text>Alright, let's go.</text>
+        <text>Alright, let’s go.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_13">
         <text>Hey, Beast, who did you bring this time?</text>
@@ -700,13 +700,13 @@
         <text>Are you serious!? I need to talk to him as soon as possible and while I do that you should check out another signal.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_16">
-        <text>Another signal? Where's it coming from?</text>
+        <text>Another signal? Where’s it coming from?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_17">
-        <text>It's almost in the same place as you were before, I'll send you the coordinates. Go there and check it out while I talk to Forester.</text>
+        <text>It’s almost in the same place as you were before, I’ll send you the coordinates. Go there and check it out while I talk to Forester.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_18">
-        <text>Fine, I'll go check it out. Give me the coordinates.</text>
+        <text>Fine, I’ll go check it out. Give me the coordinates.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_19">
         <text>Alright, you should get them in a second.</text>
@@ -715,22 +715,22 @@
         <text>Excellent work, Beast! Now, at the very least, we have some light. How did everything go?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_20">
-        <text>Alright, I'll be on my way then.</text>
+        <text>Alright, I’ll be on my way then.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_22">
-        <text>Beast, let's talk later. First check the signal.</text>
+        <text>Beast, let’s talk later. First check the signal.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_24">
-        <text>So Beast, Any good news? Have you managed to find any meds that may help our sick? their situation is really bad, if they don't get any medication in the next two days, they will surely die.</text>
+        <text>So Beast, Any good news? Have you managed to find any meds that may help our sick? their situation is really bad, if they don’t get any medication in the next two days, they will surely die.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_25">
-        <text>I did find some meds, for one use only though. What's worse though that there's isn't enough medication for everybody seeing that there only two doses of this shit. And even these two doses might not do anything... Man, we should have known eating mutant meat was a bad idea.</text>
+        <text>I did find some meds, for one use only though. What’s worse though that there’s isn’t enough medication for everybody seeing that there only two doses of this shit. And even these two doses might not do anything... Man, we should have known eating mutant meat was a bad idea.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_26">
-        <text>The important thing right now is not to give up. Right now, more than ever, we have to keep fighting. There's a different problem though: I don't think I can choose who gets the medication. Can you make that decision for me?</text>
+        <text>The important thing right now is not to give up. Right now, more than ever, we have to keep fighting. There’s a different problem though: I don’t think I can choose who gets the medication. Can you make that decision for me?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_27">
-        <text>It's a tough decision but some has to do it, I guess it's gonna have to be me.</text>
+        <text>It’s a tough decision but some has to do it, I guess it’s gonna have to be me.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_28">
         <text>Thank you, I could have done it myself. Quick reminder, the people that are sick are: Knucklehead, Marcus, and Rizak. Good luck, Beast. </text>
@@ -741,557 +741,557 @@
     <string id="pb_lutiy_scene_final_base_after_quest_3">
         <text>When I was in the underground, I found a squad of dutyers. Five people to be exact.</text>
     </string>
-    <string id="pb_lutiy_scene_final_base_after_quest_31">
-        <text>Ну, Зверь, ты уже распределил лекарство?</text>
+ <string id="pb_lutiy_scene_final_base_after_quest_31">
+        <text>So, Beast, have you gave out the meds?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_32">
-        <text>Пока нет.</text>
+        <text>Not yet.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_34">
-        <text>Тебя не было несколько дней, где ты пропадал так долго?</text>
+        <text>You were gone for a few days, where the hell were you?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_35">
-        <text>Я искал лекарство, а ночевал в сарае, там у меня было больше шансов встретить кого-то живого...</text>
+        <text>I was out all this time looking for a cure, I even slept inside the barn for a higher chance of encountering survivors.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_36">
-        <text>Увы, но спасти всех ты не успел, Дуболом скончался вчера ночью, мы похоронили его недалеко от базы...</text>
+        <text>Yeah, about that… Knucklehead died last night and we buried him.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_37">
-        <text>А я так и не попрощался с ним...</text>
+        <text>And I never even told him goodbye...</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_38">
-        <text>Я и сам не успел с ним попрощаться, до последнего надеялся, что он сможет одолеть болезнь... Ты это, сказал, что медикаменты искал, удалось еще хоть несколько ампул найти? Маркус и Резак чувствуют себя уже лучше, но им нужно продолжать лечение. Ах да, вот это мы нашли в вещах Дуболома, кажется, это тебе.</text>
+        <text>I myself didn’t get the chance to tell him my goodbyes; I was still hoping he might get better... You said you were looking for meds, did you find anything? Marcus and Rizak are feeling better but they are still sick. Oh yeah, we found this in Knuckleheads stuff, it’s for you.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_39">
-        <text>Нет, больше вакцины я не нашел.</text>
+        <text>No, sadly I couldn’t find anything.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_4">
-        <text>Ничего себе, вот так новость! И давно они там?</text>
+        <text>Who would have thought... Do you know how long they have been stuck there?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_40">
-        <text>Жаль, будем надеятся, что одного вакцинирования хватит, чтобы одолеть болезнь полностью. Ну, ладно, что-то я заговорился здесь с тобой, иди отдохни, дай мне побыть одному.</text>
+        <text>Too bad... Let’s hope that they will get better with what they have. Alright, you should get some rest after all that endless searching and as for me, I need some alone time.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_41">
-        <text>Бывай, Лютый.</text>
+        <text>See you around, Savage.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_5">
-        <text>Нет, в аномалию они попали совсем недавно.</text>
+        <text>No, they got here only recently.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_6">
-        <text>О нас ты им ничего не говорил?</text>
+        <text>Did you say anything about us?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_7">
-        <text>Я рассказал им о нашей группе, но соединить наши группы не предлагал.</text>
+        <text>I told them about our group but they didn’t want to join us.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_8">
-        <text>Ну, если они к нам не просились, то смысла предлагать им это нет. Главное, чтобы, когда у них еда закончится, они у нас её отнимать не пришли.</text>
+        <text>Well, if they don’t want to join us, then I see no reason for asking them. I don’t really give a shit as long they don’t start causing trouble when they run out food.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_after_quest_9">
-        <text>Ничего, наёмникам дали отпор и им дадим, если потребуется.</text>
+        <text>I wouldn’t worry about that, If we managed to fight off the mercenaries then surely they won’t be a problem.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_0">
-        <text>Ты как, Зверь? Как там Шуруп, он в порядке? Думаю, что Маркус уже сообщил тебе, что здесь произошло.</text>
+        <text>How are you Beast? How’s Screw, is he alright? I think that Marcus already told you what happened.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_1">
-        <text>Да, все хорошо, я убил всех наёмников, что находились в сарае. С Шурупом все хорошо, да и со мной тоже.</text>
+        <text>Yeah, everything is alright. I killed all the mercenaries that were in the barn. Screw’s with me, he’s fine.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_2">
-        <text>Очень жаль, что Тесак этот и несколько братков его сбежали, уже наверное и с аномалии свалить успели. Ну, ничего, они еще ответят за смерть Кувалды.</text>
+        <text>Too bad that Dagger escaped along with a few other assholes; they have probably already exited the anomaly. Don’t worry though, I’ll make him pay for Sledgehammer’s death.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_3">
-        <text>Эта сволочь еще и дешифратор с собой унесла...</text>
+        <text>That peice of shit, he stole the scanner to boot...</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_4">
-        <text>Значит ты все-таки его нашел? А впрочем, какая теперь разница... Ладно, слушай, у меня идея появилась одна, я уже с ребятами обсудил её, думаю и с тобой нужно поговорить по этому поводу. В общем, лучше нам остаться в этом бункере, тут и дверь есть и укрытие от выброса надежное. Что скажешь по этому поводу?</text>
+        <text>So you found him? Although, that doesn’t matter that much now, does it? Listen, I’ve been thinking: now that we have access to the bunker we should stay here, it’s a safer place. I already talked to the guys and they think it’s a good idea. What about you?</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_5">
-        <text>Думаю, что это хорошая идея, после случившегося глупо возвращаться в дырявый сарай, что у всех на виду.</text>
+        <text>Yeah, this place is way better than the barn. It’s a no brainer.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_6">
-        <text>Вот и я так думаю. Кстати, те наёмники, которых нам удалось взять в плен, в общем, они тоже попытались сбежать, пришлось их убить.</text>
+        <text>Glad we are all on the same page. By the way the mercenaries we managed to capture tried to escape so we had to kill them. </text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_7">
-        <text>Они сделали свой выбор. Маркус уже рассказал тебе, что он нашел ключ от диспетчерской и теперь у нас есть боеприпасы?</text>
+        <text>They knew the risk... Anyway, did Marcus tell you that he found the key to the storage room? There should be plenty of ammo there. </text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_8">
-        <text>Да, он мне уже рассказал об этом, это действительно хорошая новость. Ладно, трепать позже будем, сейчас нужно свет здесь включить. Ты когда в сарае свет вырубил, то он и здесь вырубился тоже. Я уже Шурупу написал, чтобы он обратно включить попробовал, но у него не вышло, видимо где-то здесь есть трансформатор и для того, чтобы включить свет его нужно перезапустить. Мы с Резаком нашли здесь кое-какие схемы, выяснилось, что трансформатор находится недалеко от сарая, в подземке. Поручаю его перезапуск тебе. Вход в эту подземку закрыт, но Шуруп написал, что сможет взломать замок, в общем, иди он будет ждать тебя рядом с входом в это подземелье.</text>
+        <text>Yeah, he already told me about it, this is great news indeed. Alright, there will be enough time to chit chat later but right now we have to find a way to turn on the electricity. When you turned off the power in the barn you also turned it off here in the bunker and when Screw tried to turn it back on it wouldn’t work. There must be a transformer somewhere nearby and we need to reactivate it in order to turn on power. Me and Rizak were looking around and we found some blueprints according to which the transformer should be not far from the barn underneath the ground. Screw said he can unlock the door leading to the underground. He’s already waiting for you near the door so I suggest you get going.</text>
     </string>
     <string id="pb_lutiy_scene_final_base_meet_9">
-        <text>Понял, займусь этим прямо сейчас.</text>
+        <text>Right, I’ll get going then.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_0">
-        <text>Что здесь произошло? Это ты их двоих уделал?</text>
+        <text>What the hell happened? Did you ice those two guys?</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_1">
-        <text>Это не я, опять появился этот Стронглав и заставил их застрелиться.</text>
+        <text>No, it wasn’t me. The stronglav appeaered out of nowhere and made these to guys kill themselves.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_2">
-        <text>Нихрена себе, он и на такое способен?! Тогда нам повезло, что мы до сих пор живы... Ладно, сейчас важнее парней из плена вытащить, и у меня есть план.</text>
+        <text>Holy shit, he can do that!? Fuck, we are lucky to be alive... Alright what’s most important right now is to free the other guys from captivity. Luckily, I have a plan.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_3">
-        <text>Что за план?</text>
+        <text>And what’s your plan?</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_4">
-        <text>На складе остался кое-кто из наших, их охраняет несколько наёмников, сначала нужно взять под контроль склад, а тогда вернемся сюда и освободим остальных.</text>
+        <text>A few of our guys are still held up in the barn, they are guarded by a few mercs. First we free them and then we go for the rest.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_5">
-        <text>Всё равно выбора нет, приступаем. И еще одно, как тебе удалось выбраться из норы?</text>
+        <text>Not like we have any better choice... By the way, how did you manage to get out of the cave?</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_6">
-        <text>Все просто, после того как ты вылез, я тоже попробовал это сделать и у меня получилось, я от радости чуть полные штаны не наложил. Ну все, хватит об этом, давай к делу, для начала нам нужна амуниция и я знаю где её можно взять. Иди за мной, объясню все на месте.</text>
+        <text>Nothing too complicated really: after you climbed out, I just followed you and managed to find my way out. When I finally climbed out, I could piss myself from happiness... But anyway, we are getting side tracked and we have to get moving fast. Follow me.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_7">
-        <text>Ладно, пошли.</text>
+        <text>Fine, let’s go.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_2">
-        <text>Вот мы и на месте, это старый военный резерв. Не знаю как долго здесь лежит это оружие, но будем надеяться, что оно до сих пор в отличном состоянии.</text>
+        <text>Alright, this place is an old military reserve and it should have plenty of firepower. I don’t for how long these weapons have been stored here but let’s hope they all work.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_3">
-        <text>Как дверь собираешься открывать?</text>
+        <text>How are you going to open the door?</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_4">
-        <text>У меня всё на мази. Я ключ от этой двери нашел, в логове этого Стронглава. Кое-что отсюда я уже себе взял, думаю, что и ты сможешь здесь найти что-то полезное для себя. Вот ключ от двери, бери все, что сможешь унести на себе, я подожду снаружи.</text>
+        <text>I found the key to it when I was inside the Stronglav’s lair. I’ve already taken some stuff out of there but there’s still plenty to go around in there.  Here’s the key, take all you need while I wait for you here  and guard the area.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_5">
-        <text>Понял, подожди меня, я сейчас.</text>
+        <text>Alright, I won’t take too long.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_7">
-        <text>Зверь, давай в темпе, бери всё, что сможешь унести, я подожду снаружи.</text>
+        <text>Beast, get a move on... Take what you need and let’s get going.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_end_8">
-        <text>Понял, подожди меня, я сейчас.</text>
+        <text>Alright, I won’t take too long.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_0">
-        <text>Ну, что там, готов уже?</text>
+        <text>So, are you ready?</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_1">
-        <text>Да, готов. Вот забирай ключ, пусть у тебя будет.</text>
+        <text>Yeah, ready.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_2">
-        <text>Значит слушай, большая часть группы сейчас в сарае, они для чего-то оставили там Шурупа, нужно попытаться его спасти. Самый простой способ сделать это - вырубить электричество в сарае и перебить их в темноте. Ну, как план? И еще одно, могу я задать вопрос?</text>
+        <text>Okay so, listen up. Even though most of the mercs are at the bunker, there’s still a big chunk of them in the barn. They are holding Screw hostage there for some reason, and we need to save him. The best option we have right now is to kill the electricity and uses the darkness to our advantage. What do you think? Also, I need to ask you something.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_3">
-        <text>План прост и понятен, а на счет вопроса я думаю, что сейчас не самое подходящее время для разговоров...</text>
+        <text>Your plan is solid. As for your question, this isn’t the best time for chit-chat right now.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_4">
-        <text>Да я как раз таки о сложившейся ситуации и хотел поговорить. Ты уверен, что сможешь вступить в бой с наёмниками, ведь ты наверное знаешь многих из них?</text>
+        <text>Well, it’s about our current situation. Are you sure that you are going to be able to fight these guys? There’s a chance that you might ran into an old friend among them, you used to work for the syndicate after all.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_5">
-        <text>Смогу, у меня не было друзей среди наёмников.</text>
+        <text>Don’t worry, there shouldn’t be any problem. These assholes were never my friends.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_6">
-        <text>Не совсем готов к этому, но выбора нет, это необходимо сделать.</text>
+        <text>There’s a chance, I might ran into someone I know but I have to do what needs to be done. Our lives are at stake here.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_7">
-        <text>Хм, неожиданный ответ, но это не мое дело уже. Ладно, тогда ты займись наёмниками в сарае, а я попытаюсь освободить остальных.</text>
+        <text>Huh... Alright then. If that’s the case then let’s not waste any more time. Alright, you go take care of the mercs in the barn while go help the rest. </text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_8">
-        <text>Это да... Ладно, тогда ты займись наёмниками в сарае, а я попытаюсь освободить остальных.</text>
+        <text>You’re right about that... Alright, you go take care of the mercs in the barn while go help the rest.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_9">
-        <text>Понял, ты иди, я как справлюсь - сразу же к вам на подмогу пойду.</text>
+        <text>Got it, I’ll join you when I’m finished here.</text>
     </string>
     <string id="pb_markus_start_dialog_10">
-        <text>Когда будешь готов, поговори со Змеем - он заодно тебе и метку поставит в КПК.</text>
+        <text>When you’ll be ready, talk to snake. He’ll mark the location on your pda.</text>
     </string>
     <string id="pb_markus_start_dialog_11">
-        <text>Понял, пойду я.</text>
+        <text>Got it.</text>
     </string>
     <string id="pb_markus_start_dialog_13">
-        <text>Зверь, нет времени болтать, нужно уничтожить тех плотей.</text>
+        <text>Beast, this is no time to chit chat. We got to take out this fleshes.</text>
     </string>
     <string id="pb_markus_start_dialog_15">
-        <text>Приветствую, Зверь! Я заметил, что и сыщик с тебя не плохой, химеру с Дуболомом выследил, Падальщика сумел найти, более того о всех его грязных делах нам поведал.</text>
+        <text>Hey, Beast! I noticed you’re not too bad of a detective. First, you and Knucklehead found the chimera then you found Scavenger and uncovered all of his dirty deeds.</text>
     </string>
     <string id="pb_markus_start_dialog_16">
-        <text>К чему ты клонишь?</text>
+        <text>Alright, what’s your point?</text>
     </string>
     <string id="pb_markus_start_dialog_17">
-        <text>Помощь твоя нужна. Ещё до Лютого у нас был другой старший, кличка у него была - Гильза, хороший мужик был, но пропал...</text>
+        <text>We need your help. Before Savage came along we had a different leader by the name of Shell. Good guy... Only he disappeared.</text>
     </string>
     <string id="pb_markus_start_dialog_18">
-        <text>И как давно он пропал?</text>
+        <text>And how long has it been?</text>
     </string>
     <string id="pb_markus_start_dialog_19">
-        <text>Чуть больше месяца назад. Конечно, глупо верить, что он жив, но я словил сигнал его КПК несколько дней назад возле Заброшенного убежища, однако через секунду сигнал пропал, я обшарил весь тот подвал, но так ничего и не нашел. Может быть он как и Падальщик по телепортам перемещается, выход ищет или выбраться не может... Попробуй разыскать его, Зверь.</text>
+        <text>About a month. Even though, it’s most likely that he is dead but I did catch the signal of his pda a few days ago when I was near the abandoned basement, although only for a split second. I tried looking everywhere but couldn’t find anything. Maybe he, like Scavenger, used teleports to move around but got stuck somewhere... Maybe you can find him.</text>
     </string>
     <string id="pb_markus_start_dialog_2">
-        <text>Слушай, какие разговоры?! У нас тут зомбированные под боком, а достаточное количество патронов только у тебя и Москита. Ты бы сходил и убил этих безмозглых для начала, а потом и поговорим.</text>
+        <text>This no time to flap your gums! The zombies are closing in and you are the only one with ammo to spare so get going and then maybe will talk. </text>
     </string>
     <string id="pb_markus_start_dialog_20">
-        <text>Хм, думаешь, что он смог продержаться столько времени в одиночку?</text>
+        <text>You think he could survive all this time on his own?</text>
     </string>
     <string id="pb_markus_start_dialog_21">
-        <text>Всякое может быть, мужиком он был крепким, экзоскелет и ПКМ при себе имел. Да и еды и патронов, на момент его пропажи, было у него достаточно. Гильза хорошо справлялся с обязанностями главы, ему удалось сгруппировать нас вместе, а у нас ведь тут сталкеры всех мастей.</text>
+        <text>Anything is possible here, plus he’s one of the tough ones. He wore an exoskeleton and always carried a PKM with him. The last time he was seen, he had plenty of food and ammo so there might be a chance he’s still alive. Shell was a great leader and he’s the one who made us work together in the first place. That’s quite an accomplishment considering we have stalkers from rivaling factions.</text>
     </string>
     <string id="pb_markus_start_dialog_22">
-        <text>Ладно, попробую найти этого Гильзу, может и получится что-то с этого.</text>
+        <text>Alright, I’ll try and look for Shell. Who knows? Maybe I’ll get lucky.</text>
     </string>
     <string id="pb_markus_start_dialog_24">
-        <text>Приветствую, наёмник! Мы пока не успели с тобой познакомиться, меня Маркусом кличут, ты нам здорово помог, у нас хоть какой-то запас патронов появился, что не может не радовать.</text>
+        <text>Greetings, merc! I haven’t had the chance to meet you yet but my name’s Marcus. First of all, I wanted to thank you for helping us out, now, at the very least we have some resources to spare.</text>
     </string>
     <string id="pb_markus_start_dialog_25">
-        <text>Будем знакомы, меня Зверем кличут, но ты и так должен знать об этом...</text>
+        <text>Don’t mention it... My name’s Beast by the way but you should already know that.</text>
     </string>
     <string id="pb_markus_start_dialog_26">
-        <text>Это да, значит данное место "Пространственной аномалией" именуется? Стало быть и выход отсюда все же есть, осталось только его найти... Ты сейчас не занят, мне твоя помощь нужна?</text>
+        <text>Yeah you’re right about that. So this place is called spatial anomaly right? So it turns out there’s supposed to be a way out of here, we just have to find it.  By the way, are you busy right now? I need your help.</text>
     </string>
     <string id="pb_markus_start_dialog_27">
-        <text>Не занят, что за помощь нужна?</text>
+        <text>Nope. What do you need?</text>
     </string>
     <string id="pb_markus_start_dialog_28">
-        <text>Sorry, but I’m busy right now.</text>
+        <text>No, my hands are full right now.</text>
     </string>
     <string id="pb_markus_start_dialog_29">
-        <text>Ничего особо сложного, мне нужен артефакт "Выверт", он хорошо радиацию из организма выводит. Как видишь, гравитационных аномалий здесь хватает, он точно должен появляться в этих местах. Сам сходить не смогу, вокруг мутантов куча, а патронов у меня почти не осталось. С наградой не обижу, не переживай, есть у меня другой артефакт, он хоть и радиоактивен, но полезные свойства у него тоже есть.</text>
+        <text>Nothing too difficult, all you have to do is find me a Wrenched. This artifact cleanses your body of radiation very well. There are plenty of gravitational anomalies here so finding one shouldn’t that much of a problem. I’d go myself but I am all out of ammo. As for the reward, don’t worry, I’ll give you a different artifact in return. Even though it’s radioactive, it does have some positive qualities. </text>
     </string>
     <string id="pb_markus_start_dialog_30">
-        <text>Ладно, попробую найти тебе "Выверт".</text>
+        <text>Alright, I’ll try to find you a “wrenched”.</text>
     </string>
     <string id="pb_markus_start_dialog_32">
-        <text>Ну, что там? Уже не занят или еще не решил свои дела?</text>
+        <text>So are you still busy?</text>
     </string>
     <string id="pb_markus_start_dialog_33">
-        <text>Уже не занят, что за дело у тебя?</text>
+        <text>Not anymore, what’s the job?</text>
     </string>
     <string id="pb_markus_start_dialog_34">
-        <text>Занят пока еще.</text>
+        <text>Still busy.</text>
     </string>
     <string id="pb_markus_start_dialog_36">
-        <text>Ну, что там, Зверь, как идут поиски артефакта, он уже у тебя?</text>
+        <text>So, Beast how’s the artifact search going?</text>
     </string>
     <string id="pb_markus_start_dialog_37">
-        <text>Да, он у меня.</text>
+        <text>Yeah, It’s here. </text>
     </string>
     <string id="pb_markus_start_dialog_38">
-        <text>Нет, я пока не нашел его.</text>
+        <text>No, I haven’t found it yet. </text>
     </string>
     <string id="pb_markus_start_dialog_39">
-        <text>Так это же отлично! Можно будет забыть о антирадах, а то у меня их недели две как нет, артефакт отлично их заменит. Давай его сюда.</text>
+        <text>That’s awesome! I can stop worrying about antirads... It’s been two weeks sense I ran out. Doesn’t matter though, this artifact does the job way better. Give it to me.</text>
     </string>
     <string id="pb_markus_start_dialog_4">
-        <text>Привет, Зверь. Мы тут с ребятами собрались еды немного раздобыть, нужна твоя помощь.</text>
+        <text>Hey, Beast. Me and the guys are planing to go find some food and we need your help.</text>
     </string>
     <string id="pb_markus_start_dialog_40">
-        <text>Вот, держи свой артефакт.</text>
+        <text>Here, take it.</text>
     </string>
     <string id="pb_markus_start_dialog_41">
-        <text>А это тебе за то, что выполнил мою просьбу, я очень тебе благодарен.</text>
+        <text>Here’s your reward. I’m really grateful for what you have done.</text>
     </string>
     <string id="pb_markus_start_dialog_42">
-        <text>Обращайся, буду рад помочь.</text>
+        <text>Sure, I’ll be glad to help.</text>
     </string>
     <string id="pb_markus_start_dialog_44">
-        <text>Привет, Зверь! Какие новости?</text>
+        <text>Hey, Beast! any news?</text>
     </string>
     <string id="pb_markus_start_dialog_46">
-        <text>Ну, Зверь, есть какие-нибудь новости о Гильзе?</text>
+        <text>So, Beast, any news about Shell?</text>
     </string>
     <string id="pb_markus_start_dialog_47">
-        <text>Я нашел Гильзу, он оказался зомбированным, мне пришлось убить его.</text>
+        <text>When I found Shell, he was zombified so I had to kill him.</text>
     </string>
     <string id="pb_markus_start_dialog_48">
-        <text>Пока новостей нет.</text>
+        <text>No news yet.</text>
     </string>
     <string id="pb_markus_start_dialog_49">
-        <text>Грустно все это, зря он ушел от нас тогда... Может и жив бы остался, а как вообще тебе его удалось уложить, он ведь в экзоскелете был или нет?</text>
+        <text>That’s really fucked up. Man, he shouldn’t have ever left on his own like that, if he hadn’t he would probably be alive right now. How the hell did you manage to kill him though, wasn’t he wearing an exoskeleton?</text>
     </string>
     <string id="pb_markus_start_dialog_5">
-        <text>Какая помощь от меня нужна?</text>
+        <text>So how do you need my help?</text>
     </string>
     <string id="pb_markus_start_dialog_50">
-        <text>Сложно было, но мне все-таки удалось это сделать.</text>
+        <text>It was really hard but I managed to do it somehow...</text>
     </string>
     <string id="pb_markus_start_dialog_51">
-        <text>При нем были какие-то заметки или может полезное что-то нашел?</text>
+        <text>Did he have anything interesting on him?</text>
     </string>
     <string id="pb_markus_start_dialog_52">
-        <text>При нем был только вот этот брелок, возьми.</text>
+        <text>No, only this dogtag, here have a look.</text>
     </string>
     <string id="pb_markus_start_dialog_53">
-        <text>Да, это его брелок. Ладно, спасибо тебе, Зверь. Держи за это кое-что.</text>
+        <text>Yeah, that’s his dog tag alright... Thank you, beast. Here’s a reward for your hardwork.</text>
     </string>
     <string id="pb_markus_start_dialog_54">
-        <text>Обращайся, если будет нужна помощь. Бывай!</text>
+        <text>feel free to ask for help anytime. Alright, see you around.</text>
     </string>
     <string id="pb_markus_start_dialog_56">
-        <text>Привет, Зверь! С чем пожаловал ко мне?</text>
+        <text>Hey, beast! What’s up?</text>
     </string>
     <string id="pb_markus_start_dialog_6">
-        <text>В общем слушай, Резак мне рассказал, что видел стаю плотей не далеко от базы. Мы решили, что раз другой еды у нас почти нет, нужно этих плотей на мясо пустить, поможешь ребятам убить их?</text>
+        <text>Rizak told me that you saw some Fleshes nearby. We decided that, since we don’t have any other food, we are going to eat flesh meat. You wanna help us out?</text>
     </string>
     <string id="pb_markus_start_dialog_60">
-        <text>Ладно, позже поговорим.</text>
+        <text>Alright, we will talk later.</text>
     </string>
     <string id="pb_markus_start_dialog_7">
-        <text>Ладно, я помогу.</text>
+        <text>Alright, let’s talk later.</text>
     </string>
     <string id="pb_markus_start_dialog_8">
-        <text>С тобой пойдут Змей, Кувалда и я, но мне сначала в одно место заскочить нужно. Как только освобожусь - сразу к вам. Ты поглядывай, чтобы эти двое не поссорились там.</text>
+        <text>Snake, Sledgehammer, and I will come with you but I have do something first so I’ll join a bit later. In the meantime make sure those two won’t start fighting with each other.</text>
     </string>
     <string id="pb_markus_start_dialog_9">
-        <text>Понял тебя, Маркус. Ставь метку, где этих плотей искать надо.</text>
+        <text>Got it, Marcus. Alright, send me coordinates.</text>
     </string>
     <string id="pb_moskit_start_dialog_10">
-        <text>Помогу, не боись.</text>
+        <text>I help, Don’t worry.</text>
     </string>
     <string id="pb_moskit_start_dialog_11">
-        <text>Ну, что, Зверь? Уже нашел патроны для СВД?</text>
+        <text>So, Beast, have you found the SVD ammo yet?</text>
     </string>
     <string id="pb_moskit_start_dialog_12">
-        <text>Да, патроны у меня, держи.</text>
+        <text>Yeah, I have the ammo, here.</text>
     </string>
     <string id="pb_moskit_start_dialog_13">
-        <text>Нет, пока не нашел.</text>
+        <text>No, not yet.</text>
     </string>
     <string id="pb_moskit_start_dialog_14">
-        <text>Отлично! Я думал, ты, не сможешь отыскать их здесь, а тут... Молодец, Зверь!</text>
+        <text>Excellent work, man. I never thought you could actually find them here.</text>
     </string>
     <string id="pb_moskit_start_dialog_15">
-        <text>Что там на счет награды?</text>
+        <text>Yeah, okay. Where’s my reward?</text>
     </string>
     <string id="pb_moskit_start_dialog_16">
-        <text>Вот, как и обещал.</text>
+        <text>Here it is, just like I promised.</text>
     </string>
     <string id="pb_moskit_start_dialog_17">
-        <text>Ну, хорошо. Пойду я.</text>
+        <text>Thanks. Alright, I’ll be on my way.</text>
     </string>
     <string id="pb_moskit_start_dialog_19">
-        <text>Здравствуй, Зверь. Чего хотел?</text>
+        <text>Hey Beast, what do you need?</text>
     </string>
     <string id="pb_moskit_start_dialog_3">
-        <text>Listen, Beast: thanks for helping us deal with the zombies. Are you busy right now? I’ve got some work for you.</text>
+        <text>Yo, Beast, Thanks for taking care of those zombies. Are you busy now? I need your help with something.</text>
     </string>
     <string id="pb_moskit_start_dialog_4">
-        <text>I’m free. What do you need?</text>
+        <text>Nope. What do you need?</text>
     </string>
     <string id="pb_moskit_start_dialog_5">
-        <text>You sure you aren’t busy with any other tasks right now?</text>
+        <text>So, have managed to find some free time?</text>
     </string>
     <string id="pb_moskit_start_dialog_6">
-        <text>No. My hands are free. What’ve you got?</text>
+        <text>Yeah, what do you need?</text>
     </string>
     <string id="pb_moskit_start_dialog_7">
-        <text>В общем, лежит у меня здесь неподалеку в схроне СВД. Хорошая снайперка, но патронов у меня к ней нет. Можешь поискать, для меня, патроны к ней? Найти для начала пачку хотя бы? Взамен дам тебе патроны к калашу, у меня как раз заначка появилась, да и деньжат сверху накину. Ну что, поможешь мне?</text>
+        <text>I have an SVD stashed nearby, only there’s one problem, I don’t have any ammo for it. Can you help me find some ammo for it? Even a single pack will suffice for now. I will give you some ammo for your ak in exchange and I’ll throw some cash on top. So, are you in?</text>
     </string>
     <string id="pb_moskit_start_dialog_8">
-        <text>Занят пока еще.</text>
+        <text>No, I’m too busy right now.</text>
     </string>
     <string id="pb_moskit_start_dialog_9">
-        <text>Sorry, but I’m busy right now.</text>
+        <text>Sorry, I’m too busy</text>
     </string>
     <string id="pb_mrakobes_talk_0">
-        <text>Какие люди!.. Привет, животное, ты что тут забыл вообще?</text>
+        <text>LLook who it is... Hello, creature, what the hell are you doing here?</text>
     </string>
     <string id="pb_mrakobes_talk_1">
-        <text>Это ты, что здесь делаешь, придурок? Ты хоть представляешь, в какую жопу ты залез? Если сейчас же не уберешься с моего пути - завалю, мне терять нечего.</text>
+        <text>I could ask you the same question... Do you even know where you are? You have no idea how much you’ve fucked up by coming here. Anyway, either you get out of my way right now or I am going to shoot you in the head.</text>
     </string>
     <string id="pb_mrakobes_talk_2">
-        <text>Смотри как заговорил... Ну, ничего, сейчас ты по-другому запоешь. Ах да, тебе привет от Синдиката.</text>
+        <text>Huh... Look at you talk like you’re all tough and shit. No worries though, you’re going to be singing a different tune soon enough. By the way, the syndicate says hello.</text>
     </string>
     <string id="pb_mrakobes_talk_3">
-        <text>Да я тебя...</text>
+        <text>I’m going to...</text>
     </string>
     <string id="pb_murad_prison_meet_0">
-        <text>Спасибо тебе, Зверь. Уже второй раз мою шкуру спасаешь, неужели наёмники сюда из-за меня пришли?</text>
+        <text>Thank you, Beast. This is the second time you’re saving my skin. Are the mercenaries really here because of me?</text>
     </string>
     <string id="pb_murad_prison_meet_1">
-        <text>Нет, они здесь по другим причинам... Артефакт "Компас" ищут, думают, что мы нашли его, из-за этого Кувалду убили, суки.</text>
+        <text>No. They’re here for some kind of artifact... Compass it’s called, they think we have it. What’s even worse though is that these pieces of shit killed Sledgehammer.</text>
     </string>
     <string id="pb_murad_prison_meet_2">
-        <text>Мда, вот так ситуация получается... Значит это не все наёмники, что пришли и часть до сих пор держит в заложниках всех остальных?</text>
+        <text>Man, this some fucked situation we’re in... That means that there still some mercs out there and there holding our friends hostage.</text>
     </string>
     <string id="pb_murad_prison_meet_3">
-        <text>Да, Маркус пошел им на подмогу, думаю, что он придумает как их освободить.</text>
+        <text>Yeah, Marcus is working on a way to free them.</text>
     </string>
     <string id="pb_murad_prison_meet_4">
-        <text>Слушай, иди помоги ему, от меня пользы мало будет, они мне здорово бока намяли, так что я лучше здесь подожду. Идет?</text>
+        <text>Listen, you better go help him and as for me, the mercs fucked me up pretty bad so I better just hang back here. What do you say?</text>
     </string>
     <string id="pb_murad_prison_meet_5">
-        <text>Ладно, сиди здесь, а я побежал.</text>
+        <text>Fine, Stay here then.</text>
     </string>
     <string id="pb_murad_quest_door_talk_0">
-        <text>О, наконец-то ты пришел, Лютый уже рассказал тебе о том, что тебе предстоит сделать?</text>
+        <text>Oh, you finally came? Did Savage tell you what you need to do?</text>
     </string>
     <string id="pb_murad_quest_door_talk_1">
-        <text>Рассказал в общих чертах.</text>
+        <text>Yeah, he did.</text>
     </string>
     <string id="pb_murad_quest_door_talk_2">
-        <text>Then let’s go, помогу тебе решетку открыть, только учти, я с тобой в подземелье это не полезу, мало ли, что там обитает. Я открою тебе вход, а сам на базу побегу, ты и без меня справишься. Ну что, готов?</text>
+        <text>Then let’s go. I help you open the door but remember I am not going down there with you; I don’t know what’s in there. I’ll open the entrance and head back to base, not like you need my help anyway. So, are you ready?</text>
     </string>
     <string id="pb_murad_quest_door_talk_3">
-        <text>Да, пошли.</text>
+        <text>Yeah, let’s go.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_10">
-        <text>Меня просили найти аккумулятор к подобному радиопередатчику, давай его сюда</text>
+        <text>They told me to find a battery for the radio, so give it here.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_12">
-        <text>Да, наёмник. Чего тебе?</text>
+        <text>Yeah, Merc, what is it?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_13">
-        <text>Ну вот тогда и передай аккумулятор этому человеку, а я пока отдышусь немного.</text>
+        <text>Then give that battery to the man. In the meantime, I’m gonna catch my breath.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_14">
-        <text>Ладно, пойду я.</text>
+        <text>All right. I’m off.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_2">
-        <text>Спасибо за помощь, мужик. Теперь, думаю, поговорить можно.</text>
+        <text>Thanks for the help, man. I think we can exchange a few words now.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_3">
-        <text>Ты сказал, что за тобой гнались наёмники, почему?</text>
+        <text>You said a few mercenaries were after you. Why?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_4">
-        <text>В общем, дали мне ученые, по контракту радиопередатчик, протестируй мол и все дела. Я крутил эту хреновину и случайно на закрытый канал наёмников вышел, ох и переговоры у них были, слушал я это все, рот открыв, и не оглядывался даже. А тут, наёмники поняли, что кто-то их связь палит, и передали всем своим окрестность прочесать. Ну тут и началось, из-за куста уже через минуту повалили наёмники. Я по случайность в аномалию сиганул, хорошо еще, что это не карусель какая-нибудь оказалась, а пространка. Вот так вот.</text>
+        <text>Well, basically, the scientists gave me an assignment to try out a radio transmitter. If I remember their words correctly: “Just test it out and see if you pick up anything.” I messed around with the hunk of junk and happened to pick up a mercenary channel, and man, they were having some serious negotiations. I heard it all, mouth shut. Didn’t even move a muscle. Then, all of a sudden, the mercs got that someone was listening in on them and ordered everyone to sweep the area, and that’s when this whole shitstorm started. Because of my screwup, the place was crawling with mercs within minutes. I randomly happened upon an anomaly; good thing it didn’t happen to be a whirligig or anything… No, it was some kind of space anomaly. And now I’m here.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_5">
-        <text>А этот радиопередатчик еще у тебя?</text>
+        <text>Do you still have that transmitter?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_6">
-        <text>Он со мной, но, похоже, при перемещении сюда я разбил его, во время побега от наёмников я его в рюкзак засунул, а когда из аномалии вывалился, то на этот же рюкзак и плюхнулся, он теперь на конструктор стал похож.</text>
+        <text>I have it, but it looks like it broke when I was sent here. When I was running away from the mercs, I threw it into my backpack, and when I left the anomaly, I dropped the backpack. Now, the transmitter is more of a puzzle game than a working device.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_7">
-        <text>Что-то из деталей этого передатчика уцелело?</text>
+        <text>Did any of the parts inside the transmitter survive?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_8">
-        <text>Ладно, давай сюда аккумулятор, пусть пока полежит у меня. Пойду я.</text>
+        <text>All right. Let me have the battery for now. I’m going.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_9">
-        <text>Пара микросхем, но они бесполезны и аккумулятор, могу отдать тебе, если нужен.</text>
+        <text>A couple of busted microchips… and a battery that I could give you if you have any use for it.</text>
     </string>
     <string id="pb_murad_quest_start_dialog_0">
-        <text>Наёмник, ты кто такой, твою мать? Отвечай или я открою огонь!</text>
+        <text>Merc, who the hell are you, God damn it? Answer or I’ll open fire!</text>
     </string>
     <string id="pb_murad_quest_start_dialog_1">
-        <text>Успокойся, я помочь пришел. Зверем меня кличут.</text>
+        <text>Calm down. I’m here to help. I go by Beast.</text>
     </string>
     <string id="pb_murad_quest_start_dialog_10">
-        <text>Не истери, успокойся или мне тебя успокоить?</text>
+        <text>Calm your tits… or do you want me to calm you down myself?</text>
     </string>
     <string id="pb_murad_quest_start_dialog_11">
-        <text>Хана тебе, найм, всем вам конец придёт...</text>
+        <text>You’re dead, merc… All of you are dead…</text>
     </string>
     <string id="pb_murad_quest_start_dialog_12">
-        <text>Это твой выбор...</text>
+        <text>That’s your choice…</text>
     </string>
     <string id="pb_murad_quest_start_dialog_2">
-        <text>Помочь ты пришел, да? Что ты мне лапшу на уши вешаешь? Что вам наёмникам от меня надо, вообще? Не слышал я ничего, вали!</text>
+        <text>Here to help, huh? You pulling my leg or something? What the hell do you mercs want from me, anyway? I never heard anything! Go away!</text>
     </string>
     <string id="pb_murad_quest_start_dialog_3">
-        <text>Вам? Ты о ком? Нет здесь больше наёмников, один я только.</text>
+        <text>“You”? Who are you talking about? There are no mercs here but me.</text>
     </string>
     <string id="pb_murad_quest_start_dialog_4">
-        <text>Допустим, что ты не врешь... Погоди, ты сказал «здесь», что ты имеешь в виду?</text>
+        <text>Let’s say you’re telling the truth… Wait. You said “here.” What do you mean by that?</text>
     </string>
     <string id="pb_murad_quest_start_dialog_5">
-        <text>Эх, мужик, не повезло тебе, в пространственную аномалию ты попал.</text>
+        <text>Oh, man. Fortune doesn’t smile on you. You’ve ended up in a spatial anomaly.</text>
     </string>
     <string id="pb_murad_quest_start_dialog_6">
-        <text>Что? Блин, нужно выбираться, срочно! Наёмники скоро придут, они видели, где я пропал...</text>
+        <text>What? Damn! I need to get out of here, immediately! The mercs will be here soon. They’ve seen where I ended up…</text>
     </string>
     <string id="pb_murad_quest_start_dialog_7">
-        <text>Не паникуй, пойдем к базе, там и обговорим все подробности.</text>
+        <text>Don’t panic. We’ll go to the base and talk about everything.</text>
     </string>
     <string id="pb_murad_quest_start_dialog_8">
-        <text>Это далеко? Много здесь еще сталкеров?</text>
+        <text>Is it far? Are there other stalkers there?</text>
     </string>
     <string id="pb_murad_quest_start_dialog_9">
-        <text>Все вопросы на базе обсудим, пошли.</text>
+        <text>Like I said: we’ll talk about it when we’re there. Come on.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_0">
-        <text>Наёмник, тебе крупно повезло, что фантом не тронул тебя. Если бы ты не прошел его испытание, то уже никогда бы не смог проснуться. Фантомы очень коварны, но то, что их порождает - в разы опаснее.</text>
+        <text>Mercenary, you’re very lucky that phantom didn’t take you with it. If you hadn’t passed its trial, you’d never be waking up after that. Phantoms are extremely deceptive, but that which gives rise to them is much more dangerous.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_1">
-        <text>Погоди, что ты несешь? И кто ты вообще?</text>
+        <text>Wait. What are you saying? Who are you, even?</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_2">
-        <text>Сейчас это не самое главное, тебе нужно опасаться фантомов и держаться подальше от них. Они очень опасны, запомни это...</text>
+        <text>That’s not our priority to discuss. You need to stay away from phantoms. They’re very dangerous. Remember that…</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_3">
-        <text>Что здесь творится? Что еще за фантомы?</text>
+        <text>What’s going on here? What are phantoms?</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_4">
-        <text>То, что ты видел здесь прошлой ночью и было фантомом. Фантомы - это души погибших людей, они появляются на месте своей гибели или поблизости от своего мёртвого тела. Обычно они не опасны, но того фантома, что ты видел создали чтобы заманить кого-то в ловушку.</text>
+        <text>What you saw here last night was a phantom. Phantoms are the souls of dead people; they appear at the site of their death, or close to their dead body. Normally, they aren’t dangerous, but the phantom you saw here was made to lure someone into a trap.</text> <!-- fix -->
     </string>
     <string id="pb_otshelnik_puzir_talk_5">
-        <text>Тогда у того, кто это сделал, ничего не получилось, я ведь выбрался.</text>
+        <text>Then, the one who did it didn’t succeed. I mean, I escaped.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_6">
-        <text>Тебе повезло больше, чем сталкеру, что попал в ловушку до тебя, но нельзя постоянно опираться только на везение, она может подвести. Будь бдителен, наёмник, и не дай еще раз заманить себя в ловушку.</text>
+        <text>You have more fortune than the stalker who came here before you, but you cannot always rely on your chances. Be vigilant, mercenary, and do not let yourself fall into another trap.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_7">
-        <text>Откуда ты все это знаешь, старик?</text>
+        <text>How do you know all of this, old man?</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_8">
-        <text>Я много чего знаю, просто последуй моему совету, тебе угрожает опасность, не дай себя обмануть. Бывай, наёмник, надеюсь, еще встретимся.</text>
+        <text>I know much. Follow my advice; you are in danger. Do not let yourself be deceived. Farewell, mercenary. I hope we see each other again.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_9">
-        <text>Что?! Эй! Погоди, а как ты собираешься покинуть аномалию?!</text>
+        <text>What?! Hey! Wait! How are you going to leave the anomaly?!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_0">
-        <text>Я смогу... почему я не хочу, чтобы эта... со мной... вот эта...</text>
+        <text>I can do it… Why don’t I want this to… with me… This thing…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_1">
-        <text>Эй, мужик, что с тобой? Ты в порядке?</text>
+        <text>Hey, man, what’s going on with you? You all right?</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_10">
-        <text>Многое не помню... На Радаре... мы решили сократить путь... пошли через «Рыжий лес»... Как оказалось... там ничуть не безопасней... В заборе есть дырка... можно обойти некоторые патрули «монолитовцев»... Не... не... ты это...</text>
+        <text>There’s a lot I don’t remember… At the Radar… we decided to take a shortcut… We went through the Red Forest… As it turns out… there were no dangers there… There’s a hole in the fence… I can get around a few Monolith patrols… No… No… You…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_11">
-        <text>Что?</text>
+        <text>What?</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_12">
-        <text>Не помню... Голос зовёт... нужно идти... Я был там! Я видел это! Оно залезло ко мне в мозги и говорило со мной. Оно говорило со мной! В голове звучал ужасный голос, выжигая мозги. Ужас... Ужас. Ужас! Не ходи туда! Оно станет тобой так же, как стало мной. Дикая боль в голове... И голос... Шепчет мне.</text>
+        <text>I don’t remember… The voice is calling… I need to get… I was there! I’ve seen it! It got into my head and spoke to me. It spoke to me! A terrible voice sounded in my head, scorching my brains out. Terrible… Terrible. Terrible! Do not go there! It will become you, just as it became me. A wild pain in my head… And the voice… whispers to me.</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_13">
-        <text>Успокойся, дружище. Всё хорошо, ты уже в безопасности.</text>
+        <text>Calm down, buddy. Everything’s alright. You’re safe here.</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_14">
-        <text>Шёпот... Шёпот и скрип детских качелей... Оно в моей голове и я сам стал чудовищем. Нет, нельзя. Друг, передай Лысому мой артефакт. Это всё, что я нашёл там, когда Оно влезло мне в голову. Лысый передаст это моей жене, моему сыну. Это компенсирует им...</text>
+        <text>A whisper… A whisper and the creaking of swings… It’s in my head, and I’ve become a monster myself. No. I can’t. Friend, hand over my artifact to Baldy. That’s all I found there when It came into my head. Baldy will give it to my wife, my son. This will compensate them…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_15">
-        <text>Что компенсирует?..</text>
+        <text>What’ll compensate them?…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_2">
-        <text>Я нормальный! Я нормальный... Я выдержу, я смогу...</text>
+        <text>I’m fine! I’m fine… I can contain myself. I can…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_3">
-        <text>Ты меня слышишь?!</text>
+        <text>Do you hear me?!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_4">
-        <text>Нет, этого не будет со мной! Не будет этого со мной!</text>
+        <text>No! It won’t be with me! It will not be with me!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_5">
-        <text>Да отзовись же!</text>
+        <text>Answer me already!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_6">
-        <text>Башка... это фигня вообще полная... Это… Рябой я. Излучение... чтоб его! Горбун, Горбун погиб!</text>
+        <text>My skull… It’s tearing at me… It’s… I’m Spotty. Radiation… took him! Hunchback! Hunchback is dead!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_7">
-        <text>Горбун? Кто такой Горбун?</text>
+        <text>Hunchback? Who’s Hunchback?</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_8">
-        <text>Сталкер... Мы вместе отправились на «Выжигатель». Горбун, я и Лысый.</text>
+        <text>A stalker… We went together to the Scorcher. Hunchback, Savage, and I.</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_9">
-        <text>Что вы делали возле «Выжигателя»?</text>
+        <text>What did you do at the Scorcher?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_10">
-        <text>Сейчас, в первую очередь, нам нужно зомбированных уничтожить неподалёку, а то они скоро и к нам доберутся. У тебя ведь патроны к калашу имеются?</text>
+        <text>First, we have to eliminate the nearby zombies, or else, they’ll be taking us with them. Do you have any ammunition for my Kalashnikov?</text>
     </string>
     <string id="pb_quest_line_lutiy_start_11">
-        <text>Были вроде бы, перед тем как я здесь очухался...</text>
+        <text>I would if I’d never have woken up in this place…</text>
     </string>
     <string id="pb_quest_line_lutiy_start_12">
-        <text>Тогда, дай мне две пачки, я их Москиту отнесу, он хороший стрелок. Вместе с ним вы справитесь.</text>
+        <text>Then give me two packs. I’ll share them with Mosquito. He’s a good shot. You guys can take care of yourselves.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_13">
         <text>Okay. Take the ammo.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_14">
-        <text>Мда, плохи дела.</text>
+        <text>Okay. This is bad.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_15">
-        <text>Нам бы Падальщика разыскать, без него мы долго не протянем.</text>
+        <text>We should find Scavenger. Without him, we won’t last very long.</text>
     </string>
     <string id="pb_quest_line_lutiy_start_17">
         <text>Welcome back from the world beyond, buddy… Nobody was thinking you’d be coming back to your senses; you were unconscious for four days. Hmm… That blowout messed you up bad. Nobody would’ve survived that… or so we thought. You’re alive. Whether that’s a good thing or a bad thing is something I don’t know. The fact remains that this is very strange, though. Very strange indeed. Anyway: you seem to be an all right man, but your merc attributes seem a little suspicious. Whose side are you on?</text>
@@ -1978,7 +1978,7 @@
         <text>So, merc, what’ve you got?</text>
     </string>
     <string id="pb_shurup_start_dialog_3">
-        <text>Hey there, merc. I'm glad that you’re okay. I’m basically the local technician. You can bring me broken shooters, and I’ll buy them off you, though I don’t provide any repairs or modifications for free, because in the end, I’m going to get out of this place someday, so I try to gather whatever I can, and I also need to get hold of intact weapons in exchange for any parts. By the way, if you find any tools around here, then bring them to me. I’ll find a way to make use of them.</text>
+        <text>Hey there, merc. I’m glad that you’re okay. I’m basically the local technician. You can bring me broken shooters, and I’ll buy them off you, though I don’t provide any repairs or modifications for free, because in the end, I’m going to get out of this place someday, so I try to gather whatever I can, and I also need to get hold of intact weapons in exchange for any parts. By the way, if you find any tools around here, then bring them to me. I’ll find a way to make use of them.</text>
     </string>
     <string id="pb_shurup_start_dialog_4">
         <text>Hi, merc. Need anything repaired, or improved?</text>
@@ -2068,7 +2068,7 @@
         <text>Deal. See you.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_10">
-        <text>Ищи дураков!</text>
+        <text>Find the assholes!</text> <!-- fix -->
     </string>
     <string id="pb_soldier_oleynik_meet_12">
         <text>So, merc, are you still occupied with anything? Can you help me out with something?</text>

@@ -28,7 +28,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
 		- done (needs revision)
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
-		- in progress (**Baronoflulz** and **SashaTheRed**)
+		- done (needs revision and testing)
 	- [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
 		- incomplete
 	- [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
