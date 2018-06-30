@@ -246,7 +246,7 @@
 <text>Speak to Markus</text>
 </string>
 <string id="pb_talk_to_markus_part_1_text">
-<text>Маркус написал мне, что хочет поговорить. Нужно подойти к нему.</text>
+<text>Markus has written to me and says that he wants to talk.</text>
 </string>
 
 
@@ -527,19 +527,19 @@
 <text>I need to find a pack of 7.62x54 ammunition and bring it to Mosquito.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_2_name">
-<text>Rounds for Mosquito: Найти еще 3 пачки патронов 7.62x54</text>
+<text>Rounds for Mosquito: find 3 more packs of 7.62x54 ammo</text>
 </string>
 <string id="pb_find_ammo_7_62_part_2_text">
 <text>I need to find 3 more packs of 7.62x54 ammo.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_3_name">
-<text>Rounds for Mosquito: Найти еще 2 пачки патронов 7.62x54</text>
+<text>Rounds for Mosquito: find 2 more packs of 7.62x54 ammo</text>
 </string>
 <string id="pb_find_ammo_7_62_part_3_text">
 <text>I need to find 2 more packs of 7.62x54 ammo.</text>
 </string>
 <string id="pb_find_ammo_7_62_part_4_name">
-<text>Rounds for Mosquito: Найти еще 1 пачку патронов 7.62x54</text>
+<text>Rounds for Mosquito: find 1 more pack of 7.62x54 ammo</text>
 </string>
 <string id="pb_find_ammo_7_62_part_4_text">
 <text>I need to find one more pack of 7.62x54 ammo.</text>
@@ -631,7 +631,7 @@
 <text>I’ve managed to find a battery. I should give them to the soldier.</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_5_name">
-<text>Emergency contact: Отдать аккумулятор и проволоку военному</text>
+<text>Emergency contact: give the battery and wiring to the soldier</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_5_text">
 <text>I’ve managed to find a few coils of copper wire and a battery.</text>
@@ -715,7 +715,7 @@
 <text>Death wish: speak to Baldy about the fate of Spotty</text>
 </string>
 <string id="pb_found_lisiy_and_give_art_part_2_text">
-<text>I’ve picked up the signal of Baldy’s PDA, according to which he is at the Outpost. I should speak to him about the events in the space bubble.</text>
+<text>I’ve picked up the signal of Baldy’s PDA, according to which he is at the Stronghold. I should speak to him about the events in the space bubble.</text>
 </string>
 
 

@@ -43,7 +43,7 @@
         <text>[Unique]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_27">
-        <text>Well, then. Gonna show me what you have?</text>
+        <text>So, what have you got?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_29">
         <text>AKS-74U “Storm.” 2500 RU.</text>
@@ -88,7 +88,7 @@
         <text>[Grenade launchers]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_44441">
-         <text>Well, then. Gonna show me what you have?</text>
+         <text>So, what have you got?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_445">
         <text>RPG-7u. 1500 RU.</text>
@@ -124,7 +124,7 @@
         <text>[Pistols]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_55551">
-         <text>Well, then. Gonna show me what you have?</text>
+         <text>So, what have you got?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_6">
         <text>Marta. 200 RU.</text>
@@ -154,7 +154,7 @@
         <text>[Assault rifles]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_77771">
-         <text>Well, then. Gonna show me what you have?</text>
+         <text>So, what have you got?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_8">
         <text>Kora-919. 220 RU.</text>
@@ -202,7 +202,7 @@
         <text>[Sniper rifles]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_88881">
-         <text>Well, then. Gonna show me what you have?</text>
+         <text>So, what have you got?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_9">
         <text>UDP Compact. 250 RU.</text>
@@ -286,7 +286,7 @@
         <text>[Shotguns]</text>
     </string>
     <string id="pb_dialog_shurup_skupka_99991">
-         <text>Well, then. Gonna show me what you have?</text>
+         <text>So, what have you got?</text>
     </string>
     <string id="super_0">
         <text>default text</text>

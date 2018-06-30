@@ -19,24 +19,20 @@ A list of all files with their detailed progress can be found below.
 	- [character_desc_station_digger.xml](gamedata/configs/gameplay/character_desc_station_digger.xml)
 		- done
 - **[configs/text/eng](gamedata/configs/text/eng)**
-	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
-		- incomplete
-	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
+	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- incomplete
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
-		- incomplete
+		- in progress (**Baronoflulz** and **SashaTheRed**)
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
 		- done (needs revision)
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
 		- done (needs revision and testing)
 	- [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
-		- incomplete
+		- done
 	- [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
 		- incomplete
 	- [st_dialogs_station_digger.xml](gamedata/configs/text/eng/st_dialogs_station_digger.xml)
-		- done; untested
-	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
-		- incomplete
+		- done (needs testing)
 	- [st_dop_action.xml](gamedata/configs/text/eng/st_dop_action.xml)
 		- incomplete
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
@@ -54,7 +50,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
 		- incomplete
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
-		- incomplete
+		- done (needs revision)
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
 		- done (untested)
 	- [st_quests_escape.xml](gamedata/configs/text/eng/st_quests_escape.xml)
@@ -64,6 +60,10 @@ A list of all files with their detailed progress can be found below.
 	- [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
 		- done (needs revision)
 	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
+		- incomplete (many elements in this file are unused)
+	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
+		- incomplete
+	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
 		- incomplete
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
 		- incomplete
