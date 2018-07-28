@@ -427,8 +427,7 @@
         <text>An anomaly, most likely... Only really small. I can’t get out of here and I’ve ran out of food and water. As for the other guys well, one guy disappeared somewhere while the rest are all dead. The major, he went batshit all of a sudden and started killing people after which he shot himself in the head. So I am left here alone.</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_3">
-        <text>Hold on, I was just here a while back and everything was fine. You sent me message just a second ago? How the hell did all of this happen so fast?
-        </text>
+        <text>Hold on, I was just here a while back and everything was fine. You sent me message just a second ago? How the hell did all of this happen so fast?</text>
     </string>
     <string id="pb_duty_tachenko_final_dialog_4">
         <text>A while back? A whole week has passed sense the moment I sent you that message. After that, I tried to make contact but my pda died all of a sudden.</text>
@@ -512,8 +511,9 @@
         <text>Hello, merc.</text>
     </string>
     <string id="pb_killer_leader_group_agres_0">
-        <text>I see you are finally starting to grasp the seriousness of the situation... I’ll ask again, where the fuck is the Compass?</text>   
-         <string id="pb_killer_leader_group_agres_1">
+        <text>I see you are finally starting to grasp the seriousness of the situation... I’ll ask again, where the fuck is the Compass?</text>
+    </string>
+    <string id="pb_killer_leader_group_agres_1">
         <text>Fucking hell, I am not lying. You know me, you know I don’t lie about these things.</text>
     </string>
     <string id="pb_killer_leader_group_agres_2">
@@ -2203,7 +2203,7 @@
         <text>Damn… Man… Give me a medkit, or I’m riding the pale horse…</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_11">
-        <text>We’re here… Thanks for the help. Who knows what would’ve happened if you didn’t help out. I’m feeling a bit better now. Can you tell me where we are? What is this place?</text>
+        <text>We’re here… Thanks for the help. Who knows what would’ve happened if you didn’t come by. I’m feeling a bit better now. Can you tell me where we are? What is this place?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_12">
         <text>Have you ever heard about space bubbles?</text>
@@ -2233,7 +2233,7 @@
         <text>Hey there, merc. What do you need?</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_3">
-        <text>I’m finished… Man… Man, finish it. I can’t last this…</text>
+        <text>I’m finished… Man… Man, finish it. I won’t last…</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_4">
         <text>Just you wait. I might be able to help you still.</text>

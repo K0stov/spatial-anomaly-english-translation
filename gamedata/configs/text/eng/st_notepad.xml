@@ -54,19 +54,19 @@
 </string>
 
 <string id="ui_notepad_button_kris_use_2">
-	<text>Last contacts:</text>
+	<text>Последние контакты:</text>
 </string>
 <string id="ui_notepad_button_kris_use_3">
-	<text>Path maps:</text>
+	<text>Карты маршрутов:</text>
 </string>
 <string id="ui_notepad_button_kris_use_4">
-	<text>Personal data:</text>
+	<text>Личные данные:</text>
 </string>
 <string id="ui_notepad_button_kris_use_1">
-	<text>Documents:</text>
+	<text>Документы:</text>
 </string>
 <string id="ui_notepad_button_kris_use_5">
-	<text>Other:</text>
+	<text>Прочее:</text>
 </string>
 <string id="notepad_btn_kris_use_2_hint">
 	<text>Раздел с информацией о последних контактах пользователя.</text>
@@ -178,63 +178,63 @@
 	<text>GXefath.docx</text>
 </string>
 <string id="ars_mar_b1_documents_1">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b1_documents_2">
 	<text>NuMytre.doc.</text>
 </string>
 <string id="ars_mar_b1_documents_2">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b1_documents_3">
 	<text>JUthbv.txt.</text>
 </string>
 <string id="ars_mar_b1_documents_3">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 
 <string id="mar_b2_documents_1">
 	<text>Новый_документ.txt</text>
 </string>
 <string id="ars_mar_b2_documents_1">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b2_documents_2">
 	<text>Исполнитель.docx</text>
 </string>
 <string id="ars_mar_b2_documents_2">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b2_documents_3">
 	<text>Приговор.rtf</text>
 </string>
 <string id="ars_mar_b2_documents_3">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 
 <string id="mar_b3_documents_1">
 	<text>Dsstdfx.exe</text>
 </string>
 <string id="ars_mar_b3_documents_1">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b3_documents_2">
 	<text>anomaly.ppe</text>
 </string>
 <string id="ars_mar_b3_documents_2">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b3_documents_3">
 	<text>mssdsp.flt</text>
 </string>
 <string id="ars_mar_b3_documents_3">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 <string id="mar_b3_documents_3_1">
 	<text>xrEngine.exe</text>
 </string>
 <string id="ars_mar_b3_documents_3_1">
-	<text>File damaged.</text>
+	<text>Файл поврежден.</text>
 </string>
 
 <string id="mar_b4_documents_1">
@@ -437,7 +437,7 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Друид: "Подготовь все в лучшем виде. Они не заставят себя ждать. Вопрос с долговцами нужно решать в ближайшее время. Так что думай. С Посредником это дело обсуди."\n Крис: "Я понял. Ложные данные уже переданы группировке. Будем ждать их следующего шага. Сообщи Варгу, что его ход следующий."\n Аякс: "Куда запропал? Выход к намеченному району как договаривались. Необходимо обеспечить прикрытие Свободе. Ждем тебя.."\n Крис: "Принято, уже выступаю. У меня вроде все тихо. Посмотрим, как дальше пойдет. Сообщите Фараону что группа может идти". Сапсан: "Группа вольных на подходе. Мы следим за ними. Можете брать на нашему сигналу". \n Крис: "Мое почтение тебе, друг. Я сам ими займусь".</text>
 </string>
 <string id="jupiter">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="enc_location_jupiter">
 	<text>Друид: "Долговцы врятли пойдут в открытую конфрантацию. Пока дальнейшие действия здесь откладываются. Посмотрим что посоветует Варг. Ты же работаешь сейчас со вторым фронтом. Птенчики все-равно никуда не денуться. Подготовь засаду на группу в лучшем виде." \n Крис: "Принято."</text>
@@ -455,20 +455,20 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Восточная часть города. Пересечение улицы Дружбы Народов с улицей Курчатова. Среди стратегически важных объектов можно выделить только небольшой речной вокзал с прилегающим к нему зданием кафе "Припять". Идеальное место для обустройства укрепленной точки, поскольку с крыши кафе полностью простреливается вся улица Курчатова, тогда как с крыши вокзала простреливается и улица Дружбы Народов. Дополнительно можно отметить, что в случае одновременного захвата здания кинотеатра "Прометей" с прилегающей музыкальной школой, откуда уже простреливается вся центральная часть города, фактически весь район оказывается под контролем и выбить противника, закрепившегося на этих точках, будет чрезвычайно сложно. Среди крупных строений, где может выгодно для себя закрепиться противник, можно выделить также городскую больницу с поликлиникой МСЧ-126 и Припятскую Среднюю Школу №1 в северной части района, а также комплекс общежитий в южной, соединяющихся через здание столовой "Встреча".</text>
 </string>
 <string id="labx8">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_location_labx8">
 	<text>Посредник: "Этот ублюдок вычислил тебя. Какого хера ты не работал на закрытой частоте? Хотя это уже не имеет для тебя никакого значения." \n Крис: "Что ты имеешь ввиду? Операция отменяется?" \n Посредник: "Нет. Группа пройдет как и должна пройти. С ней работаете по стандарту, после ты переходишь к работе на Янове. Тебя выведут." \n Крис: "Ты даешь гарантии моей жизни?" Посредник: "Все будет зависеть от тебя самого. Объект пока в узде. Я позабочусь чтобы он не успел к назначенному сроку. И молись чтобы было именно так." \n Крис: "Не проще ли его устранить?" Посредник: "Нет. Команды пока не было. О себе лучше подумай. Это был твой последний прокол. Все, жди группу..."</text>
 </string> 
 
 <string id="mar_b1_doc_4">
-	<text>Zaton.</text>
+	<text>Затон.</text>
 </string>
 <string id="mar_b1_doc_5">
-	<text>Pripyat.</text>
+	<text>Припять.</text>
 </string>
 <string id="mar_b1_doc_6">
-	<text>Red Forest.</text>
+	<text>Рыжий лес.</text>
 </string>
 <string id="enc_location_mar_b1_doc_4">
 	<text>Data encrypted.</text>
@@ -531,7 +531,7 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 	<text>Янтарь.</text>
 </string>
 <string id="mar_b4_doc_6">
-	<text>Red Forest.</text>
+	<text>Рыжий Лес.</text>
 </string>
 <string id="enc_location_mar_b4_doc_4">
 	<text>Data encrypted.</text>
@@ -563,10 +563,10 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 </string>
 
 <string id="mar_b6_doc_4">
-	<text>Pripyat.</text>
+	<text>Припять.</text>
 </string>
 <string id="mar_b6_doc_5">
-	<text>Zaton.</text>
+	<text>Затон.</text>
 </string>
 <string id="mar_b6_doc_6">
 	<text>Янов.</text>
@@ -1146,7 +1146,7 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Янтарь.</text>
 </string>
 <string id="mar_a4_doc_6">
-	<text>Red Forest.</text>
+	<text>Рыжий Лес.</text>
 </string>
 <string id="enc_location_mar_a4_doc_4">
 	<text>Data encrypted.</text>
@@ -1178,10 +1178,10 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a6_doc_4">
-	<text>Pripyat.</text>
+	<text>Припять.</text>
 </string>
 <string id="mar_a6_doc_5">
-	<text>Zaton.</text>
+	<text>Затон.</text>
 </string>
 <string id="mar_a6_doc_6">
 	<text>Янов.</text>
@@ -1284,102 +1284,102 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b1_doc_7">
-	<text>Idiot stalkers</text>
+	<text>Dumbass stalkers.</text>
 </string>
 <string id="mar_b1_doc_8">
-	<text>Тайничек чё надо</text>
+	<text>Good Stash.</text>
 </string>
 <string id="mar_b1_doc_9">
-	<text>Decoder</text>
+	<text>Decoder.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_7">
-	<text>(2011-04-21 16:48) Твою ж мать, я уже 6-ой день, мля, торчу в этой аномалии, спасает меня сталкерня, что попадает в аномалию, валю всех без разбору, приличный хабар уже собрал, а продать... Нужно срочно барыгу искать или выход из этой шняги. Нужно пройтись и осмотрется, вдруг чёто интересное найду. (2011-04-21 19:43) Ого, то чё искал прям, подошел к сараю, а там сталкерня, валить их не стал, много слишком там фраеров, сказал мол, что вольник я, если бы они знали кто я на самом деле. Поживу с ними пока, хабаром своим поделюсь, войду в доверие, а там посмотрим, чё делать с ними.</text>
+	<text>(12.04.11 16:48) Fucking hell, I’ve been trapped for six day in this fucking anomaly. At least some stalkers get teleported here from time to time. I can kill them and steal their loot. Too bad there isn’t anyone to sell it off... I gotta get the fuck out of here already. Maybe I should scan the area, perhaps I can find something. (12.04.11 19:43) I found an entire stalker group in the barn, I didn’t attack them since there too many of them. Instead I told them I was a loner... I'd be fucked if they find out who I really am. I’ll try to gain their trust, perhaps they can help me find the way out of this shithole.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_8">
-	<text>(2011-06-23 11:23) В общем, ужился я с этими фраерами, но вот Лютый этот, меня бесит сильно... Из последних сил держусь, чтобы не шмальнуть в него разок-другой. Ну и ладно, пусть пока живет себе. Самый четкий хабар, который я с тех жмуров снимал, я припрятал. Давно у меня не было такого добра, похвастатся нет кому, обидно даже. Ну ладно, пойду ка я еще раз тайничек проверю, на месте ли все.</text>
+	<text>(23.06.11 11:23) I’m slowly gaining the trust these stalkers. Although Savage, that guy really pisses me off... It takes a shitton of willpower every time just to not shoot that asshole. It’s fine though, I’ll totally ice him later. As for the loot that I’ve been taking of the dead bodies, I’ve hid the best for myself. It’s been a long time since I’ve hit such a jackpot, too bad there’s no one to brag to though. Alright, I’m going to check up on my stash, see if everything is still there.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_9">
-	<text>(2011-07-14 18:53) Мда, изменила меня эта аномалия все-таки, уже и забыл, как это, быть бандитом, одно радует, стрелять хорошо научился. Ну и ладно, в общем завалил трех фраеров сегодня, два наёмника и ученый. В вещах яйцеголового была хрень какая-то, посмотрев документы, я узнал, что это "Дешифратор" и, что с помощью этой херни можно отсюда выбратся, но как? Заныкаю я пока его, а пока поизучаю лучше документы эти.</text>
+	<text>(14.07.11 18:53) This anomaly has changed me after all, I’ve forget what’s it like to be a bandit but hey, I’ve become a better shot since I got here. Anyway, I killed 3 guys today, two mercenaries and a scientist. The egghead had a strange device with him called a decoder. He also had some documents with him which is where I found out the name of that thing but that’s not what’s Important. What is important though, is that this decoder can get me out of here somehow, if only I knew how... I’ll hide it in the meantime and try to find some more info inside those documents.</text>
 </string>
 
 <string id="mar_b2_doc_7">
-	<text>Нужно валить с Зоны</text>
+	<text>Soon I'll leave the zone.</text>
 </string>
 <string id="mar_b2_doc_8">
-	<text>Пьяные идиоты</text>
+	<text>Drunken idiots</text>
 </string>
 <string id="mar_b2_doc_9">
-	<text>Какой же я молодец</text>
+	<text>I did good today.</text>
 </string>
 <string id="mar_b2_doc_9_1">
-	<text>Гребанный наёмник</text>
+	<text>Some asshole mercenary</text>
 </string>
 <string id="enc_faction_mar_b2_doc_7">
-	<text>(вчера, 19:23) Ну, всё, теперь можно валить с этой проклятой Зоны, Хромой баран, взял мне про их с Левшой заначку рассказал, осталось только как-то узнать, где именно она находиться.</text>
+	<text>(Yesterday, 19:23) Soon enough I will be able to leave this zone once and for all, thanks that dumbass, Limp. That idiot told me about his and Lefty’s stash and now all I have to do is find out where it 
 </string>
 <string id="enc_faction_mar_b2_doc_8">
-	<text>(вчера, 21:57) Всё, где находиться контейнер я знаю. Ну, идиоты, сами мне все пьяные растрепали. Осталось только придумать, как контейнер свистнуть, что бы на меня не подумали.</text>
+	<text>(Yesterday, 21:57) That’s it, I know where’s the container. Man, those guys are idiots, They got drunk and told me everything. All I have to do now is find out how to steal their loot without getting noticed.</text>
 </string>
 <string id="enc_faction_mar_b2_doc_9">
-	<text>(вчера, 23:19) Дело сделано, хабар я перепрятал, Хромой мёртв. Ставрид и остальные дебилы, подумали, что это Левша его убил. Осталось только его самого убрать, от греха подальше, и без проблем свалить отсюда.</text>
+	<text>(Yesterday, 23:19) It’s done, I have the loot and Limp is dead. Stavrid and the rest of those idiots don’t suspect a thing, they think lefty killed Limp. I should Ice Lefty too, just in case.</text>
 </string>
 <string id="enc_faction_mar_b2_doc_9_1">
-	<text>(сегодня, два часа назад) Чертов наёмник, лезет не в свое дело. Как же он меня бесит. Нужно срочно его убрать, он становиться реальной угрозой. И Шаману бы тоже не мешало язык отрезать за болтовню его. Если бы не он, наёмник сделал бы всю работу за меня. Сам бы убрал Левшу. Чёрт, ещё и нож потерял, нужно срочно найти, пока кто-то не нашел его раньше меня.</text>
+	<text>(Today, two hours ago) That damn mercenary is becoming a real problem, shoving his nose where it doesn’t belong. I need to quickly get rid of him before he blows my cover. Rasputin, fucking asshole, talks way too much. If it wasn’t for him, the mercenary would have done my job for me. Goddamn it, my knife is gone, I need to find it before some else does. </text>
 </string>
 
 <string id="mar_b3_doc_7">
-	<text>«Последний день»</text>
+	<text>Final Day.</text>
 </string>
 <string id="mar_b3_doc_8">
-	<text>Обживаемся</text>
+	<text>We'll get through it.</text>
 </string>
 <string id="mar_b3_doc_9">
-	<text>Янтарь</text>
+	<text>Yantar.</text>
 </string>
 <string id="mar_b3_doc_9_1">
-	<text>Прототип</text>
+	<text>Prototype.</text>
 </string>
 <string id="mar_b3_doc_9_2">
-	<text>О-сознание</text>
+	<text>C-Consciousness.</text>
 </string>
 <string id="mar_b3_doc_9_3">
-	<text>«Чистое небо»</text>
+	<text>Clear Sky.</text>
 </string>
 <string id="mar_b3_doc_9_4">
-	<text>Призрак</text>
+	<text>Ghost.</text>
 </string>
 <string id="mar_b3_doc_9_5">
-	<text>Без названия</text>
+	<text>Unnamed.</text>
 </string>
 <string id="mar_b3_doc_9_6">
-	<text>«Конец. Последний день»</text>
+	<text>The end. Final Day.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_7">
-	<text>(14.08.2008, 13:42) Теперь мне понятно, как всё произошло, и почему эти парни себя так называют. Ведь они действительно спровоцировали последний день. Последний спокойный день, человечества. Помню, как после той встречи с кровососом, они дали мне кров и защиту. А после, посвятили меня в свои тайны. Сначала я посчитал их сбрендившими, но теперь я понимаю насколько сильно я ошибался.</text>
+	<text>(14.08.2010, 13:42) Now I get it, how it all happened and why those guys call themselves Final Day. They are really going to cause the end of the world. I remember how after meeting that bloodsucker, they gave me blood and protection; they also that told me all about their secrets. At first I thought they were insane but now I realize how wrong I was.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_8">
-	<text>Файл повреждён.</text>
+	<text>File damaged.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9">
-	<text>(03.10.2008, 16:11) Этот Сахаров не так прост, как кажется. Ну да черт с ним, главное, что пока он ничего вроде-бы не заподозрил. Странно, почему он вдруг так заинтересовался пси-излучением? По его словам уже совсем скоро будет готов прототип устройства, которое сможет ослабить излучение. Как только узнаю, все подробности, тут же доложу на базу.</text>
+	<text>(03.10.2010, 16:11) That Sakharov guy isn’t as dumb as he looks. It doesn’t matter though, the important thing is he hasn’t noticed anything. I wonder why suddenly he’s so interested in those psi-emissions. He even said that soon enough he will have a prototype that can weaken the psi emission. When I’ll know more, I’ll report it back to base.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_1">
-	<text>(14.10.2008, 19:34) Испытания прототипа с треском провалились, а на совести Сахарова, теперь смерть трёх военных которые подписались на это гиблое дело. Интересно, что же будет с профессором?</text>
+	<text>(14.10.2010, 19:34) Sakharov’s experiments failed totally and not only that but his trails caused the deaths of three soldiers who agreed to partake in his trails. I wonder, will Sakharov face any consequences for what happened?</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_2">
-	<text>Файл повреждён.</text>
+	<text>File damaged.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_3">
-	<text>(15.02.2009, 13:42) Марк рассказал мне, про «Чистое небо». Оказывается, он работал вместе с Лебедевым и Каланчой. Они умны, и, казалось бы, идут правильной дорогой, но не видят очевидного. Странно, что они вообще не присоединились к «О-сознанию». Союзниками ребят из «Чистого неба» врядли назовешь. Марк, говорит, что их база расположена где-то на юге зоны.</text>
+	<text>(15.02.2011, 13:42)	Mark told me all about Clear Sky and it turns out that both Lebidev and Kalancha are with them. This faction is, scientifically, very capable and they are already on the right path. However at the same time they seem to be missing what’s right in front of them. It’s strange, why haven’t they joined C-consciousness? Mark also told me that their base is located somewhere in the south.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_4">
-	<text>(23.02.2009, 13:42) У нас появились большие проблемы. Появилась информация, что какие-то сталкеры собираются идти в поход в центр Зоны, за «выжигатель». Казалось бы, что тут такого? Таких групп, было несколько десятков, но тут не все так просто. Этим ребятам, помогает Болотный доктор. А значит, у них есть реальные шансы осуществить задуманное. Черт, неужели они не понимают, какие события последуют из-за их идиотских выходок? Пока мы знаем только одно имя – Призрак. Нужно срочно добраться до этого сталкера, а потом прикончить.</text>
+	<text>(23.02.2011, 13:42) We have some serious problems. We found out that there’s a group of stalkers out there who are planning to reach the zone’s center. At first, it would seem as though this isn’t a big deal as there were many groups like it before. However, this group is being aided by the Swamp Doctor which means they have a real chance to go through with what they’re planning. Damn it, they don’t have the slightest clue how much damage their actions are going to cause. As of now we know of only one stalker from said group: Ghost. We need to find and kill him.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_5">
-	<text>(04.08.2009, 13:42) Уже больше чем полгода прошло, после того как Призрак убил Марка, и тем самым развалил нашу группировку. Остатки, разбрелись кто-куда. Отряд Холода вместе с ним самим решили присоединиться к «Чистому небу». Глупцы. А я? А мне пора выбираться из этой помойной ямы. В одиночку, я все равно бессилен.</text>
+	<text>(04.08.2011, 13:42) It’s been almost half a year since Ghost killed Mark, and made our faction fall apart. The rest of our members are scattered all over the zone. Cold’s squad along with him joined Clear Sky, fools. As for me, It’s time for to get out of this hellhole, it’s not like I can survive here alone.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_6">
-	<text>(17.10.2009, 13:42) Не должно было всё выйти вот так. Фанатики из «Чистого неба» скорее всего все сгинули на ЧАЭС. Интересно, если бы не этот наёмник, удалось бы им это? Не думаю.   Тьфу ты, нашел, о чем подумать перед смертью. Обидно. Осталось то совсем чуть-чуть, и я бы уже был на Большой Земле. Будь проклято оно всё, эта Зона проклятая, Призрак со Стрелком, «О-сознание» и все остальные. Вот и конец. Настал тот самый «Последний день». Мой. Мой, последний день.</text>
+	<text>(17.10.2011, 13:42) Things weren’t supposed to turn out this way. All of Clear Sky’s members must’ve died in the CNPP. I doubt they would have gotten there without the help of that mercenary. Goddamn it, I shouldn’t be thinking about this right now, right before my death. It’s all so sad. I could have been in the outside world right now. Man, fuck this zone, fuck Ghost and Strelok, and fuck C-Consciousness. That's it, this is the end, the final day has come, my final day. </text>
 </string>
 
 <string id="mar_b4_doc_7">
@@ -5951,13 +5951,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b1_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b1_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b1_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_1">
 	<text>Data encrypted.</text>
@@ -5970,13 +5970,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b2_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b2_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b2_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_1">
 	<text>Data encrypted.</text>
@@ -5998,10 +5998,10 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>19.03.2009</text>
 </string>
 <string id="mar_b3_doc_3_1">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b3_doc_3_2">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_1">
 	<text>Data encrypted.</text>
@@ -6020,13 +6020,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b4_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b4_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b4_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_1">
 	<text>Data encrypted.</text>
@@ -6039,13 +6039,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b5_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b5_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b5_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_1">
 	<text>Data encrypted.</text>
@@ -6058,13 +6058,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b6_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b6_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b6_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_1">
 	<text>Data encrypted.</text>
@@ -6077,13 +6077,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b7_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b7_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b7_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_1">
 	<text>Data encrypted.</text>
@@ -6096,13 +6096,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b8_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b8_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b8_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_1">
 	<text>Data encrypted.</text>
@@ -6115,13 +6115,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b9_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b9_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b9_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_1">
 	<text>Вход в объект замаскирован под канализационные коммуникации. И когда просвещённый нес знания, свет снизошел с небес, который заволок  их обитель  сиянием, указывающим на северо-восток. В самую крайнюю точку.</text>
@@ -6134,13 +6134,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a10_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a10_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a10_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_1">
 	<text>Data encrypted.</text>
@@ -6153,13 +6153,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a2_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a2_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a2_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a2_doc_1">
 	<text>Data encrypted.</text>
@@ -6176,13 +6176,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a3_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a3_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a3_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_1">
 	<text>.огород и олам ,онревкс ьтавад онжом умотэоп .»морад и огонм ,ошорох« :хапицнирп херт ан анавонсо арим амалкер ясв ...ыпулг еж есв идюл .2
@@ -6199,13 +6199,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a4_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a4_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a4_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_1">
 	<text>Data encrypted.</text>
@@ -6219,13 +6219,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a5_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a5_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a5_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_1">
 	<text>Data encrypted.</text>
@@ -6239,13 +6239,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a6_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a6_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a6_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_1">
 	<text>.меинадартс и имакум хин ялд ястеачнок ,еинеджалсан ми ьтиватсод ыботч ,огот отсемв хи еивтсешетуп умотэоп .усрук умонрев ьдубин-умокак оп ьлбарок итсев ыботч ,амузар ончотатсоден хин у ,ьтуп йовс ьтиварпан ыботч ,асапмок тен хин у он ,хасурап хесв ан ером в ястюаксуп ино ,оге итйан ьсямертс .йедюл хыдолом овтснишьлоб ястюавибзар йыроток бо ,фир отэ — еивтсьловоду .2
@@ -6259,13 +6259,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a7_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a7_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a7_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_1">
 	<text>Данные по установке активировавших ангелов и основной архив находиться на нашей главное базе, секретный путь к которой лежит через объект Болота.</text>
@@ -6278,13 +6278,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a8_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a8_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a8_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_1">
 	<text>Data encrypted.</text>
@@ -6297,13 +6297,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a9_doc_1">
-	<text>Two days ago</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a9_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a9_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a9_doc_1">
 	<text>Долгой дорогой  путник проходишь ты. Столько тайн и загадок на твоем пути. Осознай суть тайны той и пойми что скрыто за печатью ангельской из букв пяти. Буквы те, что в словах-отгадках манускриптов  сих на первом месте восседают, между ними и тобою восседает. </text>
@@ -6373,19 +6373,19 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Через разные промежутки времени по Зоне проходят волны выброса гравитационного рода в сочетании с резко повышенным психотропным воздействием. Во время этой активности, нахождение в Зоне смертельно опасно, по всей территории проходят невидимые волны, человек без спецоборудования гибнет в считанные секунды, начинает трястись земля, затем следует серия вспышек. Ярко светящееся небо и черно-белый мир, глаза не выдерживают слепящего солнца. Во время выброса можно увидеть фантомные образования и марево на местах гравитационных аномалий.</text>
 </string>
 <string id="mar_b1_doc_10">
-	<text>Record.</text>
+	<text>Малява.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_10">
 	<text>Data encrypted.</text>
 </string>
 <string id="mar_b1_doc_11">
-	<text>To the Garbage.</text>
+	<text>На Свалку.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_11">
 	<text>Data encrypted.</text>
 </string>
 <string id="mar_b1_doc_12">
-	<text>Tooth.</text>
+	<text>Зуб.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_12">
 	<text>Data encrypted.</text>
@@ -6555,8 +6555,7 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 В ходе тренировки отрабатывались вопросы занятия стартовых позиций с ходу, их маскировки, организации системы связи и управления, приведения техники из походного положения в боевое. Также личный состав выполнил ряд вводных по разведке, обнаружению, сопровождению и уничтожению целей условного противника.
 В ближайшее время с подразделениями ПВО военной базы пройдет тактическое учения с боевой стрельбой на полигоне в Краснодарском крае, в конце лета специалисты ПВО соединения примут участие в тактико-специальном учении на полигоне Капустин Яр (Астраханская область), говорится в сообщении пресс-службы Южного военного округа..</text>
 </string>
-<string id="mar_b6_doc_12">
-	<text>Ратник.</text>
+<string id="mar_b6_doc_12"><text>Ратник.</text>
 </string>
 <string id="enc_anomaly_mar_b6_doc_12">
 	<text>МОСКВА, 11 июл — РИА Новости. Новейшую боевую экипировку для военнослужащих Сухопутных войск "Ратник" впервые представят широкой публике на выставке Russia Arms Expo-2013, сообщил в четверг в своем микроблоге в Twitter вице-премьер Дмитрий Рогозин.

@@ -1,174 +1,174 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_antirad">
-		<text>Противорадиационный препарат</text>
+		<text>Anti-radation drug</text>
 	</string>
 	<string id="st_antirad_descr">
-		<text>Препарат радиозащитного действия «Мексамин», широко распространённый по территории Зоны. При применении вызывает сужение периферических кровеносных сосудов и кислородное голодание, что в данном случае является средством профилактики и лечения лучевой болезни. Хорошо переносится подавляющим большинством людей; в отдельных случаях возможны лёгкая тошнота, головокружение, боли, реже рвота.</text>
+		<text>Radiation protection drugs are common in the Zone. When used, this drug induces contraction of peripheral blood vessels and oxygen deprivation, which serves to treat and prevent radiation exposure. The drug does not have severe side effects, although isolated cases of mild nausea, dizziness, cramps and stomach pain have been reported.</text>
 	</string>
 	<string id="st_bandage">
-		<text>Бинт</text>
+		<text>Bandage</text>
 	</string>
 	<string id="st_bandage_descr">
-		<text>Асептический бинт для остановки кровотечения и предотвращения попадания в рану инфекции. При обычном кровотечении позволяет перевязать рану, при артериальном - перетянуть артерию.</text>
+		<text>A normal elastic bandage used to stop bleeding and prevent infection of wounds. For regular bleeding, carefully apply the bandage to the wound. For arterial bleeding, urgently tie the bandage around the affected area.</text>
 	</string>
 	<string id="st_binocular_descr">
-		<text>Военный бинокль с регулируемой (до 7,5 диоптрии) кратностью. Позволяет детально рассматривать местность и строения с большого расстояния.</text>
+		<text>Standard issue military binoculars with a maximum of x7.5 magnification. Useful in the Zone in that they allow its owner to observe things from a distance.</text>
 	</string>
 	<string id="st_binocular_name">
-		<text>Бинокль</text>
+		<text>Binoculars</text>
 	</string>
 	<string id="st_bread">
-		<text>Хлеб</text>
+		<text>Bread</text>
 	</string>
 	<string id="st_bread_descr">
-		<text>Неизвестно, кто умудряется печь батоны на территории Зоны, или каким образом их протаскивают через границу. Однако этот хлеб не заражен, не радиоактивен, достаточно свеж и вполне съедобен. Во всяком случае, никто из сталкеров пока не жаловался.</text>
+		<text>No bakers have ever been identified in the Zone, but this bread is neither contaminated nor radioactive, being fresh and quite edible. At least no complaints have been reported thus far.</text>
 	</string>
 	<string id="st_conserva">
-		<text>Консервы «Завтрак туриста»</text>
+		<text>"Tourist's Breakfast"</text>
 	</string>
 	<string id="st_conserva_descr">
-		<text>Предположительно, консервы с растащенного сталкерами армейского продовольственного склада; точно установить не представляется возможным из-за отсутствия какой-либо этикетки. Главное, что срок годности вроде бы не истек.</text>
+		<text>Presumably, these canned goods were looted by stalkers from an army ration depot. Without any kind of label on the can, it's hard to say for sure. Should still be good to eat, if you believe the best before date.</text>
 	</string>
 	<string id="st_detector1">
-		<text>Детектор «Отклик»</text>
+		<text>"Echo" detector</text>
 	</string>
 	<string id="st_detector1_descr">
-		<text>Устаревшая модель детектора аномальной активности. Реагирует звуковым сигналом на попадание аномальных частичек в специальную камеру, при приближении к аномалиям; кроме того, может регистрировать присутствие артефактов и измерять расстояние до ближайшего из них. Расстояние до артефакта определяется периодичностью подаваемого звука. Режим поиска артефактов включается поднятием крышки-антенны на лицевой панели прибора. Ввиду простоты конструкции способен находить только самые распространённые артефакты.</text>
+		<text>This dated anomalous activity detector produces an alarm signal when anomalous particles enter a special chamber as you approach an anomaly. It can also register the presence of artefacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To switch to artefact search mode, open the device's front cover. Due to its simple design, Echo can only be used to locate the most common artefacts.</text>
 	</string>
 	<string id="st_detector2">
-		<text>Детектор «Медведь»</text>
+		<text>"Bear" detector</text>
 	</string>
 	<string id="st_detector3">
-		<text>Детектор «Велес»</text>
+		<text>"Veles" detector</text>
 	</string>
 	<string id="st_detector3_descr">
-		<text>Детектор-сканер нового поколения, используемый учёными. Благодаря трём усовершенствованным регистрационным камерам расположение артефакта относительно детектора показывается на специальном экране. Способен фиксировать излучение и присутствие аномалий. Режим поиска артефактов включается поднятием индикатора-табло на лицевой стороне прибора; в данном режиме способен обнаруживать все известные науке артефакты.</text>
+		<text>A next generation scientific detection scanner. Thanks to three modernized detection chambers, the position of artefacts is shown on a special display screen. When closed, the device registers only radiation and anomalies. To switch to artefact search mode, open the front LED display. When in search mode, the detector is capable of locating all artefacts known to science.</text>
 	</string>
 	<string id="st_detector4">
-		<text>Прототип детектора «Сварог»</text>
+		<text>"Svarog" prototype detector</text>
 	</string>
 	<string id="st_detector4_descr">
-		<text>Прототип сканера аномальных зон расширенной функциональности. Добавлена программа распознавания статичных зон аномальной активности, которые имеются в базе данных; при этом сохранена возможность обнаружения артефактов. Расположение аномальных зон и артефактов относительно детектора отображаются на специальном экране. Программа поиска артефактов, включаемая при поднятии индикатора-табло на лицевой стороне прибора, усовершенствована; теоретически это позволяет обнаружить пока не известные науке аномальные образования.</text>
+		<text>A prototype of an expanded functionality anomalous frequency scanner. This device comes with a program used to identify static areas of anomalous activity stored in its database, while retaining the ability to locate artefacts. The position of anomalous areas and artefacts is displayed on a special screen. The artefact search mode, which can be activated by opening the front LED display, has been modified to detect anomalous formations currently unknown to science.</text>
 	</string>
 	<string id="st_device_torch_descr">
-		<text>Фонарь с креплением на голову. Пригодится сталкеру, которого ночь застала в дороге; с другой стороны, может привлечь чьё-то нежелательное внимание.</text>
+		<text>A standard head-mounted flashlight. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely.</text>
 	</string>
 	<string id="st_device_torch_name">
-		<text>Фонарик</text>
+		<text>Flashlight</text>
 	</string>
 	<string id="st_drug_anabiotic">
-		<text>Анабиотик</text>
+		<text>Anabiotics</text>
 	</string>
 	<string id="st_drug_antidot">
-		<text>Антидот</text>
+		<text>IP2 antitoxin</text>
 	</string>
 	<string id="st_drug_antidot_descr">
-		<text>Препарат «Антитоксикант ИП2» представляет собой комплекс антидотов: метоклопрамида, пиридоксина, тиамина, рибоксии и других. Вводит в кровь вещества, способные разлагать белковые яды, а также абсорбенты синтетических ядов. Особой популярностью не пользуется, поскольку большинство сталкеров рассчитывают на противогаз и комбинезон. Обладает продолжительным действием.</text>
+		<text>A complex drug comprising several antidotes, including metoclopramidum, pyridoxine, thiamine, riboxin and other pharmaceuticals. The drug is used to inject a range of antibiotics to neutralize natural poisons, together with synthetic poison absorbers, into the bloodstream. IP2 is not particularly popular in the Zone, as most stalkers rely on a gas mask and a protective suit, there are still those who have a pack of this antidote stashed away. The effects of the drug are long-lasting.</text>
 	</string>
 	<string id="st_drug_booster">
-		<text>«Геркулес»</text>
+		<text>Hercules</text>
 	</string>
 	<string id="st_drug_coagulant">
-		<text>«Барвинок»</text>
+		<text>Vikasolum</text>
 	</string>
 	<string id="st_drug_coagulant_descr">
-		<text>«Викасол» - синтетический аналог витамина К. Основное действие заключается в повышении свёртываемости крови. Пользуется спросом среди сталкеров, поскольку позволяет организму быстрее рубцевать рваные раны. Обладает продолжительным действием.</text>
+		<text>An artificial equivalent of vitamin K. The main purpose of this drug is to increase blood coagulation speed. In great demand among stalkers who want slow-healing wounds and lacerations inflicted by mutants to close up faster. The effects of the drug are long-lasting.</text>
 	</string>
 	<string id="st_drug_psy_blockade">
-		<text>Пси-блокада</text>
+		<text>Psi-block</text>
 	</string>
 	<string id="st_drug_psy_blockade_descr">
-		<text>Наркотический препарат, блокирующий лавинообразные нервные импульсы. Интересен побочный эффект: после приёма препарата наблюдается коротковременное блокирование каких-либо эмоций. В Зоне используется для противодействия аномальным полям повышенной пси-активности; за пределами Зоны применения не нашёл. Обладает продолжительным действием.</text>
+		<text>>A drug that blocks avalanche-like nerve impulses. Consumption induces short-term loss of all emotion. Used exclusively in the Zone to counteract the effects of anomalous psi-fields. The effects of the drug are long-lasting.</text>
 	</string>
 	<string id="st_drug_radioprotector">
-		<text>Радиопротектор</text>
+		<text>B190 Indraline</text>
 	</string>
 	<string id="st_energy_drink">
-		<text>Энергетический напиток «Сталкер»</text>
+		<text>"Stalker" energy drink</text>
 	</string>
 	<string id="st_energy_drink_descr">
-		<text>Часто используется сталкерами в многодневных походах, когда нет возможности остановиться и отдохнуть. Содержит легко усваиваемые углеводы, а также препараты, вызывающие выброс адреналина в кровь.</text>
+		<text>Often used by stalkers on long trips when no breaks can be afforded. The drink contains easily digestible carbohydrates, as well as drugs that stimulate the release of adrenaline into the bloodstream.</text>
 	</string>
 	<string id="st_guitar_descr">
-		<text>Поговори хоть ты со мной, гитара семиструнная!..</text>
+		<text>A trusty guitar</text>
 	</string>
 	<string id="st_guitar_name">
-		<text>Гитара</text>
+		<text>Guitar</text>
 	</string>
 	<string id="st_kolbasa">
-		<text>Колбаса «Диетическая»</text>
+		<text>Diet sausage</text>
 	</string>
 	<string id="st_kolbasa_descr">
-		<text>Часто за неимением лучшего эта колбаса - смесь курятины и соевого заменителя - становится завтраком, обедом и ужином сталкера. Благодаря большому количеству консервантов не портится довольно долго.</text>
+		<text>For better or worse, this sausage - a mix of chicken and a soy substitute - is often a stalker's breakfast, lunch and dinner in one. Can be stored for a long time due to high preservative content.</text>
 	</string>
 	<string id="st_medkit">
-		<text>Аптечка</text>
+		<text>Diagnostic first-aid kit</text>
 	</string>
 	<string id="st_medkit_army">
-		<text>Армейская аптечка</text>
+		<text>Army medkit</text>
 	</string>
 	<string id="st_medkit_army_descr">
-		<text>Специализированный медицинский набор для оказания первой помощи при ранениях на поле боя. В набор входят средства для ускорения свертывания крови на основе «Менадиона», обезболивающие, антибиотики и стимуляторы иммунитета; кроме того, здесь имеется простейший хирургический набор для извлечения осколков и пуль. Стандартная армейская аптечка; реже встречается в экипировке «долговцев».</text>
+		<text>A specialized medical kit for providing first aid to combat casualties. The kit includes blood coagulants based on menadione, painkillers, antibiotics and immunostimulants, as well as a kit for removing bullets and fragments from the body. This medkit is issued to army personnel as standard and is sometimes used by Duty forces.</text>
 	</string>
 	<string id="st_medkit_descr">
-		<text>Универсальный медицинский набор разового применения. Позволяет справляться с травмами различного типа и степени сложности: ранениями, ушибами мягких тканей, термическими и химическими ожогами, разного рода отравлениями. Пользуется неизменной популярностью у сталкеров.</text>
+		<text>A general purpose medical kit with a HEALTH-13 type injector. Handy for treating various injuries - wounds, bruises, regular and chemical burns and various types of poisoning. In demand among stalkers.</text>
 	</string>
 	<string id="st_medkit_science">
-		<text>Научная аптечка</text>
+		<text>Scientific medkit</text>
 	</string>
 	<string id="st_medkit_science_descr">
-		<text>Медицинский набор, разработанный специально для научных сотрудников, которые работают в условиях Зоны. Содержит средства как для заживления механических травм, так и для предотвращения развития лучевой болезни. В отличие от других наборов, в этом можно найти «Викасол», «Батилол» и С-нафтизин.</text>
+		<text>A medical kit designed specifically for use in the Zone. The kit contains products for handling wounds, as well as preventing the development of radiation poisoning and reducing accumulated radiation in the body. Contains Vikasolum, Batilolum and Naphazoline, unlike other medkits.</text>
 	</string>
 	<string id="st_pda_descr">
-		<text>Нет сохранённых данных.</text>
+		<text>No saved data.</text>
 	</string>
 	<string id="st_pda_name">
-		<text>КПК</text>
+		<text>PDA</text>
 	</string>
 	<string id="st_vodka">
-		<text>Водка «Казаки»</text>
+		<text>Cossacks Vodka</text>
 	</string>
 	<string id="st_vodka_descr">
-		<text>Водка производства компании «GSC». Хорошо пьётся, заметно снижает воздействие радиации на организм, хотя злоупотреблять ею не следует.</text>
+		<text>Made by GSC. Goes down easy and considerably lowers the effects of radiation. Should be enjoyed in moderation.</text>
 	</string>
 	<string id="st_detector2_descr">
-		<text>Детектор аномальной активности прошлого поколения. Снабжён локатором аномальных образований и светодиодным таблом для отображения направления к артефакту, причём способен не только обнаруживать артефакты, но и определять расстояния до них. Режим поиска артефактов включается поднятием крышки-антенны на лицевой стороне прибора. К сожалению, несколько устаревший список обнаружаемых артефактов зашит в прибор на аппаратном уровне.</text>
+		<text>This last generation anomalous activity detector can be used to locate anomalous formations and has a colour diode panel, which not only indicates the direction of artefacts, but also measures the distance to them. To switch to artefact search mode, open the device's front cover. Unfortunately, the device is programmed with a somewhat outdated list of detectable artefacts.</text>
 	</string>
 	<string id="st_drug_anabiotic_descr">
-		<text>Экспериментальный препарат, разработанный для научно-исследовательских групп, действующих в Зоне. Лежащий в основе препарата тетрадотоксин, известный как «порошок зомби», вызывает полный паралич центральной нервной системы, что, предположительно, может помочь пережить выброс вне укрытия. Препарат не был испытан в полевых условиях и не прошел клинических тестов, что ставит под сомнение его эффективность и вызывает вопрос о возможных побочных эффектах.</text>
+		<text>An experimental drug developed by Professor Ozersky for scientific research teams working in the Zone. At its core, the drug contains tetrodotoxin, known colloquially as "zombie powder," which causes a complete shutdown of the body's central nervous system that may allow people to survive emissions outside cover. The drug has not undergone clinical or field testing, which puts its effectiveness in doubt and raises the quesition of possible side effects.</text>
 	</string>
 	<string id="st_bolt">
-		<text>Болт</text>
+		<text>Bolt</text>
 	</string>
 	<string id="st_bolt_descr">
-		<text>Болт 32х100. Лучший друг сталкера.</text>
+		<text>A 32x100 Bolt. A stalker's best friend.</text>
 	</string>
 	<string id="st_drug_booster_descr">
-		<text>Основной компонент - искусственно созданный стероид, по химическому составу похожий на тестостерон. Применяется сталкерами в долгих переходах для повышения порога утомляемости мышц. Помогает значительно увеличить переносимый вес. Препарат длительного действия.</text>
+		<text>The main component of this product is an anabolic androgen, an artificial steroid, the chemical composition of which resembles testosterone. Often used by stalkers during long raids to reduce muscle fatigue. Significantly increases weight-carrying capacity. The effects of the drug are long-lasting.</text>
 	</string>
 	<string id="st_drug_radioprotector_descr">
-		<text>Радиопротектор «Индралин-Б190», входил в состав личных аптечек работников АЭС. Появился в Зоне как замена слишком токсичному цистамину гидрохлорида РС1. Уменьшает воздействие гамма-излучения на ткани живого организма. Желательно применять превентивно, до облучения, поскольку действие препарата не мгновенное. Препарат длительного действия.</text>
+		<text>A radioprotectant, included in medkits issued to nuclear power plant personnel. Used in the Zone instead of the excessively toxic PC1 cystamine hydrochloride, repeated use of which often caused death. Reduces the effects of gamma radiation on live tissue. Best consumed before exposure, as effects are not instant. The effects of the drug are long-lasting.</text>
 	</string>
 	
 	<string id="amk_metka">
-		<text>GPS-маячок</text>
+		<text>GPS-Marker</text>
 	</string>
 	<string id="amk_metka_s">
-		<text>GPS-маячок</text>
+		<text>GPS-Marker</text>
 	</string>
 	<string id="enc_amk_metka">
-		<text>GPS-маячки используются в зоне для пометки тайников. Если поместить маячок в тайник, на PDA появится метка с его расположением. При этом список предметов в тайнике отобразится в комментариях на карте.</text>
+		<text>GPS-markers are used in the zone for marking stashes. If you put a marker inside your stash then the stash will show up on your map along with the list of the stuff in it.</text>
 	</string>
 
 	<string id="spalnik">
-		<text>Спальный мешок</text>
+		<text>Sleeping bag</text>
 	</string>
 	<string id="spalnik_s">
-		<text>Спальный мешок</text>
+		<text>Sleeping bag</text>
 	</string>
 	<string id="enc_spalnik">
-		<text>Походный спальный мешок. Пожалуй, самый удобный способ переночевать в Зоне. Но от радиации не спасёт, поэтому для ночевки нужно искать места по-укромнее. Например такие, где можно переждать выброс.</text>
+		<text>A sleeping bag is one easiest ways to get some sleep in the zone. However it doesn’t protect its user from radiation, so if you want to sleep in it you better find some place that’s protected from blowouts.</text>
 	</string>
 
 	<string id="st_pb_quest_document_1">
@@ -193,183 +193,182 @@
 		<text>Scavenger’s PDA</text>
 	</string>
 	<string id="st_pb_padalshik_pda_descr">
-		<text>КПК сталкера с кличкой Падальщик, исправен и не заблокирован. Для открытия КПК, нажмите "Использовать".</text>
+		<text>This PDA belongs to a stalker nicknamed "Scavenger". It's not locked and can be accessed. Press "use" inorder to open it.</text>
 	</string>
 	<string id="st_zat_a2_suget_5_gui_razia_title">
-		<text>Радиопередатчик Бармица-РС</text>
+		<text>Barmitza-PC radio transmitter</text>
 	</string>
 	<string id="st_zat_a2_suget_5_gui_razia_descr">
-		<text>Радиопередатчик "Бармица-РС" обеспечивает открытую и маскированную телефонную связь с однотипными радиостанциями, а также радиостанцией "Р-159" и радиостанциями комплексов "Р-163" и "Р-168" в сетях взвод/отделение. Содержит встроенный маскиратор речи. Предназначена для эксплуатации в сложных полевых условиях. Обладает малым весом, высокой механической прочностью (возможность десантирования), компактна. Имеет герметичный металлический пылевлагозащищенный корпус.</text>
+		<text>The Barmitza-PC radio transmitter is used to contact Russian military radio stations, of which are P-159, P-163, P-168 and as well as some others. It has a built in voice changer. The radio is built for military use in the field and thus is very light and can withstand a lot of damage.</text>
 	</string>
 	<string id="device_warning_module">
-		<text>Модуль-дешифратор</text>
+		<text>Decoder module</text>
 	</string>
 	<string id="device_warning_module_descr">
-		<text>Изобретение ученых, что позволяет увидеть скрытые аномальные поля и одиночные аномалии, имеет возможность глушить слабые аномальные поля. Работает на съемных акумуляторах, до этого не тестировался.</text>
+		<text>This device was made by scientists working in the zone in order to see safe paths in anomalous areas. It can also block the activity of weak anomalous fields. Requires batteries.</text>
 	</string>
 	<string id="st_pb_quest_bloknot">
-		<text>Личный блокнот</text>
+		<text>Personal Notepad.</text>
 	</string>
 	<string id="st_pb_quest_bloknot_descr">
-		<text>Иногда, просто крайне необходимо записать куда-то свои мысли, бумага все стерпит, мой блокнот поможет мне разобраться в ситуации.</text>
+		<text>Sometimes writing things down can help you find the solution...</text>
 	</string>
 	<string id="tainik_padalshika">
-		<text>Контейнер-тайник Падальщика</text>
+		<text>Scavenger’s container</text>
 	</string>
 	<string id="tainik_padalshika_descr">
-		<text>Металический контенер, чаще всего используется как личный тайник, имеет сложный замок, закрыт на ключ.</text>
+		<text>A metal container used for storing loot. its locked.</text>
 	</string>
 	<string id="trader_radio_pharos">
-		<text>Радио-маяк</text>
+		<text>Radio-marker</text>
 	</string>
 	<string id="trader_radio_pharos_descr">
-		<text>Устройство для поиска любого рода активности в большом диапазане, в данном случаи настроенно на поиск сигнала сталкеров по КПК, в Зоне довольно редкая вещь.</text>
+		<text>A device used for tracking radio signals in a large radius.  In the zone this device is used to locate stalkers by the signal of their PDAs.</text>
 	</string>
 	<string id="st_pb_rezerv_key_door">
-		<text>Ключ от диспетчерской</text>
+		<text>Key to the armory</text>
 	</string>
 	<string id="st_pb_rezerv_key_door_descr">
-		<text>Этим ключом можно открыть дверь в диспетчерскую, где лежит резервное снаряжение, на вид самый обычный ключ.</text>
+		<text>This key is used to open the aromry.</text>
 	</string>
 	<string id="esc_flash_klim">
-		<text>Флешка Клима</text>
+		<text>Klim's Flashdirve</text>
 	</string>
 	<string id="esc_flash_klim_descr">
-		<text>Со слов Сидоровича, эта флешка несёт в себе очень ценную информацию, пренадлежала она сталкеру по прозвищу Клим, именно её просил меня найти торговец.</text>
+		<text>According to Sidorovich, this flashdrive has some very valuable information and it used belong to a stalker named Klim. This is the flashdrive Sidorovich asked me to bring.</text>
 	</string>
 	<string id="esc_sidor_container_name">
-		<text>Посылка для Ореста</text>
+		<text>Orest's package</text>
 	</string>
 	<string id="esc_sidor_container_desc">
-		<text>Сидорович дал мне этот довольно тяжелый кейс и сказал, чтобы я отнёс его Оресту, он не сказал, что внутри, да я и не особо хочу знать о его содержимом.</text>
+		<text>Sidorovich gave me this fairly heavy case and told me to give it Orest. He didn’t tell me what was in it and to be honest, I don’t really want to know.</text>
 	</string>
 	<string id="esc_pda_leader_base">
-		<text>КПК Отца Валерьяна</text>
+		<text>Father valerian's PDA</text>
 	</string>
 	<string id="esc_pda_leader_base_descr">
-		<text>Данный КПК принадлежал Отцу Валерьяну, теперь его хозяин мёртв. КПК заблокирован и я не могу просмотреть его содержимое.</text>
+		<text>This PDA used to belong to Father Valerian, who is now dead. The PDA is locked and I can't access it.</text>
 	</string>
 	<string id="blck_val_knife_killer">
-		<text>Нож убийцы</text>
+		<text>The Murderer's knife</text>
 	</string>
 	<string id="blck_val_knife_killer_descr">
-		<text>Охотничий нож, очень острый, скорее всего он пренадлежит человеку, что убил Левшу, если найду его владельца - найду убийцу.</text>
+		<text>This very sharp hunting knife most likely belongs to the person who killed Lefty. If I can find the owner then I can find the murderer.</text>
 	</string>
 
 	<string id="st_blck_val_chimik_pda_title">
-		<text>КПК Химика</text>
+		<text>Chemist's PDA</text>
 	</string>
 	<string id="st_blck_val_chimik_pda_descr">
-		<text>КПК Химика, именно он убил Левшу и Хромого, в КПК может быть дополнительная информация по этом деле.</text>
+		<text>This PDA belongs to Chemist, the person who killed Lefty and Limp. This PDA might have some more useful information that can prove he is in fact the murderer. </text>
 	</string>
 
 	<string id="st_esc_pashalka_shved_pda_title">
-		<text>КПК Шведа</text>
+		<text>Swede's PDA</text>
 	</string>
 	<string id="st_esc_pashalka_shved_pda_descr">
-		<text>КПК мёртвого сталкера, тело которого я нашел недалеко от блокпста военных на Кордоне.</text>
+		<text>A PDA of dead stalker who’s body I found not far from the military outpost in Cordon. </text>
 	</string>
 
 	<string id="blck_val_miklucha_pda">
-		<text>КПК Миклухи</text>
+		<text>Miklucha's PDA</text>
 	</string>
 	<string id="blck_val_miklucha_pda_descr">
-		<text>Этот КПК принадлежал Миклухе, к сожалению КПК заблокирован и я не могу просмотреть его содержимое.</text>
+		<text>This PDA belonged to Miklucha; The PDA is password protected so I can’t access it.</text>
 	</string>
 
 	<string id="st_blck_val_transiver_title">
-		<text>Радиопередатчик Р-250М2</text>
+		<text>P-250M2 radio transmitter.</text>
 	</string>
 	<string id="st_blck_val_transiver_descr">
-		<text>Радиопередатчик Р-250М2 - коротковолновый, магистральный, настольный армейский радиоприемник, любимый многими радиолюбителями. Выпускается в нескольких модификациях: "Р-250/М/М2" ("Кит/М/М2") - для сухопутных войск; "Р-670/М" ("Русалка/М") - для войск военно-морского флота. У приемника точная зеркальная оптическая фотошкала настройки, термостатированный кварцевый стабилизатор частоты гетеродина. Число поддиапазонов: 12, шириной по 2 MHz каждый.</text>
+		<text>The P-250M2 is communications receiver which works on short waves and is favored by many radio hobbyist.  Two versions of this device were produced: The P250/M/M2 for land forces and P-670/M for the Russian Navy. The transmitter  is a dual conversion superheterodyne with a tuning range of 1.5 – 25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text> 
 	</string>
-
 	<string id="st_pb_quest_shell_brelok">
-		<text>Брелок Гильзы</text>
+		<text>Shell's dogtag</text>
 	</string>
 	<string id="st_pb_quest_shell_brelok_desc">
-		<text>Гильза мёртв, при нем был только этот брелок, думаю, что стоит показать его Маркусу.</text>
+		<text>Shell is dead, and all he had was his dogtag. I should show this to Marcus.</text>
 	</string>
 
 	<string id="st_blck_val_key_to_prison">
-		<text>Ключ от решетки</text>
+		<text>The key to the Cellar.</text>
 	</string>
 	<string id="st_blck_val_key_to_prison_descr">
-		<text>Запасной ключ от решетки с заключенными, после кончины Химика ключ хранится у Сологуба. Он оставляет ключ ночью на тумбочке, чтобы другие охранники смогли использовать его в случае необходимости.</text>
+		<text>This is a backup key to the cellar. As of Chemist’s death, the key is being guarded by Sologyb. He leaves the key on the Cupboard so that other guards could use it if they need it.</text>
 	</string>
 
 	<!-- Mutant body parts -->
 	<string id="st_meat_flesh_descr">
-		<text>Мясо плоти имеет хороший вкус и большую пищевую ценность. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.</text>
+		<text>Flesh meat is both tasty and highly nutritious. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
 	</string>
 	<string id="st_meat_flesh">
-		<text>Сырое мясо плоти</text>
+		<text>Raw flesh meat</text>
 	</string>
 	<string id="st_meat_boar_descr">
-		<text>Мясо кабана, очень питательное и вполне съедобное. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.</text>
+		<text>Boar meat, highly nutritious and perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
 	</string>
 	<string id="st_meat_boar">
-		<text>Сырое мясо кабана</text>
+		<text>Raw boar meat</text>
 	</string>
 	<string id="st_meat_dog_descr">
-		<text>Мясо мутировавшей слепой собаки, не такое питательное как мясо кабана или плоти, вполне съедобное. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.</text>
+		<text>Blind dog meat, not as good as flesh or boar meat but still perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
 	</string>
 	<string id="st_meat_dog">
-		<text>Сырое мясо слепого пса</text>
+		<text>Raw blind dog meat</text>
 	</string>
 
 	<string id="mutant_flesh_meat_descr">
-		<text>Мясо плоти имеет хороший вкус и большую пищевую ценность. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.\n \n%c[0,204,0,51] • %c[0,140,140,140] ядовитая пища\n%c[0,204,0,51] • %c[0,140,140,140] радиационное облучение: %c[0,170,170,170] +584 мЗв</text>
+		<text>Flesh meat is both tasty and highly nutritious. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +584 мЗв</text>
 	</string>
 	<string id="mutant_flesh_meat">
-		<text>Мясо плоти</text>
+		<text>Flesh meat</text>
 	</string>
 	<string id="mutant_boar_chop_descr">
-		<text>Мясо кабана, очень питательное и вполне съедобное. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.\n \n%c[0,204,0,51] • %c[0,140,140,140] ядовитая пища\n%c[0,204,0,51] • %c[0,140,140,140] радиационное облучение: %c[0,170,170,170] +646 мЗв</text>
+		<text>Boar meat, highly nutritious and perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +646 мЗв</text>
 	</string>
 	<string id="mutant_boar_chop">
-		<text>Мясо кабана</text>
+		<text>Boar meat</text>
 	</string>
 	<string id="mutant_dog_meat_descr">
-		<text>Мясо мутировавшей слепой собаки, не такое питательное как мясо кабана или плоти, вполне съедобное. Лучше воздержаться от употребления этого мяса в сыром виде, так как оно наверняка заражено трихинеллезом или бруцеллезом. Эти заболевания передаются при употреблении зараженного мяса. Симптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно.\n \n%c[0,204,0,51] • %c[0,140,140,140] ядовитая пища\n%c[0,204,0,51] • %c[0,140,140,140] радиационное облучение: %c[0,170,170,170] +202 мЗв</text>
+		<text>Blind dog meat, not as good as flesh or boar meat but still perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 мЗв</text>
 	</string>
 	<string id="mutant_dog_meat">
-		<text>Мясо слепого пса</text>
+		<text>Blind dog meat</text>
 	</string>
 	<string id="flask_empty_name">
-		<text>Пустая армейская фляга</text>
+		<text>Empty flask</text>
 	</string>
 	<string id="flask_good_full_name">
-		<text>Армейская фляга с водой</text>
+		<text>Flask with water</text>
 	</string>
 	<string id="flask_empty_descr">
-		<text>Пустая армейская фляга для воды объёмом 0,7 литра.</text>
+		<text>empty flask, can hold up to 0.7 litters.</text>
 	</string>
 	<string id="flask_good_1_3_descr">
-		<text>Армейская фляга с чистой водой, воды в фляге осталось на один прием, хорошо утоляет жажду. Для утоления жажды необходимо использовать.</text>
+		<text>Flask with water. There's enough water for 1 use.</text>
 	</string>
 	<string id="flask_good_2_3_descr">
-		<text>Армейская фляга с чистой водой, осталось на два приема, хорошо утоляет жажду. Для утоления жажды необходимо использовать.</text>
+		<text>Flask with water. There's enough water for 2 uses.</text>
 	</string>
 	<string id="flask_good_full_descr">
-		<text>Армейская фляга с чистой водой, фляга полная, воды хватит на три приёма, хорошо утоляет жажду. Для утоления жажды необходимо использовать.</text>
+		<text>Full flask with water. There's enough water 3 uses.</text>
 	</string>
 	<string id="st_pb_quest_spez_razia">
-		<text>Аккумулятор DC12V 9800 мАч</text>
+		<text> DC12V 9800 MAT Battery</text>
 	</string>
 	<string id="st_pb_quest_spez_razia_descr">
-		<text>Литий-ионный аккумулятор, хорошо подходит для питания небольшого трансивера или передатчика, не малая емкость. Внешних повреждений нет, это успокаивает, так как Мурад извлек данный аккумулятор из разбитого радиопередатчика.</text>
+		<text>A lithium-ion battery that’s feat for radios; it has a fairly large capacity.  It doesn’t seem to have suffered any damage, which really lucky considering this battery was taken out of a broken radio transmitter.</text>
 	</string>
 	<string id="st_pb_kanistra_gas">
-		<text>Канистра с топливом</text>
+		<text>Jerry-can with fuel.</text>
 	</string>
 	<string id="st_pb_kanistra_gas_descr">
-		<text>Металическая канистра объемом десять литр, почти полностью заполненная топливом. Хорошо подойдет для заправки машин с дизельной системой двигателя или же, для заправки дизельного генератора.</text>
+		<text>A metallic jerry can with a ten litter capacity. It’s filled to the neck with diesel fuel. </text>
 	</string>
 	<string id="st_pb_bolt_box_small_title">
-		<text>Мешочек с болтами</text>
+		<text>A bag with bolts</text>
 	</string>
 	<string id="st_pb_bolt_box_small_descr">
-		<text>Сталкеры привыкли собирать болты в мешочки по пять штук, так болты сложнее потерять и удобнее использовать.</text>
+		<text>A bag with 5 bolts. Stalkers like storing their bolts in bags such as this.</text>
 	</string>
 </string_table>

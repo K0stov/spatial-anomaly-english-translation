@@ -4,7 +4,8 @@ Welcome to the page of an English translation of *[Spatial Anomaly](https://vk.c
 A list of all files with their detailed progress can be found below.
 
 ---
-
+- **[particles.xr](gamedata/particles.xr)**
+	- done (given to us as a gift from the author)
 - **[configs/gameplay](gamedata/configs/gameplay)**
 	- [character_desc_black_valley.xml](gamedata/configs/gameplay/character_desc_black_valley.xml)
 		- done
@@ -38,7 +39,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
 		- in progress (**SashaTheRed**)
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
-		- incomplete
+		- done (needs revision)
 	- [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
 		- incomplete
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
@@ -60,7 +61,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
 		- done (needs revision)
 	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
-		- incomplete (many elements in this file are unused)
+		- done (needs revision)
 	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
 		- incomplete
 	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
@@ -84,18 +85,32 @@ A list of all files with their detailed progress can be found below.
 		- incomplete
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
 		- done (needs revision)
+- **[gamedata/textures/intro](gamedata/textures/intro)**
+	- [ins_intro.dds](gamedata/textures/intro/ins_intro.dds)
+		- done
+	- [intro_prostranstvenniy_puzir_1.dds](gamedata/textures/intro/intro_prostranstvenniy_puzir_1.dds)
+		- done
+	- [intro_prostranstvenniy_puzir_2.dds](gamedata/textures/intro/intro_prostranstvenniy_puzir_2.dds)
+		- done
+	- [intro_prostranstvenniy_puzir_3.dds](gamedata/textures/intro/intro_prostranstvenniy_puzir_3.dds)
+		- incomplete (unused?)
+	- [intro_prostranstvenniy_puzir_4.dds](gamedata/textures/intro/intro_prostranstvenniy_puzir_4.dds)
+		- incomplete (unused?)
+- **[gamedata/textures/part](gamedata/textures/part)**
+	- [part_zazgig.dds](gamedata/textures/part/part_zazgig.dds)
+		- done (given to us as a gift from the author)
 - **[gamedata/textures/ui](gamedata/textures/ui)**
 	- [ui_actor_loadgame_screen.dds](gamedata/textures/ui/ui_actor_loadgame_screen.dds)
-		- incomplete
+		- done
 	- [ui_actor_loading_background.dds](gamedata/textures/ui/ui_actor_loading_background.dds)
-		- incomplete
+		- done
 	- [ui_actor_main_menu.dds](gamedata/textures/ui/ui_actor_main_menu.dds)
-		- incomplete
+		- done
 	- [ui_actor_main_menu_origin.dds](gamedata/textures/ui/ui_actor_main_menu_origin.dds)
-		- incomplete
+		- incomplete (unused?)
 	- [ui_actor_options_background.dds](gamedata/textures/ui/ui_actor_options_background.dds)
-		- incomplete
+		- done
 	- [ui_hud_grenade_mark1.dds](gamedata/textures/ui/ui_hud_grenade_mark1.dds)
-		- incomplete
+		- done
 	- [ui_hud_grenade_mark2.dds](gamedata/textures/ui/ui_hud_grenade_mark2.dds)
-		- incomplete
+		- done
