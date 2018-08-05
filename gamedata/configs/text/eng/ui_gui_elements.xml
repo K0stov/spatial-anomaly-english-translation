@@ -2471,83 +2471,83 @@
 	<string id="st_vzlom_zamka_1_close">
 		<text>Close</text>
 	</string>
-	<string id="ui_notepad_type_esc_1">
-		<text>Записка от Мракобеса</text>
+	<string id="ui_gui_notepad_caption_90">
+		<text>Letter from Obscurrent</text>
 	</string>
 	<string id="st_notepad_type_esc_1_text">
-		<text>Запомни, твоя цель - лысый мужик с бородой, средних лет, носит обычный комбинезон наймов, прозвище Зверь, также подписан и в КПК. Займи снайперскую позицию на втором этаже старой мельницы, что на Кордоне, дождись пока цель будет поблизости, главное, чтобы без сопровождения, тебе не стоит привлекать лишних глаз, устрани цель. После этого возвращайся за наградой.</text>
+		<text>Remember, your target is a bald, bearded man in his 40’s. He wears a regular mercenary armor and his nickname is Beast. He should also appear by that name in his pda. Take the position in the second floor of the grain elevator and for the target to appear. Make sure nobody else is with him as this needs to be done without witnesses. After you take him out return for your reward.</text>
 	</string>
-	<string id="ui_notepad_type_esc_2">
-		<text>Записка Черепа</text>
+	<string id="ui_gui_notepad_caption_91">
+		<text>Skull's note.</text>
 	</string>
 	<string id="st_notepad_type_esc_2_text">
-		<text>Мля, ну внатуре, сколько можно тормозить, я заманался вас ждать уже. Да и место вы выбрали какое-то стрёмное, под одним боком сталкерня, под вторым наёмники… Песец… Ко всему этому, с той стороны насыпи пальба началась, короче, валю я отсюда. Буду ждать вас в старом туннеле под насыпью, ночью, цену не меняю, считайте, что я вас пожалел.</text>
+		<text>Fuck... For how long will you pussyfoot around? I am tired of waiting for you. And the place you guys picked is really shitty. Stalkers on one side and mercenaries on the other... Long story short, this place is a shithole. Anyway, I am overhearing some kind of shooting on the other side of the heel so I am getting out of here. I’m going to be waiting for you in the tunnel that’s under the heel, at night. As for the price, it stays the same. </text>
 	</string>
-	<string id="ui_notepad_type_esc_3">
-		<text>Записка от Дуболома</text>
+	<string id="ui_gui_notepad_caption_92">
+		<text>Note from Knocklehead</text>
 	</string>
 	<string id="st_notepad_type_esc_3_text">
-		<text>Зверь, если ты читаешь это - значит меня больше нет в живых... Мне трудно писать эти строчки, но я должен попросить у тебя прощения, я не очень хорошо о тебе думал при первой нашей встрече на Кордоне, не изменилось моё мнение и после твоего появления в Пространственной Аномалии. Я тогда был из тех, кто категорически был против того, чтобы оставить тебя на базе, я думал, что ты принесёшь нам только проблемы, но как я ошибался... Большое спасибо, что пытался спасти мою жизнь, жаль, что не вышло и попрощаться мы так и не успели. Надеюсь вам всем удастся покинуть аномалию, я бы очень хотел, чтобы так и случилось. Прощай, Зверь! \nС уважением, Дуболом.</text>
+		<text>Beast, if you are reading this, it means that I’m dead... It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was... I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nС With respect, Knocklehead.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_1">
-		<text>Note from Seriy</text>
+		<text>Seriy's note.</text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
-		<text>«..Испытание Господь мне послал.. Столько лет мытарился, других мытарил, воровал, убивал.. В Зону эту проклятую попал – и зачем? Снова других жизни лишать ради наживы.. Ад это. Ад на земле, при жизни.. Чтобы мучился, чтобы кровью искупление свое заработал. Прошлые грехи – не забыть, не исправить, а будущее – вот оно, здесь, среди таких же как я.. Высшая Воля ведает, что ждет меня завтра, но все в руках моих, и спасение не дается лишь за слова и мысли. Я должен делом своим и примером своим доказать, что достоин..»</text>
+		<text>God has sent me a test... For so many years I had conned myself and others, I have stolen, killed... I came to this zone, why? Trading the lives of others for my own profit? This is hell, hell on earth. I cannot forget my past sins nor can I fix them and as for the future it’s right before me. Right here, among others like me... The higher power is controlling what’s going to happen to me next but at the same time all is in my hands. Salivation isn’t given for words and thoughts, rather I have to prove with my own actions that I am worthy.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_2">
-		<text>Personal notes</text>
+		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_2_text">
-		<text>%c[default]Я ничего не помню... Ужасно болит голова... Где я? Что это за место? Сарай какой-то... Черт. Еще и этот сон странный... Или это был не сон? Что за существо я увидел? И смех этот... Я до сих пор слышу его. Столько вопросов, и нет ни одного ответа... Так, Зверь, спокойно... Нужно разобраться в себе, разложить все по полочкам. Что было до всего этого кошмара? Последнее, что я помню - это погня. Да-да, я догонял Вектора, и он ускользнул от меня. Но как? Виновен ли он в том, что я оказался здесь? Впрочем, какая разница теперь... Ладно, сначала нужно уничтожить зомбированных, о которых говорил Лютый, а потом уже искать ответы на вопросы.</text>
+		<text>%c[default]I can’t remember a thing... My head hurts like hell... Where am I? What is this place? Some sort of barn... Damn it. That dream didn’t help the slightest... Or maybe it wasn’t a dream? What sort of creature did I see back there? That laugh, I can still hear it. So many questions and not a single answer... Alright, Beast, take it easy... First, I need to sort everything out. What happened before the nightmare? The last thing I remember was the chase. Yeah, that’s right, I caught Vector but he managed to slip away from me. But how? Is he the one who made me end up here? On the second thought, it doesn’t really matter now does it? Alright, I need to take out those zombies like Savage asked and after that I can started figuring out what happened.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_3">
-		<text>Personal notes</text>
+		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_3_text">
-		<text>%c[default]Я одолел этих проклятых зомбированных! Эх, Зона, что же ты с людьми выделываешь-то?! Они тебя породили, а ты... У одного из зомбированных была какая-то записка... Содержание вызывает вопросы. Думаю, Лютому будет интересно взглянуть на нее. Я выдвигаюсь обратно, к сараю. По совместительству - к базе. До сих пор поверить не могу, как я встрял во всё это? Как смог выжить? Во всём этом стоит разобраться...</text>
+		<text>%c[default]I took care of those zombies... Only in the zone can you find such a horrific site... The things this place does to people. I found some kind of note on one of the zombies and its contents raise some questions.  I bet Savage would want to see this. I’m going back to the barn or rather back to base. I still cannot believe I’m stuck here. How the hell did I get here? How could I survive? I need figure all of this out.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_4">
-		<text>Personal notes</text>
+		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_4_text">
-		<text>%c[default]До этого я не видел эту тварь так близко... Маркус сказал, что нужно искать и выход и я с ним полностью согласен. Не хочу быть здесь, когда эта тварь снова вернется. Что это вообще? Человек или мутант, а может призрак Зоны? Блин, чем дальше я пытаюсь зайти, тем больше возникает вопросов. Так, хватит писюльки писать, нужно искать выход! Этим и займусь...</text>
+		<text>%c[default]I haven’t seen creature so up close before... Marcus said that we need find an exit out of this place and I agree. I don’t want to be here when this thing return. What is it anyway? A human, a mutant or maybe it’s a ghost? Damn, the more I try to look for an answer, the more questions arise.  Alright, that’s enough chit-chat; I have to find a way out of here...</text>
 	</string>
 	<string id="ui_gui_notepad_caption_5">
-		<text>Personal notes</text>
+		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_5_text">
-		<text>%c[default]God damn controller! What’s with my luck with other creatures as of late? First zombies, and now this abomination… I’m in a cabinet of curiosities, and not the Zone of Alienation. The damn thing is dead, and now we know why those Dutyers turned into zombies. They were driven to insanity by that beast, which I managed to take out with my bullets. Our chances of getting saved have gone up by two percent, which puts it at… three percent. Not much, but it’s something.</text>
+		<text>%c[default]Fucking hell, a Controller! Why do I keep running into these mutants? First the zombies and now this...  At least that piece of shit is dead. I know now how those Dutiers got zombified, the Controller drove them mad. Now that this creature is dead or chances of survival have slightly increased, at least that’s something.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_6">
-		<text>Personal notes</text>
+		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_6_text">
-		<text>%c[default]Лютый довязался со своими просьбами. А не пошел бы этот Лютый? То это найди, то другое принеси. Зверь превратился в мальчика на побегушках. Что скажут в Синдикате, если узнают об этом? А впрочем, в нашей ситуации и говно - пирожное. Ради общего блага стоит и побегать. В конце-концов, от этого и моя жизнь зависит...</text>
+		<text>%c[default]Savage is starting to get on my nerve with his requests. Maybe I should tell him to fuck off? Do this; find that... Beast is becoming some kind of errand boy. Man, what would the guys in the syndicate say if they ever find out about this? On the other hand, things could be way worse. After all, Savage is just trying to keep us all alive, me included.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_7">
-		<text>Personal notes</text>
+		<text>Obscurant's note</text>
 	</string>
 	<string id="st_notepad_type_one_7_text">
-		<text>%c[default]Тесак и его шайка еще ответят за содеянное, смерть Кувалды им с рук не сойдет... В одном он прав, я действительно потерял былую хватку, это место помогло мне забыть, что такое хладнокровие или может дело не в этом?.. Так, Маркус сказал, что у него есть какой-то план, что поможет нам решить сложившуюся ситуацию, надо узнать, что он придумал.</text>
+		<text>%c[default]Dagger and his squad will pay for what they did; I won’t let them get away Sledgehammer’s death. He’s right about one thing though, I’ve really lost my cold heartiness. This place has changed me and made care about others or perhaps that’s not the case? Either way, Marcus said he has some kind of plan and I need to see what he’s up too. </text>
 	</string>
 	<string id="ui_gui_notepad_caption_8">
-		<text>Personal notes</text>
+		<text>note from Skull</text>
 	</string>
 	<string id="st_notepad_type_one_8_text">
-		<text>%c[default]Примерно где-то месяц уже прошел со дня смерти Кувалды, но от этого не легче... Совпадение или нет, но именно после той ночи у нас появились серьезные проблемы, зараженное мясе - не лучшая пища, так к нам на базу и пришла эта эпидемия. Кое-какие лекарства для ребят мне удалось найти, но увы этого крайне мало, всем больным медикаментов точно не хватит, остается только молится Богу и надеятся, что вакцинирование поможет.</text>
+		<text>%c[default]It’s been about a month since Sledgehammer’s death and things haven’t gotten easier... I don’t know if it’s a coincidence or not but after that night things went to hell. Infected meat, as it turns out isn’t the best food and now we are having a whole epidemic in our base. I’ve managed to find some medication for the guys but it’s not enough. They still need further treatment. Right now all I can do is prey to god that the vaccine will work...</text>
 	</string>
 	<string id="ui_gui_notepad_caption_9">
-		<text>Personal notes</text>
+		<text>note from knocklehead</text>
 	</string>
 	<string id="st_notepad_type_one_9_text">
-		<text>%c[default]Эти олухи посадили меня в одну клетку с бандитами, подумали, что я могу быть опасен... Мда, вроде как я выбрался из Аномалии, но мне не стало легче, столько довелось поведать за то время, стольких друзей потерять. Охранник еще сказал, что Маркус не выбрался, но почему, куда он пропал? Стоит поговорить об этом с Лютым. Скорее всего это последняя запись в блокнот, больше я о своих переживаниях не хочу рассказывать даже бумаге. Не знаю как я буду жить дальше, такое чувство, что я умер внутри...</text>
+		<text>%c[default]The stalkers have put me in the cage, They think I am some kind of threat. Idiots... Yeah, even though I have escaped the anomaly, yet I'm still trapped. I’ve been through so much in there, lost so many friends. The guard told me that Marcus didn’t make it out of the anomaly but why? Where the hell is he? I should talk about this with Savage. Most likely this will be the last time I write in this notebook, I don’t want to write about my worries anymore. I don’t even know what to do next... It feels like I’m dead inside...</text>
 	</string>
 	<string id="ui_gui_notepad_caption_10">
-		<text>Записка Шпалы</text>
+		<text>Crosstie's note</text>
 	</string>
 	<string id="st_notepad_type_one_10_text">
-		<text>Фух, отдышался, но нога всё ещё болит... Грёбаный снорк выскочил слишком внезапно, хорошо хоть перелома нет. Последние патроны из автомата пришлось потратить на то, чтобы его успокоить. Послушай, Лёха, если ты читаешь эту записку, то знай, что я все еще жив, подожди меня в этом подвале, я прихожу сюда на ночлег. Думаю, что вместе мы сможем найти отсюда выход, главное дождись меня, ладно? С уважением, Шпала!</text>
+		<text>Oof, I managed to escape but my leg still hurts. That Snork came out of nowhere and I couldn’t react in time. At the very least my leg’s not broken. I wasted my last bullets on that mutant. Listen, Alex, if you are reading this, know this, I’m still alive. Wait for me in the basement; I’ll get here tonight. I think together we can find our way out of here. Just wait for me, okay? With respect, Crosstie!</text>
 	</string>
 	<string id="ui_gui_document_caption_1">
 		<text>Запись в документе</text>

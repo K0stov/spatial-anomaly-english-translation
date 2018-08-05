@@ -287,21 +287,14 @@ Google Maps в первых версиях мобильной «операционки» Apple использовались в сист
 	<text>Раковые клетки.</text>
 </string>
 <string id="ars_mar_b5_documents_2">
-	<text>Ученые из Венгрии и Великобритании создали электроскальпель, который умеет анализировать характер разрезаемой ткани. Масс-спектрометрическое исследование в режиме реального времени позволяет врачу определять, где заканчиваются раковые клетки и начинается здоровая ткань. Это позволяет более точно удалять опухоли. Подробности со ссылкой на статью ученых в Science Translational Medicine приводит Science Now.
-Исследователи вначале собрали 3000 образцов здоровых и пораженных злокачественными опухолями тканей. После этого их поочередно коснулись электроскальпелем и отобрали пробу выделившегося при этом газа (дыма). Газовую смесь медики анализировали масс-спектрометром, после чего результаты химического анализа сопоставляли с данными гистологической экспертизы того же образца.
-Это сопоставление позволило выделить уникальные химические маркеры разных опухолей и определять их по составу аэрозолей, выделяемых при разрезании электроскальпелем. Инструмент для проведения операций дополнили трубкой, которая отсасывает газовую смесь к масс-спектрометру и за счет этого обеспечили возможность анализа без проведения врачами каких-то дополнительных действий во время операции. Разработка прошла испытания в клинике во время операций на 81 пациенте, однако о долговременных последствиях пока неизвестно. Вывод о том, помогает ли новый метод избежать метастазирования опухоли можно будет сделать только спустя несколько лет после операций.
-Гистологическое исследование ткани в настоящий момент является основным и самым надежным способом определения раковых опухолей: клетки изучаются под микроскопом экспертом-гистологом. Но при проведении операций хирургам приходится ждать минимум полчаса, чтобы узнать характер удаленного образца. Это ведет к длительному наркозу и не обеспечивает высокой точности, которая особенно важна при операциях на мозге..</text>
+<text>What are we doing today? Just don't tell me we're working :) </text>
 </string>
 <string id="mar_b5_documents_3">
 	<text>Наночастицы.</text>
 </string>
 <string id="ars_mar_b5_documents_3">
-	<text>Израильские инженеры разработали плоские и гибкие сенсоры на основе углеродных наночастиц. Эта разработка должна помочь в создании протезов, способных передавать владельцу ощущения не только прикосновений, но также температуры и влажности. О работе специалистов из института Технион-Израиль рассказывает Science Daily со ссылкой на публикацию исследователей в журнале Applied Materials & Interfaces.
-Заявленные характеристики сенсоров таковы: они способны регистрировать механическую нагрузку в несколько сотых долей грамма, ощущать изменение температуры в пределах одного градуса и реагировать на колебания относительной влажности вплоть до одного процента. По механической чувствительности новая разработка по-прежнему проигрывает человеческой коже, однако она уже достаточна для многих практических задач.
-Датчики изготовлены из тонких слоев связанных вместе наночастиц золота диаметром всего от 5 до 8 нанометров. Предварительные испытания показали, что они сохраняют работоспособность при многократном сгибании вместе с резиновой подложкой, а также могут быть размещены на разных материалах. Помимо протезов новые сенсоры могут использоваться для отслеживания деформаций строительных конструкций, а также узлов механизмов: трещины будут обнаружены с тем же успехом, что и изгиб или скручивание детали.
-Принцип работы датчкиков основан на том, что увеличение влажности или температуры повышает проводимость ленты из наночастиц и связывающего их полимерного субстрата, а изгиб приводит к уменьшению расстояния между наночастицам с изменением электрического сопротивления. Ранее ученые могли делать плоские и гибкие датчики давления, но они не могли регистрировать температуру и влажность..</text>
+<text>Dicks everywhere...</text>
 </string>
-
 <string id="mar_b6_documents_1">
 	<text>Военные медики.</text>
 </string>
@@ -1315,7 +1308,7 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Some asshole mercenary</text>
 </string>
 <string id="enc_faction_mar_b2_doc_7">
-	<text>(Yesterday, 19:23) Soon enough I will be able to leave this zone once and for all, thanks that dumbass, Limp. That idiot told me about his and Lefty’s stash and now all I have to do is find out where it 
+	<text>(Yesterday, 19:23) Soon enough I will be able to leave this zone once and for all, thanks to that dumbass, Limp. That idiot told me about his and Lefty’s stash and now all I have to do is find out where it is.</text> 
 </string>
 <string id="enc_faction_mar_b2_doc_8">
 	<text>(Yesterday, 21:57) That’s it, I know where’s the container. Man, those guys are idiots, They got drunk and told me everything. All I have to do now is find out how to steal their loot without getting noticed.</text>
@@ -1364,7 +1357,7 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>(03.10.2010, 16:11) That Sakharov guy isn’t as dumb as he looks. It doesn’t matter though, the important thing is he hasn’t noticed anything. I wonder why suddenly he’s so interested in those psi-emissions. He even said that soon enough he will have a prototype that can weaken the psi emission. When I’ll know more, I’ll report it back to base.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_1">
-	<text>(14.10.2010, 19:34) Sakharov’s experiments failed totally and not only that but his trails caused the deaths of three soldiers who agreed to partake in his trails. I wonder, will Sakharov face any consequences for what happened?</text>
+	<text>(14.10.2010, 19:34) Sakharov’s experiments failed totally and not only that but his trails caused the deaths of three soldiers who agreed to partake in his trails. I wonder, h will Sakharov face any consequences for what happened?</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_2">
 	<text>File damaged.</text>

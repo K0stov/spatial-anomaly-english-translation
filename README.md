@@ -49,7 +49,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
 		- done (untested)
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
-		- incomplete
+		- done (needs revision)
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
 		- done (needs revision)
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
@@ -67,7 +67,7 @@ A list of all files with their detailed progress can be found below.
 	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
 		- incomplete
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
-		- incomplete
+		- done (needs revision)
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
 		- incomplete
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
