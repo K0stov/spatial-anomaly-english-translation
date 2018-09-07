@@ -1,7 +1,7 @@
-# Spatial Anomaly
+# *Spatial Anomaly*
 Welcome to the page of an English translation of *[Spatial Anomaly](https://vk.com/spatial_anomaly)*, a mod for the *[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)* series!
 
-A list of all files with their detailed progress can be found below.
+A list of all files with detailed progress can be found below.
 
 ---
 - **[particles.xr](gamedata/particles.xr)**
@@ -21,9 +21,9 @@ A list of all files with their detailed progress can be found below.
 		- done
 - **[configs/text/eng](gamedata/configs/text/eng)**
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
-		- incomplete
+		- done (could use minor edits like in the corresponding file already in *Spatial Anomaly*)
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
-		- in progress (**Baronoflulz** and **SashaTheRed**)
+		- done (needs revision)
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
 		- done (needs revision)
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
@@ -45,7 +45,7 @@ A list of all files with their detailed progress can be found below.
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
 		- incomplete
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- in progress
+		- in progress (**Cameron M. Hunter**)
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
 		- done (untested)
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
@@ -106,8 +106,6 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [ui_actor_main_menu.dds](gamedata/textures/ui/ui_actor_main_menu.dds)
 		- done
-	- [ui_actor_main_menu_origin.dds](gamedata/textures/ui/ui_actor_main_menu_origin.dds)
-		- incomplete (unused?)
 	- [ui_actor_options_background.dds](gamedata/textures/ui/ui_actor_options_background.dds)
 		- done
 	- [ui_hud_grenade_mark1.dds](gamedata/textures/ui/ui_hud_grenade_mark1.dds)

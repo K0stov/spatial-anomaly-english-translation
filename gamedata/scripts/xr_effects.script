@@ -4558,7 +4558,7 @@ end
 function blck_val_gop_stop_bandit_sms_1()
      local snd = sound_object([[characters_voice\scenario\black_valley\blck_val_robbery_scene_come_here_pda]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	 SendTip("%c[255,220,20,60]Hey, man, get over here. Wanna talk for a sec. Just hide that shooter!", "Bandit:", nil, 7, "ui_inGame2_bandit_2")
+	 SendTip("%c[255,220,20,60]Hey, buddy, put that shooter away and come over here! We need to have a chat.", "Bandit:", nil, 7, "ui_inGame2_bandit_2")
 end
 
 function blck_val_stalker_hutor_1_wait_counter_pda()
