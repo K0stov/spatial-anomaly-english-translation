@@ -395,7 +395,7 @@
 		<text>Metallurgical plant</text>
 	</string>
 	<string id="st_blck_val_a7_spot_name">
-		<text>Pansky farm</text>
+		<text>Panskiy farm</text>
 	</string>
 	<string id="labx7">
 		<text>Laboratory X7</text>
@@ -404,7 +404,7 @@
 		<text>Digger station</text>
 	</string>
 	<string id="st_perehod_in_valley_to_labx6">
-		<text>To laboratory X7</text>
+		<text>Laboratory X7</text>
 	</string>
 	<string id="pb_outro_text_1">
 		<text>The end.</text>

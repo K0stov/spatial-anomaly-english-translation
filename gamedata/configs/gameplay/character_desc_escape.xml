@@ -1146,7 +1146,7 @@
 	
 	
 	<specific_character id="esc_bandit_shmiga" team_default = "1">
-		<name>Shmyga</name>
+		<name>Ratter</name>
 		<icon>ui_inGame2_none</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>

@@ -238,7 +238,7 @@
 <text>Call of the Monolith: return to the factory</text>
 </string>
 <string id="blck_val_monolit_call_part_7_text">
-<text>Saurel has sent reinforcements to the factory, but it’s up to me alone to save Miklukha and the others.</text>
+<text>Saurel has sent reinforcements to the factory, but it’s up to me to save Miklukha and the others.</text>
 </string>
 <string id="blck_val_monolit_call_part_8_name">
 <text>Call of the Monolith: search Miklukha’s corpse</text>
@@ -273,16 +273,16 @@
 <text>The coordinates have been sent. I need to see if the stalkers inside have received them.</text>
 </string>
 <string id="blck_val_spatial_bubble_wound_part_4_name">
-<text>Shadows of the past: speak to Spotty</text>
+<text>Shadows of the past: speak to Fish</text>
 </string>
 <string id="blck_val_spatial_bubble_wound_part_4_text">
-<text>I know these stalkers well. I should speak to them.</text>
+<text>I know these stalkers well. I should have a word with them.</text>
 </string>
 <string id="blck_val_spatial_bubble_wound_part_5_name">
-<text>Shadows of the past: find out what’s happened from a stalker</text>
+<text>Shadows of the past: find out what happened from a stalker</text>
 </string>
 <string id="blck_val_spatial_bubble_wound_part_5_text">
-<text>I woke up on the farm, and after being hit with the butt of a rufle, I can’t remember anything. I need to ask a stalker about it.</text>
+<text>I woke up on the farm, and after taking a rifle butt to my face, I can’t remember anything. I need to ask a stalker about everything.</text>
 </string>
 <string id="blck_val_spatial_bubble_wound_part_6_name">
 <text>Shadows of the past: speak to Petrovich</text>
@@ -330,7 +330,7 @@
 <text>In the dead of night: wait until night</text>
 </string>
 <string id="blck_val_prison_breack_part_1_text">
-<text>Shmyga has told me that he can find an SR-3 Vikhr rifle for me in exchange for helping him escape. I don’t think there’s any other way of getting that rifle. I need to help him by stealing the cage key, but first, I need to wait until Sologub goes to sleep.</text>
+<text>Ratter has told me that he can find an SR-3 Vikhr rifle for me in exchange for helping him escape. I don’t think there’s any other way of getting that rifle. I need to help him by stealing the cage key, but first, I need to wait until Sologub goes to sleep.</text>
 </string>
 <string id="blck_val_prison_breack_part_2_name">
 <text>In the dead of night: steal the key from the nightstand</text>
@@ -339,34 +339,34 @@
 <text>Sologlub should be asleep by now. The key’s on the nightstand.</text>
 </string>
 <string id="blck_val_prison_breack_part_3_name">
-<text>In the dead of night: return to Shmyga</text>
+<text>In the dead of night: return to Ratter</text>
 </string>
 <string id="blck_val_prison_breack_part_3_text">
-<text>I have the key. I can now return to Shmyga.</text>
+<text>I have the key. I can now return to Ratter.</text>
 </string>
 <string id="blck_val_prison_breack_part_4_name">
-<text>In the dead of night: give the key to Shmyga</text>
+<text>In the dead of night: give the key to Ratter</text>
 </string>
 <string id="blck_val_prison_breack_part_4_text">
-<text>I need to give the key to Shmyga..</text>
+<text>I need to give the key to Ratter..</text>
 </string>
 <string id="blck_val_prison_breack_part_5_name">
 <text>In the dead of night: go to the meeting place</text>
 </string>
 <string id="blck_val_prison_breack_part_5_text">
-<text>Shmyga now has the key. I need to wait for him by the house while he escapes along with another bandit.</text>
+<text>Ratter now has the key. I need to wait for him by the house while he escapes along with another bandit.</text>
 </string>
 <string id="blck_val_prison_breack_part_6_name">
-<text>In the dead of night: wait for Shmyga</text>
+<text>In the dead of night: wait for Ratter</text>
 </string>
 <string id="blck_val_prison_breack_part_6_text">
-<text>Now I just have to wait for Shmyga at the meeting place.</text>
+<text>Now I just have to wait for Ratter at the meeting place.</text>
 </string>
 <string id="blck_val_prison_breack_part_7_name">
-<text>In the dead of night: speak to Shmyga</text>
+<text>In the dead of night: speak to Ratter</text>
 </string>
 <string id="blck_val_prison_breack_part_7_text">
-<text>I should speak to Shmyga.</text>
+<text>I should speak to Ratter.</text>
 </string>
 <string id="blck_val_prison_breack_part_8_name">
 <text>In the dead of night: return the key back to its place</text>
@@ -411,10 +411,10 @@
 
 <!-- Quest: a tooth for a tooth -->
 <string id="blck_val_shmiga_revard_quest_part_1_name">
-<text>A tooth for a tooth: retrieve the weapons from Shmyga</text>
+<text>A tooth for a tooth: retrieve the weapons from Ratter</text>
 </string>
 <string id="blck_val_shmiga_revard_quest_part_1_text">
-<text>Crooked has messaged me and says that Shmyga is ready to give me my reward for setting him free, in the form of two SR-3 Vikhr rifles.</text>
+<text>Crooked has messaged me and says that Ratter is ready to give me my reward for setting him free, in the form of two SR-3 Vikhr rifles.</text>
 </string>
 
 <!-- Quest: masquerade -->
@@ -431,10 +431,10 @@
 <text>Saurel has informed me that the outfit delivery has arrived. I should go see him.</text>
 </string>
 <string id="blck_val_monolit_base_part_3_name">
-<text>Masquerade: reconfigure the PDA with Petrovich</text>
+<text>Masquerade: reconfigure the PDA with Petrovich’s help</text>
 </string>
 <string id="blck_val_monolit_base_part_3_text">
-<text>I have the outfit and the explosives. The last thing to go with the disguise is a reconfigured PDA so that the Monolithians will recognize me as one of their own.</text>
+<text>I have the outfit and the explosives. The last part of the disguise will be a reconfigured PDA so that the Monolith will recognize me as one of their own.</text>
 </string>
 <string id="blck_val_monolit_base_part_4_name">
 <text>Masquerade: speak to Savage</text>

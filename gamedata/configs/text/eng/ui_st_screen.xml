@@ -476,4 +476,10 @@
 		<text>A marker with a list of loot has been placed.</text>
 	</string>
 	
+	<string id="st_help_timer">
+		<text>Call for help</text>
+	</string>
+	<string id="st_ladder_timer">
+		<text>Climb the ladder</text>
+	</string>
 </string_table>

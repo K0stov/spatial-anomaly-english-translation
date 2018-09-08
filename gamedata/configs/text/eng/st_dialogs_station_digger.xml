@@ -7,7 +7,7 @@
 		<text>Markus, it’s me. What’s wrong?</text>
 	</string>
 	<string id="bar_markus_meet_good_end_10">
-		<text>I was led out of this spatial anomaly by an old man. He called himself “Hermit.” When he brought me to this place, he said that I would be safe here, and he told me something about you and Stronglav. He said that you were the one who somehow created this creature after you were caught in a blowout in the Cordon, and since then, Stronglav has been around you the whole time. He’s only able to manifest himself as a separate entity from you after you stepped into this spatial distortion.</text>
+		<text>I was led out of the spatial anomaly by an old man. He called himself “Hermit.” When he brought me to this place, he said that I would be safe here, and he told me something about you and Stronglav. He said that you were the one who somehow created the creature after you were caught in a blowout in the Cordon, and since then, Stronglav has been around you the whole time. He was only able to manifest himself as a separate entity from you after you stepped into this spatial distortion.</text>
 	</string>
 	<string id="bar_markus_meet_good_end_11">
 		<text>That’s hard to believe… but if it’s true, how do we destroy this thing?</text>
@@ -31,13 +31,13 @@
 		<text>What? But it wasn’t me. It was probably Stronglav causing trouble. I’ve never tried to kill you.</text>
 	</string>
 	<string id="bar_markus_meet_good_end_6">
-		<text>Maybe you’re telling the truth, but I’m not about to lower my shooter. What are you doing here?</text>
+		<text>Maybe you’re telling the truth, but I’m not about to lower my gun. What are you doing here?</text>
 	</string>
 	<string id="bar_markus_meet_good_end_7">
-		<text>I came here from the outpost. Those damn Monolith fanatics caught Savage and hauled him into the laboratory. I tried to save him, but he ended up dying to Stronglav. I blew up the entrance to the lab so that Stronglav would remain trapped inside, and I hope we never see that bastard again.</text>
+		<text>I came here from the outpost. Those damn Monolith fanatics caught Savage and hauled him into the laboratory. I tried to save him, but he ended up dying to Stronglav. I blew up the lab entrance so that Stronglav would remain trapped inside, and I hope we never see that bastard again.</text>
 	</string>
 	<string id="bar_markus_meet_good_end_8">
-		<text>Don’t you understand? Beast… That creature, Stronglav, who’s connected to you, isn’t easy to get rid of. I’m sure he’s followed you here. Hermit told me about your connection to Stronglav. Wherever you go, he’ll follow you.</text>
+		<text>Don’t you understand? Beast… That creature, Stronglav, who has a connection to you, won’t be easy to get rid of. I’m sure he followed you here. Hermit told me about your tie to Stronglav. Wherever you go, he’ll follow you.</text>
 	</string>
 	<string id="bar_markus_meet_good_end_9">
 		<text>What? Markus, what connection are you talking about?</text>
@@ -145,13 +145,13 @@
 		<text>Just try, Hatchet. I gave you the chance to leave…</text>
 	</string>
 	<string id="labx7_lutiy_prisoner_dialog_0">
-		<text>Damn it. Beast, you shouldn’t have followed me… This thing… It came out of nowhere; it’s making the fanatics go nuts, and it’s trying to get into my head. It lured you into here, Beast.</text>
+		<text>Damn it, Beast. You shouldn’t have followed me… This thing… It came out of nowhere; it’s driving the fanatics mad, and it’s trying to get into my head. It lured you here, Beast.</text>
 	</string>
 	<string id="labx7_lutiy_prisoner_dialog_1">
-		<text>Savage, what the fuck are you talking about? That bastard’s still out there somewhere. Come on, buddy. We’ve got to get out of here.</text>
+		<text>Savage, what the fuck are you on about? That bastard’s still out there somewhere. Come on, buddy. We’ve got to get out of here.</text>
 	</string>
 	<string id="labx7_lutiy_prisoner_dialog_2">
-		<text>No, no, no. It’s too late. Listen, Beast: Petrovich showed me how to reconfigure your PDA. You won’t be confused with any fanatics any longer. A-a-ah… It’s trying to get into my head agan… Stop it, Beast. Please… Don’t worry about me. I can keep on going.</text>
+		<text>No, no, no. It’s too late. Listen, Beast: Petrovich showed me how to reconfigure your PDA. You won’t be confused with the fanatics any longer. Aaah… It’s trying to get into my head again!… Stop it, Beast! Please… Don’t worry about me. I can keep on going.</text>
 	</string>
 	<string id="labx7_lutiy_prisoner_dialog_3">
 		<text>I’ll stop it, Savage. I promise!</text>

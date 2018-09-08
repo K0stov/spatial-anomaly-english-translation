@@ -223,7 +223,7 @@
 		<text>Radio-marker</text>
 	</string>
 	<string id="trader_radio_pharos_descr">
-		<text>A device used for tracking radio signals in a large radius.  In the zone this device is used to locate stalkers by the signal of their PDAs.</text>
+		<text>A device used for tracking radio signals in a large radius. In the zone this device is used to locate stalkers by the signal of their PDAs.</text>
 	</string>
 	<string id="st_pb_rezerv_key_door">
 		<text>Key to the armory</text>
@@ -278,10 +278,10 @@
 	</string>
 
 	<string id="st_blck_val_transiver_title">
-		<text>P-250M2 radio transmitter.</text>
+		<text>P-250M2 radio transmitter</text>
 	</string>
 	<string id="st_blck_val_transiver_descr">
-		<text>The P-250M2 is communications receiver which works on short waves and is favored by many radio hobbyist.  Two versions of this device were produced: The P250/M/M2 for land forces and P-670/M for the Russian Navy. The transmitter  is a dual conversion superheterodyne with a tuning range of 1.5 – 25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text> 
+		<text>The P-250M2 is communications receiver which works on short waves and is favored by many radio hobbyist. Two versions of this device were produced: The P250/M/M2 for land forces and P-670/M for the Russian Navy. The transmitter is a dual conversion superheterodyne with a tuning range of 1.5 – 25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text> 
 	</string>
 	<string id="st_pb_quest_shell_brelok">
 		<text>Shell's dogtag</text>
@@ -291,7 +291,7 @@
 	</string>
 
 	<string id="st_blck_val_key_to_prison">
-		<text>The key to the Cellar.</text>
+		<text>The key to the Cellar</text>
 	</string>
 	<string id="st_blck_val_key_to_prison_descr">
 		<text>This is a backup key to the cellar. As of Chemist’s death, the key is being guarded by Sologyb. He leaves the key on the Cupboard so that other guards could use it if they need it.</text>
@@ -354,10 +354,10 @@
 		<text>Full flask with water. There's enough water 3 uses.</text>
 	</string>
 	<string id="st_pb_quest_spez_razia">
-		<text> DC12V 9800 MAT Battery</text>
+		<text>DC12V 9800 MAT Battery</text>
 	</string>
 	<string id="st_pb_quest_spez_razia_descr">
-		<text>A lithium-ion battery that’s feat for radios; it has a fairly large capacity.  It doesn’t seem to have suffered any damage, which really lucky considering this battery was taken out of a broken radio transmitter.</text>
+		<text>A lithium-ion battery that’s feat for radios; it has a fairly large capacity. It doesn’t seem to have suffered any damage, which really lucky considering this battery was taken out of a broken radio transmitter.</text>
 	</string>
 	<string id="st_pb_kanistra_gas">
 		<text>Jerry-can with fuel.</text>

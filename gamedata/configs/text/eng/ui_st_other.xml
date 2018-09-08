@@ -10,7 +10,7 @@
 		<text>Igor “PROFFESIONAL” Melnyk</text>
 	</string>
 	<string id="st_game_desings">
-		<text>Level designs</text>
+		<text>Level design</text>
 	</string>
 	<string id="st_kirilchik">
 		<text>Vitaly “vxsk98” Kirylchyk</text>
@@ -28,7 +28,7 @@
 		<text>Vitaly Kondakov: optimization, bug fixing</text>
 	</string>
 	<string id="st_game_desings_puzir_zastava">
-		<text>Bubble and Stronghold modifications</text>
+		<text>Space bubble and Outpost modifications</text>
 	</string>
 	<string id="st_thank_you_alexfilm">
 		<text>Huge thanks to AlexFilm for voicing the project.</text>

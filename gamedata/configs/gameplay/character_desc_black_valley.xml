@@ -497,7 +497,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_a31_stalker_1" team_default="1">
-		<name>Shmyga</name>
+		<name>Ratter</name>
 		<icon>ui_inGame2_bandit_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

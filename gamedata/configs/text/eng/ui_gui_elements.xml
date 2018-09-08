@@ -1952,7 +1952,7 @@
 		<text>Персональная паяльная станция</text>
 	</string>
 	<string id="ui_gui_guk_2_caption">
-		<text>Передатчик для отправки координат</text>
+		<text>Coordinate transmitter</text>
 	</string>
 	<string id="ui_gui_guk_1_caption">
 		<text>Расчетная задача</text>
@@ -1973,19 +1973,19 @@
 		<text>Для создания прослушивающих приборов необходимо иметь при себе 5 специальных микросхем, 15 конденсаторов и 10 катушек индуктивности каждая из которых имеет свою специальную маркировку.</text>
 	</string>
 	<string id="ui_gui_guk_item_1">
-		<text>«Параметры для загрузки координат:»</text>
+		<text>Parameters for loading coordinates:</text>
 	</string>
 	<string id="ui_gui_guk_item_2">
-		<text>«Принимаемые расчетные параметры:»</text>
+		<text>Receivable estimated parameters:</text>
 	</string>
 	<string id="st_guk_type_one_1_text">
 		<text>Кнопка для загрузки координат.</text>
 	</string>
 	<string id="st_guk_1_use_1">
-		<text>Загрузить</text>
+		<text>Load</text>
 	</string>
 	<string id="st_guk_1_use_2">
-		<text>Принять</text>
+		<text>Receive</text>
 	</string>
     
 	<string id="ui_gui_a2_pda_copy_caption">
@@ -2397,7 +2397,7 @@
 		<text>Описание третьего действия. Лечебный модуль. По клику на кнопку перед вами откроется окно, в котором необходимо будет выполнить ввод определенной косбинации препоратов для того или иного состояния раненного. Препораты вводят по данным анализа и их сопоставлению со справочными сведениями.</text>
 	</string>	
 	<string id="st_menu_vzl_1_close">
-		<text>Завершить</text>
+		<text>Finish</text>
 	</string>
 	<string id="ui_gui_vzlom_zamka_caption">
 		<text>«Сканер электронного взлома»</text>
@@ -2481,67 +2481,67 @@
 		<text>Skull's note.</text>
 	</string>
 	<string id="st_notepad_type_esc_2_text">
-		<text>Fuck... For how long will you pussyfoot around? I am tired of waiting for you. And the place you guys picked is really shitty. Stalkers on one side and mercenaries on the other... Long story short, this place is a shithole. Anyway, I am overhearing some kind of shooting on the other side of the heel so I am getting out of here. I’m going to be waiting for you in the tunnel that’s under the heel, at night. As for the price, it stays the same. </text>
+		<text>Fuck… For how long will you pussyfoot around? I am tired of waiting for you. And the place you guys picked is really shitty. Stalkers on one side and mercenaries on the other… Long story short, this place is a shithole. Anyway, I am overhearing some kind of shooting on the other side of the heel so I am getting out of here. I’m going to be waiting for you in the tunnel that’s under the heel, at night. As for the price, it stays the same.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_92">
 		<text>Note from Knocklehead</text>
 	</string>
 	<string id="st_notepad_type_esc_3_text">
-		<text>Beast, if you are reading this, it means that I’m dead... It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was... I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nС With respect, Knocklehead.</text>
+		<text>Beast, if you are reading this, it means that I’m dead… It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was… I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nС With respect, Knocklehead.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_1">
 		<text>Seriy's note.</text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
-		<text>God has sent me a test... For so many years I had conned myself and others, I have stolen, killed... I came to this zone, why? Trading the lives of others for my own profit? This is hell, hell on earth. I cannot forget my past sins nor can I fix them and as for the future it’s right before me. Right here, among others like me... The higher power is controlling what’s going to happen to me next but at the same time all is in my hands. Salivation isn’t given for words and thoughts, rather I have to prove with my own actions that I am worthy.</text>
+		<text>God has sent me a test… For so many years I had conned myself and others, I have stolen, killed… I came to this zone, why? Trading the lives of others for my own profit? This is hell, hell on earth. I cannot forget my past sins nor can I fix them and as for the future it’s right before me. Right here, among others like me… The higher power is controlling what’s going to happen to me next but at the same time all is in my hands. Salivation isn’t given for words and thoughts, rather I have to prove with my own actions that I am worthy.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_2">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_2_text">
-		<text>%c[default]I can’t remember a thing... My head hurts like hell... Where am I? What is this place? Some sort of barn... Damn it. That dream didn’t help the slightest... Or maybe it wasn’t a dream? What sort of creature did I see back there? That laugh, I can still hear it. So many questions and not a single answer... Alright, Beast, take it easy... First, I need to sort everything out. What happened before the nightmare? The last thing I remember was the chase. Yeah, that’s right, I caught Vector but he managed to slip away from me. But how? Is he the one who made me end up here? On the second thought, it doesn’t really matter now does it? Alright, I need to take out those zombies like Savage asked and after that I can started figuring out what happened.</text>
+		<text>%c[default]I can’t remember a thing… My head hurts like hell… Where am I? What is this place? Some sort of barn… Damn it. That dream didn’t help the slightest… Or maybe it wasn’t a dream? What sort of creature did I see back there? That laugh, I can still hear it. So many questions and not a single answer… Alright, Beast, take it easy… First, I need to sort everything out. What happened before the nightmare? The last thing I remember was the chase. Yeah, that’s right, I caught Vector but he managed to slip away from me. But how? Is he the one who made me end up here? On the second thought, it doesn’t really matter now does it? Alright, I need to take out those zombies like Savage asked and after that I can started figuring out what happened.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_3">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_3_text">
-		<text>%c[default]I took care of those zombies... Only in the zone can you find such a horrific site... The things this place does to people. I found some kind of note on one of the zombies and its contents raise some questions.  I bet Savage would want to see this. I’m going back to the barn or rather back to base. I still cannot believe I’m stuck here. How the hell did I get here? How could I survive? I need figure all of this out.</text>
+		<text>%c[default]I took care of those zombies… Only in the zone can you find such a horrific site… The things this place does to people. I found some kind of note on one of the zombies and its contents raise some questions.  I bet Savage would want to see this. I’m going back to the barn or rather back to base. I still cannot believe I’m stuck here. How the hell did I get here? How could I survive? I need figure all of this out.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_4">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_4_text">
-		<text>%c[default]I haven’t seen creature so up close before... Marcus said that we need find an exit out of this place and I agree. I don’t want to be here when this thing return. What is it anyway? A human, a mutant or maybe it’s a ghost? Damn, the more I try to look for an answer, the more questions arise.  Alright, that’s enough chit-chat; I have to find a way out of here...</text>
+		<text>%c[default]I haven’t seen creature so up close before… Marcus said that we need find an exit out of this place and I agree. I don’t want to be here when this thing return. What is it anyway? A human, a mutant or maybe it’s a ghost? Damn, the more I try to look for an answer, the more questions arise.  Alright, that’s enough chit-chat; I have to find a way out of here…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_5">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_5_text">
-		<text>%c[default]Fucking hell, a Controller! Why do I keep running into these mutants? First the zombies and now this...  At least that piece of shit is dead. I know now how those Dutiers got zombified, the Controller drove them mad. Now that this creature is dead or chances of survival have slightly increased, at least that’s something.</text>
+		<text>%c[default]Fucking hell, a Controller! Why do I keep running into these mutants? First the zombies and now this…  At least that piece of shit is dead. I know now how those Dutiers got zombified, the Controller drove them mad. Now that this creature is dead or chances of survival have slightly increased, at least that’s something.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_6">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_6_text">
-		<text>%c[default]Savage is starting to get on my nerve with his requests. Maybe I should tell him to fuck off? Do this; find that... Beast is becoming some kind of errand boy. Man, what would the guys in the syndicate say if they ever find out about this? On the other hand, things could be way worse. After all, Savage is just trying to keep us all alive, me included.</text>
+		<text>%c[default]Savage is starting to get on my nerve with his requests. Maybe I should tell him to fuck off? Do this; find that… Beast is becoming some kind of errand boy. Man, what would the guys in the syndicate say if they ever find out about this? On the other hand, things could be way worse. After all, Savage is just trying to keep us all alive, me included.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_7">
 		<text>Obscurant's note</text>
 	</string>
 	<string id="st_notepad_type_one_7_text">
-		<text>%c[default]Dagger and his squad will pay for what they did; I won’t let them get away Sledgehammer’s death. He’s right about one thing though, I’ve really lost my cold heartiness. This place has changed me and made care about others or perhaps that’s not the case? Either way, Marcus said he has some kind of plan and I need to see what he’s up too. </text>
+		<text>%c[default]Dagger and his squad will pay for what they did; I won’t let them get away Sledgehammer’s death. He’s right about one thing though, I’ve really lost my cold heartiness. This place has changed me and made care about others or perhaps that’s not the case? Either way, Marcus said he has some kind of plan and I need to see what he’s up too.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_8">
 		<text>note from Skull</text>
 	</string>
 	<string id="st_notepad_type_one_8_text">
-		<text>%c[default]It’s been about a month since Sledgehammer’s death and things haven’t gotten easier... I don’t know if it’s a coincidence or not but after that night things went to hell. Infected meat, as it turns out isn’t the best food and now we are having a whole epidemic in our base. I’ve managed to find some medication for the guys but it’s not enough. They still need further treatment. Right now all I can do is prey to god that the vaccine will work...</text>
+		<text>%c[default]It’s been about a month since Sledgehammer’s death and things haven’t gotten easier… I don’t know if it’s a coincidence or not but after that night things went to hell. Infected meat, as it turns out isn’t the best food and now we are having a whole epidemic in our base. I’ve managed to find some medication for the guys but it’s not enough. They still need further treatment. Right now all I can do is prey to god that the vaccine will work…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_9">
 		<text>note from knocklehead</text>
 	</string>
 	<string id="st_notepad_type_one_9_text">
-		<text>%c[default]The stalkers have put me in the cage, They think I am some kind of threat. Idiots... Yeah, even though I have escaped the anomaly, yet I'm still trapped. I’ve been through so much in there, lost so many friends. The guard told me that Marcus didn’t make it out of the anomaly but why? Where the hell is he? I should talk about this with Savage. Most likely this will be the last time I write in this notebook, I don’t want to write about my worries anymore. I don’t even know what to do next... It feels like I’m dead inside...</text>
+		<text>%c[default]The stalkers have put me in the cage, They think I am some kind of threat. Idiots… Yeah, even though I have escaped the anomaly, yet I'm still trapped. I’ve been through so much in there, lost so many friends. The guard told me that Marcus didn’t make it out of the anomaly but why? Where the hell is he? I should talk about this with Savage. Most likely this will be the last time I write in this notebook, I don’t want to write about my worries anymore. I don’t even know what to do next… It feels like I’m dead inside…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_10">
 		<text>Crosstie's note</text>
@@ -2565,7 +2565,7 @@
 		<text>Запись в документе</text>
 	</string>
 	<string id="st_notepad_type_second_4_text">
-		<text>«Одним днем живу. Всего одним. Каждый час, каждую минуту,  до самого последнего вздоха. Пока небосвод  усыпают звезды, пока  роса орошает траву своей игристой лучезарной свежестью. Ни один человек в этом испорченном, изуродованном желчью, болью и предрассудками мире не может быть так искренне счастлив как я. Вы все, лишь винтики в своей сатанинской системе развитого капитализма, безликие тени, существующие по установленным правилам закулисных кукловодов и тайных господ. Я вырвался из этой трясины, я сумел выбраться и теперь стал свободен. Свободен  от всего. И от самого себя. Только бы дожить до завтрашнего дня… Только бы дожить. Зона освобождает рабов внешнего мира. Она отпускает вам ваши грехи и помогает начинать новую жизнь с чистого листа. Она освобождает от долгов и обязательств, давая шанс идти лишь своим выбранным путем. Пусть коротким, пусть до первой аномалии или шальной пули, но все же своим. И умирая на последнем вздохе, вы будете вспоминать вкус нежных губ его последнего жаркого поцелуя, ее затуманенные глаза, полные соленых невыплаканных слез. Она благословляет своих детей на их последний путь. Зона знает, что лишь единицы смогут вернуться назад, для того чтобы завтра повторить забег вновь. Один вздох, один глоток воздуха и новый шаг навстречу неизвестности. Навстречу своей свободе…»</text>
+		<text>«Одним днем живу. Всего одним. Каждый час, каждую минуту,  до самого последнего вздоха. Пока небосвод  усыпают звезды, пока  роса орошает траву своей игристой лучезарной свежестью. Ни один человек в этом испорченном, изуродованном желчью, болью и предрассудками мире не может быть так искренне счастлив как я. Вы все, лишь винтики в своей сатанинской системе развитого капитализма, безликие тени, существующие по установленным правилам закулисных кукловодов и тайных господ. Я вырвался из этой трясины, я сумел выбраться и теперь стал свободен. Свободен  от всего. И от самого себя. Только бы дожить до завтрашнего дня... Только бы дожить. Зона освобождает рабов внешнего мира. Она отпускает вам ваши грехи и помогает начинать новую жизнь с чистого листа. Она освобождает от долгов и обязательств, давая шанс идти лишь своим выбранным путем. Пусть коротким, пусть до первой аномалии или шальной пули, но все же своим. И умирая на последнем вздохе, вы будете вспоминать вкус нежных губ его последнего жаркого поцелуя, ее затуманенные глаза, полные соленых невыплаканных слез. Она благословляет своих детей на их последний путь. Зона знает, что лишь единицы смогут вернуться назад, для того чтобы завтра повторить забег вновь. Один вздох, один глоток воздуха и новый шаг навстречу неизвестности. Навстречу своей свободе...»</text>
 	</string>
 	<string id="ui_gui_document_caption_5">
 		<text>Запись в документе</text>
@@ -2580,10 +2580,10 @@
 		<text>«Эх, пошлять надо было. На хрена та урка, макруху на душу взяла? Кто теперь весь груз в замкадье контролировать будет? Сивый? У него мозг атрофировался еще в тот момент, когда его мамаша шлюха трахалась со своим упырем. А людей-то больше и нет. Нету людей-то. Серж - тот еще больший мудозвон. Ему палец в рот не клади, дай бы кого опустить, вставить  понты, да наложать в конечном итоге. Как эти идиоты его в паханы выдвинули - я вообще понять не могу. Ну да ладо, то их гемор, пусть сами распутывают.  То что он не тянет - не проблема, нож под ребро и в аномалию. Даже закапывать не надо. И поминай, как звали. Так, что-то я отошел от тем. Короче подгоняйте бабло, дабы подмаслить гоблином, ибо уж очень они нервные стали. Пернатые же совсем походу зажались в своей голубятне. Их вынести не проблема. Грабли в другом. Какой-то лютый пацаненок опять наведывался к центру Зоны. Мы пытались его отследить, но не пошла тема. Слишком серьезный профи отказался. Синих в Темной долине вынес всех от и до. Плюс наших немало на Свалке тогда полегло. Так что пробейте по этому типчику через официальные каналы. Работайте парни. На вас пока вся надежда.»</text>
 	</string>
 	<string id="st_notepad_type_second_1_text">
-		<text>Шаг за шагом он приближался к намеченной цели. Снова и снова он едва слышно переступал через пожухшую листву, стараясь, как можно меньше обращать внимание на полусгнившие трупы то и дело попадающиеся ему на пути.  Путник шел, не переставая думать о своем нелепо погибшем спутнике, казалось бы, находился отрешенно от всего происходящего вокруг. Слепой пес, жалостно поскуливая и подгибая перебитую несколько дней назад лапу, поспешил ретироваться с дороги и юркнул в кусты. Он, хищно оскаливаясь, смотрел вслед сталкеру, при этом по-своему благодарил собачью судьбу,  что на этот раз ему повезло.  Пошел дождь. Он падал с тяжелого неба, орошая звонким стуком капель  мертвую землю.   Дорогу стало размывать, идти путнику становилось все тяжелее. Правда, развороченные тела незадачливых охотников за легкой добычей стало попадаться все меньше. Он дал все же кому-то уйти.  Что может быть, даже было сделано зря. Хотя он дал им свой шанс. Быть может, они воспользуются им и сохранят свои никчемные, никому ненужные жизни…</text>
+		<text>Шаг за шагом он приближался к намеченной цели. Снова и снова он едва слышно переступал через пожухшую листву, стараясь, как можно меньше обращать внимание на полусгнившие трупы то и дело попадающиеся ему на пути.  Путник шел, не переставая думать о своем нелепо погибшем спутнике, казалось бы, находился отрешенно от всего происходящего вокруг. Слепой пес, жалостно поскуливая и подгибая перебитую несколько дней назад лапу, поспешил ретироваться с дороги и юркнул в кусты. Он, хищно оскаливаясь, смотрел вслед сталкеру, при этом по-своему благодарил собачью судьбу,  что на этот раз ему повезло.  Пошел дождь. Он падал с тяжелого неба, орошая звонким стуком капель  мертвую землю.   Дорогу стало размывать, идти путнику становилось все тяжелее. Правда, развороченные тела незадачливых охотников за легкой добычей стало попадаться все меньше. Он дал все же кому-то уйти.  Что может быть, даже было сделано зря. Хотя он дал им свой шанс. Быть может, они воспользуются им и сохранят свои никчемные, никому ненужные жизни...</text>
 	</string>
 	<string id="st_notepad_type_second_2_text">
-		<text>…Его знала каждая тварь в Южной зоне. Такой специфичный подчерк мог быть только у нескольких человек промышлявших этим образом. Убийство это было то ремесло, которое было здесь обыденным явление и мало кого можно было чем удивить. Все, за исключением одного... Заказы на устранение неугодных лиц сыпались от заказчиков к посредникам по несколько раз на дню и стали чем-то обыденным, как и трехразовый прием пищи в среде срочников.  За долгие годы среди сталкеров южных кланов раскинулась целая сеть наемных убийц, контролировавших ту или иную территорию и работая на них словно мусорщики. Кланы наемников становились здесь теневыми господинами, чья воля отождествляла здесь все- и закон и суд и исполнение приговора. Но отдельная каста одиночек даже среди них держалась особняком. Люди без прошлого и без будущего, живущие одним днем и ради одной минуты, такие как Макс были редки и бесценны. Они знали, что они лучшие в своем деле и все кто обращался к ним, понимали это при первой же встрече. Никто не знал откуда они появились и как давно попали в Зону, но она приняла их как родных, постоянно воспитывая и прививая им все больше смертоносных навыков. Макс был специалистом экстра класса, но его последний заказ изменил многое. Зачем и почему он встал на иной путь не знал никто, возможно даже и он сам.</text>
+		<text>...Его знала каждая тварь в Южной зоне. Такой специфичный подчерк мог быть только у нескольких человек промышлявших этим образом. Убийство это было то ремесло, которое было здесь обыденным явление и мало кого можно было чем удивить. Все, за исключением одного... Заказы на устранение неугодных лиц сыпались от заказчиков к посредникам по несколько раз на дню и стали чем-то обыденным, как и трехразовый прием пищи в среде срочников.  За долгие годы среди сталкеров южных кланов раскинулась целая сеть наемных убийц, контролировавших ту или иную территорию и работая на них словно мусорщики. Кланы наемников становились здесь теневыми господинами, чья воля отождествляла здесь все- и закон и суд и исполнение приговора. Но отдельная каста одиночек даже среди них держалась особняком. Люди без прошлого и без будущего, живущие одним днем и ради одной минуты, такие как Макс были редки и бесценны. Они знали, что они лучшие в своем деле и все кто обращался к ним, понимали это при первой же встрече. Никто не знал откуда они появились и как давно попали в Зону, но она приняла их как родных, постоянно воспитывая и прививая им все больше смертоносных навыков. Макс был специалистом экстра класса, но его последний заказ изменил многое. Зачем и почему он встал на иной путь не знал никто, возможно даже и он сам.</text>
 	</string>
 	<string id="st_notepad_type_second_551_text">
 		<text>Код доступа будет обозначем следующим образом:\nиьцж ыеь ршкъъь еь пеь дьодчсаке пкцьдкфа фаъе\nНеобходимо изучить и применить метод шифрования с помощью двоичного кода. Сам вид шифра и ключ к нему знают лишь некоторые члены группировки.</text>
@@ -2825,10 +2825,10 @@ X*(реа-нт1)3+Y*(реа-нт2)2+Z*(реа-нт3)2=2*(реа-нт1)(реа-нт2)5+6*(реа-нт3)+2*(реа-
 		<text>15.03 05.06.11. Произошел взрыв хранилища реагентов, вследствие разгерметизации отходников. Ситуация вышла из под контроля полностью. Реагенты распространяются без работающей вытяжки системы вентиляции медленнее, но стандартная система вентилирования справиться не в состоянии. Если не эвакуировать персонал в течение получаса, то эта лаборатория станет склепом. Трое охранников уже погибли, пытаясь сдержать поток тварей, попытавшихся проникнуть в комплекс. Остальные долго не продержатся.</text>
 	</string>
 	<string id="st_mm_dairy_helper2_descr_4">
-		<text> 15.25 05.06.11. Несколько кровососов прорвались через линию охраны. Оставшиеся бойцы попытались отступить через запасной люк, но их это не спасло. Задавили массой. Мы срочно баррикадируемся в помещении 18.48. Выходные отверстия вентиляции перекрыты, но это еще двадцать минут от силы. Дыхательных масок хватит еще на два часа…</text>
+		<text> 15.25 05.06.11. Несколько кровососов прорвались через линию охраны. Оставшиеся бойцы попытались отступить через запасной люк, но их это не спасло. Задавили массой. Мы срочно баррикадируемся в помещении 18.48. Выходные отверстия вентиляции перекрыты, но это еще двадцать минут от силы. Дыхательных масок хватит еще на два часа...</text>
 	</string>
 	<string id="st_mm_dairy_helper2_descr_5">
-		<text>17.12 05.06.11. Воздуха в баллонах осталось на полчаса. Двое наших не выдержали и попытались пробиться. Мутанты разорвали их в клочья.  Мы не знаем, сколько еще продержимся. Даже вшестером пробиться нет шансов. Ждать помощь неоткуда - об аварии и гибели узнают не раньше чем через сутки, о нашей гибели чуть позже. Нам не спастись… Перед запуском системы, я заметил, что профессор Каменский поднялся на поверхность. Вероятно, авария была спланирована. Диверсия.. Отомстите за нас...</text>
+		<text>17.12 05.06.11. Воздуха в баллонах осталось на полчаса. Двое наших не выдержали и попытались пробиться. Мутанты разорвали их в клочья.  Мы не знаем, сколько еще продержимся. Даже вшестером пробиться нет шансов. Ждать помощь неоткуда - об аварии и гибели узнают не раньше чем через сутки, о нашей гибели чуть позже. Нам не спастись... Перед запуском системы, я заметил, что профессор Каменский поднялся на поверхность. Вероятно, авария была спланирована. Диверсия.. Отомстите за нас...</text>
 	</string>
 	<string id="st_mm_dairy_helper3_descr_1">
 		<text>03.03.11. От главного были получены сообщения с приказом подготовить аппаратную для разгрузки. Доставить все необходимые материалы в срок в комплекс Долины для нас является первостепенной задачей. Основная установка должна пройти испытания в штатном режиме. После этого возможно полное сворачивание объекта на Болоте.</text>

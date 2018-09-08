@@ -19,11 +19,17 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [character_desc_station_digger.xml](gamedata/configs/gameplay/character_desc_station_digger.xml)
 		- done
+- **[configs/scripts/black_valley/space_restrictor](gamedata/configs/scripts/black_valley/space_restrictor)**
+	- [blck_val_freedom_need_help.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_freedom_need_help.ltx)
+		- done
+- **[configs/scripts/labx7/space_restrictor](gamedata/configs/scripts/labx7/space_restrictor)**
+	- [labx7_explosive_timer.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_explosive_timer.ltx)
+		- done
 - **[configs/text/eng](gamedata/configs/text/eng)**
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- done (could use minor edits like in the corresponding file already in *Spatial Anomaly*)
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
-		- done (needs revision)
+		- in progress (needs revision)
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
 		- done (needs revision)
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
@@ -41,9 +47,9 @@ A list of all files with detailed progress can be found below.
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
 		- done (needs revision)
 	- [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
-		- incomplete
+		- done
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
-		- incomplete
+		- done
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
 		- in progress (**Cameron M. Hunter**)
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
@@ -78,11 +84,14 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
 		- done
+- **[configs/ui](gamedata/configs/ui)**
+	- [ui_gui_elements.xml](gamedata/configs/ui/ui_gui_elements.xml)
+		- done
 - **[gamedata/scripts](gamedata/scripts)**
 	- [dengi.script](gamedata/scripts/dengi.script)
 		- done
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
-		- incomplete
+		- done
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
 		- done (needs revision)
 - **[gamedata/textures/intro](gamedata/textures/intro)**

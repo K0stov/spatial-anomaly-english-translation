@@ -51,7 +51,7 @@
 		<text>Nightmare dungeon: find a way out of laboratory X7</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_1_text">
-		<text>Remaining here will be fatal. I need to get out of here.</text>
+		<text>Remaining here will be a fatal decision. I need to get out of here.</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_2_name">
 		<text>Nightmare dungeon: prepare and detonate explosives to block the passage</text>

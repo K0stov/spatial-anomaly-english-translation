@@ -439,7 +439,7 @@ local text = self.edt_text_3:GetText()
 	if text == "84,199" then
 		self.button_use_4:Enable(false)
 	    self.button_use_5:Enable(true)
-		self.edt_text_4:SetText("значение принято")		
+		self.edt_text_4:SetText("coordinates received")		
 	end
 end
 
