@@ -25,28 +25,28 @@
 		<text>No bakers have ever been identified in the Zone, but this bread is neither contaminated nor radioactive, being fresh and quite edible. At least no complaints have been reported thus far.</text>
 	</string>
 	<string id="st_conserva">
-		<text>"Tourist's Breakfast"</text>
+		<text>“Tourist’s Breakfast”</text>
 	</string>
 	<string id="st_conserva_descr">
-		<text>Presumably, these canned goods were looted by stalkers from an army ration depot. Without any kind of label on the can, it's hard to say for sure. Should still be good to eat, if you believe the best before date.</text>
+		<text>Presumably, these canned goods were looted by stalkers from an army ration depot. Without any kind of label on the can, it’s hard to say for sure. Should still be good to eat, if you believe the best before date.</text>
 	</string>
 	<string id="st_detector1">
-		<text>"Echo" detector</text>
+		<text>“Echo” detector</text>
 	</string>
 	<string id="st_detector1_descr">
-		<text>This dated anomalous activity detector produces an alarm signal when anomalous particles enter a special chamber as you approach an anomaly. It can also register the presence of artefacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To switch to artefact search mode, open the device's front cover. Due to its simple design, Echo can only be used to locate the most common artefacts.</text>
+		<text>This dated anomalous activity detector produces an alarm signal when anomalous particles enter a special chamber as you approach an anomaly. It can also register the presence of artefacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To switch to artefact search mode, open the device’s front cover. Due to its simple design, Echo can only be used to locate the most common artefacts.</text>
 	</string>
 	<string id="st_detector2">
-		<text>"Bear" detector</text>
+		<text>“Bear” detector</text>
 	</string>
 	<string id="st_detector3">
-		<text>"Veles" detector</text>
+		<text>“Veles” detector</text>
 	</string>
 	<string id="st_detector3_descr">
 		<text>A next generation scientific detection scanner. Thanks to three modernized detection chambers, the position of artefacts is shown on a special display screen. When closed, the device registers only radiation and anomalies. To switch to artefact search mode, open the front LED display. When in search mode, the detector is capable of locating all artefacts known to science.</text>
 	</string>
 	<string id="st_detector4">
-		<text>"Svarog" prototype detector</text>
+		<text>“Svarog” prototype detector</text>
 	</string>
 	<string id="st_detector4_descr">
 		<text>A prototype of an expanded functionality anomalous frequency scanner. This device comes with a program used to identify static areas of anomalous activity stored in its database, while retaining the ability to locate artefacts. The position of anomalous areas and artefacts is displayed on a special screen. The artefact search mode, which can be activated by opening the front LED display, has been modified to detect anomalous formations currently unknown to science.</text>
@@ -85,7 +85,7 @@
 		<text>B190 Indraline</text>
 	</string>
 	<string id="st_energy_drink">
-		<text>"Stalker" energy drink</text>
+		<text>“Stalker” energy drink</text>
 	</string>
 	<string id="st_energy_drink_descr">
 		<text>Often used by stalkers on long trips when no breaks can be afforded. The drink contains easily digestible carbohydrates, as well as drugs that stimulate the release of adrenaline into the bloodstream.</text>
@@ -100,7 +100,7 @@
 		<text>Diet sausage</text>
 	</string>
 	<string id="st_kolbasa_descr">
-		<text>For better or worse, this sausage - a mix of chicken and a soy substitute - is often a stalker's breakfast, lunch and dinner in one. Can be stored for a long time due to high preservative content.</text>
+		<text>For better or worse, this sausage - a mix of chicken and a soy substitute - is often a stalker’s breakfast, lunch and dinner in one. Can be stored for a long time due to high preservative content.</text>
 	</string>
 	<string id="st_medkit">
 		<text>Diagnostic first-aid kit</text>
@@ -133,16 +133,16 @@
 		<text>Made by GSC. Goes down easy and considerably lowers the effects of radiation. Should be enjoyed in moderation.</text>
 	</string>
 	<string id="st_detector2_descr">
-		<text>This last generation anomalous activity detector can be used to locate anomalous formations and has a colour diode panel, which not only indicates the direction of artefacts, but also measures the distance to them. To switch to artefact search mode, open the device's front cover. Unfortunately, the device is programmed with a somewhat outdated list of detectable artefacts.</text>
+		<text>This last generation anomalous activity detector can be used to locate anomalous formations and has a colour diode panel, which not only indicates the direction of artefacts, but also measures the distance to them. To switch to artefact search mode, open the device’s front cover. Unfortunately, the device is programmed with a somewhat outdated list of detectable artefacts.</text>
 	</string>
 	<string id="st_drug_anabiotic_descr">
-		<text>An experimental drug developed by Professor Ozersky for scientific research teams working in the Zone. At its core, the drug contains tetrodotoxin, known colloquially as "zombie powder," which causes a complete shutdown of the body's central nervous system that may allow people to survive emissions outside cover. The drug has not undergone clinical or field testing, which puts its effectiveness in doubt and raises the quesition of possible side effects.</text>
+		<text>An experimental drug developed by Professor Ozersky for scientific research teams working in the Zone. At its core, the drug contains tetrodotoxin, known colloquially as “zombie powder,” which causes a complete shutdown of the body’s central nervous system that may allow people to survive emissions outside cover. The drug has not undergone clinical or field testing, which puts its effectiveness in doubt and raises the quesition of possible side effects.</text>
 	</string>
 	<string id="st_bolt">
 		<text>Bolt</text>
 	</string>
 	<string id="st_bolt_descr">
-		<text>A 32x100 Bolt. A stalker's best friend.</text>
+		<text>A 32x100 Bolt. A stalker’s best friend.</text>
 	</string>
 	<string id="st_drug_booster_descr">
 		<text>The main component of this product is an anabolic androgen, an artificial steroid, the chemical composition of which resembles testosterone. Often used by stalkers during long raids to reduce muscle fatigue. Significantly increases weight-carrying capacity. The effects of the drug are long-lasting.</text>
@@ -152,13 +152,13 @@
 	</string>
 	
 	<string id="amk_metka">
-		<text>GPS-Marker</text>
+		<text>GPS marker</text>
 	</string>
 	<string id="amk_metka_s">
-		<text>GPS-Marker</text>
+		<text>GPS marker</text>
 	</string>
 	<string id="enc_amk_metka">
-		<text>GPS-markers are used in the zone for marking stashes. If you put a marker inside your stash then the stash will show up on your map along with the list of the stuff in it.</text>
+		<text>GPS markers are used in the Zone for marking stashes. If the marker is placed inside a stash, the stash will show up on your map along with a list of the stash’s contents.</text>
 	</string>
 
 	<string id="spalnik">
@@ -168,7 +168,7 @@
 		<text>Sleeping bag</text>
 	</string>
 	<string id="enc_spalnik">
-		<text>A sleeping bag is one easiest ways to get some sleep in the zone. However it doesn’t protect its user from radiation, so if you want to sleep in it you better find some place that’s protected from blowouts.</text>
+		<text>A sleeping bag is one easiest ways to get some sleep in the Zone. Howeverm it does not protect its user from radiation, so if you want to sleep in it, you better find some place that’s protected from blowouts.</text>
 	</string>
 
 	<string id="st_pb_quest_document_1">
@@ -178,13 +178,13 @@
 		<text>Note from Seriy</text>
 	</string>
 	<string id="st_pb_quest_document_1_descr">
-		<text>A note from a stalker, written on a piece of paper torn from a notebook. To read, click “Use”.</text>
+		<text>A stalker note written on a sheet of paper torn out of a notebook. To read, click “Use”.</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala">
 		<text>Note from Sleeper</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala_descr">
-		<text>A note from a stalker, written on a piece of paper torn from a notebook. To read, click “Use”.</text>
+		<text>A stalker note written on a sheet of paper torn out of a notebook. To read, click “Use”.</text>
 	</string>
 	<string id="st_pb_padalshik_pda_title">
 		<text>Scavenger’s PDA</text>
@@ -193,144 +193,144 @@
 		<text>Scavenger’s PDA</text>
 	</string>
 	<string id="st_pb_padalshik_pda_descr">
-		<text>This PDA belongs to a stalker nicknamed "Scavenger". It's not locked and can be accessed. Press "use" inorder to open it.</text>
+		<text>This PDA used to belong to a stalker nicknamed Scavenger. It is not locked and can be accessed. To open, click “Use.”</text>
 	</string>
 	<string id="st_zat_a2_suget_5_gui_razia_title">
-		<text>Barmitza-PC radio transmitter</text>
+		<text>Barmitsa-PC radio transmitter</text>
 	</string>
 	<string id="st_zat_a2_suget_5_gui_razia_descr">
-		<text>The Barmitza-PC radio transmitter is used to contact Russian military radio stations, of which are P-159, P-163, P-168 and as well as some others. It has a built in voice changer. The radio is built for military use in the field and thus is very light and can withstand a lot of damage.</text>
+		<text>The Barmitsa-PC radio transmitter is used to contact Russian military radio stations, such as R-159, R-163, R-168, and others. It has a built in voice changer. The radio is built for military use in the field and is therefore very light and damage-resistant.</text>
 	</string>
 	<string id="device_warning_module">
 		<text>Decoder module</text>
 	</string>
 	<string id="device_warning_module_descr">
-		<text>This device was made by scientists working in the zone in order to see safe paths in anomalous areas. It can also block the activity of weak anomalous fields. Requires batteries.</text>
+		<text>This device was made by scientists working in the Zone in order to see safe paths in anomalous areas. It can also block the activity of weak anomalous fields. Requires batteries.</text>
 	</string>
 	<string id="st_pb_quest_bloknot">
-		<text>Personal Notepad.</text>
+		<text>Personal notepad</text>
 	</string>
 	<string id="st_pb_quest_bloknot_descr">
-		<text>Sometimes writing things down can help you find the solution...</text>
+		<text>Sometimes, writing things down can help you find the solution…</text>
 	</string>
 	<string id="tainik_padalshika">
 		<text>Scavenger’s container</text>
 	</string>
 	<string id="tainik_padalshika_descr">
-		<text>A metal container used for storing loot. its locked.</text>
+		<text>A metal container used for storing loot, secured by a complex lock.</text>
 	</string>
 	<string id="trader_radio_pharos">
-		<text>Radio-marker</text>
+		<text>Radio marker</text>
 	</string>
 	<string id="trader_radio_pharos_descr">
-		<text>A device used for tracking radio signals in a large radius. In the zone this device is used to locate stalkers by the signal of their PDAs.</text>
+		<text>A device used for tracking radio signals in a large radius. In the Zone, this device is used to locate stalkers by the signal of their PDAs.</text>
 	</string>
 	<string id="st_pb_rezerv_key_door">
-		<text>Key to the armory</text>
+		<text>Armory key</text>
 	</string>
 	<string id="st_pb_rezerv_key_door_descr">
-		<text>This key is used to open the aromry.</text>
+		<text>This key is used to open the armory.</text>
 	</string>
 	<string id="esc_flash_klim">
-		<text>Klim's Flashdirve</text>
+		<text>Klim’s flash drive</text>
 	</string>
 	<string id="esc_flash_klim_descr">
-		<text>According to Sidorovich, this flashdrive has some very valuable information and it used belong to a stalker named Klim. This is the flashdrive Sidorovich asked me to bring.</text>
+		<text>According to Sidorovich, this flash drive has some very valuable information and it used belong to a stalker named Klim. This is the flashdrive Sidorovich asked me to bring.</text>
 	</string>
 	<string id="esc_sidor_container_name">
-		<text>Orest's package</text>
+		<text>Orest’s package</text>
 	</string>
 	<string id="esc_sidor_container_desc">
-		<text>Sidorovich gave me this fairly heavy case and told me to give it Orest. He didn’t tell me what was in it and to be honest, I don’t really want to know.</text>
+		<text>Sidorovich gave me this fairly heavy case and told me to give it Orest. He didn’t tell me what was in it, and to be honest, I don’t really want to know.</text>
 	</string>
 	<string id="esc_pda_leader_base">
-		<text>Father valerian's PDA</text>
+		<text>Father valerian’s PDA</text>
 	</string>
 	<string id="esc_pda_leader_base_descr">
-		<text>This PDA used to belong to Father Valerian, who is now dead. The PDA is locked and I can't access it.</text>
+		<text>This PDA used to belong to Father Valerian, who is now dead. The PDA is locked, and I can’t access it.</text>
 	</string>
 	<string id="blck_val_knife_killer">
-		<text>The Murderer's knife</text>
+		<text>The murderer’s knife</text>
 	</string>
 	<string id="blck_val_knife_killer_descr">
-		<text>This very sharp hunting knife most likely belongs to the person who killed Lefty. If I can find the owner then I can find the murderer.</text>
+		<text>This very sharp hunting knife most likely belongs to the person who killed Lefty. If I can find the owner, then I can find the murderer.</text>
 	</string>
 
 	<string id="st_blck_val_chimik_pda_title">
-		<text>Chemist's PDA</text>
+		<text>Chemist’s PDA</text>
 	</string>
 	<string id="st_blck_val_chimik_pda_descr">
-		<text>This PDA belongs to Chemist, the person who killed Lefty and Limp. This PDA might have some more useful information that can prove he is in fact the murderer. </text>
+		<text>This PDA belonged to Chemist, the man who killed Lefty and Limp. This PDA might have some more useful information may prove he is, in fact, the murderer.</text>
 	</string>
 
 	<string id="st_esc_pashalka_shved_pda_title">
-		<text>Swede's PDA</text>
+		<text>Swede’s PDA</text>
 	</string>
 	<string id="st_esc_pashalka_shved_pda_descr">
-		<text>A PDA of dead stalker who’s body I found not far from the military outpost in Cordon. </text>
+		<text>A PDA of dead stalker, whose body I found not far from the military outpost in Cordon.</text>
 	</string>
 
 	<string id="blck_val_miklucha_pda">
-		<text>Miklucha's PDA</text>
+		<text>Miklukha’s PDA</text>
 	</string>
 	<string id="blck_val_miklucha_pda_descr">
-		<text>This PDA belonged to Miklucha; The PDA is password protected so I can’t access it.</text>
+		<text>A PDA, formerly possessed by deceased Freedom leader Miklukha. The PDA is password protected, so I can’t access it.</text>
 	</string>
 
 	<string id="st_blck_val_transiver_title">
-		<text>P-250M2 radio transmitter</text>
+		<text>R-250M2 radio transmitter</text>
 	</string>
 	<string id="st_blck_val_transiver_descr">
-		<text>The P-250M2 is communications receiver which works on short waves and is favored by many radio hobbyist. Two versions of this device were produced: The P250/M/M2 for land forces and P-670/M for the Russian Navy. The transmitter is a dual conversion superheterodyne with a tuning range of 1.5 – 25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text> 
+		<text>The R-250M2 is a communications receiver that works on short waves and is favored by many radio hobbyists. Two versions of this receiver were produced: the R250/M/M2 for land forces and R-670/M for the Russian Navy. The transmitter is a dual conversion superheterodyne with a tuning range of 1.5–25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text> 
 	</string>
 	<string id="st_pb_quest_shell_brelok">
-		<text>Shell's dogtag</text>
+		<text>Shell’s dogtag</text>
 	</string>
 	<string id="st_pb_quest_shell_brelok_desc">
 		<text>Shell is dead, and all he had was his dogtag. I should show this to Marcus.</text>
 	</string>
 
 	<string id="st_blck_val_key_to_prison">
-		<text>The key to the Cellar</text>
+		<text>Cell key</text>
 	</string>
 	<string id="st_blck_val_key_to_prison_descr">
-		<text>This is a backup key to the cellar. As of Chemist’s death, the key is being guarded by Sologyb. He leaves the key on the Cupboard so that other guards could use it if they need it.</text>
+		<text>A backup key to the Outpost cell. As of Chemist’s death, the key has been kept by Sologub, who leaves the key on the cupboard so that other guards can use it if necessary.</text>
 	</string>
 
 	<!-- Mutant body parts -->
 	<string id="st_meat_flesh_descr">
-		<text>Flesh meat is both tasty and highly nutritious. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
+		<text>Flesh meat is both tasty and highly nutritious. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.</text>
 	</string>
 	<string id="st_meat_flesh">
 		<text>Raw flesh meat</text>
 	</string>
 	<string id="st_meat_boar_descr">
-		<text>Boar meat, highly nutritious and perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
+		<text>Boar meat, highly nutritious and perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.</text>
 	</string>
 	<string id="st_meat_boar">
 		<text>Raw boar meat</text>
 	</string>
 	<string id="st_meat_dog_descr">
-		<text>Blind dog meat, not as good as flesh or boar meat but still perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.</text>
+		<text>Meat from a blind dog. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.</text>
 	</string>
 	<string id="st_meat_dog">
 		<text>Raw blind dog meat</text>
 	</string>
 
 	<string id="mutant_flesh_meat_descr">
-		<text>Flesh meat is both tasty and highly nutritious. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +584 ìÇâ</text>
+		<text>Tasty, edible flesh meat. It’s recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +584 mSv</text>
 	</string>
 	<string id="mutant_flesh_meat">
 		<text>Flesh meat</text>
 	</string>
 	<string id="mutant_boar_chop_descr">
-		<text>Boar meat, highly nutritious and perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +646 ìÇâ</text>
+		<text>Highly nutritious and perfectly edible boar meat. It is recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +646 mSv</text>
 	</string>
 	<string id="mutant_boar_chop">
 		<text>Boar meat</text>
 	</string>
 	<string id="mutant_dog_meat_descr">
-		<text>Blind dog meat, not as good as flesh or boar meat but still perfectly edible. It’s recommend not to eat it raw as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 ìÇâ</text>
+		<text>Blind dog meat. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 mSv</text>
 	</string>
 	<string id="mutant_dog_meat">
 		<text>Blind dog meat</text>
@@ -342,33 +342,33 @@
 		<text>Flask with water</text>
 	</string>
 	<string id="flask_empty_descr">
-		<text>empty flask, can hold up to 0.7 litters.</text>
+		<text>An empty flask. It can hold up to 0.7 liters.</text>
 	</string>
 	<string id="flask_good_1_3_descr">
-		<text>Flask with water. There's enough water for 1 use.</text>
+		<text>A flask containing water. Contains enough water for 1 use.</text>
 	</string>
 	<string id="flask_good_2_3_descr">
-		<text>Flask with water. There's enough water for 2 uses.</text>
+		<text>A flask containing water. Contains enough water for 2 uses.</text>
 	</string>
 	<string id="flask_good_full_descr">
-		<text>Full flask with water. There's enough water 3 uses.</text>
+		<text>A full flask containing water. Contains enough water for 3 uses.</text>
 	</string>
 	<string id="st_pb_quest_spez_razia">
-		<text>DC12V 9800 MAT Battery</text>
+		<text>DC 12V 9800mAh battery</text>
 	</string>
 	<string id="st_pb_quest_spez_razia_descr">
-		<text>A lithium-ion battery that’s feat for radios; it has a fairly large capacity. It doesn’t seem to have suffered any damage, which really lucky considering this battery was taken out of a broken radio transmitter.</text>
+		<text>A lithium-ion battery that’s feat for radios. It has a fairly large capacity. It doesn’t seem to have suffered any damage, which is very lucky considering this battery was taken out of a broken radio transmitter.</text>
 	</string>
 	<string id="st_pb_kanistra_gas">
-		<text>Jerry-can with fuel.</text>
+		<text>Jerry can with fuel</text>
 	</string>
 	<string id="st_pb_kanistra_gas_descr">
-		<text>A metallic jerry can with a ten litter capacity. It’s filled to the neck with diesel fuel. </text>
+		<text>A metallic jerry can with a 10 liter capacity. Filled to the neck with diesel fuel.</text>
 	</string>
 	<string id="st_pb_bolt_box_small_title">
 		<text>A bag with bolts</text>
 	</string>
 	<string id="st_pb_bolt_box_small_descr">
-		<text>A bag with 5 bolts. Stalkers like storing their bolts in bags such as this.</text>
+		<text>A bag with 5 bolts. Stalkers like to store their bolts in bags such as this.</text>
 	</string>
 </string_table>
