@@ -2,191 +2,191 @@
 <string_table>
 
 	<string id="esc_first_dop_action_name">
-		<text>Extra assignment: \nSpeak to Vulture</text>
+		<text>Extra assignment:\nSpeak to Vulture</text>
 	</string>
 
 	<string id="blck_val_stavrid_dop_action_name">
-		<text>Extra assignment: \nTell Saurelу about the bandits’ plans</text>
+		<text>Extra assignment:\nTell Saurel of the bandits’ plans</text>
 	</string>
 
 	<string id="blck_val_vihr_dop_action_name">
-		<text>Extra assignment: \nAsk about the SR-3 Vikhr</text>
+		<text>Extra assignment:\nAsk about the SR-3 Vikhr</text>
 	</string>
 
 	<string id="pro_snake_dop_action_name">
-		<text>Extra assignment: \nSpeak to Snake</text>
+		<text>Extra assignment:\nSpeak to Snake</text>
 	</string>
 
 	<string id="pro_soldier_dop_action_name">
-		<text>Extra assignment: \nSpeak to the soldier</text>
+		<text>Extra assignment:\nSpeak to the soldier</text>
 	</string>
 
 	<string id="pro_inventory_zone_dop_action_name">
-		<text>Extra assignment: \nFind your equipment in the marked area</text>
+		<text>Extra assignment:\nFind your equipment in the indicated area</text>
 	</string>
 	<string id="pro_actor_ready_to_give_medicament_name">
-		<text>Extra assignment: \nDistribute the vaccine</text>
+		<text>Extra assignment:\nDistribute the vaccine</text>
 	</string>
 	<string id="st_zat_b104_name">
-		<text>Лесопилка</text>
+		<text>Sawmill</text>
 	</string>
 	<string id="st_zat_b38_name">
-		<text>ВНЗ «Круг»</text>
+		<text>Krug antenna complex</text>
 	</string>
 	<string id="st_zat_b40_name">
-		<text>Станция переработки отходов</text>
+		<text>Waste processing station</text>
 	</string>
 	<string id="st_zat_b56_name">
-		<text>Аномалия «Цирк»</text>
+		<text>Circus anomaly</text>
 	</string>
 	<string id="st_zat_b5_name">
-		<text>Лесничество</text>
+		<text>Ranger station</text>
 	</string>
 	<string id="st_zat_a2_name">
-		<text>«Скадовск»</text>
+		<text>Skadovsk</text>
 	</string>
 	<string id="st_zat_b20_name">
-		<text>Сгоревший хутор</text>
+		<text>Burnt farmstead</text>
 	</string>
 	<string id="st_zat_b53_name">
-		<text>Аномалия «Котёл»</text>
+		<text>Boiler anomaly</text>
 	</string>
 	<string id="st_zat_b101_name">
-		<text>Топь</text>
+		<text>Swamp</text>
 	</string>
 	<string id="st_zat_b106_name">
-		<text>«Изумрудное»</text>
+		<text>Izumrudnoye</text>
 	</string>
 	<string id="st_zat_b7_name">
-		<text>«Шевченко»</text>
+		<text>Shevchenko</text>
 	</string>
 	<string id="st_zat_b14_name">
-		<text>Земснаряд</text>
+		<text>Dredge station</text>
 	</string>
 	<string id="st_zat_b52_name">
-		<text>Портовые краны</text>
+		<text>Dock cranes</text>
 	</string>
 	<string id="st_zat_b39_name">
-		<text>Аномалия «Соснодуб»</text>
+		<text>Oakpine anomaly</text>
 	</string>
 	<string id="st_zat_b33_name">
-		<text>Заправка</text>
+		<text>Fuelling station</text>
 	</string>
 	<string id="st_zat_b18_name">
-		<text>Старая баржа</text>
+		<text>Old barge</text>
 	</string>
 	<string id="st_zat_b54_name">
-		<text>Аномалия «Рубец»</text>
+		<text>Scar anomaly</text>
 	</string>
 	<string id="st_zat_b12_name">
-		<text>Мост им. Преображенского</text>
+		<text>Preobrazhensky bridge</text>
 	</string>
 	<string id="st_zat_b28_name">
-		<text>Южное плато</text>
+		<text>Southern plateau</text>
 	</string>
 	<string id="st_zat_b103_name">
-		<text>Цеха подстанции</text>
+		<text>Substation workshops</text>
 	</string>
 	<string id="st_jup_b1_name">
-		<text>Аномалия «Пепелище»</text>
+		<text>Ash Heap anomaly</text>
 	</string>
 	<string id="st_jup_b46_name">
-		<text>Градирня</text>
+		<text>Cooling tower</text>
 	</string>
 	<string id="st_jup_b202_name">
-		<text>Полустанок</text>
+		<text>Substation</text>
 	</string>
 	<string id="st_jup_b211_name">
-		<text>Аномалия «Плавни»</text>
+		<text>Plavni anomaly</text>
 	</string>
 	<string id="st_jup_b200_name">
-		<text>Цементный завод</text>
+		<text>Cement factory</text>
 	</string>
 	<string id="st_jup_b19_name">
-		<text>Копачи</text>
+		<text>Kopachy</text>
 	</string>
 	<string id="st_jup_a6_name">
-		<text>«Янов»</text>
+		<text>Yanov</text>
 	</string>
 	<string id="st_jup_b25_name">
-		<text>Карьер</text>
+		<text>Quarry</text>
 	</string>
 	<string id="st_jup_b6_name">
-		<text>Бункер учёных</text>
+		<text>Scientists’ bunker</text>
 	</string>
 	<string id="st_jup_b205_name">
-		<text>ЗРК «Волхов»</text>
+		<text>Volkhov AA complex</text>
 	</string>
 	<string id="st_jup_b206_name">
-		<text>Аномальная роща</text>
+		<text>Anomalous grove</text>
 	</string>
 	<string id="st_jup_b32_name">
-		<text>Стоянка</text>
+		<text>Parking lot</text>
 	</string>
 	<string id="st_jup_a10_name">
-		<text>КПП</text>
+		<text>Checkpoint</text>
 	</string>
 	<string id="st_jup_b209_name">
-		<text>Аномалия «Битум»</text>
+		<text>Bitumen anomaly</text>
 	</string>
 	<string id="st_jup_b208_name">
-		<text>Восточный туннель</text>
+		<text>Eastern tunnel</text>
 	</string>
 	<string id="st_jup_a12_name">
-		<text>Склад контейнеров</text>
+		<text>Container warehouse</text>
 	</string>
 	<string id="st_jup_b212_name">
-		<text>Вентиляционный комплекс</text>
+		<text>Ventilation complex</text>
 	</string>
 	<string id="st_jup_b9_name">
-		<text>Вертолётные площадки</text>
+		<text>Helipads</text>
 	</string>
 	<string id="st_jup_b201_name">
-		<text>Аномалия «Бетонная ванна»</text>
+		<text>Concrete Bath anomaly</text>
 	</string>
 	<string id="st_jup_a9_name">
-		<text>Завод «Юпитер»</text>
+		<text>Jupiter plant</text>
 	</string>
 	<string id="st_pri_a28_name">
-		<text>Кинотеатр «Прометей»</text>
+		<text>Prometheus movie theater</text>
 	</string>
 	<string id="st_pri_b36_name">
-		<text>Речной порт</text>
+		<text>River port</text>
 	</string>
 	<string id="st_pri_b303_name">
-		<text>Старый КБО</text>
+		<text>Old service center</text>
 	</string>
 	<string id="st_pri_b301_name">
-		<text>Школа</text>
+		<text>School</text>
 	</string>
 	<string id="st_pri_a17_name">
-		<text>Госпиталь</text>
+		<text>Hospital</text>
 	</string>
 	<string id="st_pri_b306_name">
-		<text>КБО «Юбилейный»</text>
+		<text>Yubileiny service center</text>
 	</string>
 	<string id="st_pri_a16_name">
-		<text>Прачечная</text>
+		<text>Laundromat</text>
 	</string>
 	<string id="st_pri_a25_name">
-		<text>Детский сад</text>
+		<text>Kindergarten</text>
 	</string>
 	<string id="st_pri_b35_name">
-		<text>Общежитие</text>
+		<text>Apartment complex</text>
 	</string>
 	<string id="st_pri_a21_name">
-		<text>Гастроном</text>
+		<text>Grocery store</text>
 	</string>
 	<string id="st_pri_b304_name">
-		<text>Универмаг</text>
+		<text>Department store</text>
 	</string>
 	<string id="st_pri_a18_name">
-		<text>Магазин «Книги»</text>
+		<text>Book store</text>
 	</string>
 	<string id="st_pri_b307_name">
-		<text>Аномалия «Вулкан»</text>
+		<text>Volcano anomaly</text>
 	</string>
 	<string id="st_pri_b302_name">
-		<text>Аномалия «Лоза»</text>
+		<text>Vine anomaly</text>
 	</string>
 </string_table>

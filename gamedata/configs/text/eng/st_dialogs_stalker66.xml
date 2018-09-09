@@ -1,363 +1,363 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
     <string id="dialog_actor_give_keys_0">
-        <text>По поводу твоего поручения.</text>
+        <text>Regarding your assignment…</text>
     </string>
     <string id="dialog_actor_give_keys_1">
-        <text>Внимательно тебя слушаю, тебе удалось отыскать ту тетрадь?</text>
+        <text>Oh, I’m listening. Any luck in finding that notebook?</text>
     </string>
     <string id="dialog_actor_give_keys_10">
-        <text>Да, я нашел тетрадь, в ней были координаты некой встречи. Там где должна была состояться встреча, я нашёл записку, которая привела меня в старый туннель, важной деталью было - дождаться ночи, именно в это время в туннеле должна была произойти встреча. Там я встретил бандита, он потребовал заплатить ему 25 тысяч, пришлось его прихлопнуть.</text>
+        <text>Yes. I found the notebook. In it were the coordinates of some meeting. I found a note where the meeting was supposed to take place, which led me to the old tunnel. Most importantly, I had to wait until night, which is when the meeting would take place. And so it did: I met a bandit who required twenty-five thousand from me. Had to take him down.</text>
     </string>
     <string id="dialog_actor_give_keys_11">
-        <text>Это всё действительно странно, нужно скорее посмотреть содержимое кейса. Там может быть очень ценная информация...</text>
+        <text>That’s very strange. We should take a look at the case right away. There might be some very useful information inside…</text>
     </string>
     <string id="dialog_actor_give_keys_12">
-        <text>Ладно, я займусь кейсом. Ну, а тебе советую заняться деньгами, которые ты мне теперь должен.</text>
+        <text>All right. I’ll take care of the case… and I suggest you take care of the money that you owe me now.</text>
     </string>
     <string id="dialog_actor_give_keys_13">
-        <text>Не может этого быть, там же рядом лагерь сталкеров. Братки из КПП хорошо знали те места, поэтому у них бы, ума хватило туда не соваться. Это кто-то не из местных, точно тебе говорю. А за что он хоть деньги просил?</text>
+        <text>It can’t be. There’s a stalker base right by. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money?</text>
     </string>
     <string id="dialog_actor_give_keys_14">
-        <text>Скорее всего, эта сумма должна была стать платой за кейс, что он приволок с собой.</text>
+        <text>It was likely supposed to be payment for the case that he had.</text>
     </string>
     <string id="dialog_actor_give_keys_15">
-        <text>Он при тебе? Нужно побыстрее посмотреть, что в этом кейсе.</text>
+        <text>Do you have it? We should check what’s inside.</text>
     </string>
     <string id="dialog_actor_give_keys_16">
-        <text>Кейс у меня, но замок никак не поддаётся, мне его не открыть. Да и лёгкий он какой-то, как будто пустой, вряд ли, там что-то ценное.</text>
+        <text>I have the case, but the lock’s too strong. I can’t get it to open at all, and it weighs almost nothing. I doubt there’s anything useful inside.</text>
     </string>
     <string id="dialog_actor_give_keys_17">
-        <text>Это всё действительно странно, нужно скорее посмотреть содержимое кейса. Там может быть очень ценная информация...</text>
+        <text>That’s very strange. We should take a look at the case right away. There might be some very useful information inside…</text>
     </string>
     <string id="dialog_actor_give_keys_18">
-        <text>Ладно, я займусь кейсом. Только учти, что бы там ни было, бесплатно я тебе это не отдам.</text>
+        <text>All right. I’ll take care of the case. Just remember that, whatever’s inside, I won’t be giving it to you for free.</text>
     </string>
     <string id="dialog_actor_give_keys_2">
-        <text>Да, я нашёл тетрадь, а еще влетел на 25 тысяч. Теперь твои дальнейшие дела заключаются в том, чтобы вернуть мне 30 тысяч. Есть вопросы?</text>
+        <text>Yes. I found the notebook and paid twenty-five thousand for it. Now I expect thirty thousand back from you. Any questions?</text>
     </string>
     <string id="dialog_actor_give_keys_3">
-        <text>Чёрт… Да как так? Что случилось, объясни толком?</text>
+        <text>Shit… How come? What happened? Can you put it briefly?</text>
     </string>
     <string id="dialog_actor_give_keys_4">
-        <text>Нечего объяснять. В тоннеле, я встретил бандита, который отобрал у меня 25 штук, по твоему заданию.</text>
+        <text>Not much I can say. I met a bandit in the tunnel who took away twenty-five grand from me, as per your request.</text>
     </string>
     <string id="dialog_actor_give_keys_5">
-        <text>Не может этого быть, там же рядом лагерь сталкеров. Братки из КПП хорошо знали те места, поэтому у них бы, ума хватило туда не соваться. Это кто-то не из местных, точно тебе говорю. А за что он хоть деньги взял, и как ты туда попал вообще?</text>
+        <text>It can’t be. There’s a stalker base right by. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money? And how did you end up there in the first place?</text>
     </string>
     <string id="dialog_actor_give_keys_6">
-        <text>На месте перестрелки, я нашёл тетрадь, в ней были координаты места встречи. Там где должна была состояться встреча, я нашёл записку, которая привела меня в старый тоннель. Это была ловушка, там я вынужден был заплатить 25 тысяч, за какой-то кейс.</text>
+        <text>I found a notebook at the site of the firefight. In it were the coordinates of some meeting. I found a note where the meeting was supposed to take place, which led me to the old tunnel. It was a trap, and I was forced to pay twenty-five thousand for some case.</text>
     </string>
     <string id="dialog_actor_give_keys_7">
-        <text>Нужно быстрее посмотреть, что в кейсе. Он при тебе?</text>
+        <text>We need to see what’s inside the case. Do you have it?</text>
     </string>
     <string id="dialog_actor_give_keys_8">
-        <text>Кейс у меня, но замок никак не поддаётся, мне его не открыть. Да и лёгкий он какой-то, как будто пустой, вряд ли, там что-то ценное.</text>
+        <text>I have the case, but the lock’s too strong. I can’t get it to open at all, and it weighs almost nothing. I doubt there’s anything useful inside.</text>
     </string>
     <string id="dialog_actor_give_keys_9">
-        <text>Внимательно тебя слушаю, тебе удалось отыскать ту тетрадь?</text>
+        <text>Oh, I’m listening. Any luck in finding that notebook?</text>
     </string>
     <string id="dialog_furgon_crash_keys2_0">
-        <text>Ну что там с кейсом, открыл его?</text>
+        <text>Any luck with the case? Opened it yet?</text>
     </string>
     <string id="dialog_furgon_crash_keys2_1">
-        <text>Хах, открыл всё-таки. Ох и потягала меня эта чертовка. В кейсе была только флешка и папка с бумажками какими-то, я ни к чему не лез, можешь не переживать.</text>
+        <text>Hah. Got it to open after all. Was a very tough nut to crack. What I found in the case was a flash drive and a folder with documents of some kind. Haven’t touched any of it, so don’t worry.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_2">
-        <text>Спасибо, Фургон, сколько с меня?</text>
+        <text>Thanks, Van. What do I owe you?</text>
     </string>
     <string id="dialog_furgon_crash_keys2_3">
-        <text>Роботы тут было немало, поэтому давай так, дашь мне две тысячи и можешь забирать своё добро.</text>
+        <text>It was a lot of work, so give me two thousand. Then you can have your stuff.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_4">
-        <text>Ладно, держи деньги.</text>
+        <text>All right. Here’s your money.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_5">
-        <text>У меня пока нет этой суммы...</text>
+        <text>I don’t have that much money on me…</text>
     </string>
     <string id="dialog_furgon_crash_keys2_6">
-        <text>Ну, тогда, у меня тоже нет никакой флешки и папки, как достанешь деньги - приходи.</text>
+        <text>Then I don’t have any flash or document folder. Come visit me when you have the funds.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_7">
-        <text>Ну вот и славненько! Теперь вещи из кейса твои.</text>
+        <text>Fantastic! The case and its contents are now yours.</text>
     </string>
     <string id="dialog_furgon_crash_keys3_0">
-        <text>По поводу кейса.</text>
+        <text>Regarding the case…</text>
     </string>
     <string id="dialog_furgon_crash_keys3_1">
-        <text>Готов оплатить его вскрытие?</text>
+        <text>Ready to pay for having it opened?</text>
     </string>
     <string id="dialog_furgon_crash_keys3_2">
-        <text>Да, держи деньги.</text>
+        <text>Yes. Here’s the money.</text>
     </string>
     <string id="dialog_furgon_crash_keys3_3">
-        <text>Пока нет.</text>
+        <text>Not yet.</text>
     </string>
     <string id="dialog_furgon_crash_keys3_4">
-        <text>Ну вот и славненько! Теперь вещи из кейса твои.</text>
+        <text>Fantastic! The case and its contents are now yours.</text>
     </string>
     <string id="dialog_furgon_crash_keys3_5">
-        <text>Как появятся деньги - приходи.</text>
+        <text>Then come visit me when you have the funds.</text>
     </string>
     <string id="dialog_furgon_crash_keys_0">
-        <text>Слушай, Фургон, тут кейс надо один вскрыть, может глянешь?</text>
+        <text>Listen, Van, I have a case that needs opening. Can you take a look?</text>
     </string>
     <string id="dialog_furgon_crash_keys_1">
-        <text>Что там у тебя показывай, так, довольно таки мощная защита, кто-то явно не хотел, чтобы то, что внутри него попало не в те руки. Значит так, ничего обещать не могу, но постараюсь тебе помочь. Оставляй кейс у меня, как всё будет готово, я с тобой свяжусь.</text>
+        <text>Show me what you’ve got…\n \nWell, this is some strong protection. Whoever had this case certainly didn’t want it to fall into the wrong hands. All right… I can’t promise anything, but I’ll do my best to help you out. Leave the case here. After I’m done, I’ll get in touch with you.</text>
     </string>
     <string id="dialog_furgon_crash_keys_2">
-        <text>Благодарю! Держи кейс.</text>
+        <text>Thank you! Take the case.</text>
     </string>
     <string id="dialog_furgon_crash_keys_3">
-        <text>Как я уже сказал ранее, обещать не могу, что мне удастся открыть такой замок.</text>
+        <text>As I said, I can’t promise that I’ll open a lock of this kind.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_0">
-        <text>Сидорович, у меня тут есть кое-что для тебя.</text>
+        <text>Sidorovich, I have something for you.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_1">
-        <text>Не стесняйся, показывай.</text>
+        <text>Well, don’t be shy. Show me what you’ve got.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_2">
-        <text>Одна интереснейшая папка с документами и флешка из кейса, а так же старая тетрадь и записка бандита, думаю, что тебе будет интересна данная информация.</text>
+        <text>A very interesting folder of documents and a flash drive from a case, as well as an old notebook and note from a bandit. I think the information here will interest you.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_3">
-        <text>Ну-ка по подробней. Из какого кейса?</text>
+        <text>Give me more details. What case is this from?</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_4">
-        <text>Кейс попал ко мне весьма странным образом, долго объяснять. Передал мне его один бандит, по прозвищу Череп. В документах содержится информация о сотрудничестве бандитов с военными. Ну как, берёшь?</text>
+        <text>I got a hold of the case through a strange series of events. Too long to explain. It was given to me by a bandit by the name of Skull. The documents contain information about collaboration between the bandits and the military. Will you take it?</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_5">
-        <text>Да уж, информация действительно стоящая. Где ты её нарыл, хотя, честно говоря, мне плевать. Это хорошо, что ты мне её принёс. Вот держи, заслужил.</text>
+        <text>Well, it’s clear the information is valuable. Frankly, I don’t care where you got it, but it’s good that you brought it here. Have this; you deserve it.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_0">
-        <text>Кейс, вскрыт, в нём находились только флешка и папка. Вот, можешь осмотреть содержимое.</text>
+        <text>The case is open. It only has a flash drive and a folder. Here; have a look inside.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_1">
-        <text>Так, сейчас посмотрим… Ага… На флешке фрагмент разговора с участием Борова, и неизвестного, это уже интересно. Так, что там у нас с документами… Ух, ты… Ситуация потихоньку начинает вырисовываться. Похоже наш инкогнито, из военных… То, что ты добыл Зверь, буквально на вес золота. Думаю, Боров и его дружки не очень обрадуются утечке информации. Думаю, я знаю, что со всем этим делать. За доки и флешку, я дам тебе 30 штук. А если отдашь мне ещё и тетрадь с запиской, то я накину тебе ещё 3 штуки. Надеюсь, это покроет все твои расходы. Ну как что, по рукам?</text>
+        <text>All right. Let’s take a look…\n \nUh-huh… The flash drive contains a partial recorded conversation involving Borov and some other, anonymous fellow. This is interesting. Let’s see what the documents hold…\n \nOh, wow… The picture’s getting clearer. It seems our faceless man is from the military… What you’ve discovered here, Beast, is quite literally worth its weight in gold. I don’t think Borov and his henchmen are gonna be too happy about this leak. I think I know what to do with all this.\n \nI’ll give you thirty grand for the docs and the flash drive. If you’re selling that notebook with the note, I’ll give you an additional three grand. I hope it’ll cover all of your expenses. So, we got a deal?</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_10">
-        <text>Тогда я жду свои деньги. Увидимся позже!</text>
+        <text>Then I’ll wait for my money. See you later!</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_2">
-        <text>Забирай, мне это ни к чему, пусть другие разбираются во всём этом, у меня и своих дел хватает.</text>
+        <text>Take it and leave it to others. I have no use for it, and I have enough things on my plate.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_3">
-        <text>Только есть маленькое "но". После того случая, возле ЖД насыпи, у меня с деньгами полный напряг. Поэтому можешь подождать денёк-другой, я всё верну. Даже больше.</text>
+        <text>There’s just one other thing: after the events at the railroad embankment, I’m short of money. Because of that, you’ll have to wait a day or two. I’ll return everything; I’ll return even more.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_4">
-        <text>Ладно, я пока не спешу. Но и ты не затягивай, а то, знаешь ли, иногда с должниками странные вещи случаются. Умирают они почему-то, понимаешь? Да и содержимое кейса пусть у меня пока полежит, так надёжней.</text>
+        <text>All right. There’s no rush. But, still, don’t take *too* long. Strange things happens to debtors sometimes; they die for various reasons. You understand? And let the case stay here. It’ll be safer that way.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_5">
-        <text>Нет, второй раз, я на твои бредни не поведусь. Значит так, гони обратно содержимое кейса, документы эти и флешку ты не получишь, а вот долг за тобой остаётся. И я бы на твоём месте поспешил его отдать. Зона должников не любит, и я тоже. Поэтому, пока я не увижу своих денег, тебе лучше не пересекаться с наёмниками.</text>
+        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross any mercenaries.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_6">
-        <text>Да, я всё верну.</text>
+        <text>Yes. I’ll pay you back everything.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_7">
-        <text>Тогда я жду свои деньги. Увидимся позже!</text>
+        <text>Then I’ll wait for my money. See you later!</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_8">
-        <text>Нет, второй раз, я на твои бредни не поведусь. Значит так, гони обратно содержимое кейса, документы эти и флешку ты не получишь, а вот долг за мои услуги у тебя остаётся. И я бы на твоём месте поспешил его отдать. Зона должников не любит, и я тоже. Поэтому, пока я не увижу своих денег, тебе лучше не пересекаться с наёмниками.</text>
+        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt for my services. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross any mercenaries.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_9">
-        <text>Да, я всё верну.</text>
+        <text>Yes. I’ll pay you back everything.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_0">
-        <text>Стой, наёмник! Не стреляй, сдаюсь!</text>
+        <text>Stop, merc! Don’t shoot! I give up!</text>
     </string>
     <string id="esc_dialog_bobik_vagon_1">
-        <text>Успокойся ты, я и не думал стрелять, ты скажи лучше как ты здесь оказался.</text>
+        <text>Calm down. I wasn’t planning on shooting. You should tell me how you got here.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_2">
-        <text>Иду я со Свалки, хабар сдать Сидоровичу. Решил передохнуть маленько, под мост зашел, чтобы ботинки возле огня посушить, а тут ты вдруг появился из неоткуда.</text>
+        <text>I came from the Garbage to deliver some goods to Sidorovich. Decided to stop and catch my breath. I went under the bridge, by the fire, to tie my shoes, and then you showed up out of nowhere.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_3">
-        <text>Ладно, успокойся, можешь продолжить свой путь дальше, а я пойду.</text>
+        <text>All right. Calm down. You can continue on your way. I’ll be going.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_4">
-        <text>Фух, напугал ты меня, пожалуй посижу здесь немного, чтобы дух перевести.</text>
+        <text>Phew. You had me confused there. I think I’ll catch a break and sit here a bit longer.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_5">
-        <text>Бывай.</text>
+        <text>Yeah. Bye.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_0">
-        <text>Шилов, я надеюсь, что ты ещё не отправлял сталкеров к аномалии?</text>
+        <text>Shilov, I hope you haven’t sent the stalkers to the anomaly yet?…</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_1">
-        <text>Нет, вот как раз собирался поведать народу о «тайной тропе».</text>
+        <text>No. I was just getting ready to tell the people about the “Hidden Path.”</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_2">
-        <text>Забудь, не делай этого, это ловушка.</text>
+        <text>Forget it. Don’t do it. It’s a trap.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_3">
-        <text>Не мямли, объясни толком, что случилось?</text>
+        <text>Well, spill the beans and tell me what happened.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_4">
-        <text>Помнишь, я тебе про труп рассказывал, который я встретил по дороге сюда? Так вот, после беседы с тобой, я почувствовал резкое покалывание в висках и даже услышал голос. Он звал меня, не понимаю как, но я знал куда идти. Позже выяснилось, что это дело рук контролёра, мать его за ногу. Вот скажи, ты когда-нибудь видел на Кордоне контролёра? Вот и я нет, они обычно в такие места не доходят. Я думаю, что дело именно в аномалии. Не знаю, стоит ли говорить, но у меня, кажется, появилась своя гипотеза. А что если, человек, попавший в аномалию, телепортируется в запрограммированное аномалией место, в это же время, недалеко от самой аномалии появляется какая-нибудь тварь. Не знаю, по каким критериям, аномалия отбирает себе мутантов, но тут явно пахнет чертовщиной.</text>
+        <text>You remember that corpse I told you about that I saw on the way here? So, after I talked to you, I had a sudden tingling feeling in my head and even heard a voice. It called me; I don’t know how, but I knew where to go. Later on, it was clear to me that a controller was behind this, the fucking thing. Tell me: have you ever seen a controller in the Cordon? Neither have I; they don’t usually come around these parts.\n \nI think this has to do with the anomaly. I don’t know if I should say this, but I have a theory: what if someone who’s gone into the anomaly teleports into a programmed anomalous area, and at the same time, not far away from that very anomaly, some kind of beast appears? I don’t know how exactly the anomaly summons mutants, but there’s something very strange going on..</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_5">
-        <text>Был бы кто другой, посоветовал бы пойти проспаться, но тебе я вижу доверять можно. Ладно, пусть аномалия так и останется загадкой для местных, но учёным я всё-таки об аномалии расскажу, и про гипотезу твою тоже, глядишь, как бабла отвалят, обязательно поделюсь. А пока, может, выпьешь на дорожку, я тут пузырь креплёной приберёг?</text>
+        <text>If someone else would have told me this, then I would have just told them to sober up. You, though… I can trust you, and if you say that anomaly is dangerous, then so be it. Although, I will still tell the scientists about it and about your theory. I’ll share the pay with you. In the meantime, how about we share a bottle of my best vodka? I’ve been keeping it for a rainy day.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_6">
-        <text>Ладно, выпить не помешает. Бывай!</text>
+        <text>Sure. A drink won’t hurt. Bye!</text>
     </string>
     <string id="esc_dialog_shtik_quest1_0">
-        <text>Орест сказал, что у тебя есть работа для меня?</text>
+        <text>Orest told me you had some work that needs doing?</text>
     </string>
     <string id="esc_dialog_shtik_quest1_1">
-        <text>Хэх… Да, работа у меня есть, но во сколько мне обойдутся твои услуги, наёмник?</text>
+        <text>Heh… Yeah. I’ve got some work, but how much will your services set me back, merc?</text>
     </string>
     <string id="esc_dialog_shtik_quest1_10">
-        <text>Как знаешь, наёмник... Дело твоё.</text>
+        <text>As you know, merc… That’s your business.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_11">
-        <text>На будущее, с подобными заданиями ко мне больше не лезь. Бывай.</text>
+        <text>Don’t come to me with these types of assignments in the future. Good day.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_2">
-        <text>В зависимости от того, что за работу ты хочешь мне предложить.</text>
+        <text>That depends on what kind of work you’re offering me.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_3">
-        <text>Ладно, позже с этим разберемся. Ты, наверное, уже заметил, что над железнодорожным мостом аномалия весит? Что-то на подобии «Большого Пузыря», это мы со сталкерами так её называем.</text>
+        <text>Fine. We’ll deal with that later. You’ve probably noticed by now that there’s an anomaly above the railroad embankment? A “Big Bubble,” it seems. That’s what the stalkers here are calling it.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_4">
-        <text>Ну, допустим, что заметил.</text>
+        <text>Let’s say I’ve noticed it.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_5">
-        <text>Так вот, у меня есть одна теория, её нужно проверить на практике. Я слышал, как Шрам, один из ваших, рассказывал об одной аномалии, которую ему удалось встретить в Рыжем лесу. Называется Ведьмин круг, и по описанию, точно напоминает ту, что «висит» у нас, над железнодорожным мостом. По его словам, это что-то на подобии телепорта, если шагнуть в аномалию, то тебя должно перенести в другое место. Вот мне как раз и нужен доброволец, чтобы проверить так ли оно на самом деле.</text>
+        <text>Well, I have a theory that I want to put into practice. I was listening when Scar, one of your men, told me about an anomaly that he encountered in the Red Forest. It’s called the “witch circle.” From his description, it resembles the one that’s “hanging” with us above the railroad embankment. According to him, it’s something like a teleporter: if you walk into the anomaly, it’s supposed to take you to another place. As it turns out, I need a volunteer to check whether it’s all true.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_6">
-        <text>Чего же ты до сих пор никого из сталкеров не послал туда?</text>
+        <text>Why haven’t you sent any of the stalkers there until now?</text>
     </string>
     <string id="esc_dialog_shtik_quest1_7">
-        <text>Честно говоря, местные ребята, побаиваются даже приближаться к аномалии. Они теперь, к Сидоровичу через тоннель под насыпью ходят. Ребят то понять можно, ведь место, давно уже недобрыми слухами «обросло», хотя и брехни всё это, но молодняк верит. Мне бы проверить, куда этот телепорт ведёт, даю гарантию, что прыжок в данную псевдо-аномалию не принесёт тебе никакого вреда. Я бы и сам проверил, но торговлю покинуть не могу. Проверишь?</text>
+        <text>Honestly, the local stalkers are rather afraid of even getting close to the anomaly. They use the tunnel under the embankment to get to Sidorovich. It’s not hard to understand where they’re coming from; this place has been full of ominous rumors for a long time already. Even though it’s all a load of crap, it scares the youngsters. I want to find out where that teleporter leads. I guarantee you that there will be no harm in venturing into it. I’d go there myself, but I can’t abandon my trading post. Will you go?</text>
     </string>
     <string id="esc_dialog_shtik_quest1_8">
-        <text>Ладно, так и быть, проверю ваш «Большой Пузырь». Жди, скоро вернусь с результатами.</text>
+        <text>I’ll go check this “Big Bubble.” Wait here, and I’ll be back with some answers.</text>
     </string>
     <string id="esc_dialog_shtik_quest1_9">
-        <text>Нет, спасибо. Мне дорога моя жизнь.</text>
+        <text>No, thanks. I value my own life.</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_0">
-        <text>Я только что, с аномалии.</text>
+        <text>I just came out of the anomaly.</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_1">
-        <text>Неужели не испугался?! Выкладывай всё, что увидел, это действительно Ведьмин круг?</text>
+        <text>You weren’t afraid of going in there?! Tell me everything you saw. Is it really a witch’s circle?</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_2">
-        <text>Подожди, не так быстро. Ты был прав, аномалия действительно срабатывает как телепорт. Меня выбросило к тоннелю, что возле "Деревни новичков"…</text>
+        <text>Slow down a minute. You were right: the anomaly definitely works as a teleporter. It brought me to the tunnel outside the rookie village…</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_3">
-        <text>Ух ты! Подтвердилась, всё-таки гипотеза, теперь сталкерам легче будет к деревне добираться…</text>
+        <text>Hot damn! My theory proved true. Now the stalkers will have an easier time getting to the village…</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_4">
-        <text>Не перебивай. После аномалии, меня не покидает какое-то странное ощущение, не могу объяснить. В тоннеле я встретил сталкера, говорил с ним, он был живой, но когда шёл к тебе, то недалеко от фермы я увидел его труп. Тебе это не кажется странным?</text>
+        <text>Don’t interrupt. I’ve had a strange feeling of some kind ever since I got out of the anomaly. Can’t really put my finger on it. I met a stalker in the tunnel and spoke to him. He was alive, but when I went in your direction, I saw his dead body not far away from the farm. Doesn’t that seem a little strange to you?</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_5">
-        <text>Это Зона мой друг, тут всегда кто-то умирает, и почти всегда при загадочных обстоятельствах. Держи награду, выпей, развейся. Ты мне очень помог, думаю, что учёные на Янтаре заинтересуются данной информацией.</text>
+        <text>This is the Zone, my friend. Somebody’s always dying here, and it’s almost always due to mysterious circumstances. Have your reward; take a drink; loosen up. You were a big help. I think the scientists at Yantar will be interested in hearing about this.</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_6">
-        <text>Ты работаешь на учёных?</text>
+        <text>You work for the scientists?</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_7">
-        <text>Не всегда, но иногда приходиться. А они мне патроны списанные, со складов таскают. Очкарики блин. В оружии же нихрена не разбираются, зато наше правительство боеприпасы им ящиками прёт. Такую снарягу бы нашему брату сталкеру… Так ладно, не буду тебя задерживать.</text>
+        <text>Sometimes; not always. In return, they give me ammo from their warehouses. Freaking eggheads… They have no idea how to shoot a gun in the first place, and yet, the government sends crates of ammunition to them. If only we had firepower like that… Anyway, I won’t waste any more of your time.</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_8">
-        <text>Ладно, пойду я. Удачи!</text>
+        <text>All right. I’ll go. Good luck!</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_0">
-        <text>Небось, деньгами разжился?</text>
+        <text>I suppose you scrounged up my money?</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_1">
-        <text>Да, буквально вчера схрон свой навестил, там я тайник делал когда-то, на чёрный день. Вот я и решил, хабар сдать, а вырученные деньги в дело пустить. Думаю, скоро всё окупиться. Документы с флешкой при тебе?</text>
+        <text>Yeah. I literally went to my own hideout. I kept a stash there for a rainy day. So I decided to give up my loot and use all of the money I saved for this. I think everything will pay off soon. Do you have the documents and the flash drive?</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_2">
-        <text>Да, вот они. Забирай всё.</text>
+        <text>Yeah. Here they are. Take it.</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_3">
-        <text>Держи, честно заработал. И ещё спасибо тебе.</text>
+        <text>Have this. You earned it. And thank you again.</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola_0">
-        <text>Что хотел?</text>
+        <text>What do you want?</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola_1">
-        <text>Да вот, я тут хабар со своего схрона забрал, недавно Сидоровичу спустил. Так что, готов отдать тебе деньги. Мне вражда с наёмниками ни к чему.</text>
+        <text>Well, I retrieved my loot from my hideout and sold it to Sidorovich. So now I’m ready to pay you my debt. I don’t want any bad blood with the mercs.</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola_2">
-        <text>Вот, это совсем другой разговор.</text>
+        <text>Oh, now we’re talking.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_0">
-        <text>Хочу спросить у тебя насчёт одного дела.</text>
+        <text>I want to ask you about something.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_1">
-        <text>Говори, не тяни кота, сам знаешь за что.</text>
+        <text>Speak up. You know not to keep me waiting.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_2">
-        <text>Я тут кейс недавно нашёл, хотелось бы узнать, что в нём. Но вот он заперт. Да и кейс довольно прочный, не разбить, не взломать.</text>
+        <text>I found a case not long ago. Wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_3">
-        <text>Тут в деревне мужик есть, Фургоном кличут. К нему обратись, он однажды помог мне, в аналогичном вопросе.</text>
+        <text>There’s a guy in the village. Goes by Van. Go talk to him; he helped me with a similar problem.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_0">
-        <text>Хочу спросить у тебя насчёт одного дела.</text>
+        <text>I want to ask you about something.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_1">
-        <text>Ну, спрашивай, постараюсь ответить.</text>
+        <text>Ask, and I’ll do my best to answer.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_2">
-        <text>Я тут кейс недавно нашёл, хотелось бы узнать, что в нём. Но вот он заперт. Да и кейс довольно прочный, не разбить, не взломать.</text>
+        <text>I found a case not long ago. Wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_3">
-        <text>Хм… Дай подумать. Не знаю, даже. К Фургону обратись, может он тебе поможет.</text>
+        <text>Hmm… Let me think. I don’t even know. Go see Van; he might be able to help.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_0">
-        <text>Стой на месте! Ствол на землю, руки за голову!</text>
+        <text>Stop right there! Drop your guns! Hands on your head!</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_1">
-        <text>Спокойно, я от братков с КПП. Нашёл твою записку возле перевёрнутого вагона.</text>
+        <text>Calm down. I’m with the brothers from the checkpoint. Found your note by the overturned wagon.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_2">
-        <text>Бабки принёс?</text>
+        <text>Got the dough?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_3">
-        <text>Напомни-ка, сколько?</text>
+        <text>Remind me, how much?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_4">
-        <text>Не понял, ты что, меня кинуть решил? Давай гони 25 штук, иначе пристрелю.</text>
+        <text>You don’t get it? Trying to cheat me? Give me twenty-five grand, or I’ll bust a cap in your ass.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_5">
-        <text>Погоди, держи, вот твои деньги.</text>
+        <text>Slow down. Here’s your cash.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_6">
-        <text>Так, вроде вся сумма. Держи вот свой кейс, и забудь всё, что видел. Усёк?</text>
+        <text>’Kay. Seems like you have everything. Take the case and forget everything that just happened. Got it?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_7">
-        <text>Постой! Что это еще за кейс?</text>
+        <text>Hold on! What case is this?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_8">
-        <text>Ммм… У меня нет нужной суммы.</text>
+        <text>Mmm… I don’t have the money.</text>
     </string>
     <string id="zohan_flair_quest_start_0">
-        <text>Ты что-то хотел?</text>
+        <text>You wanted something?</text>
     </string>
     <string id="zohan_flair_quest_start_1">
-        <text>Да, Зверь, есть один разговор к тебе, но сначала пообещай, что не расскажешь никому о том, что я тебе сейчас поведаю. Идет?</text>
+        <text>Yes, Beast. There’s something I need to talk to you about. But first, promise me that you won’t tell anyone about this. Okay?</text>
     </string>
     <string id="zohan_flair_quest_start_2">
-        <text>Ладно, я никому не расскажу об этом. Что там у тебя?</text>
+        <text>All right. Won’t tell anyone. What’s the matter?</text>
     </string>
     <string id="zohan_flair_quest_start_3">
-        <text>Мы ведь на бандитов напоролись совершенно случайно, обычно они дальше перевёрнутого запорожца не ходят... Я вот к чему клоню, что-то им на том месте нужно было, а мы просто оказались у них на пути. Да и вели они себя как-то странно. Я видел как в бою, один из них уронил старую тетрадку, а потом выстрел… В глазах потемнело… Когда очухался, тебя увидел… Дальше видимо они взяли пленных и ушли, понимаешь? Куда бы они не направлялись, дойти до цели им не удалось.</text>
+        <text>We ran into a few bandits quite by accident. Usually, they don’t go beyond the overturned Zaporozhets car… My point is: they were looking for something, and we just stumbled upon them on the road. And they acted strangely. I saw one of them drop an old notebook during a firefight, and then a gunshot… Everything went dark… When I woke up, I saw you… I also saw them take captives and leave the area. You understand? Wherever I went, I couldn’t find them.</text>
     </string>
     <string id="zohan_flair_quest_start_4">
-        <text>Ну, и что ты предлагаешь?</text>
+        <text>So what do you suggest?</text>
     </string>
     <string id="zohan_flair_quest_start_5">
-        <text>Сходи на место ещё раз, обыщи там всё, может, найдёшь что-нибудь. Нутром чую, неспроста они там лазили. За оплату не переживай, в долгу не останусь, ты же знаешь меня.</text>
+        <text>Head over there once more and comb the area. Maybe you’ll find something. My gut tells me they weren’t snooping around without a reason. Don’t worry about the reward: I’ll make it worth your while. You know me.</text>
     </string>
     <string id="zohan_flair_quest_start_6">
-        <text>Ладно, пойду, посмотрю что там.</text>
+        <text>All right. I’ll see what I can find.</text>
     </string>
     <string id="zohan_flair_quest_start_7">
-        <text>Нечего мне делать больше, чем заниматься розыском хрен знает чего.</text>
+        <text>I have better things to do than waste my time looking for something only God knows.</text>
     </string>
 </string_table>

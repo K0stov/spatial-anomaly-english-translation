@@ -2,133 +2,133 @@
 <string_table>
 <!-- Заданния -->
 <string id="esc_zohan_flair_quest_0_name">
-    <text>Чутьё Зохана: Найти старую тетрадку на месте перестрелки</text>
+    <text>Zohan’s instinct: find the old notebook at the firefight site</text>
 </string>
 <string id="esc_zohan_flair_quest_0_text">
-    <text>Зохан говорил, что в бою, один из бандитов выронил старую тетрадку. Я должен её найти.</text>
+    <text>Zohan has told me that one of the bandits dropped an old notebook during battle. I should find it.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_1_name">
-    <text>Чутьё Зохана: Проверить координаты</text>
+    <text>Zohan’s instinct: check the coordinates</text>
 </string>
 <string id="esc_zohan_flair_quest_1_text">
-    <text>В тетрадки, были отмечены координаты одного места, недалеко отсюда. Надо бы проверить.</text>
+    <text>A set of coordinates for an area not far from here are mentioned in the notebook. Time to check it out.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_2_name">
-    <text>Чутьё Зохана: Дождаться ночи</text>
+    <text>Zohan’s instinct: wait until night</text>
 </string>
 <string id="esc_zohan_flair_quest_2_text">
-    <text>Координаты привели меня к записке, в которой обозначалось время и место встречи, с неким Черепом. Надо дождаться ночи и всё там проверить.</text>
+    <text>The coordinates have led me to a note that holds the time and area of a meeting with a certain Skull. I have to wait until night and check everything there.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_3_name">
-    <text>Чутьё Зохана: Прийти на встречу c неизвестным</text>
+    <text>Zohan’s instinct: go to the meeting with the unknown stalker</text>
 </string>
 <string id="esc_zohan_flair_quest_3_text">
-    <text>Неизвестный, назначил встречу в тоннеле под ЖД насыпью. Надо проверить место. Может мне удастся узнать, что было нужно бандитам.</text>
+    <text>Whoever’s behind this has appointed a meeting in the tunnel under the railroad embankment. I need to check that area. Perhaps I’ll find out what the bandits were looking for.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_4_name">
-    <text>Чутьё Зохана: Поговорить с Зоханом</text>
+    <text>Zohan’s instinct: speak to Zohan</text>
 </string>
 <string id="esc_zohan_flair_quest_4_text">
-    <text>Я недооценил всю сложность ситуации. Череп оказался умнее, чем я думал. Взял деньги с меня за какой-то ящик и бесследно скрылся во тьме. Надо предупредить Зохана о случившемся.</text>
+    <text>I underestimated the gravity of the situation. Skull turned out wiser than I thought. He took a sum of money from me for some case and vanished into the dark. I need to warn Zohan about these recent events.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_5_name">
-    <text>Чутьё Зохана: Вскрыть кейс</text>
+    <text>Zohan’s instinct: open the case</text>
 </string>
 <string id="esc_zohan_flair_quest_5_text">
-    <text>Нужно найти человека, который бы мог открыть, этот чёртов кейс.</text>
+    <text>I need to find someone who can get this damn case open.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_6_name">
-    <text>Чутьё Зохана: Поговорить с Зоханом</text>
+    <text>Zohan’s instinct: speak to Zohan</text>
 </string>
 <string id="esc_zohan_flair_quest_6_text">
-    <text>Кейс открыт, надо бы показать его содержимое Зохану.</text>
+    <text>The case is open. I need to show its contents to Zohan.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_7_name">
-    <text>Чутьё Зохана: Забрать у Зохана свои деньги</text>
+    <text>Zohan’s instinct: collect Zohan’s debts</text>
 </string>
 <string id="esc_zohan_flair_quest_7_text">
-    <text>Нужно забрать у Зохана свои деньги.</text>
+    <text>I need to retrieve the money from Zohan.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_8_name">
-    <text>Чутьё Зохана: Просмотреть содержимое тетради</text>
+    <text>Zohan’s instinct: examine the contents of the notebook</text>
 </string>
 <string id="esc_zohan_flair_quest_8_text">
-    <text>Я нашел тетрадь о которой говорил Зохан, стоит просмотреть её содержимое, чтобы понять, что делать дальше.</text>
+    <text>I found the notebook that Zohan was talking about. I should read it to find out what else to do.</text>
 </string>
 <string id="esc_zohan_flair_quest_9_name">
-    <text>Чутьё Зохана: Прочитать записку</text>
+    <text>Zohan’s instinct: read the note</text>
 </string>
 <string id="esc_zohan_flair_quest_9_text">
-    <text>Прийдя на указанные в тетради координаты, я нашел записку, нужно прочитать её.</text>
+    <text>When I arrived at the designated coordinates, I discovered a note. I should read it.</text>
 </string>
 <string id="esc_zohan_flair_quest_10_name">
-    <text>Чутьё Зохана: Вернуться к Зохану</text>
+    <text>Zohan’s instinct: return to Zohan</text>
 </string>
 <string id="esc_zohan_flair_quest_10_text">
-    <text>Я недооценил всю сложность ситуации, неизвестный, что назначил встречу в туннеле оказался бандитом, он решил сбить с меня деньги, скорее всего это плата за кейс, что был при нем. Благо у него ничего не вышло. Нужно обсудить эту ситуацию с Зоханом.</text>
+    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me; likely payment for a case that was in his possession. Good thing it didn’t work out for him. I need to discuss this situation with Zohan.</text>
 </string>
 <string id="esc_zohan_flair_quest_11_name">
-    <text>Чутьё Зохана: Обыскать убитого бандита</text>
+    <text>Zohan’s instinct: search the dead bandit</text>
 </string>
 <string id="esc_zohan_flair_quest_11_text">
-    <text>Я недооценил всю сложность ситуации, неизвестный, что назначил встречу в туннеле оказался бандитом, он решил сбить с меня деньги, благо у него ничего не вышло. Нужно обыскать его труп.</text>
+    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me, but, fortunately, it didn’t work out for him. I need to check his body.</text>
 </string>
 
 <string id="esc_keys_lisiy_quest_0_name">
-    <text>Странный кейс: Дождаться вскрытия кейса</text>
+    <text>Strange case: wait until the case is opened</text>
 </string>
 <string id="esc_keys_lisiy_quest_0_text">
-    <text>Фургон сказал, что попытается открыть кейс, но на это ему нужно время.</text>
+    <text>Van has assured me that he’ll try to open the case, although he’ll need some time to do it.</text>
 </string>
 
 <string id="esc_keys_lisiy_quest_1_name">
-    <text>Странный кейс: Зайти к Фургону</text>
+    <text>Strange case: visit Van</text>
 </string>
 <string id="esc_keys_lisiy_quest_1_text">
-    <text>Недавно получил сообщение от Фургона: «Зверь, у меня есть хорошие новости для тебя. Будет время, зайди ко мне».</text>
+    <text>I received a message from Van not long ago: “Beast, I’ve got some good news for you. When you have the time, come see me.”</text>
 </string>
 
 <string id="esc_witch_bounce_quest_0_name">
-    <text>Ведьмин круг: Прыгнуть в аномалию</text>
+    <text>Witch circle: jump into the anomaly</text>
 </string>
 <string id="esc_witch_bounce_quest_0_text">
-    <text>Если гипотеза Шилова верна, то аномалия должна телепортировать меня, в запрограммированное место.</text>
+    <text>If Shilov’s theory is true, the anomaly should teleport me into a programmed area.</text>
 </string>
 
 <string id="esc_witch_bounce_quest_1_name">
-    <text>Ведьмин круг: Рассказать Шилову о случившемся</text>
+    <text>Witch circle: tell Shilov about recent events</text>
 </string>
 <string id="esc_witch_bounce_quest_1_text">
-    <text>Похоже, я жив, только ощущения какое-то странное. Надо бы навестить Шилова.</text>
+    <text>Seems I’m alive, though I feel a strange sensation. I should go see Shilov.</text>
 </string>
 
 <string id="esc_chain_of_events_quest_0_name">
-    <text>Цепь событий: Разобраться в случившемся</text>
+    <text>Chain of events: figure out recent events</text>
 </string>
 <string id="esc_chain_of_events_quest_1_name">
-    <text>Цепь событий: Рассказать Шилову о случившемся</text>
+    <text>Chain of events: tell Shilov about recent events</text>
 </string>
 <string id="esc_chain_of_events_quest_2_name">
-    <text>Цепь событий: Идти на зов</text>
+    <text>Chain of events: answer the call</text>
 </string>
 
 <string id="esc_chain_of_events_quest_0_text">
-    <text>На подходе к ферме, я видел труп парня из тоннеля. Теперь всё становиться ещё более непонятным и запутанным.</text>
+    <text>On the way to the farm, I saw the dead body of the guy in the tunnel. Everything is getting more incomprehensible and confusing.</text>
 </string>
 <string id="esc_chain_of_events_quest_1_text">
-    <text>Чёрт, голова раскалывается. Кажется, я слышу голос, и он зовёт меня, не понимаю, как, но я знаю куда он меня зовет, нужно идти туда.</text>
+    <text>Shit. My head is pounding. Seems I’m hearing a voice of some kind, and it’s calling me. I don’t know how, but I know where it’s calling me. I need to go there.</text>
 </string>
 
 <string id="esc_chain_of_events_quest_2_text">
-    <text>Так вот откуда голос в голове. Это был контролёр. Странно, каким Макаром он оказался на Кордоне?..</text>
+    <text>So that’s where the voice came from: it was a controller. How the hell did it appear in the Cordon?…</text>
 </string>
 <!--------------------------->
 

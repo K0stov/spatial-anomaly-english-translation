@@ -2,88 +2,90 @@
 <string_table>
 
 	<string id="ls_header">
-		<text>Ђ—“јЋ ≈–— »… ∆”–ЌјЋї</text>
+		<text>THE STALKERSТ JOURNAL</text>
 	</string>
     <string id="ls_tip_number">
-		<text>—траница #</text>
+		<text>Page #</text>
 	</string>
 	<string id="ls_tip_1">
-		<text>"ѕерегруженный сталкер - мЄртвый сталкер. √олодный сталкер - мЄртвый сталкер. Ќевыспавшийс€ сталкер - мЄртвый сталкер. “ы ведь не хочешь быть мЄртвым сталкером?"</text>
+		<text>Overloaded stalker is a dead stalker. Hungry stalker is a dead stalker. Sleepy stalker is a dead stalker. And you donТt wanna be a dead stalker.</text>
 	</string>
 	<string id="ls_tip_2">
-		<text>ќхота на мутантов это не только развлечение, но и, зачастую, награда в виде шкуры и ценных частей тела, которые можно продать учЄным за приличную сумму.</text>
+		<text>Hunting mutants is not only fun, but can often get you some nice duds to sell to the scientists for a good sum.</text>
 	</string>
 	<string id="ls_tip_3">
-		<text>"Ёто птица, это самолЄт, это —упер-¬орон! —трел€йте в ублюдка!"</text>
+		<text>УItТs a birdЕ ItТs a planeЕ ItТs Super-Raven! Shoot the sucker!Ф</text>
 	</string>
 	<string id="ls_tip_4">
-		<text>Ќе будь обманут, сталкер.  огда ты в «оне, собаки перестают быть лучшими друзь€ми человека.</text>
+		<text>DonТt be deceived, Stalker. Dogs are no longer your best friends when youТre in the Zone.</text>
 	</string>
 	<string id="ls_tip_5">
-		<text>¬место ношени€ тыс€чи боеприпасов, неси 150 если это всего лишь рейд и 300 если ты уверен, что вв€жешьс€ в перестрелку. «апомни это.</text>
+		<text>Instead of carrying a thousand rounds, carry 150 if youТre just heading out and 300 if youТre thinking youТll be in a firefight. Conserve your ammo.</text>
 	</string>
 	<string id="ls_tip_6">
-		<text>ќтправл€€сь за хабаром не забывай, что большинство артефактов, так или иначе, имеют гравитационную природу - сродню „ерным ƒырам в них сжато огромное количество массы, посему они несоразмерно т€желые, как туша псевдопса на горбу. “ы ведь учил физику, сталкер?</text>
+		<text>When setting out to hunt loot, donТt forget that most artifacts have a gravitational nature and, like black holes, they are much weightier than they might seem. Such artifacts are immeasurably heavier than others, so donТt let the size fool you. Surely youТve studied physics, stalker?</text>
 	</string>
 	<string id="ls_tip_7">
-		<text>"√ранаты могут творить чудеса: держи при себе одну-две на тот случай, когда дерьмо начнет бить фонтаном. Ќе сработали? — кем не бывает..."</text>
+		<text>Grenades can work wonders. Keep one or two around for when the shit hits the fan. If they donТt work, nothing will.</text>
 	</string>
 	<string id="ls_tip_8">
-		<text>ѕоддерживание одного ствола в состо€нии будет иметь свою стоимость, поддерживание двух теб€ разорит. ѕоэтому стоит придерживатьс€ своей существующей экипировки и не растрачиватьс€ на целые арсеналы.</text>
+		<text>Maintaining one gun will cost you, maintaining two will ruin you. So stick to your shooters and donТt be shilly-shally about it.</text>
 	</string>
 	<string id="ls_tip_9">
-		<text>—талкер может ударить вас в спину, бандит тем более, но качественна€ винтовка никогда не подведЄт в трудную минуту. ѕозаботьтесь об этом и она позаботитс€ о вас.</text>
+		<text>A stalker may stab you in the back, a bandit most certainly will, but a good rifle will never let you down. Take care of it and itТll take care of you.</text>
 	</string>
 	<string id="ls_tip_10">
-		<text>"÷ени то, что у теб€ есть, и береги свою жизнь. ¬сЄ сводитс€ к одному правилу: чтобы научитьс€ ценить свою жизнь, нужно лично познать смерть."</text>
+		<text>УAppreciate what you have, and cherish your life. If you do not appreciate life, you do not deserve life.Ф</text> <!-- fis -->
 	</string>
 	<string id="ls_tip_11">
-		<text>"—то€ть! ѕерестань размахивать пушкой! ћы не пускаем людей в лагерь со стволом наперевес, уважай общеприн€тые правила на территории сталкерского лагер€!"</text>
+		<text>УStop! Quit waving that gun around! We donТt let people into the camp with firearms pointed at us! Follow the common rules on stalker territory!Ф</text>
 	</string>
 	<string id="ls_tip_12">
-		<text>"ѕроголодались? ѕочему бы вам не отведать наших новых деликатесов? »з свежего ѕрип€ть-кабана! ѕросто будьте готовы рвать!"</text>
+		<text>УAre you hungry? Would you like to try some of our new delicacies? Fresh Pripyat boar! Just be ready to throw up!Ф</text>
 	</string>
 	<string id="ls_tip_13">
-		<text> ак сказал один мудрец: есть тропы по которым тебе не следует идти и есть места, которые ты должен избегать. –азумно оцени свои шансы и возможности, перед тем как вступить в перестрелку.</text>
+		<text>Like a wise man said, there are paths you shouldnТt take and places you should avoid. Evaluate your chances before starting a skirmish.</text>
 	</string>
 	<string id="ls_tip_14">
-		<text> абаны обладают, пожалуй, самым крепким черепом среди „ернобыльской фауны, уступа€ по его прочности лишь псевдогигнатам. Ќо даже у них есть у€звимые места: область глаз и спина.</text>
+		<text>Boars may have some of the strongest skulls in the entire Chernobyl fauna, surpassed only by pseudogiants. But even they have weak spots: the eyes and the back.</text>
 	</string>
 	<string id="ls_tip_15">
-		<text>»нформаци€ - самый ценный тип товара. Ѕлагодари тех, кто готов с тобой ею поделитьс€. Ѕудь готов отдать жизнь за тех, кто поделитс€ с тобой информацией безвозмездно.</text>
+		<text>Information is the most valuable commodity. Thank those who are ready to share it with you. Be ready to give your life for those who share information free of charge.</text>
 	</string>
 	<string id="ls_tip_16">
-		<text>ѕищу в «оне трудно переварить, но ещЄ труднее еЄ найти. –асходуй запасы провизии с умом.</text>
+		<text>The food of the Zone is hard to swallow, but even harder to find. Conserve it, and use it wisely.</text>
 	</string>
 	<string id="ls_tip_17">
-		<text>ƒержи противника на такой дистанции, как если бы тво€ жизнь зависела от него. ¬прочем, она итак зависит от него...</text>
+		<text>Keep the distance from the enemy as if your life depended on it. Actually, it does depend on it.</text>
 	</string>
 	<string id="ls_tip_18">
-		<text>"„лены фракций в «оне предпочитают не просиживать свободное врем€ на п€той точке. ѕоэтому, если ты думаешь, что они безопасны только потому, что "€ уже был здесь", учти, что их самих здесь и не могло быть. —пасибо, капитан-ќчевидность!"</text>
+		<text>УFactions in the Zone donТt like sitting on their asses. So if you think some locations are safe Тcause youТve already been there, assume they arenТt. Thanks, Captain Obvious!Ф</text>
 	</string>
 	<string id="ls_tip_19">
-		<text>"ƒержись на возвышенност€х и используй естественные природные укрыти€. ƒаже булыжник способен спасти тебе жизнь от стаи слепых псов. Ќет, не бросай его им, а забирайс€ на него, дурень!"</text>
+		<text>УTake the high ground and use natural cover in a fight. Even a rock may protect you from a pack of dogs. No, donТt throw it, get *on* it.Ф</text>
 	</string>
 	<string id="ls_tip_20">
-		<text>"я действительно не переношу этого €йцеголового фетишизма. ≈сли они причин€ют тебе боль, беги. ≈сли они сами истекают кровью - убивай. ¬от и всЄ, что тебе нужно знать, не так ли?"</text>
+		<text>УI donТt really get this scientific crap. If it hurts, run. If it bleeds, you can kill it.Ф</text>
 	</string>
 	<string id="ls_tip_21">
-		<text>"ќ да, это так прекрасно - расслабитьс€ и отдохнуть у костра, отведав приготовленное на гриле сало из ѕлоти."</text>
+		<text>УPhew, itТs really nice to relax by the campfire and eat freshly grilled flesh chops.Ф</text>
 	</string>
 	<string id="ls_tip_22">
-		<text>"„Єртовы мутанты! ќдин из них даже ухитрилс€ забрызгать своими ошметками мою новую ACOG-оптику от Ўустрого!"</text>
+		<text>УDamn mutants! One of them even managed to 
+		
+		"„Єртовы мутанты! ќдин из них даже ухитрилс€ забрызгать своими ошметками мою новую ACOG-оптику от Ўустрого!"</text>
 	</string>
 	<string id="ls_tip_23">
-		<text>"“ы только посмотри на него... Ќаверн€ка, он пользуетс€ чем-нибудь вроде воллхака. ј как иначе можно разгл€деть каждую травинку в маске такого убитого состо€ни€?"</text>
+		<text>УJust look at himЕ HeТs probably using a wallhack or something. How else can you make out every blade of grass in such condition?Ф</text> <!-- fix -->
 	</string>
 	<string id="ls_tip_24">
-		<text>"“ак много книг, так много слов и так мало полезной информации... ѕотому что вс€ тво€ жизнь держитс€ лишь на полезной информации, верно?"</text>
+		<text>УSo many things to read, so many words, so little useful information. Because life is only about useful information, rightФtext>
 	</string>
 	<string id="ls_tip_25">
-		<text>"ћы должны запретить ввоз продуктов с Ѕольшой «емли. Ќекому даже проверить их качество, а ты можешь даже не смотреть на это иностранное дерьмо. ≈шь только продукты из «оны, если хочешь быть насто€щим сталкером!"</text>
+		<text>"УWe should ban selling imported goods. ThereТs no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker!Ф</text>
 	</string>
 	<string id="ls_tip_26">
-		<text>"√де, чЄрт возьми мой рюкзак?! ƒурацка€ система быстрого сброса! “еперь у мен€ даже представлени€ нет, где именно € сбросил своЄ добро."</text>
+		<text>УWhere the hell is my backpack?! Damn quick release system! Now I donТt even have a clue where I dropped my stuff.Ф</text>
 	</string>
 	<string id="ls_tip_27">
 		<text>"√они местоположение своего хабара, иначе твои мозги окажутс€ разбрызганными на той стене!"</text>
@@ -329,7 +331,7 @@
 		<text>An artifact can be activated to create an anomaly. To do this take the artifact out by pressing "$$ACTION_ARTEFACT$$" and holding "$$ACTION_WPN_FIRE$$". The anomaly which appears is equally dangerous to enemies and the player who created it.</text>
 	</string>
 	<string id="ls_mp_tip_18">
-		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Why? Well, spare parts don't appear out of thin air, you have to disassemble some items to get them. It's really not worth it.</text>
+		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Why? Well, spare parts donТt appear out of thin air, you have to disassemble some items to get them. ItТs really not worth it.</text>
 	</string>
 	<string id="ls_mp_tip_2">
 		<text>ARTIFACT HUNT: In order to win, you must bring a certain number of artifacts to your base.</text>
@@ -450,16 +452,16 @@
 		<text>Stay sharp Stalker, Death is always nearby. If you see it, aim for the head.</text>
 	</string>
 	<string id="ls_mp_tip_16">
-		<text>If it's hostile, watch it carefully. Not every enemy is worth wasting valuable ammo on.</text>
+		<text>If itТs hostile, watch it carefully. Not every enemy is worth wasting valuable ammo on.</text>
 	</string>
 	<string id="ls_mp_tip_19">
-		<text>You'll die in a week if you don't eat. But can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
+		<text>YouТll die in a week if you donТt eat. But can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
 	</string>
 	<string id="ls_mp_tip_21">
 		<text>Ran into a controller today. Learned the hard way to keep some things between us.</text>
 	</string>
 	<string id="ls_mp_tip_25">
-		<text>Don't underestimate pistols. They provide considerable stopping power and can be very effective against poorly armoured targets.</text>
+		<text>DonТt underestimate pistols. They provide considerable stopping power and can be very effective against poorly armoured targets.</text>
 	</string>
 	<string id="ls_mp_tip_32">
 		<text>If you survive the dangers of the Zone but let your conscience die, you are no better than a mutant to be hunted down and destroyed.</text>
@@ -474,7 +476,7 @@
 		<text>Let the mutants kill each other and let the Bandits do the same. Relax and enjoy the show.</text>
 	</string>
 	<string id="ls_mp_tip_9">
-		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you'll need it.</text>
+		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow youТll need it.</text>
 	</string>
 
 

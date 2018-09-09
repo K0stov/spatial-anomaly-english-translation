@@ -40,7 +40,7 @@
 		<text>Much about this artifact remains a complete mystery to scientists. At the same time, it is known for certain that emissions produced by pulses in its thicker sections force blood in open wounds to clot quicker, forming a protective scab. One of the most noticeable effects of this artifact is the increased speed of wound healing. Emits radiation.</text>
 	</string>
 	<string id="st_af_dummy_glassbeads_name">
-		<text>Mama's Beads</text>
+		<text>Mama’s Beads</text>
 	</string>
 	<string id="st_af_electra_flash_descr">
 		<text>This electrostatic artifact is a powerful absorbent of electricity, which it later discharges. Flash is capable of protecting its bearer from electric shocks of up to 5,000 volts. Emits radiation.</text>
@@ -61,13 +61,13 @@
 		<text>Sparkler</text>
 	</string>
 	<string id="st_af_eye_descr">
-		<text>This artifact, which resembles the human eye, considerably increases the body's metabolism, helping wounds heal quicker. Experienced stalkers say that the Eye also brings luck. Emits radiation. </text>
+		<text>This artifact, which resembles the human eye, considerably increases the body’s metabolism, helping wounds heal quicker. Experienced stalkers say that the Eye also brings luck. Emits radiation. </text>
 	</string>
 	<string id="st_af_eye_name">
 		<text>Eye</text>
 	</string>
 	<string id="st_af_fire_descr">
-		<text>This artifact forms in areas of high thermal activity. Produces powerful infrared emissions, which intensify metabolic processes, healing wounds before its bearer's very eyes. As this artifact is very rare, it is extremely valuable. Emits radiation.</text>
+		<text>This artifact forms in areas of high thermal activity. Produces powerful infrared emissions, which intensify metabolic processes, healing wounds before its bearer’s very eyes. As this artifact is very rare, it is extremely valuable. Emits radiation.</text>
 	</string>
 	<string id="st_af_fire_name">
 		<text>Flame</text>
@@ -79,7 +79,7 @@
 		<text>Fireball</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_descr">
-		<text>A relatively rare artifact which forms in areas contaminated with chemicals, Kolobok is highly valued for its ability to heal wounds of any kind in mere minutes. For unknown reasons, scientists are spreading rumors among stalkers that the artifact interacts with the bearer's genetic code. Emits radiation.</text>
+		<text>A relatively rare artifact which forms in areas contaminated with chemicals, Kolobok is highly valued for its ability to heal wounds of any kind in mere minutes. For unknown reasons, scientists are spreading rumors among stalkers that the artifact interacts with the bearer’s genetic code. Emits radiation.</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_name">
 		<text>Kolobok</text>
@@ -100,7 +100,7 @@
 		<text>Gravi</text>
 	</string>
 	<string id="st_af_ice_descr">
-		<text>At first glance, this artifact resembles Kolobok. Some claim that it actually is Kolobok, its properties reinforced by exposure to a powerful electric field. Thanks to its unique properties, the artifact can significantly increase the bearer's muscle tone. Emits radiation.</text>
+		<text>At first glance, this artifact resembles Kolobok. Some claim that it actually is Kolobok, its properties reinforced by exposure to a powerful electric field. Thanks to its unique properties, the artifact can significantly increase the bearer’s muscle tone. Emits radiation.</text>
 	</string>
 	<string id="st_af_ice_name">
 		<text>Snowflake</text>
@@ -124,7 +124,7 @@
 		<text>Night Star</text>
 	</string>
 	<string id="st_af_soul_descr">
-		<text>A unique organic artifact with properties just as unique. Somehow it increases the body's overall recovery rate from damage of any kind, without accelerating the accumulation of toxins. Thanks to its effects and attractive appearance, this artifact is a valuable collector's item. Emits radiation.</text>
+		<text>A unique organic artifact with properties just as unique. Somehow it increases the body’s overall recovery rate from damage of any kind, without accelerating the accumulation of toxins. Thanks to its effects and attractive appearance, this artifact is a valuable collector’s item. Emits radiation.</text>
 	</string>
 	<string id="st_af_soul_name">
 		<text>Soul</text>
@@ -139,7 +139,7 @@
 		<text>Compass</text>
 	</string>
 	<string id="st_compass_descr">
-		<text>A rare artifact - it's been several years since one was found. The artifact can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.</text>
+		<text>A rare artifact - it’s been several years since one was found. The artifact can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.</text>
 	</string>
 	<string id="st_oasis_heart">
 		<text>Heart of the Oasis</text>

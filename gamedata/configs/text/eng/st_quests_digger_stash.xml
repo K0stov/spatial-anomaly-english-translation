@@ -5,13 +5,13 @@
 		<text>Hide and seek: stay quiet</text>
 	</string>
 	<string id="digst_stay_dont_move_part_1_text">
-		<text>I have to be quiet, lest I become spotted by the beast, Stronglav.</text>
+		<text>I have to stay quiet, lest the beast Stronglav spots me.</text>
 	</string>
 	<string id="digst_stay_dont_move_part_2_name">
 		<text>Hide and seek: speak to Markus</text>
 	</string>
 	<string id="digst_stay_dont_move_part_2_text">
-		<text>Stronglav is gone. I should speak to Markus.</text>
+		<text>Stronglav has vanished. I should speak to Markus.</text>
 	</string>
 	<!-- Quest: Desperate decisions -->
 	<string id="digst_kill_to_spider_part_1_name">
@@ -38,13 +38,13 @@
 		<text>Laboratory X7: find Savage</text>
 	</string>
 	<string id="labx7_find_lutiy_in_underground_part_1_text">
-		<text>The Monolith soldier I interrogated has claimed that Savage was taken to the laboratory. He must be in there somewhere.</text>
+		<text>The Monolith soldier I interrogated claimed that Savage was taken to the laboratory. He must be in there somewhere.</text>
 	</string>
 	<string id="labx7_find_lutiy_in_underground_part_2_name">
 		<text>Laboratory X7: speak to Savage</text>
 	</string>
 	<string id="labx7_find_lutiy_in_underground_part_2_text">
-		<text>You have his PDA signal, and now I need to speak to him.</text>
+		<text>I have his PDA signal. Now I need to speak to him.</text>
 	</string>
 	<!-- Quest: Find a way out of laboratory X7 -->
 	<string id="labx7_find_exit_to_labx7_part_1_name">
@@ -57,18 +57,18 @@
 		<text>Nightmare dungeon: prepare and detonate explosives to block the passage</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_2_text">
-		<text>Stronglav is still after me. I need to set and detonate the explosives in the room to block the passage so that he cannot leave.</text>
+		<text>Stronglav is still after me. I need to set and detonate the explosives in this room to to block the passage and trap him inside.</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_3_name">
 		<text>Nightmare dungeon: evacuation</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_3_text">
-		<text>The explosives are ready. Time to get out of here.</text>
+		<text>The explosives are ready. Time to get out of here!</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_4_name">
 		<text>Nightmare dungeon: investigation</text>
 	</string>
 	<string id="labx7_find_exit_to_labx7_part_4_text">
-		<text>The stairs have led me to some station. Investigating the area would be my next objective.</text>
+		<text>The ladder has led me to some station. Investigating the area would be my next objective.</text>
 	</string>
 </string_table>

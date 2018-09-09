@@ -37,11 +37,11 @@ A list of all files with detailed progress can be found below.
 	- [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
 		- done
 	- [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
-		- incomplete
+		- done (needs revision and testing)
 	- [st_dialogs_station_digger.xml](gamedata/configs/text/eng/st_dialogs_station_digger.xml)
 		- done (needs testing)
 	- [st_dop_action.xml](gamedata/configs/text/eng/st_dop_action.xml)
-		- incomplete
+		- done
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
 		- in progress (**SashaTheRed**)
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
@@ -69,13 +69,13 @@ A list of all files with detailed progress can be found below.
 	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
 		- done (needs revision)
 	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
-		- incomplete
+		- done (needs revision)
 	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
-		- incomplete
+		- done
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
 		- done (needs revision)
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
-		- incomplete
+		- in progress (**SashaTheRed**)
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
 		- done
 	- [ui_st_other.xml](gamedata/configs/text/eng/ui_st_other.xml)
