@@ -76,7 +76,7 @@
         <text>Alright then.</text>
     </string>
     <string id="esc_actor_dialog_kill_valeryan_2">
-        <text>Okay, You’re "Beast" right?</text>
+        <text>Okay, You’re “Beast” right?</text>
     </string>
     <string id="esc_actor_dialog_kill_valeryan_3">
         <text>Yep. Let’s get straight to the point.</text>
@@ -101,7 +101,7 @@
         <text>Is that all?</text>
     </string>
     <string id="esc_actor_killer_raven_meet_to_dead_0">
-        <text>Most likely, people will start looking for them. They probably told their own that they were going to inspect the ATP area. This could cause some serious problems. What are your orders?</text>
+        <text>Most likely, people will start looking for them. They probably told their own that they were going to inspect the area around the vehicle station. This could cause some serious problems. What are your orders?</text>
     </string>
     <string id="esc_actor_killer_raven_meet_to_dead_1">
         <text>These aren’t Wolf’s people. We warned the stalkers at the rookie camp that we were going to be here. We should find out who sent these men here. And also, get rid of the bodies.</text>
@@ -275,7 +275,7 @@
         <text>Not yet.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_2">
-        <text>So, merc... How’s our mission going? Have you gotten the "black box" yet?</text>
+        <text>So, merc... How’s our mission going? Have you gotten the “black box” yet?</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_3">
         <text>Yeah, Here it is. Here you go.</text>
@@ -299,7 +299,7 @@
         <text>What up, Creature! He-he… So how’s Sidorovich’s contract going?</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_1">
-        <text>I have you forgotten who is in command here? Call me "creature" again and I’ll break your jaw.</text>
+        <text>I have you forgotten who is in command here? Call me “creature” again and I’ll break your jaw.</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_2">
         <text>Yeah, sure you will. Though, you should probably remember what Jackal said about that… You remember right? Anyway, back to the point, I called you here for a reason. You see, Jackal has gotten tired of waiting for you to do his personal contract so he made someone else in charge and you, creature, are supposed to drop everything and start doing his mission. </text>
@@ -371,7 +371,7 @@
         <text>Not yet, I’m on it.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_23">
-        <text>Great job! Zohan told me everything about how you saved him and his entire squad. I would have never thought a group of mercenaries would save our guys.</text>
+        <text>Great job! Zokhan told me everything about how you saved him and his entire squad. I would have never thought a group of mercenaries would save our guys.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_24">
         <text>No need to thank me, just pay me.</text>
@@ -416,7 +416,7 @@
         <text>Wait a sec, Can you help me with something?</text>
     </string>
     <string id="esc_actor_meet_from_wolf_9">
-        <text>First, tell what that "something" is, and then we’ll see.</text>
+        <text>First, tell what that “something” is, and then we’ll see.</text>
     </string>
     <string id="esc_actor_start_memmory_0">
         <text>Listen, Beast, I didn’t call you here just to chit-chat. A lot of people are unhappy with the fact that Jackal made you in charge of the group, a specially Markobes who really wanted this role and his not the only one. Be careful who knows what goes on in his head, he’s dangerous and unpredictable.</text>
@@ -625,10 +625,10 @@
     <string id="esc_barman_chizhik_about_work_start_9">
         <text>fine. 1500 for each guard.</text>
     </string>
-    <string id="esc_barman_chizhik_about_Zone_0">
+    <string id="esc_barman_chizhik_about_zone_0">
         <text>Tell me about the Zone.</text>
     </string>
-    <string id="esc_barman_chizhik_about_Zone_1">
+    <string id="esc_barman_chizhik_about_zone_1">
         <text>Do I look like an egghead? They’re the ones who study the Zone under the microscope. Me, I don’t know much about this place. I am only interested in making money here and that’s what I’m doing. So that after a few years I could afford my own piece of land with a grapevine near the lake.</text>
     </string>
     <string id="esc_barman_chizhik_bed_buy_0">
@@ -725,19 +725,19 @@
         <text>Whatever you want... I’ll hold on to your order in the meantime.</text>
     </string>
     <string id="esc_duplet_get_order_112">
-        <text>Here you go, a "Desert Eagle", a heavy, accurate killing machine. That’ll be 2800.</text>
+        <text>Here you go, a “Desert Eagle,” a heavy, accurate killing machine. That’ll be 2800.</text>
     </string>
     <string id="esc_duplet_get_order_121">
         <text>The “Alpine”, a unique model of the Sig P229 handgun. Part of a small limited edition made for an unidentified special forces unit. The model benefits from an increased magazine capacity, a high durability steel barrel, and an ultra-durable polymer frame. 2800 and it’s yours.</text>
     </string>
     <string id="esc_duplet_get_order_122">
-        <text>Here an "Alpine" with an increased mag capacity, 2800 and it’s yours.</text>
+        <text>Here an “Alpine” with an increased mag capacity, 2800 and it’s yours.</text>
     </string>
     <string id="esc_duplet_get_order_131">
         <text>Take a look at this, a “March”. It used to belong to a mercenary named wolfhound. It is a compact, large caliber pistol with short bolt movement and lightweight bolt assembly. Even though, Wolfhound is a complete psycho, he knows his way around a gun. They say that Wolfhound used to execute people in a really brutal way with this handgun. He would start off by shooting off all of their 4 limbs and once they fall on the ground he would shoot them in the head… Yeah, sick shit. Anyway, it will cost 2800.</text>
     </string>
     <string id="esc_duplet_get_order_132">
-        <text>Here’s your "March", that’ll be 2800.</text>
+        <text>Here’s your “March,” that’ll be 2800.</text>
     </string>
     <string id="esc_duplet_get_order_211">
         <text>Take a look at this: “Frasier”. Don’t let the old look fool you, this gun is brand new. This one isn’t even part of a series; it’s a unique prototype and it’s completely handmade.  It has a large caliber, an insanely fast fire rate, and it’s really accurate. It’ll cost you 8000. </text>
@@ -791,7 +791,7 @@
         <text>Of course. Here, look: “Lynx”, it was handmade by a professional who is now dead and no one else can make one like it so this one is really rare. Even though it doesn’t differ from a regular SVD by appearance it’s stopping power and accuracy are far greater than that of the original. I’ll take 16000 for it.</text>
     </string>
     <string id="esc_duplet_get_order_432">
-        <text>Yeah, "Lynx". A highly accurate and powerful sniper rifle. That’ll be 16000.</text>
+        <text>Yeah, “Lynx.” A highly accurate and powerful sniper rifle. That’ll be 16000.</text>
     </string>
     <string id="esc_duplet_get_order_511">
         <text>Look here, I managed to get what I planned: CH-3a and its helmet. The helmet, on its own, isn’t anything special but it can be upgraded to a pretty good one. As for the CH-3a itself, that’s a different story. This armor has a strong defense against both bullets and anomalies and yet its user can remain totally mobile which is a rare case. 32000 for both the armor and the helmet.</text>
@@ -1368,7 +1368,7 @@
         <text>Alright, thanks.</text>
     </string>
     <string id="esc_sidor_dialog_shved_pda_0">
-        <text>I found a pda of "Last Day" will you pay anything for it?</text>
+        <text>I found a pda of “Final Day” will you pay anything for it?</text>
     </string>
     <string id="esc_sidor_dialog_shved_pda_1">
         <text>Really? Is the pda encrypted?</text>
@@ -1545,10 +1545,10 @@
         <text>Man, if you it wasn’t for you we would be dead right now. Both I and Raccoon are very grateful. It’s a good thing you came when you did. By the way, who the hell are you guys and why did you risk your lives for us?</text>
     </string>
     <string id="esc_stalker_muravei_free_1">
-        <text>We are mercenaries, we found Zohan and he told us you were here. Wolf’s the one who hired us.</text>
+        <text>We are mercenaries, we found Zokhan and he told us you were here. Wolf’s the one who hired us.</text>
     </string>
     <string id="esc_stalker_muravei_free_2">
-        <text>Zohan’s alive? Thank god! I thought for sure he was dead; I’m really happy to hear that. Hey can I ask you a question, where are you guys headed </text>
+        <text>Zokhan’s alive? Thank god! I thought for sure he was dead; I’m really happy to hear that. Hey can I ask you a question, where are you guys headed </text>
     </string>
     <string id="esc_stalker_muravei_free_3">
         <text>Don’t worry, we will escort you the rookie village and from there we will head our own way.</text>
@@ -1584,19 +1584,19 @@
         <text>Fine, I won’t tell about this to anyone. What do you have?</text>
     </string>
     <string id="esc_stalker_zohan_start_11">
-        <text>Usually bandits don’t go anywhere near that place, meaning that they had a special reason for being there. They must’ve being looking for something and we ran into them by accident. Their behavior was also really strange, I saw one of them drop some kind of blue notebook when they were there and I heard a few shots. After that my vision went back and when I woke up, I saw you.  They must have taken the hostages and left.</text>
+        <text>Usually, bandits don’t go anywhere near that place, meaning that they had a special reason for being there. They must’ve being looking for something and we ran into them by accident. Their behavior was also really strange, I saw one of them drop a blue notebook when they were there, and I heard a few shots. After that, my vision went black, and when I woke up, I saw you. They must have taken the hostages and left.</text>
     </string>
     <string id="esc_stalker_zohan_start_12">
-        <text>Okay, and what do you suggest we do?</text>
+        <text>Okay. And what do you suggest we do?</text>
     </string>
     <string id="esc_stalker_zohan_start_13">
-        <text>Can you go there, where you found me, and take a second look? Maybe you can find something. I have a gut feeling that those bandits were there for a reason. Don’t worry, I’ll pay up, you know me. </text>
+        <text>Can you go there, where you found me, and take a second look? Maybe you can find something. I have a gut feeling that those bandits were there for a reason. Don’t worry: I’ll pay up. You know me.</text>
     </string>
     <string id="esc_stalker_zohan_start_14">
-        <text>Alright, I’ll take a look.</text>
+        <text>All right. I’ll see what I can find.</text>
     </string>
     <string id="esc_stalker_zohan_start_15">
-        <text>I have more important shit to do right now and I don’t have the time to look for hell knows what…</text>
+        <text>I have better things to do than waste my time looking for something only God knows.</text>
     </string>
     <string id="esc_stalker_zohan_start_16">
         <text>Merc, I’m counting on you here, please, if you can, find some free time for this.</text>
@@ -1740,7 +1740,7 @@
         <text>No, I am serious. Tell right now: Who the hell are you, and where is Wolf’s squad?</text>
     </string>
     <string id="esc_stalker_zohan_wounded_7">
-        <text>I am Zohan, as for the squad… you’re looking at it… We were ambushed by bandits and they killed everyone… They left me for dead… We… We managed kill a few of them but it wasn’t enough, there was too many of them… Dude, please just give me a medkit.</text>
+        <text>I am Zokhan, as for the squad… you’re looking at it… We were ambushed by bandits and they killed everyone… They left me for dead… We… We managed kill a few of them but it wasn’t enough, there was too many of them… Dude, please just give me a medkit.</text>
     </string>
     <string id="esc_stalker_zohan_wounded_8">
         <text>Alright, here’s your medkit.</text>
@@ -2363,13 +2363,13 @@
     <string id="esc_wolf_about_you_1">
         <text>I’m sort of a leader here. I teach the rookies how to live and survive in the Zone. As for me I had enough time to wonder around the Zone and I am sick of it. I came here to cordon, to leave the Zone a long time ago but sense then something has been holding me here, like I’m under a spell or something. Every time I try to leave something gets in the way, either the military is doing a raid or blowout starts at the wrong time. Sometimes I get offered a job so good you can’t pass it by.</text>
     </string>
-    <string id="esc_wolf_about_Zone_0">
+    <string id="esc_wolf_about_zone_0">
         <text>Tell me about this place.</text>
     </string>
-    <string id="esc_wolf_about_Zone_1">
+    <string id="esc_wolf_about_zone_1">
         <text>Right now we are in Cordon, the Zone’s border. Down south there’s an army outpost which guarding the entrance to this place and further north there’s a road leading to Garbage. This place still somewhat resembles the outside world sense there are barely any artifacts or anomalies here. You can see some wild boars here once in a while but other than that it’s totally quiet. Well it’s quiet in comparison with the rest of the Zone that is.</text>
     </string>
-    <string id="esc_wolf_about_Zone_111">
+    <string id="esc_wolf_about_zone_111">
         <text>This place is mostly for rookies and for people who came back from long trips looking to sell of their loot. There’s the army outpost south of here so beware of them. North of here there’s a road leading to Garbage.</text>
     </string>
     <string id="esc_wolf_quest_insurance_dialog_8">

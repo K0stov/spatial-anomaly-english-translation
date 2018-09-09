@@ -79,10 +79,10 @@
 		<text>“Just look at him… He’s probably using a wallhack or something. How else can you make out every blade of grass in such condition?”</text> <!-- fix -->
 	</string>
 	<string id="ls_tip_24">
-		<text>“So many things to read, so many words, so little useful information. Because life is only about useful information, right”text>
+		<text>“So many things to read, so many words, so little useful information. Because life is only about useful information, right?”</text>
 	</string>
 	<string id="ls_tip_25">
-		<text>"“We should ban selling imported goods. There’s no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker!”</text>
+		<text>“We should ban selling imported goods. There’s no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker!”</text>
 	</string>
 	<string id="ls_tip_26">
 		<text>“Where the hell is my backpack?! Damn quick release system! Now I don’t even have a clue where I dropped my stuff.”</text>
@@ -97,34 +97,34 @@
 		<text>"Отстреливай должников, "Свобода" любит тебя. Отстреливай растаманов, "Долг" любит тебя. И я люблю заварухи, поэтому отстреливаю обоих."</text>
 	</string>
 	<string id="ls_tip_30">
-		<text>Кто занимается регулярным отстрелом монстров должен следить за тем, чтобы в процессе самим не стать монстром.</text>
+		<text>Whoever fights monsters should see to it that in the process he does not become a monster himself.</text>
 	</string>
 	<string id="ls_tip_31">
-		<text>Из блокнота проводника: “Ночь - самостоятельный зверь. Если тебе придется покинуть убежище после наступления темноты, убедись, что над тобой хорошо просматриваются звёзды и Луна, по которым ты сможешь ориентироваться.”</text>
+		<text>Guide’s textbook: “The night is a beast in itself. If you have to leave shelter after dark, make sure you always have the stars (and the moon) to guide you.”</text>
 	</string>
 	<string id="ls_tip_32">
-		<text>Храни каждую пулю, вне зависимости от калибра. Возможно, завтра она тебе понадобится. А может и нет, но как бы там ни было, боеприпасы всегда являются хорошим источником прибыли.</text>
+		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you'll need it. And maybe not, but take it nonetheless, ammo's also a good source of income.</text>
 	</string>
 	<string id="ls_tip_33">
-		<text>Не оставляй без внимания оружие, только потому, что ты не прошёл спец-подготовку с ним. Боеприпасы не вечны, и даже величайшему в мире снайперу придется выходить из этой ситуации хотя бы раз в своей тяжкой жизни.</text>
+		<text>Don't ignore a weapon just because you haven't been specially trained with it. Ammo is scarce, and even the greatest sniper will need to make a hasty escape once in a while.</text>
 	</string>
 	<string id="ls_tip_34">
 		<text>"У меня не осталось никаких тёплых воспоминаний о своём детстве. Помню только, как папа часто меня бил и однажды сломал руку... Именно поэтому я держу фонарик таким странным образом."</text>
 	</string>
 	<string id="ls_tip_35">
-		<text>"Т-с-с... Доверяй своим ушам. Звук проносится через холмы и густую чащу. Малейший знакомый звук может быть единственной вещью, которая поможет тебе подготовиться к внезапной атаке."</text>
+		<text>“Shh… Trust your ears. Sound carries over hills and through dense bushes. A faint but familiar sound may be all you need to brace yourself for a sneak attack.”</text>
 	</string>
 	<string id="ls_tip_36">
-		<text>"Не выбрасывай этот пистолет, болван. Держи его при себе, включая боеприпасы для резерва. Ты никогда не знаешь, в какой момент тебе это понадобится."</text>
+		<text>“Don't throw this pistol out. Keep it and some ammunition as backup. You never know when you'll need it.”</text>
 	</string>
 	<string id="ls_tip_37">
-		<text>Если ты переживаешь все опасности Зоны, но твоя совесть мертва, то ты ничем не лучше тех мутантов, которым суждено быть преследуемыми и, впоследствии, убитыми.</text>
+		<text>If you survive the dangers of the Zone but let your conscience die, you are no better than a mutant that shall be hunted down and destroyed.</text>
 	</string>
 	<string id="ls_tip_38">
-		<text>Всегда следи за небом. Птицы и облака это лишь одна чертовщина в поле зрения... но если ты увидишь вспышку, беги, просто беги без раздумий к ближайшему лагерю.</text>
+		<text>Always keep an eye on the sky. Birds and clouds are one hell of a sight, but if you see a flare, don't think, just run.</text>
 	</string>
 	<string id="ls_tip_39">
-		<text>"Запомните, салаги: во время боя есть лишь одно единственное правило - победить. Обманывайте, если придётся. Быть честным - вторично. Быть живым - первично."</text>
+		<text>“Remember, rooks: when in a fight, the only rule is to win. Cheat if you have to. Being fair is less important than being alive.”</text>
 	</string>
 	<string id="ls_tip_40">
 		<text>"Батарейка сдохла, теперь я не смогу написать своей девушке... Придётся заряжать. Господи, за что мне такие страдания?!"</text>
@@ -133,19 +133,19 @@
 		<text>Надпись на стене: "Штурмовики всех стран, объединяйтесь!"</text>
 	</string>
 	<string id="ls_tip_42">
-		<text>"В Зоне нет дятлов. Ты слышишь меня? Никаких дятлов! Хоть мы и около Радара, но тут... Эй, что это было?"</text>
+		<text>“There are no woodpeckers in the Zone. Do you hear me? No woodpeckers! Even though we’re around the Radar, but here… Whoa, what was that?”</text>
 	</string>
 	<string id="ls_tip_43">
-		<text>"Как думаешь, Борода расплачивается королевскими привелегиями за играющую музыку на Скадовске?"</text>
+		<text>“Do you think Beard pays royalties for playing the music on Skadovsk?”</text>
 	</string>
 	<string id="ls_tip_44">
-		<text>"Я когда-нибудь говорил тебе, что такое безумие? Охотиться за артефактами без соответствующей экипировки - вот это настоящее безумие."</text>
+		<text>“Did I ever tell you what the definition of insanity is? Going artifact hunting without appropriate gear.”</text>
 	</string>
 	<string id="ls_tip_45">
 		<text>"Ножи такие хорошие, блестящие и красивые! И их так много! Просто голова идёт кругом от выбора!"</text>
 	</string>
 	<string id="ls_tip_46">
-		<text>Если тебе, не дай Бог, доведётся встретится с контролёром, пытайся найти объекты, блокирующие его поле зрения. Если он не видит тебя, он не сможет тебя подчинить своей воле. И не слушай этого придурка Флинта!</text>
+		<text>If you confront a controller, try to get an object to block your line of sight (tree, rock, wall). If it doesn't see you, it can't control you. And don't listen to this Flint idiot.</text>
 	</string>
 	<string id="ls_tip_47">
 		<text>Удар, порез, удар, порез, удар, порез. Выбросить "g". Ошибка.</text>
@@ -157,13 +157,13 @@
 		<text>"С шлемом или без шлема? Вот в чём вопрос!"</text>
 	</string>
 	<string id="ls_tip_50">
-		<text>"Должен сказать, тебе есть за что любить свои боеприпасы. Бронебойные, цельнометаллическая оболочка, с наличием урана, смещенный центр тяжести, шоколадные батончики... Какого хрена тут делают шоколадные батончики?"</text>
+		<text>“I must say, you gotta love your ammo. Armor piercing, full metal jacket, depleted uranium, hollow point, chocolate bars... What the hell are chocolate bars doing here?”</text>
 	</string>
 	<string id="ls_tip_51">
-		<text>"Уф... сраные... тяжелые... никогда... стальные... пластины..."</text>
+		<text>“So... freaking... heavy... Never... steel... plates...”</text>
 	</string>
 	<string id="ls_tip_52">
-		<text>Никогда не доверяй мародёрам и бандитам. Даже дружелюбный представитель лишь хочет твоего хабара, им не нужно думать дважды, перед тем как выстрелить тебе в спину.</text>
+		<text>Never trust the bandits. Even friendly ones only want your artifacts, so they won't think twice about stabbing you in the back.</text>
 	</string>
 	<string id="ls_tip_53">
 		<text>Армейские части здесь НЕ для того, чтобы защитить тебя от Зоны, поэтому, если увидишь солдата, беги сломя голову. И самое важное, сталкер... не смотри в зеркало.</text>
@@ -172,10 +172,10 @@
 		<text>"Опять сапожищи хреновые подсунули... О, Шило, ты всё же принёс мне мой новый комбинезон экологов?"</text>
 	</string>
 	<string id="ls_tip_55">
-		<text>Пусть каждый безумец, осмелившийся поднять руку на Зону, будет уверен, что она отсечёт ему эту руку без колебаний и угрызений совести</text>
+		<text>Let every madman that dares to raise his hand against the Zone be sure that the Zone shall cut this hand without remorse.</text>
 	</string>
 	<string id="ls_tip_56">
-		<text>"Нет никакого смысла помогать другим в тяжкий момент. Всё что вы можете ожидать - пуля в голову, когда вы безоружны. Так что не беспокойтесь по этому поводу."</text>
+		<text>“It doesn't pay to help other people when they're in a pinch. All you can expect is a bullet to the head when you drop your guard. So don't bother.”</text>
 	</string>
 	<string id="ls_tip_57">
 		<text>"Я не хочу умирать... Я не хочу умирать! Пожалуйста, помоги мне добраться до медика на Скадовске... Что? Пожалуйста, не... [выстрел]"</text>
@@ -184,85 +184,85 @@
 		<text>"Из дневника эколога: Мне всегда было интересно: почему члены группировки "Свобода" спокойно разгуливают по местности с высоким пси-излучением, в то время как даже наши квалифицированные специалисты не способны выдержать такой сильной нагрузки на головной мозг?"</text>
 	</string>
 	<string id="ls_tip_59">
-		<text>При починке сильно повреждённого оружия, техники готовы содрать с тебя три шкуры. Запасные части не появляются из воздуха, и ты доплачиваешь за них дополнительно, поэтому, это действительно не стоит их услуг.</text>
+		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Better pile up your own spare parts reserve and use it to make junk usable again. You can fine-tune it later.</text>
 	</string>
 	<string id="ls_tip_60">
-		<text>Прислушивайся к звукам, издаваемом аномалиями – твоё чутье и слух иногда могут лучше определить опасность близости гравиконцентрата, чем твоё зрение.</text>
+		<text>Listen to the sounds of anomalies: your sense of hearing can sometimes better indicate the position of an anomaly than your sight.</text>
 	</string>
 	<string id="ls_tip_61">
-		<text>Будь уверен, что твой ствол всегда заряжен. Только анархисты идут в бой с опустошенными магазинами.</text>
+		<text>Make sure your shooter is always loaded. Only anarchists keep their clips half empty.</text>
 	</string>
 	<string id="ls_tip_62">
-		<text>Всегда держи при себе стимуляторы, если вдруг начнётся выброс, а поблизости не будет укрытия. Они не защитят тебя полностью, но помогут быстрее добраться до безопасного места, прежде чем ты сгоришь на месте.</text>
+		<text>Always carry drugs lest an emission starts and there's no shelter nearby. They may not protect you completely but maybe, just maybe will let you reach a safe spot before you're roasted.</text>
 	</string>
 	<string id="ls_tip_63">
-		<text>Начни копить боеприпасы для любимого оружия, пока не обзаведёшься крупными наличными, даже если прекрасно понимаешь, что ожидание будет долгим. Однако, жутко неприятно, когда ты так и не обзавёлся подходящим стволом.</text>
+		<text>Start collecting ammo for your favourite shooter as soon as you get the cash, even if you know it's going to be a long wait. But it's gonna hurt, if you don't find the gun at all.</text>
 	</string>
 	<string id="ls_tip_64">
-		<text>"Отправляйся в рейд налегке - так ты сможешь собрать значительно больше хабара и продать торговцам, когда вернёшься. Прошу прощения, "если" вернёшься."</text>
+		<text>“Carry as little as possible when going out, so you can pick up more goodies and sell them to the traders when you return. Sorry, *if* you return.”</text>
 	</string>
 	<string id="ls_tip_65">
-		<text>Держи детектор активированным как можно чаще - после пси-шторма артефакты могут появиться в самых неожиданных местах.</text>
+		<text>Have your artifact detector out as often as possible. Sometimes artifacts appear after emissions.</text>
 	</string>
 	<string id="ls_tip_66">
-		<text>"Если тебе повезло услышать кровососа, стой на месте. Повернись в сторону звука, найди его и улыбнись. Шучу."</text>
+		<text>“If you hear a bloodsucker and feel lucky, stand still. Turn towards the sound, locate it, and smile. Just kidding.”</text>
 	</string>
 	<string id="ls_tip_67">
-		<text>Никогда не перемещяйся по вражеской территории, если солнце слепит тебя или демаскирует светом в спину. А лучше вообще не посещать вражеских территорий.</text>
+		<text>Never pass enemy territory with direct sunlight in your eyes or with direct sunlight to your back. Better still, don't pass enemy territory at all.</text>
 	</string>
 	<string id="ls_tip_68">
-		<text>Тебе лучше отказаться от всех понятий морали. Зона регулирует свои собственные уникальные правила, которые не имеют ничего общего с тем, что ты узнал с Большой Земли.</text>
+		<text>You'd best abandon all notions of morality. The Zone is governed by its own unique set of rules that has nothing to do with what you learn in the Great Land.</text>
 	</string>
 	<string id="ls_tip_69">
-		<text>"Не геройствуй. Никогда не бойся убежать от противника, жизнь куда важнее этих розовых соплей."</text>
+		<text>“Don't be a hero. Never be afraid to run from an enemy.”</text>
 	</string>
 	<string id="ls_tip_70">
-		<text>"Помните, что у вас нет близких друзей в Зоне. Если вы слышите, что кто-то оказался в бедственном положении, продолжайте идти, как будто ничего не случилось, если вы не представляете себе быструю смерть."</text>
+		<text>“Remember, you don't have friends in the Zone. If you hear someone in distress, keep on walking as if nothing's happened unless you fancy a quick death.”</text>
 	</string>
 	<string id="ls_tip_71">
-		<text>Помни про звуки, издаваемые мутантами. Знание, что именно крадётся за тобой, поможет встретить опасность с исключительно удобного положения.</text>
+		<text>Remember the sounds given off by mutants. Knowing what's creeping up on you makes it easier to deal with the situation in a best possible way.</text>
 	</string>
 	<string id="ls_tip_72">
-		<text>Всегда следует держать при себе пару бронебойных магазинов. Мутанты не носят бронежилеты, но что если вы столкнётесь с группой хорошо защищённых наёмников?</text>
+		<text>Always carry a clip of armour-piercing rounds for whatever gun you have. Mutants might not wear armour, but hostile Stalkers do.</text>
 	</string>
 	<string id="ls_tip_73">
-		<text>"Держи при себе одну бутылку водки, как минимум. Когда у тебя закончатся противорадиационные инъекторы в самом сердце фонящего пекла, ты меня поблагодаришь."</text>
+		<text>“Carry at least one bottle of vodka at all times. When you run out of antirads in the middle of an anomaly, you'll thank me.Ножи такие хорошие, блестящие и красивые</text>
 	</string>
 	<string id="ls_tip_74">
-		<text>"Пачка сигарет в день, отгонит голод ненадолго в тень."</text>
+		<text>“A pack of cigarettes a day keeps the hunger at bay.”</text>
 	</string>
 	<string id="ls_tip_75">
-		<text>"При попытке подкрасться к кому-либо или чему-либо, не забудь выключить фонарик, тупая отмычка!"</text>
+		<text>“When trying to sneak up on someone or something, remember to turn off your flashlight.”</text>
 	</string>
 	<string id="ls_tip_76">
 		<text>"В здоровом теле здоровый дух! Офицеры "Долга" должны регулярно спать, потреблять свежую пищу, по мере возможности избегать стимуляторов и пить очищенную воду. И ни в коем случае не употреблять в пищу мутантское отродье!"</text>
 	</string>
 	<string id="ls_tip_77">
-		<text>Заботься о своём психическом здоровье: отдыхай как только появится возможность и найди себе любимое занятие для снятия стресса. Большинство сталкеров предпочитают порно-журналы, но ты можешь быть хоть немного оригинальнее.</text>
+		<text>Take note of your mental state, relax when you can and find a favourite pastime to relieve stress. Most Stalkers stick to porn, but you can be a tiny bit more original.</text>
 	</string>
 	<string id="ls_tip_78">
-		<text>Изучите местность, перед тем как её посетить. Обнаружение кровососа до того, как он обнаружит вас, может спасти вашу жизнь, или, если повезёт, отнимет чужую.</text>
+		<text>“Examine an area carefully before you pass through. Spotting a bloodsucker before it spots you will most certainly save your life, or, if you’re lucky, someone else’s.”</text>
 	</string>
 	<string id="ls_tip_79">
-		<text>"Зона жива, хочу тебе сказать. Она ест, она дышит, а ещё она гадит. И вот, когда она гадит, тебе лучше спрятаться, если не хочешь быть спущенным в унитаз."</text>
+		<text>“The Zone is alive, I can tell you that. It eats, it breathes, and it shits. And when it shits, you had better take cover if you don't fancy being flushed down the toilet.”</text>
 	</string>
 	<string id="ls_tip_80">
-		<text>"Красота всей этой Зоны отчуждения -  вот что меня поразило больше всего. Ты никогда не обращаешь на это внимания, потому что Зона может преподнести неприятный сюрприз, причём в самый неожиданный для тебя момент."</text>
+		<text>“The beauty of it all is what struck me the most. You don't have the time to admire it though 'cause the Zone may strike you when you expect it the least.”</text>
 	</string>
 	<string id="ls_tip_81">
 		<text>"Глупы те люди, которые ничего не боятся, но утверждают, что знают всё."</text>
 	</string>
 	<string id="ls_tip_82">
-		<text>Никогда не стоит недооценивать одну голодную собаку - где одна, там и целая стая.</text>
+		<text>Never underestimate a hungry dog. When there's one, there's a dozen.</text>
 	</string>
 	<string id="ls_tip_83">
-		<text>Будь осторожен при приближении к такому же сталкеру. Сердца людей отбрасывают тень чернее самой Зоны.</text>
+		<text>Be careful when approaching a fellow stalker. Men's hearts hold shadows darker than the Zone itself.</text>
 	</string>
 	<string id="ls_tip_84">
 		<text>"Столб - чисто. Стена - чисто. Комната - чисто. А...? Хм, должно быть, воображение разыгралось. Мы в безопасности чтобы от... [вспышка]"</text>
 	</string>
 	<string id="ls_tip_85">
-		<text>"День 1: Стали выпадать волосы. День 2: Наблюдаю многочисленные ожоги на теле, кожа буквально сползает, жуткая боль. День 3: Я больше не могу двигаться. Жадность. Хотел сэкономить на лекарствах... Теперь уже слишком поздно."</text>
+		<text>“Day 1: My hair's started to fall out. Day 2: My skin's peeling off. Day 3: I can't move. The greed. Wanted to save on meds. And now's too late.”</text>
 	</string>
 	<string id="ls_tip_86">
 		<text>"Когда Бог отводит взгляд, Дьявол утверждается в его доме."</text>
@@ -271,10 +271,10 @@
 		<text>Узнавая повадки своих жертв, ты узнаешь повадки самого себя.</text>
 	</string>
 	<string id="ls_tip_88">
-		<text>Всегда исследуйте каждую щель, каждый закуток. Вы никогда не знаете, какой хабар вас может там поджидать.</text>
+		<text>Always explore every nook and cranny. You never know what someone may have stashed there.</text>
 	</string>
 	<string id="ls_tip_89">
-		<text>Весь мир сошёл в ад. Экономический крах на Большой Земле, и Зона... Зона - это язва на Земле, и её огни пожрут тебя.</text>
+		<text>The whole world's gone to hell. Economic collapse in the Great Land, and the Zone... The Zone is hell on earth, and its fires will consume you.</text>
 	</string>
 	<string id="ls_tip_90">
 		<text>Лезть в сердце аномалии за артефактами в тяжелом бронежилете - всё равно что рваться в перестрелку одетым в костюм РХБЗ.</text>
@@ -283,16 +283,16 @@
 		<text>"Давайте отдохнём немного. Эй, отмычка! Да, именно ты. Перед тем как уснуть, всегда держи пистолет в пределах досягаемости руки."</text>
 	</string>
 	<string id="ls_tip_92">
-		<text>Две головы Химеры отражают её сущность. Она будет убегать лишь для того, чтобы через секунду вернуться и безжалостно тебя убить. Она нападёт на тебя сзади, только чтобы вернуться во тьму еще раз.</text>
+		<text>Chimera's two heads reflect its nature. It will flee only to return a second later to mercilessly murder you. It will attack you from behind just to leap into the darkness once again.</text>
 	</string>
 	<string id="ls_tip_93">
-		<text>Кровососы - мастеры теней. Естественно, ты хотел бы увидеть их раньше, чем вспышку от выстрелов своего оружия.</text>
+		<text>Bloodsuckers are masters of the shadow and you'd want to see them earlier than in the muzzle flash of your gun.</text>
 	</string>
 	<string id="ls_tip_94">
 		<text>Лишь патрули наёмников и монолитовцев встречаются реже в ночи, а их занятность на базе менее активна. Стоит взять это во внимание и быть осторожным в тёмное время суток, даже вблизи лагеря.</text>
 	</string>
 	<string id="ls_tip_95">
-		<text>Контролёры попытаются остановить или овладеть твоим разумом, но они не способны остановить выстрел из РПГ в свою пасть.</text>
+		<text>Controllers may try to stop your mind with their powers, but they cannot stop an RPG to their face.</text>
 	</string>
 	<string id="ls_tip_96">
 		<text>Однажды в жизни сталкера наступает момент, когда он не знает, зачем идёт в Зону. Он тянется туда как ребёнок к матери, как зверь к воде, как цветок к солнцу. Он идёт туда, не зная, чем закончится его поход, что принесёт он в своих ладонях из чрева матери загадок и таинств.</text>
@@ -301,13 +301,13 @@
 		<text>Нет ничего постыдного в нажатии "F9", когда дела идут на юг.</text>
 	</string>
 	<string id="ls_tip_98">
-		<text>"Тебя легче убить, когда ты перестаёшь двигаться, поэтому... не... переставай... двигаться..."</text>
+		<text>“You're easier to kill when you stop moving. So. Don't. Stop. Moving.”</text>
 	</string>
 	<string id="ls_tip_99">
-		<text>Будь на чеку, сталкер, Смерть всегда рядом. Если тебе довелось встретиться с ней -  стреляй сразу в голову.</text>
+		<text>Stay sharp, stalker. Death is always nearby. If you see it, aim for the head.</text>
 	</string>
 	<string id="ls_tip_100">
-		<text>Ты умрёшь за неделю, если перестанешь есть. Но ты можешь умереть в считанные секунды, если встретишь выстрел своим телом. Всегда держи костюм в надлежащем состоянии, он способен продлить твою жизнь и защитить от опасностей извне.</text>
+		<text>You'll die in a week if you don't eat. But you can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
 	</string>
 
 
@@ -331,7 +331,7 @@
 		<text>An artifact can be activated to create an anomaly. To do this take the artifact out by pressing "$$ACTION_ARTEFACT$$" and holding "$$ACTION_WPN_FIRE$$". The anomaly which appears is equally dangerous to enemies and the player who created it.</text>
 	</string>
 	<string id="ls_mp_tip_18">
-		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Why? Well, spare parts don’t appear out of thin air, you have to disassemble some items to get them. It’s really not worth it.</text>
+		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Why? Well, spare parts don't appear out of thin air, you have to disassemble some items to get them. It's really not worth it.</text>
 	</string>
 	<string id="ls_mp_tip_2">
 		<text>ARTIFACT HUNT: In order to win, you must bring a certain number of artifacts to your base.</text>
@@ -452,16 +452,16 @@
 		<text>Stay sharp Stalker, Death is always nearby. If you see it, aim for the head.</text>
 	</string>
 	<string id="ls_mp_tip_16">
-		<text>If it’s hostile, watch it carefully. Not every enemy is worth wasting valuable ammo on.</text>
+		<text>If it's hostile, watch it carefully. Not every enemy is worth wasting valuable ammo on.</text>
 	</string>
 	<string id="ls_mp_tip_19">
-		<text>You’ll die in a week if you don’t eat. But can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
+		<text>You'll die in a week if you don't eat. But can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
 	</string>
 	<string id="ls_mp_tip_21">
 		<text>Ran into a controller today. Learned the hard way to keep some things between us.</text>
 	</string>
 	<string id="ls_mp_tip_25">
-		<text>Don’t underestimate pistols. They provide considerable stopping power and can be very effective against poorly armoured targets.</text>
+		<text>Don't underestimate pistols. They provide considerable stopping power and can be very effective against poorly armoured targets.</text>
 	</string>
 	<string id="ls_mp_tip_32">
 		<text>If you survive the dangers of the Zone but let your conscience die, you are no better than a mutant to be hunted down and destroyed.</text>
@@ -476,7 +476,7 @@
 		<text>Let the mutants kill each other and let the Bandits do the same. Relax and enjoy the show.</text>
 	</string>
 	<string id="ls_mp_tip_9">
-		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you’ll need it.</text>
+		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you'll need it.</text>
 	</string>
 
 

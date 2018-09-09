@@ -268,7 +268,7 @@
         <text>I suppose you scrounged up my money?</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_1">
-        <text>Yeah. I literally went to my own hideout. I kept a stash there for a rainy day. So I decided to give up my loot and use all of the money I saved for this. I think everything will pay off soon. Do you have the documents and the flash drive?</text>
+        <text>Yeah. I literally went to my own hideout. I kept a stash there for an emergency. So I decided to give up my loot and use all of the money I saved for this. I’m sure everything will pay off soon. Do you have the documents and the flash drive?</text>
     </string>
     <string id="esc_dialog_zohan_po_povode_dola2_2">
         <text>Yeah. Here they are. Take it.</text>
@@ -313,7 +313,7 @@
         <text>Stop right there! Drop your guns! Hands on your head!</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_1">
-        <text>Calm down. I’m with the brothers from the checkpoint. Found your note by the overturned wagon.</text>
+        <text>Calm down. I’m with the guys from the checkpoint. Found your note by the overturned wagon.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_2">
         <text>Got the dough?</text>
@@ -346,13 +346,13 @@
         <text>All right. Won’t tell anyone. What’s the matter?</text>
     </string>
     <string id="zohan_flair_quest_start_3">
-        <text>We ran into a few bandits quite by accident. Usually, they don’t go beyond the overturned Zaporozhets car… My point is: they were looking for something, and we just stumbled upon them on the road. And they acted strangely. I saw one of them drop an old notebook during a firefight, and then a gunshot… Everything went dark… When I woke up, I saw you… I also saw them take captives and leave the area. You understand? Wherever I went, I couldn’t find them.</text>
+        <text>We ran into a few bandits quite by accident. Usually, they don’t go beyond the overturned Zaporozhets car… My point is: they were looking for something, and we just stumbled upon them on the road. Their behavior was also really strange. I saw one of them drop an old notebook during a firefight, and then a gunshot… After that, my vision went black, and when I woke up, I saw you. I also saw them take captives and leave the area. You understand? Wherever I went, I couldn’t find them.</text>
     </string>
     <string id="zohan_flair_quest_start_4">
-        <text>So what do you suggest?</text>
+        <text>Okay. And what do you suggest we do?</text>
     </string>
     <string id="zohan_flair_quest_start_5">
-        <text>Head over there once more and comb the area. Maybe you’ll find something. My gut tells me they weren’t snooping around without a reason. Don’t worry about the reward: I’ll make it worth your while. You know me.</text>
+        <text>Can you go there, where you found me, and take a second look? Maybe you can find something. I have a gut feeling that those bandits were there for a reason. Don’t worry: I’ll pay up. You know me.</text>
     </string>
     <string id="zohan_flair_quest_start_6">
         <text>All right. I’ll see what I can find.</text>

@@ -2,81 +2,81 @@
 <string_table>
 <!-- Çàäàííèÿ -->
 <string id="esc_zohan_flair_quest_0_name">
-    <text>Zohan’s instinct: find the old notebook at the firefight site</text>
+    <text>Zokhan’s instinct: find the old notebook at the firefight site</text>
 </string>
 <string id="esc_zohan_flair_quest_0_text">
-    <text>Zohan has told me that one of the bandits dropped an old notebook during battle. I should find it.</text>
+    <text>Zokhan has told me that one of the bandits dropped an old notebook during battle. I should find it.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_1_name">
-    <text>Zohan’s instinct: check the coordinates</text>
+    <text>Zokhan’s instinct: check the coordinates</text>
 </string>
 <string id="esc_zohan_flair_quest_1_text">
     <text>A set of coordinates for an area not far from here are mentioned in the notebook. Time to check it out.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_2_name">
-    <text>Zohan’s instinct: wait until night</text>
+    <text>Zokhan’s instinct: wait until night</text>
 </string>
 <string id="esc_zohan_flair_quest_2_text">
     <text>The coordinates have led me to a note that holds the time and area of a meeting with a certain Skull. I have to wait until night and check everything there.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_3_name">
-    <text>Zohan’s instinct: go to the meeting with the unknown stalker</text>
+    <text>Zokhan’s instinct: go to the meeting with the unknown stalker</text>
 </string>
 <string id="esc_zohan_flair_quest_3_text">
     <text>Whoever’s behind this has appointed a meeting in the tunnel under the railroad embankment. I need to check that area. Perhaps I’ll find out what the bandits were looking for.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_4_name">
-    <text>Zohan’s instinct: speak to Zohan</text>
+    <text>Zokhan’s instinct: speak to Zokhan</text>
 </string>
 <string id="esc_zohan_flair_quest_4_text">
-    <text>I underestimated the gravity of the situation. Skull turned out wiser than I thought. He took a sum of money from me for some case and vanished into the dark. I need to warn Zohan about these recent events.</text>
+    <text>I underestimated the gravity of the situation. Skull turned out wiser than I thought. He took a sum of money from me for some case and vanished into the dark. I need to warn Zokhan about these recent events.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_5_name">
-    <text>Zohan’s instinct: open the case</text>
+    <text>Zokhan’s instinct: open the case</text>
 </string>
 <string id="esc_zohan_flair_quest_5_text">
     <text>I need to find someone who can get this damn case open.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_6_name">
-    <text>Zohan’s instinct: speak to Zohan</text>
+    <text>Zokhan’s instinct: speak to Zokhan</text>
 </string>
 <string id="esc_zohan_flair_quest_6_text">
-    <text>The case is open. I need to show its contents to Zohan.</text>
+    <text>The case is open. I need to show its contents to Zokhan.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_7_name">
-    <text>Zohan’s instinct: collect Zohan’s debts</text>
+    <text>Zokhan’s instinct: collect Zokhan’s debts</text>
 </string>
 <string id="esc_zohan_flair_quest_7_text">
-    <text>I need to retrieve the money from Zohan.</text>
+    <text>I need to retrieve the money from Zokhan.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_8_name">
-    <text>Zohan’s instinct: examine the contents of the notebook</text>
+    <text>Zokhan’s instinct: examine the contents of the notebook</text>
 </string>
 <string id="esc_zohan_flair_quest_8_text">
-    <text>I found the notebook that Zohan was talking about. I should read it to find out what else to do.</text>
+    <text>I found the notebook that Zokhan was talking about. I should read it to find out what else to do.</text>
 </string>
 <string id="esc_zohan_flair_quest_9_name">
-    <text>Zohan’s instinct: read the note</text>
+    <text>Zokhan’s instinct: read the note</text>
 </string>
 <string id="esc_zohan_flair_quest_9_text">
     <text>When I arrived at the designated coordinates, I discovered a note. I should read it.</text>
 </string>
 <string id="esc_zohan_flair_quest_10_name">
-    <text>Zohan’s instinct: return to Zohan</text>
+    <text>Zokhan’s instinct: return to Zokhan</text>
 </string>
 <string id="esc_zohan_flair_quest_10_text">
-    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me; likely payment for a case that was in his possession. Good thing it didn’t work out for him. I need to discuss this situation with Zohan.</text>
+    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me; likely payment for a case that was in his possession. Good thing it didn’t work out for him. I need to discuss this situation with Zokhan.</text>
 </string>
 <string id="esc_zohan_flair_quest_11_name">
-    <text>Zohan’s instinct: search the dead bandit</text>
+    <text>Zokhan’s instinct: search the dead bandit</text>
 </string>
 <string id="esc_zohan_flair_quest_11_text">
     <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me, but, fortunately, it didn’t work out for him. I need to check his body.</text>

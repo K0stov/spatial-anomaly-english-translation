@@ -13,8 +13,8 @@ elseif npc_rank == "veteran" and deadmoney >=600 then deadmoney=math.random(100,
 elseif npc_rank == "master" and deadmoney >=700 then deadmoney=math.random(200,700) 
 end
 end
-local news_caption = "Found money from: "..npc:character_name()
-local news_text = "Money: %c[255,255,0,0]"..game.translate_string(deadmoney).."%c[default] RU."
+local news_caption = "Dead stalker: "..npc:character_name()
+local news_text = "Found money: %c[255,255,0,0]"..game.translate_string(deadmoney).."%c[default] RU."
 --xr_sound.set_sound_play(actor:id(), "pda_news")
 actor:give_game_news(news_caption, news_text, "ui_iconsTotal_found_money", 0, 10000)
 actor:give_money(deadmoney)

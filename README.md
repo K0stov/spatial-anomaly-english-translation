@@ -29,7 +29,7 @@ A list of all files with detailed progress can be found below.
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- done (could use minor edits like in the corresponding file already in *Spatial Anomaly*)
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
-		- in progress (needs revision)
+		- done (needs revision)
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
 		- done (needs revision)
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)

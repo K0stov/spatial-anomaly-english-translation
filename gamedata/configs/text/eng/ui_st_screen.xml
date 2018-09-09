@@ -34,13 +34,13 @@
 		<text>Chapter 5: Nightmares of the Underground</text>
 	</string>
 	<string id="intro_1">
-		<text>Sometimes, in order to continue, you have to start anew… For me, that new beginning was waking up in this place. I no longer felt that I was the same person as before; for the first time in many years, I started feeling conscience and sympathy for others. I’m a mercenary by the name of Beast, and this is my story.</text>
+		<text>Sometimes, in order to continue, you have to start anew… For me, that new start was waking up in this place. I no longer felt that I was the same person as before; for the first time in many years, I started feeling conscience and sympathy for others. I’m a mercenary by the name of Beast, and this is my story.</text>
 	</string>
 	<string id="intro_2">
-		<text>Obscurant was always a treat, and we never got along. The real “fun,” however, started when Jackal made me the commander of a small squad of mercs, as opposed to Obscurant. On that same day, we went to the Cordon for an assignment personally ordered by Jackal, and at that same time, Obscurant started planning his payback on me.</text>
+		<text>Obscurant was always a treat, and we never got along. The real “fun,” however, began when Jackal made me the commander of a small squad of mercs, instead of Obscurant. On that same day, we traveled to the Cordon for an assignment personally ordered by Jackal, and at that same time, Obscurant started planning his revenge on me.</text>
 	</string>
 	<string id="intro_3">
-		<text>Vector was the previous head of a mercenary group, but he refused to fulfill a personal order from Jackal, who, without hesitation, offered a reward for his head. Vector, of course, managed to keep a low profile. I spent several months searching for Vector, but during the most crucial moment of my pursuit, I landed in the “Spatial Anomaly.” All right… Time to get back to reality and look at how our meeting with Obscurant in the space bubble panned out.</text>
+		<text>Vector was the previous head of a mercenary group, but he refused to fulfill a personal order from Jackal, who, without hesitation, offered a reward for his head. Vector, of course, managed to keep a low profile. I spent several months searching for Vector, but during the most crucial moment of my pursuit, I landed in the “spatial anomaly.” All right… Time to get back to reality and look at how our meeting with Obscurant in the space bubble panned out.</text>
 	</string>
 	<string id="intro_4">
 		<text>Here comes the moment where we leave the anomaly. The surprises don’t end there, though…</text>
@@ -64,13 +64,13 @@
 		<text>Then the bet is</text>
 	</string>
 	<string id="crowkiller_dialog_record_crows">
-		<text>A real man’s choice! You’ll need to drop as many crows as you can within a minute. Your record right now is</text>
+		<text>The choice of a real man! You’ll need to drop as many crows as you can within a minute. Your record right now is</text>
 	</string>
 	<string id="crowkiller_dialog_record_stake">
 		<text>With that record, the bet is</text>
 	</string>
 	<string id="st_main_bonfire_use">
-		<text>Cook food at fire ($$ACTION_USE$$)</text>
+		<text>Cook food ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pb_turn_of_light_tip">
 		<text>Deactivate electricity ($$ACTION_USE$$)</text>
@@ -103,7 +103,7 @@
 		<text>Take radio beacon ($$ACTION_USE$$)</text>
 	</string>
 	<string id="psevdodog_quest_character_use">
-		<text>Âñïîðîòü áðþõî ($$ACTION_USE$$)</text>
+		<text>Cut open belly ($$ACTION_USE$$)</text>
 	</string>
 	<string id="esc_tip_door_locked_tech">
 		<text>Cannot close door; Van sees everything</text>
