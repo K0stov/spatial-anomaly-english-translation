@@ -1213,7 +1213,7 @@
         <text>What you saw here last night was a phantom. Phantoms are the souls of dead people; they appear at the site of their death, or close to their dead body. Normally, they aren’t dangerous, but the phantom you saw here was made to lure someone into a trap.</text> <!-- fix -->
     </string>
     <string id="pb_otshelnik_puzir_talk_5">
-        <text>Then, the one who did it didn’t succeed. I mean, I escaped.</text>
+        <text>Then the one who did it didn’t succeed. I mean, I escaped.</text>
     </string>
     <string id="pb_otshelnik_puzir_talk_6">
         <text>You have more fortune than the stalker who came here before you, but you cannot always rely on your chances. Be vigilant, mercenary, and do not let yourself fall into another trap.</text>
@@ -1963,7 +1963,7 @@
         <text>And thanks to you for saving my hide. So, where’d you even find me? Maybe some of my equipment was left behind.</text>
     </string>
     <string id="pb_rezak_first_meet_4">
-        <text>Of course I remember. How could I not? You won’t find anything there, though. I scouted that place far and wide. Tried finding your stuff by myself, and I also looked a the possibility of an exit from this hellhole, but, as you can see, I’m still here.</text>
+        <text>Of course I remember. How could I not? You won’t find anything there, though. I scouted that place far and wide. Tried finding your stuff on my own, and I also looked at the possibility of an exit from this hellhole, but as you can see, I’m still here.</text>
     </string>
     <string id="pb_rezak_first_meet_5">
         <text>Send the coordinates anyway. I want to see it for myself.</text>
@@ -2005,7 +2005,7 @@
         <text>That’s everything. Not much else is left in the container; only medical supplies and bullets, which I’ll give to Savage. He’ll distribute it among the group.</text>
     </string>
     <string id="pb_shurup_talk_to_open_habar_13">
-        <text>No problem. Here’s your shooter. And, by the way, have a few rounds for it as a bonus. They were also in the container. It’s a rare caliber; a type that nobody here uses. Other than that, there are two packs of 5.45x39 mm military armor-piercing ammo. Very useful against armored targets.</text>
+        <text>No problem. Here’s your shooter. And by the way, have a few rounds for it as a bonus. They were also in the container. It’s a rare caliber; a type that nobody here uses. Other than that, there are two packs of 5.45x39 mm military armor-piercing ammo. Very useful against armored targets.</text>
     </string>
     <string id="pb_shurup_talk_to_open_habar_14">
         <text>That’ll come into handy. Give it here</text>

@@ -145,10 +145,10 @@
         <text>There’s just one other thing: after the events at the railroad embankment, I’m short of money. Because of that, you’ll have to wait a day or two. I’ll return everything; I’ll return even more.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_4">
-        <text>All right. There’s no rush. But, still, don’t take *too* long. Strange things happens to debtors sometimes; they die for various reasons. You understand? And let the case stay here. It’ll be safer that way.</text>
+        <text>All right. There’s no rush. But still, don’t take *too* long. Strange things happens to debtors sometimes; they die for various reasons. You understand? And let the case stay here. It’ll be safer that way.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_5">
-        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross any mercenaries.</text>
+        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross paths with any mercenaries.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_6">
         <text>Yes. I’ll pay you back everything.</text>
@@ -157,7 +157,7 @@
         <text>Then I’ll wait for my money. See you later!</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_8">
-        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt for my services. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross any mercenaries.</text>
+        <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt for my services. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross paths with any mercenaries.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_9">
         <text>Yes. I’ll pay you back everything.</text>
@@ -193,7 +193,7 @@
         <text>Well, spill the beans and tell me what happened.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_4">
-        <text>You remember that corpse I told you about that I saw on the way here? So, after I talked to you, I had a sudden tingling feeling in my head and even heard a voice. It called me; I don’t know how, but I knew where to go. Later on, it was clear to me that a controller was behind this, the fucking thing. Tell me: have you ever seen a controller in the Cordon? Neither have I; they don’t usually come around these parts.\n \nI think this has to do with the anomaly. I don’t know if I should say this, but I have a theory: what if someone who’s gone into the anomaly teleports into a programmed anomalous area, and at the same time, not far away from that very anomaly, some kind of beast appears? I don’t know how exactly the anomaly summons mutants, but there’s something very strange going on..</text>
+        <text>You remember that corpse I told you about that I saw on the way here? So, after I talked to you, I had a sudden tingling feeling in my head and even heard a voice. It called me; I don’t know how, but I knew where to go. Later on, it was clear to me that a controller was behind this, the fucking thing. Tell me: have you ever seen a controller in the Cordon? Neither have I; they don’t usually come around these parts.\n \nI think this has to do with the anomaly. I don’t know if I should share this, but I have a theory: what if someone who’s gone into the anomaly teleports into a programmed anomalous area, and at the same time, not far away from that very anomaly, some kind of beast appears? I don’t know how exactly the anomaly summons mutants, but there’s something very strange going on..</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_5">
         <text>If someone else would have told me this, then I would have just told them to sober up. You, though… I can trust you, and if you say that anomaly is dangerous, then so be it. Although, I will still tell the scientists about it and about your theory. I’ll share the pay with you. In the meantime, how about we share a bottle of my best vodka? I’ve been keeping it for a rainy day.</text>
@@ -346,7 +346,7 @@
         <text>All right. Won’t tell anyone. What’s the matter?</text>
     </string>
     <string id="zohan_flair_quest_start_3">
-        <text>We ran into a few bandits quite by accident. Usually, they don’t go beyond the overturned Zaporozhets car… My point is: they were looking for something, and we just stumbled upon them on the road. Their behavior was also really strange. I saw one of them drop an old notebook during a firefight, and then a gunshot… After that, my vision went black, and when I woke up, I saw you. I also saw them take captives and leave the area. You understand? Wherever I went, I couldn’t find them.</text>
+        <text>We ran into a few bandits quite by accident. Usually, they don’t go beyond the overturned Zaporozhets car… My point is: they were looking for something, and we just stumbled upon them on the road. Their behavior was also really strange. I saw one of them drop an old notebook during a firefight, and then I saw a gunshot… After that, my vision went black, and when I woke up, I saw you. I also saw them take captives and leave the area. You understand? Wherever I went, I couldn’t find them.</text>
     </string>
     <string id="zohan_flair_quest_start_4">
         <text>Okay. And what do you suggest we do?</text>

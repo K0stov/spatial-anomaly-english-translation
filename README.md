@@ -75,7 +75,7 @@ A list of all files with detailed progress can be found below.
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
 		- done (needs revision)
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
-		- in progress (**SashaTheRed**)
+		- done
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
 		- done
 	- [ui_st_other.xml](gamedata/configs/text/eng/ui_st_other.xml)

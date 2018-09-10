@@ -1,202 +1,202 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="blck_val_actor_meet_from_hunter_10">
-        <text>That creature, “pseudoflesh” is its name, is not as easy to kill as a regular flesh. Many people tell stories about it and even though I don’t really care much for legends, when I saw the creature myself I knew then that most of the stories about it were true. I remember one time I was walking around garbage when I heard a cry for help. I crouched and slowly started to make my way towards those screams but then I noticed something was off… The speech was all slurred and I could barely understand what was being said. So anyway, I crawled up to that place and hid behind the hood of an old Kamaz. I looked out and you wouldn’t believe what I saw and heard… That Pseudo-Flesh was screaming like human being. I wanted to kill it as quickly as possible but I couldn’t get my gun out in time and it escaped.</text>
+        <text>That creature—called the “pseudoflesh”—is not as easy to kill as a regular flesh. Many people tell stories about it and even though I don’t really care much for legends, when I saw the creature myself I knew then that most of the stories about it were true. I remember one time I was walking around garbage when I heard a cry for help. I crouched and slowly started to make my way towards those screams but then I noticed something was off… The speech was all slurred and I could barely understand what was being said. So anyway, I crawled up to that place and hid behind the hood of an old Kamaz. I looked out, and you wouldn’t believe what I saw and heard… That pseudoflesh was screaming like a human being. I wanted to kill it as quickly as possible, but I couldn’t get my gun out in time, and it escaped.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_11">
         <text>Interesting… and you think this mutant is here?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_12">
-        <text>Yeah. I’m telling you, its lair is somewhere there. I can tell by its calm behavior. In that area, there is a small cave where even in very hot and sunny days it still remains moist. The Pseudo-Flesh is most likely in it. When we get closer, you should attack from the hill that’s located to the right while I attack from the left. When you see that awful creature make it run towards me and I will finish it off. But watch your back there might be other mutants there.</text>
+        <text>Yeah. I’m telling you, its lair is somewhere there. I can tell by its calm behavior. In that area, there is a small cave where even in very hot and sunny days, it still remains moist. The pseudoflesh is most likely in it. When we get closer, you should attack from the hill that’s located to the right while I attack from the left. When you see that awful creature, make it run towards me, and I will finish it off. But watch your back; there might be other mutants there.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_13">
-        <text>Got it, should we go now?</text>
+        <text>Got it. Should we go now?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_14">
-        <text>Yes, we need to move quickly and get rid of this threat once and for all.</text>
+        <text>Yes. We need to move quickly and get rid of this threat once and for all.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_15">
         <text>Show me the way.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_17">
-        <text>Yeah, we did it, we finally slayed this god awful creature. This is the creature, I am sure of it, just like I’ve seen it back then. Well, a deal’s a deal, you’ve helped me and in return I will help you. When I’ll be leaving the Outpost, I’ll take you with me. Also, here take this, extra payment for a good job.</text>
+        <text>Yeah! We did it! We finally slayed the god awful creature. This is the creature. I am sure of it. Just like I saw it back then. Well, a deal’s a deal. You’ve helped me, and in return, I will help you. When I leave the Outpost, I’ll take you with me. Also, here. Take this. Extra payment for a job well done.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_18">
         <text>Don’t mention it. If you need anything else, you know where to find me. What are we gonna do now?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_19">
-        <text>I’ll keep that in mind. Well, you can go back to base, as for me I want to study this mutant a bit, maybe I can find take something off this mutant that’s worth selling. When I’ll be leaving the Outpost, I’ll send you a message.</text>
+        <text>I’ll keep that in mind. Well, you can go back to base. As for me, I want to study this mutant a bit. Maybe I can take something that’s worth selling. When I leave the Outpost, I’ll send you a message.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_2">
-        <text>Hey, merc! I take it, you talked to Rasputin?</text>
+        <text>Hey, merc! I take it you talked to Rasputin?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_20">
-        <text>All right, see you later.</text>
+        <text>All right. See you later.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_22">
-        <text>Listen, I can’t seem to find it… It’s hiding somewhere deep and finding it is going to take forever.</text>
+        <text>Listen, I can’t seem to find it… It’s hiding somewhere deep, and finding it is going to take forever.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_23">
         <text>Maybe someone killed it already.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_24">
-        <text>I doubt that. If someone would have managed to pull that off then we would be hearing about it nonstop. If there’s something hunters like doing is bragging about their kills. If one of them would have hunted the creature down then the entire Outpost would have known about it.</text>
+        <text>I doubt that. If someone would have managed to pull that off, then we would be hearing about it nonstop. If there’s something hunters like doing, it’s bragging about their kills. If one of them would have hunted the creature down, then the entire Outpost would have known about it.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_25">
-        <text>All right. So, what are we going to do now?</text>
+        <text>All right. So what are we going to do now?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_26">
-        <text>We need to inspect the other part of this dump. Let’s go to the place where I first saw it, maybe will find it there.</text>
+        <text>We need to inspect the other part of this dump. Let’s go to the place where I first saw it. Maybe we’ll find it there.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_27">
-        <text>All right, let’s go then…</text>
+        <text>All right. Let’s go, then…</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_29">
-        <text>You can go back to base, when I’ll be leaving the Outpost, I’ll message you.</text>
+        <text>You can go back to base. When I leave the Outpost, I’ll message you.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_3">
-        <text>Yeah, I talked to him. Listen, Rasputin said that you along with some other stalker, Savage I think, tried to blow up the monolithian construction site. Did you manage to pull it off?</text>
+        <text>Yeah, I talked to him. Listen, Rasputin said that you, along with some other stalker—Savage, I think—tried to blow up the Monolith construction site. Did you manage to pull it off?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_31">
-        <text>So Rasputin said that you and a stalker, Savage I think, tried to blow up the construction site that’s occupied by monolithans. Did you succeed?</text>
+        <text>So Rasputin said that you and a stalker—Savage, I think—tried to blow up the construction site that’s occupied by Monolithans. Did you succeed?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_32">
-        <text>No, I don’t want to talk about it. Can you we leave the Outpost already?</text>
+        <text>No. I don’t want to talk about it. Can we leave the Outpost already?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_33">
-        <text>Well yeah, that’s why I came here. I’m going to the bar, I have some business there. And after that I will head to Yantar, if you want you can come with. I’m heading out right now, are you ready?</text>
+        <text>Well, yeah. That’s why I came here. I’m going to the bar; I have some business there. And after that, I’m heading to Yantar. If you want, you can come with. I’m heading out right now; you ready?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_34">
-        <text>Yean, I’m ready, let’s go.</text>
+        <text>Yeah. I’m ready. Let’s go.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_4">
-        <text>Sure I can do that but not for free. Money is not what I need though, instead I need your help with a mission. If you help me with that then I will take you with me when I’ll be leaving the Outpost. Deal?</text>
+        <text>Sure I can do that, but not for free. Money is not what I need, though. Instead, I need your help with a mission. If you help me with that, then I’ll take you with me when I leave the Outpost. Deal?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_5">
-        <text>All right, what sort of help do you need?</text>
+        <text>All right. What sort of help do you need?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_6">
-        <text>I need your help find and killing a certain mutant.</text>
+        <text>I need your help with finding and killing a certain mutant.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_7">
-        <text>Why won’t you ask any of the hunters? they have more experince in that sort of thing.</text>
+        <text>Why won’t you ask any of the hunters? They have more experience with that sort of thing.</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_8">
-        <text>Well, the thing is that I’m hunting this mutant for the scientists, they’ve asked me to bring a piece of its flesh for further research. They promised to pay I hefty sum for a job well done but if I take the entire group then everyone would want a piece and there isn’t enough to go around for everyone. Taking only one person with me is also out of the question as it can create unnecessary conflict if you know what I mean. I rather take someone from outside our group and not tell them that I’m doing this in the first place, it’s better this way. So, are you with me?</text>
+        <text>Well, the thing is that I’m hunting this mutant for the scientists; they’ve asked me to bring a piece of its flesh for further research. They promised to pay me a hefty sum for a job well done, but if I take the entire group, then everyone would want a piece, and there isn’t enough to go around for everyone. Taking only one person with me is also out of the question, as it can create unnecessary conflict, if you know what I mean. I’d rather take someone from outside our group and not tell them that I’m doing this in the first place. It’s better that way. So are you with me?</text>
     </string>
     <string id="blck_val_actor_meet_from_hunter_9">
-        <text>Sure, I’ll help you. First though, tell me what mutant are we hunting here.</text>
+        <text>Sure. I’ll help you. First, though, tell me what mutant we’re hunting here.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_11">
-        <text>Hey Beast, what’s up?</text>
+        <text>Hey, Beast. What’s up?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_12">
-        <text>Not yet… Yeah and I doubt I’ll ever forget about it. Either way we made it out and that’s what’s important and now we can get back on with our lives. Soon, perhaps, I could see my family again. As for now though, I need some alone time, I’ll talk to you later…</text>
+        <text>Not yet… And I doubt I’ll ever forget about it. Either way, we made it out, and that’s what’s important. Now we can get back on with our lives. Soon, perhaps, I can see my family again. As for now, though, I need some alone time. I’ll talk to you later…</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_13">
-        <text>All right, I hope everything will turn out okay.</text>
+        <text>All right. I hope everything turns out okay.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_2">
-        <text>Finally you’re out, Beast. Man was that Saurel guy stubborn but I managed to convince him to free you. How are you feeling?</text>
+        <text>Finally, you’re out, Beast. Man, was that Saurel guy stubborn, but I did manage to convince him to free you. How are you feeling?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_3">
-        <text>Not too bad… By the way, the guard told me that Marcus didn’t make it out of the anomaly what the hell happened?</text>
+        <text>Not too bad… By the way, the guard told me that Marcus didn’t make it out of the anomaly. What the hell happened?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_4">
-        <text>Yeah… It’s true we couldn’t contact you or Marcus, so Forester went back to look for you, but he only found you. I hope everything’s all right with him. Being trapped alone inside the spatial anomaly must be maddening… Let’s hope that c Forester reach Red Forest he can send Marcus the coordinates and he can find his way out.</text>
+        <text>Yeah… It’s true we couldn’t contact you or Marcus, so Forester went back to look for the two of you, but he only found you. I hope everything’s all right with him. Being trapped alone inside the spatial anomaly must be maddening… Let’s hope that c Forester reach Red Forest he can send Marcus the coordinates and he can find his way out.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_5">
-        <text>Yeah, let’s all hope he can find his way out. So, how’s everyone else? Is anyone from our group still here?</text>
+        <text>Yeah. Let’s all hope he can find his way out. So how’s everyone else? Is anyone from our group still here?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_6">
-        <text>No, everyone left with the guide yesterday. You can’t blame them though, after what they’ve all been through. I won’t be surprised if most of them will leave the zone after this.</text>
+        <text>No. Everyone left with the guide yesterday. You can’t blame them, though, after what they’ve been through. I won’t be surprised if most of them end up leaivng the Zone after this.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_7">
-        <text>All right… And what about you, what plans do you have for the future?</text>
+        <text>All right… And what about you? What plans do you have for the future?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_8">
-        <text>I’m not planning to go anywhere any time soon, I’ve decided to stay in the Outpost for a while and try to forget about that god forsaken anomaly.</text>
+        <text>I’m not planning to go anywhere anytime soon; I’ve decided to stay in the Outpost for a while and try to forget about that god forsaken anomaly.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_9">
         <text>And have you managed to forget about it, even slightly?</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_0">
-        <text>Looks like it’s over… Thanks merc, we wouldn’t have pulled it off alone.</text>
+        <text>Looks like it’s over… Thanks, merc. We wouldn’t have pulled it off alone.</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_1">
-        <text>You shouldn’t thank me just yet, there still a chance the bandits could attack again. Saurel told me that you found out about this attack by listening in on the bandits hidden radio frequency right? Do you have a radio tuned for said frequency?</text>
+        <text>You shouldn’t thank me just yet. There still a chance the bandits could attack again. Saurel told me you found out about this attack by listening in on the bandits’ hidden radio frequency, right? Do you have a radio tuned for said frequency?</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_2">
-        <text>Yeah totally, we should check if anyone was able to inform the bandits about our ambush.</text>
+        <text>Yeah. Totally. We should check if anyone was able to inform the bandits about our ambush.</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_3">
-        <text>Yeah, we need to know what the bandits are planning.</text>
+        <text>Yeah. We need to know what the bandits are planning.</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_end_0">
-        <text>Damn it, they’ve sent another squad here, what should we do merc?</text>
+        <text>Damn it. They’ve sent another squad here. What should we do, merc?</text>
     </string>
     <string id="blck_val_actor_meet_from_marchuk_end_1">
-        <text>Don’t panic, you two should get back to your position and prepare for our “guests,” as for me I’m going to back to my sniper spot in the attic.</text>
+        <text>Don’t panic. You two should get back to your position and prepare for our “guests.” As for me, I’m going back to my sniper spot in the attic.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_10">
-        <text>Yeah-yeah, I know that already. Just listen till the end and then decide, okay?</text>
+        <text>Yeah, yeah. I know that already. Just listen ’til the end and then decide, okay?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_11">
         <text>Go on, then.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_12">
-        <text>I bet you know about the big monolith platoon nearby right? Well, these assholes have been a thorn in everyone’s ass for a long time. Those assholes have killed five of my guys alone. But I doubt I need to tell you how these monolithians are a threat to everyone.</text>
+        <text>I bet you know about the big Monolith platoon nearby, right? Well, these assholes have been a thorn in everyone’s ass for a long time. They’ve killed five of my guys alone. But I doubt I need to tell you how these Monolithians are a threat to everyone.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_13">
         <text>And…</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_14">
-        <text>To make matters worse they are always receiving backup and ammunition from somewhere and their base is constantly growing. Soon there won’t be enough room for all of them and they will take over the whole Outpost, killing all of us off in the process. It would seem as though the only option is to get out of here but not long ago we managed to find out who is in command of this platoon. Werewolf is his name but that’s not the only thing we know, we also know how to kill him without taking any casualties. And perhaps even wipe out some of his close friends while we are at it.</text>
+        <text>To make matters worse, they’re always receiving backup and ammunition from somewhere, and their base is constantly growing. Soon, there won’t be enough room for all of them. They’ll take over the whole Outpost, killing us all off in the process. It seems as though the only option is to get out of here, but not long ago, we managed to find out who’s in command of the platoon. Werewolf is his name, but that’s not the only thing we know: we also know how to kill him without taking any casualties. And perhaps even wipe out some of his close friends while we’re at it.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_15">
         <text>Interesting… And how do you plan to pull it off?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_16">
-        <text>Swift and quietly. Two days ago, one of my fighters pulled out a guy out of a Zharka and he turned out be a monolithian and not just any regular monolithian but one of high rank in Werewolf’s platoon. We managed to get some info out of him. It turns out that tomorrow Werewolf is heading for a meeting with some other high ranking officer in the monolith army. This meeting will take place in the factory with a minimal amount of security.</text>
+        <text>Swiftly and quietly. Two days ago, one of my fighters pulled out a guy out of a Zharka. Well, he turned out be a Monolithian… and not just any regular Monolithian, but one of the high ranks in Werewolf’s platoon. We managed to get some info out of him. It turns out that tomorrow, Werewolf is heading to a meeting with some other high ranking Monolith officer. This meeting will take place in the factory with a minimal amount of security.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_17">
-        <text>And you think that two important monolith officers won’t have good security with them?</text>
+        <text>And you think two important Monolith officers won’t have good security with them?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_18">
-        <text>I never said that. Obviously, the people guarding the Werewolf and that other dude would be real professionals but the thing is that this meeting is so top secret that a regular monolith soldier won’t even know about it. We need all the help we can get here. To tell the truth, at first I didn’t want any outside help but because these assholes have iced five of our best guys we have little to no chance of pulling off this operation now. That’s why we are taking all the help we can find and we could really use the help of a skilled fighter such as you. So, what do you say?</text>
+        <text>I never said that. Obviously, the people guarding Werewolf and that other dude would be real professionals, but the thing is that this meeting is so secret that a regular Monolith soldier won’t even know about it. We need all the help we can get here. To tell the truth, at first, I didn’t want any outside help, but because these assholes iced five of our best guys, we have little to no chance of pulling off this operation now. That’s why we’re taking all the help we can find, and we could really use the help of a skilled fighter such as you. So what do you say?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_19">
         <text>I need to think about it…</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_2">
-        <text>No pasaran! Hey, Beast, it’s good to see you.</text>
+        <text>No pasaran! Hey, Beast. It’s good to see you.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_20">
-        <text>All right, Miklukha, I’m down with the job…</text>
+        <text>All right, Miklukha. I’m down with the job…</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_21">
-        <text>There’s no time to think. The meeting is going to take place soon and we need to use the remaining time to prepare for the assault. More than that though, we most likely won’t get another chance like this one seeing how the number of monolithian is only increasing and soon they will wipe us all out.</text>
+        <text>There’s no time to think. The meeting is going to take place soon, and we need to use our remaining time to prepare for the assault. More than that, though, we most likely won’t get another chance like this one seeing how the number of Monolithians is only increasing, and soon they will wipe us all out.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_22">
-        <text>I knew you were a good dude. All right, if you’re in then we should get moving to the factory and prepare for the ambush as soon as we get there.</text>
+        <text>I knew you were a good dude. All right. If you’re in, then we should get going at once and prepare for the ambush at the factory.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_23">
         <text>Show me the way.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_25">
-        <text>I can’t talk now Beast, I’m too busy…</text>
+        <text>I can’t talk now, Beast. I’m too busy…</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_3">
         <text>Do I know you?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_4">
-        <text>Oh yeah, I forgot to introduce myself. My name’s Miklukha, I am the commander of this freedom squad. As for you, there’s no need for an introduction, I’ve already heard all about you.</text>
+        <text>Oh, yeah. Forgot to introduce myself. My name’s Miklukha; commander of this Freedom squad. As for you, there’s no need to introduce yourself. I’ve already heard all about you.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_5">
         <text>And what have you heard about me?</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_6">
-        <text>Nothing too good to be honest. However, I do know for a fact that you are a professional and I just so happen to need someone like you for a job.</text>
+        <text>Nothing too good, to be honest. However, I do know for a fact that you are a professional, and I just so happen to need someone like you for a job.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_7">
         <text>What’s the job?</text>
@@ -205,64 +205,64 @@
         <text>I need someone really dangerous taken out.</text>
     </string>
     <string id="blck_val_actor_meet_from_miklucha_9">
-        <text>Sorry, I can’t help you with that. I’m done being a hitman.</text>
+        <text>Sorry, but I can’t help you with that. I’m done being a hitman.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_0">
-        <text>Greetings, monolith servant, what brings you here?</text>
+        <text>Greetings, servant of the Monolith. What brings you here?</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_1">
-        <text>We came here to strengthen you the monolith’s force on this earth.</text>
+        <text>We came here to strengthen the Monolith’s might on this earth.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_2">
-        <text>We didn’t expect any backup today… Where do you come from and why is there only two of you?</text>
+        <text>We did not expect any reinforcements today… Where do you come from, and why are there only two of you?</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_3">
-        <text>I and five others were sent here by our priest. We came here through Limansk and our path was full of tests and challenges which the monolith prepared for us. However not everyone withstood the monolith’s test and only two of us survived. We were supposed to get here a few days later but the monolith showed us a faster way.</text>
+        <text>Um… I was sent here by my priest, along with five others. We came here through Limansk. Our path was full of tests and challenges that the Monolith prepared for us. However, not everyone withstood the Monolith’s test, and only two of us survived. We were supposed to arrive here a few days later, but the Monolith showed us a faster way.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_4">
-        <text>Bless the monolith, for he is the one who help you get here. As for your fallen brothers, don’t worry, all is for the good of the monolith.</text>
+        <text>Bless the Monolith, for he is the one who helped you get here. As for your fallen brothers, do not fear. All is for the good of the Monolith.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_leader_5">
         <text>I’ll be on my way.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_scene_0">
-        <text>Thank the monolith, infidel, for he is the one who spared your life… If it was up to me, I would have killed you on the spot but the monolith forbids me to do so because he choice you for his trail. We are holding your friend hostage by the way, just in case you want to save him.</text>
+        <text>Thank the Monolith, infidel, for he is the one who spared your life… If it was up to me, I would have killed you on the spot, but the Monolith forbids me to do so because he chose you for his trial. We are holding your friend hostage, just in case you want to save him.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_scene_1">
-        <text>You have Savage? What the fuck kind of sick game are you playing?</text>
+        <text>You have Savage? What sick game are you playing?</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_scene_2">
-        <text>Silence, infidel! I am the only one who is allowed to speak here. I’ve marked a place on your pda in which your friend is located. If you want to save him, I suggest you go there.</text>
+        <text>Silence, infidel! I am the only one who is allowed to speak here. Our prophet took your friend away to the north. I’ve marked the exact location on your PDA. If you want to save him, I suggest you go there.</text>
     </string>
     <string id="blck_val_actor_meet_from_monolit_scene_3">
-        <text>Yeah, I don’t need your suggestions, go fuck yourself.</text>
+        <text>I don’t need your suggestions on what to do.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_11">
-        <text>All right, we’re here. I’m going to stay in the village for a while and if you need my services then I’ll be here in the neighboring house. Good luck, merc.</text>
+        <text>All right. We’re here. I’m going to stay in the village for a while. If you need my services, I’ll be here in the neighboring house. Good luck, merc.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_12">
-        <text>Hey.</text>
+        <text>You too.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_14">
         <text>Hey, merc. You need to get somewhere?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_16">
-        <text>Can you get me to the metal factory?</text>
+        <text>Can you get me to the metallurgical factory?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_17">
         <text>Not yet.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_18">
-        <text>Sure I can. More than that, since you’re doing Saurel’s assignment I won’t charge you money for this trip. So, are you ready to move out?</text>
+        <text>Sure I can. And since you’re doing Saurel’s assignment, I won’t charge you money for this trip. So are you ready to move out?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_19">
-        <text>Yeah, let’s go.</text>
+        <text>Yeah. Let’s go.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_2">
-        <text>Hello, merc. Are you the one who iced these bandits? I was nearby and I heard some gunshots so I decided to check what’s what. I thought the bandits are attacking stalkers again and that I could lend a hand. Needless to say, no help was needed. What about you? Are you looking for something or are you just passing through?</text>
+        <text>Hey there, merc. You the one who iced these bandits? I was nearby and heard some gunshots, so I decided to check what’s up. I thought the bandits were attacking stalkers again, so I wanted to lend a hand. Needless to say, there’s no problem here. What about you? You looking for something, or are you just passing through?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_20">
-        <text>Well, we’re here. I’ll wait for you here for a while… When you decide to get back to the northern village, come back here. Just keep in mind that I won’t wait for you too long.</text>
+        <text>Well, we’re here. I’ll stay here and wait for you. When you decide to get back to the northern village, come see me again. Just keep in mind that I won’t wait here *too* long.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_21">
         <text>All right, then. I don’t think I’ll take long.</text>
@@ -271,58 +271,58 @@
         <text>So, merc, are you ready to get back the northern village?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_24">
-        <text>Yeah, we need to tell Saurel that someone killed Lefty.</text>
+        <text>Yeah. We need to tell Saurel that someone killed Lefty.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_25">
-        <text>Yeah, this is one hell of a situation… Lefty was a good dude even though he did kill his friend.</text>
+        <text>Yeah. It’s a bit of a shituation, if you ask me… Lefty was a good dude, even though he did kill his friend.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_26">
-        <text>I doubt that Lefty is the one who killed Limp. Lefty also got killed which means there’s at the very least someone else involved in this mess. Mostly likely he’s trying to tie up any loose ends.</text>
+        <text>I doubt Lefty’s the one behind Limp’s murder. Lefty also got killed. The real killer’s probably trying to tie up any loose ends.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_27">
-        <text>If you say so, it’s none of my business anyway. So are we heading back to the northern village or what?</text>
+        <text>If you say so. It’s none of my business anyway. We heading back to the village or what?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_28">
-        <text>Yeah, let’s go.</text>
+        <text>Yeah. Let’s go.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_3">
         <text>I was sent here by Saurel; that’s all you need to know.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_30">
-        <text>Hey merc, you need to get somewhere?</text>
+        <text>Hey, merc. You need to get somewhere?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_31">
-        <text>I need to get the metal factory again, will you get me there?</text>
+        <text>I need to get the metal factory again. Will you get me there?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_32">
-        <text>Ofcourse. You helped us so I’ll help you… let’s go.</text>
+        <text>Of course. You helped us, so I’ll help you. Ready to move.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_33">
-        <text>Yeah, let’s go.</text>
+        <text>Yeah. Let’s move.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_35">
-        <text>So are you ready to get back to the northern village.</text>
+        <text>Ready to get back to the village?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_36">
-        <text>Yeah, let’s go.</text>
+        <text>Yeah. Let’s move.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_37">
-        <text>I need to get to the anomalious grove, can you get me there?</text>
+        <text>I need to get to the anomalous grove. Can you get me there?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_38">
-        <text>I’d be happy to get you there but the problem is that place is always filled with either boars or bandits. I much rather just get you to the village that’s nearby where it’s way safer and then you can continue on your own. I can also get you to the metal factory which is not that far off, if you like. So, what do you say?</text>
+        <text>I’d be happy to get you there, but the problem is that the place is always filled with either boars or bandits. I’d much rather just get you to the village that’s nearby, where it’s way safer. And from *there*, you can continue on your own. Or I can get you to the metal factory which is not that far off, if you like. So, what do you say?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_39">
-        <text>A freedomer by the name of Miklukha told me to come by; he gave me his coordinates. His location way far off and I need someone to show me a safe path. Can you do that?</text>
+        <text>A Freedomer by the name of Miklukha told me to come by; he gave me his coordinates. His location is way far off, and I need someone to show me a safe path. Can you do that?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_4">
         <text>So you’re that mercenary who was trapped inside that spatial anomaly? In that case, I won’t ask too many questions. Just tell me one thing: are you heading to the northern village by any chance?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_40">
-        <text>I need to get to the old school, can you lead me there?</text>
+        <text>I need to get to the old school. Can you lead me there?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_41">
-        <text>All right, let’s go to that village.</text>
+        <text>All right. Let’s go to that village.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_42">
         <text>Tell you what, lead me to the metal factory and from there I’ll go on my own.</text>
@@ -346,7 +346,7 @@
         <text>Yeah. I’m going there; I need to talk to Saurel.</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_50">
-        <text>Will you get me to the village near the anomalious grove?</text>
+        <text>Will you get me to the village near the anomalous grove?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_51">
         <text>Yeah, no problem. Are you ready?</text>
@@ -373,7 +373,7 @@
         <text>Yeah, let’s go.</text>
     </string>
     <string id="blck_val_actor_meet_from_shaman_11">
-        <text>Hey Beast, What’s up?</text>
+        <text>Hey, Beast. What’s up?</text>
     </string>
     <string id="blck_val_actor_meet_from_shaman_13">
         <text>Saurel told me that Lefty’s dead. That true?</text>
@@ -952,7 +952,7 @@
         <text>Forget about it, it’s my cross to bear and I’ll have to live with it for the rest of my life. Maybe, that’s why the zone lead me to here, what do you think? I’ve been through a lot after the first Chechen war, so much that I can’t tell it all right now. Nevertheless, I remember the day the zone emerged like it was yesterday. You just can’t forget such chaos. In the first few hours nobody could even understand what was going on, people weren’t sure whether the reactor exploded, a meteorite fell, or this was the beginning of a nuclear war. Moscow was just as riled up as Kiev was. And that was when we were sent to the zone, I’ll never forget that day. I almost lost my entire team because of those bureaucratic rats. To them it was no big deal throwing soldiers’ lives away, considering they just had to know what those anomalies were capable of, bastards. How I, Dima and Sergey made it out alive, I still don’t know, the zone must have been guiding us. Anyway, when we made to the HQ, I was ready to shoot the general who ordered this operation. I almost did it, I had the gun pointed between his eyes but I was captured in time. After that, I was thrown in jail. If it wasn’t for my friends who helped me escape, I would probably be stuck in some Russian prison right now. After I escaped the military camp, I had two choices: either live in the zone, or spend the rest of my life hiding in the outside world. I choose the former. I rather live freely in the zone, than be rotting in some shitty prison.</text>
     </string>
     <string id="blck_val_actor_meet_from_stavrid_about_52004">
-        <text>Yeah, that’s one hell of a story. Do you ever miss your hometown? </text>
+        <text>Yeah, that’s one hell of a story. Do you ever miss your hometown?</text>
     </string>
     <string id="blck_val_actor_meet_from_stavrid_about_52005">
         <text>You know, at first I didn’t miss it at all; I was too busy trying to stay alive. Back then, the zone was a lot more dangerous than it is now and it was almost completely devoid of people to boot. Even though, I’m an experienced soldiers and I’ve seen all the horrors of war, none of them could compared to what I’ve seen in the zone. When your friend gets caught in an anomaly, flies up in the area and gets torn to shreds, you stop feeling anything but fear. Nevertheless, you can’t lose skill and so I managed to survive somehow. After sometime, when I gained some experience and got a bit more comfortable here, that’s when I started to feel a longing for home. Nowadays, I really want to go home. See my parents one last time, I don’t even know if they are alive or not. I’m even willing to go sit in prison if in the end I’ll get to return home.</text>
@@ -1084,7 +1084,7 @@
         <text>Fuck man… Poor Savage. In any case though, you’ve made the right choice, in my opinion. For all we know Savage is already dead.</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_43">
-        <text>Can reconfigure back my PDA, Petrovich? </text>
+        <text>Can reconfigure back my PDA, Petrovich?</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_44">
         <text>Sure thing. Lets see… Here you go, good as new. So where are you off to now?</text>
@@ -1246,7 +1246,7 @@
         <text>Rasputin, can you give me the pseudogiant figure that’s on that shelf?</text>
     </string>
     <string id="blck_val_actor_meet_shaman_about_toy_1">
-        <text>What do you need it for? It doesn’t just sit there. It’s part of my bar’s entourage, and I’ve gotten used to it being there for so long.</text>
+        <text>What do you need it for? It doesn’t just sit there, you know. It’s part of my bar’s entourage, and I’ve gotten used to it being there for so long.</text>
     </string>
     <string id="blck_val_actor_meet_shaman_about_toy_2">
         <text>Petrovich asked me to find figures of all mutants in the Zone. You have one of them.</text>
@@ -1255,7 +1255,7 @@
         <text>I’ll give it to you for a thousand. No questions asked.</text>
     </string>
     <string id="blck_val_actor_meet_shaman_about_toy_4">
-        <text>He’s been begging for it for quite a while. I was going to give it away, but he already sent you on a hunt for all the figures. So, if he really wants it, then take it. I’ll put something else in its place.</text>
+        <text>He’s been begging for it for quite a while. I was going to give it away, but he already sent you on a hunt for all the figures. So if he really wants it, then take it. I’ll get something else to replace it.</text>
     </string>
     <string id="blck_val_actor_meet_shaman_about_toy_5">
         <text>Well, okay. If you need it so badly, take it. Was just curious why you needed it…</text>
@@ -1465,7 +1465,7 @@
         <text>No. Everything went fine. Give me the guns.</text>
     </string>
     <string id="blck_val_bandit_shmiga_school_meet_6">
-        <text>They’re all yours. Here. And, some more info for ya: go see Bookmaker in the yard. He can organize some real fun for you, not to mention the money in it.</text>
+        <text>They’re all yours. Here. And some more info for ya: go see Bookmaker in the yard. He can organize some real fun for you, not to mention the money in it.</text>
     </string>
     <string id="blck_val_bandit_shmiga_school_meet_7">
         <text>Great. I’ll head there.</text>
@@ -1546,7 +1546,7 @@
         <text>And how do you want to go about finding it?</text>
     </string>
     <string id="blck_val_bandit_shmiga_talk_quest_6">
-        <text>It won’t be that hard. There are two keys for this cage: one’s held by Saurel while the other is… or, was, guarded by Chemist. Chemist’s key, however, is held by Sologub right now. I heard from a stalker that Sologub just leaves his key on his nightstand while he’s out like a light. You just need to fetch the key while he’s asleep, and, after we’re out of here, return the key back to where you took it from. If everything goes as planned, they won’t even know a thing.</text>
+        <text>It won’t be that hard. There are two keys for this cage: one’s held by Saurel while the other is… or, was, guarded by Chemist. Chemist’s key, however, is held by Sologub right now. I heard from a stalker that Sologub just leaves his key on his nightstand while he’s out like a light. You just need to fetch the key while he’s asleep, and after we’re out of here, return the key back to where you took it from. If everything goes as planned, they won’t even know a thing.</text>
     </string>
     <string id="blck_val_bandit_shmiga_talk_quest_7">
         <text>Sounds like a plan, but how can I trust your offer?</text>
@@ -1633,13 +1633,13 @@
         <text>Thank you. I’ll be going now.</text>
     </string>
     <string id="blck_val_levsha_first_meet_10">
-        <text>Well, anyone could’ve done it. Listen: I went on a raid with Limp not long ago, and the Zone gave us this gift. Basically, we came upon a load of artifacts and crammed it all into a container. We agreed to keep the container hidden, and you can guess what happened after that: we split up. Limp managed to return to the base before I did. All in all, we were feeling happy and generous, so we decided to have some drinks with another couple of stalkers. Then the dimwit tells me that he brought the container to the base. I didn’t stand that shit, so I gave him a smack. That’s when the conflict started. Rasputin messaged me thereafter, saying that he lost the container. Clearly, whoever plotted all of this wasn’t screwing around.</text> <!-- fix -->
+        <text>Well, anyone. Listen: I went on a hike with Limp not long ago, and the Zone gave us a special gift. Basically, we encountered a load of artifacts and crammed it all into a container that we agreed to hide. From there, we split up. Limp managed to return to the base before I did. All in all, we were feeling happy and generous, so we shared a few drinks with another pair of stalkers. Next, the dimwit tells me that he brought the container to the base. I lost my temper and pushed him over.\n \nThat’s when the conflict started. Rasputin messaged me thereafter, saying that the container was gone. Whoever stole the container made it look like I was the guilty one so that the stalkers would go after me instead.</text>
     </string>
     <string id="blck_val_levsha_first_meet_11">
         <text>Who do you think is behind it?</text>
     </string>
     <string id="blck_val_levsha_first_meet_12">
-        <text>I have no idea. I know for sure that it couldn’t have been Rasputin, Skew, or Saurel, obviously. Beast, I beg you, explain everything to Saurel. I don’t want everything to keep going this way. I’m not afraid to die, but I don’t want to die as a rat.</text>
+        <text>I have no idea. I know for sure that it couldn’t have been Rasputin, Skew, or Saurel, obviously. Beast, I beg you, go explain everything to Saurel. I don’t want things to be like this. I’m not afraid to die, but I don’t want to die as a rat.</text>
     </string>
     <string id="blck_val_levsha_first_meet_13">
         <text>I’ll go talk to him and get back to you.</text>
@@ -1669,7 +1669,7 @@
         <text>I arrived here yesterday while you were slipping away.</text>
     </string>
     <string id="blck_val_levsha_first_meet_6">
-        <text>Oh, I didn’t slip away anywhere. I just went for a stroll to relax. Then Rasputin sent me a message about Limp’s death. Everyone thought I was the killer, and then the bandits went after me, and I couldn’t go back. And, no! I didn’t kill Limp! He was like a brother to me.</text>
+        <text>Oh, I didn’t slip away anywhere. I just went for a stroll to relax. Then Rasputin sent me a message about Limp’s death. Everyone thought I was the killer, and then the bandits went after me, and I couldn’t go back. And no! I didn’t kill Limp! He was like a brother to me.</text>
     </string>
     <string id="blck_val_levsha_first_meet_7">
         <text>Only you had any reason to do it.</text>
@@ -1756,7 +1756,7 @@
         <text>Not long ago, the Monolith tested my faith, and I almost wandered off the righteous path. But I withstood! Praise the Monolith! Its challenges forge us! We were on our way back from the Dark Valley, and I fell slightly behind my brethren. The evil took this advantage and promptly started enticing me. And… I hesitated. The pure images were corrupted; the enemy whispered to me that we’er merely slaves to the Monolith. But then it occurred to me: this was a challenge. I remembered the Monolith’s shine and might, and my will, my courage were restored. Since then, I fear no challenge and know no hesitation. Praise the Monolith!</text>
     </string>
     <string id="blck_val_monolith_story_group_5">
-        <text>I’ve been to the Dark Valley. The infidels are abundant there, since the Monolith’s power hasn’t reached these lands yet. We had been guarding. At night, we were attacked. We fought those animals fiercely. My brethren’s prowess was honored: the Monolith summoned them soon after. But, for me, he prepared another challenge. My weapon wouldn’t fire. But then, the Monolith said: “You are with me, and my strength is with you. If you stay true to your faith, you shall crush your foes and move nearer to me!” And I became a shadow. I crouched and crept towards their right. The daft, foolish spies were blind to it. They though that they’d finish with us and laughed over the hollow bodies of our brethren. But I had already faced their backs. And the Monolith’s force struck them out of my hands. Thus, it killed them. I’m gleeful to serve you, the Supreme one!</text>
+        <text>I’ve been to the Dark Valley. The infidels are abundant there, since the Monolith’s power hasn’t reached these lands yet. We had been guarding. At night, we were attacked. We fought those animals fiercely. My brethren’s prowess was honored: the Monolith summoned them soon after. But for me, he prepared another challenge. My weapon wouldn’t fire. But then, the Monolith said: “You are with me, and my strength is with you. If you stay true to your faith, you shall crush your foes and move nearer to me!” And I became a shadow. I crouched and crept towards their right. The daft, foolish spies were blind to it. They though that they’d finish with us and laughed over the hollow bodies of our brethren. But I had already faced their backs. And the Monolith’s force struck them out of my hands. Thus, it killed them. I’m gleeful to serve you, the Supreme one!</text>
     </string>
     <string id="blck_val_monolith_story_group_6">
         <text>I have nothing more to share with you, brother.</text>
@@ -1765,7 +1765,7 @@
         <text>What do you need, thief? I wanted to catch some shut-eye, and then you showed up…</text>
     </string>
     <string id="blck_val_prisoner_quest_line_meet_1">
-        <text>You’ll get your beauty sleep later… I want to know how long I’ve been here, and what place I’ve ended up in?</text>
+        <text>You’ll get your beauty sleep later… I want to know how long I’ve been here and what place I’ve ended up in?</text>
     </string>
     <string id="blck_val_prisoner_quest_line_meet_10">
         <text>Uh-uh. Good luck with that.</text>
@@ -1807,16 +1807,16 @@
         <text>Of course. Here; everything that was on you.</text>
     </string>
     <string id="blck_val_security_talk_from_actor_3">
-        <text>I see. Where is the group that was with me?</text>
+        <text>I see. Where is my group?</text>
     </string>
     <string id="blck_val_security_talk_from_actor_4">
-        <text>Well, part of your group is in the base, while the others left the Outpost with a guide. Some other guy, Markus, got lost somewhere. Some Savage tells me that he ended up in an anomaly and never got out. Go talk to him. Maybe I missed a few details. Oh, and, by the way: go talk to Saurel. He’s got a few words that he wants to share with you.</text>
+        <text>Well, part of your group is in the base, while the others left the Outpost with a guide. Some other guy, Markus, got lost somewhere. Some Savage tells me that he ended up in an anomaly and never escaped. Go talk to him. Maybe I missed a few details. Oh, and by the way: go talk to Saurel. He’s got a few words that he wants to share with you.</text>
     </string>
     <string id="blck_val_security_talk_from_actor_5">
         <text>Got it. Release me.</text>
     </string>
     <string id="blck_val_security_talk_from_actor_6">
-        <text>Well, part of your group is in the base, while the others left the Outpost with a guide. Some other guy, Markus, got lost somewhere. Some Savage tells me that he ended up in an anomaly and never got out. Go talk to him. Maybe I missed a few details. Oh, and, by the way: go talk to Saurel. He’s got a few words that he wants to share with you.</text>
+        <text>Well, part of your group is in the base, while the others left the Outpost with a guide. Some other guy, Markus, got lost somewhere. Some Savage tells me that he ended up in an anomaly and never escaped. Go talk to him. Maybe I missed a few details. Oh, and by the way: go talk to Saurel. He’s got a few words that he wants to share with you.</text>
     </string>
     <string id="blck_val_security_talk_from_actor_7">
         <text>Got it. Release me.</text>
@@ -1894,7 +1894,7 @@
         <text>What are you saying? You sure you didn’t mix any of this up?</text>
     </string>
     <string id="blck_val_sologub_help_meet_12">
-        <text>No. I’m still not in my right mind. Listen what happened: you collapsed, and then I heard a laugh; sounded horrifying… and some figure with a black trenchcoat knelt beside your body… So I waited a bit longer, then ran out and popped a few shots at the guy, and he disappeared in an instant. After that whole freakshow, I brought you back to base. It took me two tours; one for you and one for all your belongings.</text> <!-- fix -->
+        <text>No. I haven’t lost my mind just yet. Hear me out: you collapsed, and then I heard a horrifying laugh… Some figure with a black trenchcoat knelt beside your body. So I waited a bit longer, then ran out and popped a few shots at the guy, who disappeared in an instant. After that whole freakshow, I brought you back to base. It took me two tours; one for you and one for all your belongings.</text>
     </string>
     <string id="blck_val_sologub_help_meet_13">
         <text>Thank you so much, man. If there’s anything I can do for you, let me know.</text>
@@ -1909,10 +1909,10 @@
         <text>What “Fish”? Did you know this guy?</text>
     </string>
     <string id="blck_val_sologub_help_meet_17">
-        <text>Yeah. When I had just gotten into the Zone, he saved me and joined me up with the mercenaries. But, later, Fish was cast out from the Syndicate, and he counted on me to come with him. I stayed. Fish blamed me for it and made it clear that we would see each other again. I didn’t hear from Fish for the longest time, but then, someone messaged me and told me that he and his squad were found dead in Yantar. And this whole time, I thought he was dead.</text>
+        <text>Yeah. When I had just gotten into the Zone, he saved me and joined me up with the mercenaries. Eventually, Fish was cast out from the Syndicate, and he counted on me to come with him. I stayed. Fish blamed me for it and made it clear that we would see each other again. I didn’t hear from Fish for the longest time, but then someone messaged me and told me that he and his squad were found dead in Yantar. And this whole time, I thought he was dead.</text>
     </string>
     <string id="blck_val_sologub_help_meet_18">
-        <text>So, he most likely died.</text>
+        <text>So he most likely died.</text>
     </string>
     <string id="blck_val_sologub_help_meet_19">
         <text>But I saw him with my own two eyes.</text>
@@ -1924,7 +1924,7 @@
         <text>There was no one near you. That’s for sure.</text>
     </string>
     <string id="blck_val_sologub_help_meet_21">
-        <text>I might as well tell you another thing: the figure you saw next to me; I met him before in the space bubble. He’s very dangerous. It’s good you showed up when you did and saved me. Thank you again. Now, excuse me: I gotta have a word with Petrovich.</text>
+        <text>I might as well tell you another thing: the figure you saw next to me; I met him before in the space bubble. He’s very dangerous. It’s good you showed up when you did and saved me. Thank you again. Now, excuse me. I need to have a word with Petrovich.</text>
     </string>
     <string id="blck_val_sologub_help_meet_22">
         <text>So that’s what it was… Listen: I suggest you keep your mouth shut about this creature, lest there be any misunderstandings. I’m also gonna keep quiet.</text>
@@ -1981,7 +1981,7 @@
         <text>Don’t even start…</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_10">
-        <text>That’s right… And I think I’m gonna have a glassful…</text>
+        <text>That’s right… And I think I’m gonna have a drink…</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_11">
         <text>What made you start drinking?</text>
@@ -1999,7 +1999,7 @@
         <text>What happened?</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_16">
-        <text>We somehow got into an argument with him, because of some mere trifle. And he… decided to go on a raid on his own, while I stayed in the base… and Sashka never returned. I look for him for a looong time, but there was no trace of him anywhere. But, not long ago, I saw him. Or, rather, what was left of him…</text>
+        <text>We somehow got into an argument with him, because of some mere trifle. And he… decided to go on a raid on his own, while I stayed in the base… and Sashka never returned. I look for him for a looong time, but there was no trace of him anywhere. But not long ago, I saw him. Or, rather, what was left of him…</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_17">
         <text>Nothing you can do about it. And you better lay off the booze.</text>
@@ -2023,7 +2023,7 @@
         <text>W-what? Any news?</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_24">
-        <text>I put your friend out of his misery, along with the other zombies in the graveyard.</text>
+        <text>I put your friend out of his misery, along with his graveyard buddies.</text>
     </string>
     <string id="blck_val_stalker_drunk_quest_25">
         <text>T-that’s great… Thanks, man… You did a lot for me… Have this…</text>
@@ -2080,7 +2080,7 @@
         <text>No, no, no! Was there anyone else with him?</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_15">
-        <text>No. He was alone. He talked nonsense about the Scorcher and some Humpback…</text>
+        <text>He was alone. He talked nonsense about the Scorcher and some Humpback…</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_16">
         <text>This is all my fault… Humpback and Spotty got the worst of it because of me. In the worst moment, I left them and ran off.</text>
@@ -2089,7 +2089,7 @@
         <text>Tell me what happened.</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_18">
-        <text>Humpback, Spotty, and I spent a long time preparing to break through the north. ??? We didn’t have enough time to wait for the Scorcher to cool down ???, and Spotty acquired some information from a member of Final Day. From Swede, it seems. We were halfway through the Radar when the Scorcher turned on without warning. Spotty lost it; he went unconscious, fell off a slope, and, after that, disappeared somewhere. He wasn’t where he should’ve been after the fall. No reply via PDA, either. I panicked and decided on abandoning the mission and returning. Humpback was dead set on finding Spotty, but that would’ve been suicide for us. Still, I went with Humpback’s plan. He descended the slope to look for Spotty where he should’ve been. And then the Scorcher hit us. I regained consciousness outside a military base. Until now, I figured they were both dead…</text>
+        <text>Humpback, Spotty, and I spent a long time preparing to break through the north. We didn’t have enough time to wait for the Scorcher to cool down, and Spotty acquired some information from a member of Final Day. From Swede, it seems. We were halfway through the Radar when the Scorcher turned on without warning. Spotty lost it; he went unconscious, fell off a slope, and after that, disappeared somewhere. He wasn’t where he should’ve been after the fall. No reply on my PDA, either. I panicked and decided on abandoning the mission and going back. Humpback was dead set on finding Spotty, but that would’ve been suicide for us. Still, I went with Humpback’s plan. He descended the slope to look for Spotty where he should’ve been. And then the Scorcher hit us. I regained consciousness outside a military base. Until now, I figured they were both dead…</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_19">
         <text>You can’t put it back, Baldy. Don’t punish yourself over the past.</text>
@@ -2107,7 +2107,7 @@
         <text>No, no, no! Was there anyone else with him?</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_6">
-        <text>No. He was alone. He talked nonsense about the Scorcher and some Humpback. Then he asked me to bring you this artifact and told me that you would give it to his wife.</text>
+        <text>He was alone. He talked nonsense about the Scorcher and some Humpback. Then he asked me to bring you this artifact and told me that you would give it to his wife.</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_7">
         <text>This is all my fault… Humpback and Spotty got the worst of it because of me. In the worst moment, I left them and ran off.</text>
@@ -2116,7 +2116,7 @@
         <text>Tell me what happened.</text>
     </string>
     <string id="blck_val_stalker_in_bar_meet_9">
-        <text>Humpback, Spotty, and I spent a long time preparing to break through the north. ??? We didn’t have enough time to wait for the Scorcher to cool down ???, and Spotty acquired some information from a member of Final Day. From Swede, it seems. We were halfway through the Radar when the Scorcher turned on without warning. Spotty lost it; he went unconscious, fell off a slope, and, after that, disappeared somewhere. He wasn’t where he should’ve been after the fall. No reply via PDA, either. I panicked and decided on abandoning the mission and returning. Humpback was dead set on finding Spotty, but that would’ve been suicide for us. Still, I went with Humpback’s plan. He descended the slope to look for Spotty where he should’ve been. And then the Scorcher hit us. I regained consciousness outside a military base. Until now, I figured they were both dead…</text>
+        <text>Humpback, Spotty, and I spent a long time preparing to break through the north. We didn’t have enough time to wait for the Scorcher to cool down, and Spotty acquired some information from a member of Final Day. From Swede, it seems. We were halfway through the Radar when the Scorcher turned on without warning. Spotty lost it; he went unconscious, fell off a slope, and after that, disappeared somewhere. He wasn’t where he should’ve been after the fall. No reply on my PDA, either. I panicked and decided on abandoning the mission and going back. Humpback was dead set on finding Spotty, but that would’ve been suicide for us. Still, I went with Humpback’s plan. He descended the slope to look for Spotty where he should’ve been. And then the Scorcher hit us. I regained consciousness outside a military base. Until now, I figured they were both dead…</text>
     </string>
     <string id="blck_val_stalker_in_bar_start_2">
         <text>What do you want, merc? Not really in the mood for chit-chat…</text>
@@ -2128,7 +2128,7 @@
         <text>It’s all right. Don’t let it go to your head. What info did Miklukha have on his PDA?</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_13">
-        <text>Okay. Let’s take a look at the PDA’s contents. Petrovich didn’t manage to decrypt all of the entries, but we managed to find some useful information nonetheless. Miklukha had a spare plan for driving the Monolithians out of the Outpost. It was a rather simple plan: acquire a Monolith disguise, infiltrate their base, and blow up the structure with explosives. I think this plan deserves a try, but first, we need to get hold of a suit from the Monolith, as well as one of their PDAs. That task will be up to you and Sologub. After you find a disguise, meet up with Sologub in the base, set up the explosive charges, then detonate them and return back here. That’s the plan.</text>
+        <text>Okay. Let’s take a look at the PDA’s contents. Petrovich didn’t manage to decrypt all of the entries, but we managed to find some useful information nonetheless. Miklukha had a spare plan for driving the Monolithians out of the Outpost. It was rather simple: acquire a Monolith disguise, infiltrate their base, and destroy the structure with explosives. I think this plan deserves a try, but first, we need to get hold of a Monolith bodysuit, as well as one of their PDAs. That task will be up to you and Sologub. After you find a disguise, meet up with Sologub in the base, set up the explosive charges, then detonate them and return back here. That’s the plan.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_14">
         <text>Not a bad idea, but where do I get two Monolith outfits?</text>
@@ -2170,7 +2170,7 @@
         <text>This just keeps getting better… Anyway, first we need to strike at their base in the construction site. We’ll go on from there.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_28">
-        <text>Piece of cake. We’ll need to wait for the suits, though. Don’t know how long it’ll take for them to arrive. Give me the rifle; I’ll send it to the trader for him to give us the package.</text>
+        <text>Piece of cake. We’ll need to wait for the bodysuits, though. Don’t know how long it’ll take for them to arrive. Give me the rifle; I’ll send it to the trader for him to give us the package.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_29">
         <text>Gotcha. Here you go.</text>
@@ -2200,7 +2200,7 @@
         <text>All right. Where’s Sologub right now? Is he good to go?</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_39">
-        <text>Ah, yeah: regarding Sologub, he’s not going with you… Savage, on the other hand, was itching to be his replacement. At first, I didn’t consent, but in the end, I figured things would be easier with him by your side. He’s already donned a suit, and is waiting for you downstairs. First, though, go see Petrovich. He’ll reconfigure yours and Savage’s PDAs.</text>
+        <text>Ah, yeah: regarding Sologub, he’s not going with you… Savage, on the other hand, was itching to be his replacement. At first, I didn’t consent, but in the end, I figured things would be easier with him by your side. He’s already donned a bodysuit, and is waiting for you downstairs. First, though, go see Petrovich. He’ll reconfigure yours and Savage’s PDAs.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_4">
         <text>Sorry, but I can’t risk my own men. You got out, and that’s what’s matters. The rest do not. We’re not close enough to the Freedomers to die for their sake.</text>
@@ -2209,7 +2209,7 @@
         <text>Give me the rundown once more, then I’ll go talk to Petrovich.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_41">
-        <text>All right. Here’s the plan: you and Savage will infiltrate the Monolith base. Once you’re in, you’ll attach the explosive charges to the column on the second floor of the building while Savage tries to distract the Monolithians. After you set the charges, return to our base immediately so you don’t end up like the Monolith. That’s the plan. Now, take your Monolith suit and the charges. Break a leg, you two.</text>
+        <text>All right. Here’s the plan: you and Savage will infiltrate the Monolith base. Once you’re in, you’ll attach the explosive charges to the column on the second floor of the building while Savage tries to distract the Monolithians. After you set the charges, return to our base immediately so you don’t end up like the Monolith. That’s the plan. Now, take your Monolith bodysuit and the charges. Break a leg, you two.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_42">
         <text>Thank you.</text>
@@ -2254,7 +2254,7 @@
         <text>Perhaps you’re right. There’s no guarantee Savage is still alive…</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_58">
-        <text>Exactly! My advice is to go to Petrovich. He’ll reset your PDA. Get out of that damn Monolith outfit and see Hunter. Just don’t go into that laboratory.</text>
+        <text>Exactly! My advice is to go to Petrovich. He’ll reset your PDA. After that, get out of that damn Monolith outfit and see Hunter. Just don’t go into that laboratory.</text>
     </string>
     <string id="blck_val_stavrid_zavod_zasada_59">
         <text>All right. So be it. I’ll talk to Petrovich and then go to Hunter.</text>
