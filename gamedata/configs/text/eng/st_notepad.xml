@@ -371,7 +371,7 @@ Forbes отмечает, что за этот период вышло два фильма с Дауни-младшим, каждый из 
 <string id="ars_mar_b8_documents_1">
 	<text>Издательство Ubisoft уточнило срок релиза постапокалиптической MMO The Division. Как пишет Eurogamer со ссылкой на представителей компании, игра появится в продаже в конце 2014 года. Ранее было известно, что она выйдет в следующем году, но более точный срок не назывался.
 На встрече с инвесторами глава компании Ив Гиймо также уточнил срок выхода гоночной игры The Crew. По его словам, она должна поступить в продажу до 1 апреля 2014 года. Помимо этого Ubisoft объявила о переносе своей пока не анонсированной франшизы. Теперь она поступит в продажу лишь в следующем финансовом году (то есть в период с апреля 2014 года по конец марта 2015 года). Никаких подробностей об этом проекте глава компании не предоставил.
-Многопользовательская игра The Division была представлена на выставке E3-2013. Она должна выйти на консолях следующего поколения Xbox One и PS4. Разработкой игры занимается Massive Entertainment, известная по Far Cry 3 и Assassin's Creed Revelations.
+Многопользовательская игра The Division была представлена на выставке E3-2013. Она должна выйти на консолях следующего поколения Xbox One и PS4. Разработкой игры занимается Massive Entertainment, известная по Far Cry 3 и Assassin’s Creed Revelations.
 Действие The Division происходит в альтернативной версии нашего мира, где однажды в «черную пятницу» по миру начинает распространяться крайне опасный вирус. Всего за пять дней это приводит к глобальной катастрофе. События игры разворачиваются вскоре после эпидемии. Ее героями являются сотрудники особого отдела, цель которых — спасти выжившее население.
 После того, как стало известно, что Ubisoft планирует выпустить игру только на консолях, геймеры потребовали от издательства также сделать и PC-версию проекта. Они даже начали собирать подписи под соответствующей петицией (и набрали более 131 тысячи). Однако однозначного ответа на вопрос о том, выйдет ли игра на этой платформе, издательство пока не дало..</text>
 </string>
@@ -1293,13 +1293,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Decoder.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_7">
-	<text>(12.04.11 16:48) Fucking hell, I've been trapped for six day in this fucking anomaly. At least some stalkers get teleported here from time to time. I can kill them and steal their loot. Too bad there isn't anyone to sell it off... I gotta get the fuck out of here already. Maybe I should scan the area, perhaps I can find something. (12.04.11 19:43) I found an entire stalker group in the barn, I didn't attack them since there too many of them. Instead I told them I was a loner... I'd be fucked if they find out who I really am. I'll try to gain their trust, perhaps they can help me find the way out of this shithole.</text>
+	<text>(2011-04-12, 16:48) Fucking hell, I've been trapped for six days in this fucking anomaly. At least some stalkers get teleported here from time to time. I can kill them and steal their loot. Too bad there isn't anyone to sell it off to.. I gotta get the fuck out of here already. Maybe I should scan the area, perhaps I can find something. (12.04.11 19:43) I found an entire stalker group in the barn, I didn't attack them since there are too many of them. Instead I told them I was a loner... I'd be fucked if they find out who I really am. I'll try to gain their trust, perhaps they can help me find the way out of this shithole.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_8">
-	<text>(23.06.11 11:23) I'm slowly gaining the trust these stalkers. Although Savage, that guy really pisses me off... It takes a shitton of willpower every time just to not shoot that asshole. It's fine though, I'll totally ice him later. As for the loot that I've been taking of the dead bodies, I've hid the best for myself. It's been a long time since I've hit such a jackpot, too bad there's no one to brag to though. Alright, I'm going to check up on my stash, see if everything is still there.</text>
+	<text>(2011-06-23, 11:23) I'm slowly gaining the trust these stalkers. Although Savage, that guy really pisses me off... It takes a shitton of willpower every time I talk to him to just not shoot that asshole. It's fine though, I'll totally ice him later. As for the loot that I've been taking of the dead bodies, I've hid the best for myself. It's been a long time since I've hit such a jackpot, too bad there's no one to brag to though. Alright, I'm going to check up on my stash, see if everything is still there.</text>
 </string>
 <string id="enc_faction_mar_b1_doc_9">
-	<text>(14.07.11 18:53) This anomaly has changed me after all, I've forget what's it like to be a bandit but hey, I've become a better shot since I got here. Anyway, I killed 3 guys today, two mercenaries and a scientist. The egghead had a strange device with him called a decoder. He also had some documents with him which is where I found out the name of that thing but that's not what's Important. What is important though, is that this decoder can get me out of here somehow, if only I knew how... I'll hide it in the meantime and try to find some more info inside those documents.</text>
+	<text>(2011-07-14, 18:53) This anomaly has changed me after all, I've forget what's it like to be a bandit but hey, I've become a better shot since I got here. Anyway, I killed 3 guys today, two mercenaries and a scientist. The egghead had a strange device with him called a decoder. He also had some documents with him which is where I found out the name of that thing but that's not what's important. What is important though, is that this decoder can get me out of here somehow, if only I knew how... I'll hide it in the meantime and try to find some more info inside those documents.</text>
 </string>
 
 <string id="mar_b2_doc_7">
@@ -1321,7 +1321,7 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>(Yesterday, 21:57) That's it. I know where the container is. Man, those guys are idiots. They got drunk and told me everything. All I have to do now is find out how to steal their loot without getting noticed.</text>
 </string>
 <string id="enc_faction_mar_b2_doc_9">
-	<text>(Yesterday, 23:19) It's done. I have the loot, and Limp is dead. Saurel and the rest of those idiots don't suspect a thing… They think Lefty killed Limp. I should ice Lefty too, just in case.</text>
+	<text>(Yesterday, 23:19) It's done. I have the loot, and Limp is dead. Saurel and the rest of those idiots don't suspect a thing... They think Lefty killed Limp. I should ice Lefty too, just in case.</text>
 </string>
 <string id="enc_faction_mar_b2_doc_9_1">
 	<text>(Today, 2 hours ago) That damn mercenary is becoming a real problem, sticking his nose where it doesn't belong. I need to get rid of him quickly, before he blows my cover. Rasputin, the fucking bastard, talks way too much. If it wasn't for him, the mercenary would have done my job for me. Goddamn it. My knife is gone. I need to find it before some else does.</text>
@@ -1370,16 +1370,16 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>File damaged.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_3">
-	<text>(2011-02-15, 13:42)	Mark told me all about Clear Sky and it turns out that both Lebidev and Kalancha are with them. This faction is, scientifically, very capable and they are already on the right path. However at the same time they seem to be missing what's right in front of them. It's strange, why haven't they joined C-consciousness? Mark also told me that their base is located somewhere in the south.</text>
+	<text>(2011-02-15, 13:42) Mark told me all about Clear Sky and it turns out that both Lebidev and Kalancha are with them. This faction is, scientifically, very capable and they are already on the right path. However at the same time they seem to be missing what's right in front of them. It's strange, why haven't they joined C-consciousness? Mark also told me that their base is located somewhere in the south.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_4">
 	<text>(2011-02-23, 13:42) We have some serious problems. We found out that there's a group of stalkers out there who are planning to reach the zone's center. At first, it would seem as though this isn't a big deal as there were many groups like it before. However, this group is being aided by the Swamp Doctor which means they have a real chance to go through with what they're planning. Damn it, they don't have the slightest clue how much damage their actions are going to cause. As of now we know of only one stalker from said group: Ghost. We need to find and kill him.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_5">
-	<text>(2009-08-04, 13:42) It's been almost half a year since Ghost killed Mark, and made our faction fall apart. The rest of our members are scattered all over the zone. Cold's squad along with him joined Clear Sky, fools. As for me, It's time for to get out of this hellhole, it's not like I can survive here alone.</text>
+	<text>(2009-08-04, 13:42) It's been almost half a year since Ghost killed Mark, and made our faction fall apart. The rest of our members are scattered all over the Zone. Cold's squad along with him joined Clear Sky, fools. As for me, It's time for to get out of this hellhole, it's not like I can survive here alone.</text>
 </string>
 <string id="enc_faction_mar_b3_doc_9_6">
-	<text>(2009-10-17, 13:42) Things weren't supposed to turn out this way. All of Clear Sky's members must've died in the CNPP. I doubt they would have gotten there without the help of that mercenary. Goddamn it, I shouldn't be thinking about this right now, right before my death. It's all so sad. I could have been in the outside world right now. Man, fuck this zone, fuck Ghost and Strelok, and fuck C-Consciousness. That's it, this is the end, the final day has come, my final day. </text>
+	<text>(2009-10-17, 13:42) Things weren't supposed to turn out this way. All of Clear Sky's members must've died in the CNPP. I doubt they would have gotten there without the help of that mercenary. Goddamn it, I shouldn't be thinking about this right now, right before my death. It's all so sad. I could have been in the outside world right now. Man, fuck this zone, fuck Ghost and Strelok, and fuck C-Consciousness. That's it, this is the end, the final day has come, my final day.</text>
 </string>
 
 <string id="mar_b4_doc_7">
@@ -5951,41 +5951,41 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_b1_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b1_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b1_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b1_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b2_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b2_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b2_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b2_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b3_doc_1">
@@ -5998,171 +5998,171 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>19.03.2009</text>
 </string>
 <string id="mar_b3_doc_3_1">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b3_doc_3_2">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b3_doc_3_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b4_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b4_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b4_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b4_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b5_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b5_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b5_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b5_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b6_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b6_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b6_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b6_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b7_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b7_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b7_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b7_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b8_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b8_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b8_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b8_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b9_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_b9_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_b9_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_1">
 	<text>Вход в объект замаскирован под канализационные коммуникации. И когда просвещённый нес знания, свет снизошел с небес, который заволок  их обитель  сиянием, указывающим на северо-восток. В самую крайнюю точку.</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_b9_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a10_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a10_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a10_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_2">
 	<text>Поток аномальной энергии от ангела был огромен.  Завораживающая по своей красоте аномалия была самим совершенством. Она и станет нашим козырным тузом в колоде. Пентаграмма ангелов сиих накроет город и покарает фанатиков. Они всегда рождаются по одной схеме, друг за другом. Найти прошлое место по существующим не составит труда.</text>
 </string>
 <string id="enc_mutant_mar_a10_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a2_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a2_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a2_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a2_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a2_doc_2">
 	<text>.огород и олам ,онревкс ьтавад онжом умотэоп .»морад и огонм ,ошорох« :хапицнирп херт ан анавонсо арим амалкер ясв ...ыпулг еж есв идюл .2
@@ -6176,13 +6176,13 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a3_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a3_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a3_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_1">
 	<text>.огород и олам ,онревкс ьтавад онжом умотэоп .»морад и огонм ,ошорох« :хапицнирп херт ан анавонсо арим амалкер ясв ...ыпулг еж есв идюл .2
@@ -6192,46 +6192,46 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 ,йеовс ьсилед ен йонйат ыт имьдюл с .1</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a3_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a4_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a4_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a4_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_2">
 	<text>.еинеримирп ,еинадварпо ,еинещорп мозар — еинаминоп отч умотоп ,вогарв еинаминоп отэ — йиксечеволеч ешьлоб еще ,йынсаркерп еелоб еще гивдоп ьтсе он ;гивдоп йынсаркерп — вогарв еинещорп .2
 .еинещорп ьтаворад и — еиненивбо ьтисорб одан йе огечто тов .ансунг и еще ано он !анчигарт окьлот алыб ахопэ ашан ыб илсе .1</text>
 </string>
 <string id="enc_mutant_mar_a4_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a5_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a5_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a5_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a5_doc_3">
 	<text>.ястачорпу еелоб еще илетедорбод иовт адгот .ондив ен ынив едг ,мат унив ищи ,ябес ьшидус адгок .еисалгос тедуб хядюл в адгот .ынив еивтстусто енив хи в ищи ,хигурд ьшидус адгок .2
@@ -6239,80 +6239,80 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 </string>
 
 <string id="mar_a6_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a6_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a6_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_1">
 	<text>.меинадартс и имакум хин ялд ястеачнок ,еинеджалсан ми ьтиватсод ыботч ,огот отсемв хи еивтсешетуп умотэоп .усрук умонрев ьдубин-умокак оп ьлбарок итсев ыботч ,амузар ончотатсоден хин у ,ьтуп йовс ьтиварпан ыботч ,асапмок тен хин у он ,хасурап хесв ан ером в ястюаксуп ино ,оге итйан ьсямертс .йедюл хыдолом овтснишьлоб ястюавибзар йыроток бо ,фир отэ — еивтсьловоду .2
 .теавигятирп хи яароток ,ихетоп йовон йот ытотсуп еще тюувтсвуч ен он ,инзиж йеовс утотсуп тюувтсвуч отч ,умотоп окьлот ,уноротс в ыноротс зи ьсяасорб ,яивтсьловоду тущи идюл .1</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a6_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a7_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a7_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a7_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_1">
 	<text>Данные по установке активировавших ангелов и основной архив находиться на нашей главное базе, секретный путь к которой лежит через объект Болота.</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a7_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a8_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a8_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a8_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_1">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a8_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_a9_doc_1">
-	<text>Day before yesterday</text>
+	<text>Позавчера</text>
 </string>
 <string id="mar_a9_doc_2">
-	<text>Yesterday</text>
+	<text>Вчера</text>
 </string>
 <string id="mar_a9_doc_3">
-	<text>Today</text>
+	<text>Сегодня</text>
 </string>
 <string id="enc_mutant_mar_a9_doc_1">
 	<text>Долгой дорогой  путник проходишь ты. Столько тайн и загадок на твоем пути. Осознай суть тайны той и пойми что скрыто за печатью ангельской из букв пяти. Буквы те, что в словах-отгадках манускриптов  сих на первом месте восседают, между ними и тобою восседает. </text>
 </string>
 <string id="enc_mutant_mar_a9_doc_2">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="enc_mutant_mar_a9_doc_3">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <!--/Monsters-->
@@ -6376,57 +6376,57 @@ AK-12 или модернизированный АК других версий, оснащённый прицелом ночного видени
 	<text>Малява.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_10">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b1_doc_11">
 	<text>На Свалку.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_11">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b1_doc_12">
 	<text>Зуб.</text>
 </string>
 <string id="enc_anomaly_mar_b1_doc_12">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b2_doc_10">
-	<text>The Outpost is a shithole</text>
+	<text>Застава - помойка</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_10">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b2_doc_11">
-	<text>Need to get out</text>
+	<text>Надо сваливать</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_11">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b2_doc_12">
-	<text>Saurel</text>
+	<text>Ставрид</text>
 </string>
 <string id="enc_anomaly_mar_b2_doc_12">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b3_doc_10">
 	<text>Участники проекта «Х»</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_10">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b3_doc_11">
 	<text>Х-6</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_11">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 <string id="mar_b3_doc_12">
 	<text>Х-10</text>
 </string>
 <string id="enc_anomaly_mar_b3_doc_12">
-	<text>Data encrypted.</text>
+	<text>Данные заблокированы...</text>
 </string>
 
 <string id="mar_b4_doc_10">

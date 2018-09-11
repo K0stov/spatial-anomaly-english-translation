@@ -51,7 +51,7 @@ A list of all files with detailed progress can be found below.
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
 		- done
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- in progress (**Cameron M. Hunter**)
+		- done
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
 		- done (untested)
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)

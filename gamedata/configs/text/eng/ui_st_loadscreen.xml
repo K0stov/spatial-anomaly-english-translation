@@ -71,10 +71,10 @@
 		<text>“Phew, it’s really nice to relax by the campfire and eat freshly grilled flesh chops.”</text>
 	</string>
 	<string id="ls_tip_22">
-		<text>Damn mutants! One of them even managed to dirty my new ACOG scopes with its own bits!</text>
+		<text>Damn mutants! One of them even managed to dirty my new ACOG scope with its own bits!</text>
 	</string>
 	<string id="ls_tip_23">
-		<text>“Just look at him… He’s probably using a wallhack or something. How else can you make out every blade of grass in such condition?”</text> <!-- fix -->
+		<text>“Just look at him… He’s probably using a wallhack or something. How else can you make out every blade of grass in such a broken mask?”</text>
 	</string>
 	<string id="ls_tip_24">
 		<text>“So many things to read, so many words, so little useful information. Because life is only about useful information, right?”</text>
@@ -86,7 +86,7 @@
 		<text>“Where the hell is my backpack?! Damn quick release system! Now I don’t even have a clue where I dropped my stuff.”</text>
 	</string>
 	<string id="ls_tip_27">
-		<text>“Give me the location of your stash or I’m going to splatter your brains all over the wall!”</text>
+		<text>“Tell me the location of your stash or I’m going to splatter your brains all over the wall!”</text>
 	</string>
 	<string id="ls_tip_28">
 		<text>“I want my gear to be ready for the raid. Got it, Cardan? I don’t have anything too complicated, so why do the hell do I have wait for so long? What am I supposed to do, hang around here all day?”</text>
@@ -128,7 +128,7 @@
 		<text>“My battery’s dead. Now I won’t be able to text my girl… I’ll have to find a place to charge my phone. God, why do I suffer like this?!”</text>
 	</string>
 	<string id="ls_tip_41">
-		<text>Writing on the wall: “Stromtroopers of the world, unite!”</text>
+		<text>Writing on the wall: “Stormtroopers of the world, unite!”</text>
 	</string>
 	<string id="ls_tip_42">
 		<text>“There are no woodpeckers in the Zone. Do you hear me? No woodpeckers! Even though we’re around the Radar, but here… Whoa, what was that?”</text>
@@ -179,7 +179,7 @@
 		<text>“I don’t want to die… I don’t want to die! Please, help get to the doctor in Skadovsk… What? Please, don… [Gunshot]”</text>
 	</string>
 	<string id="ls_tip_58">
-		<text>“From an ecologist’s journal: This always fascinated me: why are members of the Freedom faction able to walk around freely in places with high levels of psy-emissions while even our most qualified specialist can’t stay there for a minute?”</text>
+		<text>From an ecologist’s journal: “This always fascinated me: why are members of the Freedom faction able to walk around freely in places with high levels of psy-emissions while even our most qualified specialist can’t stay there for a minute?”</text>
 	</string>
 	<string id="ls_tip_59">
 		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Better pile up your own spare parts reserve and use it to make junk usable again. You can fine-tune it later.</text>
@@ -194,7 +194,7 @@
 		<text>Always carry drugs lest an emission starts and there’s no shelter nearby. They may not protect you completely but maybe, just maybe will let you reach a safe spot before you’re roasted.</text>
 	</string>
 	<string id="ls_tip_63">
-		<text>Start collecting ammo for your favourite shooter as soon as you get the cash, even if you know it’s going to be a long wait. But it’s gonna hurt, if you don’t find the gun at all.</text>
+		<text>Start collecting ammo for your favorite shooter as soon as you get the cash, even if you know it’s going to be a long wait. But it’s gonna hurt, if you don’t find the gun at all.</text>
 	</string>
 	<string id="ls_tip_64">
 		<text>“Carry as little as possible when going out, so you can pick up more goodies and sell them to the traders when you return. Sorry, *if* you return.”</text>
@@ -287,7 +287,7 @@
 		<text>Bloodsuckers are masters of the shadow, and you’d want to see them earlier than in the muzzle flash of your gun.</text>
 	</string>
 	<string id="ls_tip_94">
-		<text>Only venture into Monolith and Merc territories at night—patrols are less frequent and their bases less occupied.</text>
+		<text>Only venture into Monolith and merc territories at night—patrols are less frequent and their bases less occupied.</text>
 	</string>
 	<string id="ls_tip_95">
 		<text>Controllers may try to stop your mind with their powers, but they cannot stop an RPG to their face.</text>

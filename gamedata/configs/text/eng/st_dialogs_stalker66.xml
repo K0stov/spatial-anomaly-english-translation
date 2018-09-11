@@ -7,7 +7,7 @@
         <text>Oh, I’m listening. Any luck in finding that notebook?</text>
     </string>
     <string id="dialog_actor_give_keys_10">
-        <text>Yes. I found the notebook. In it were the coordinates of some meeting. I found a note where the meeting was supposed to take place, which led me to the old tunnel. Most importantly, I had to wait until night, which is when the meeting would take place. And so it did: I met a bandit who required twenty-five thousand from me. Had to take him down.</text>
+        <text>Yes. I found the notebook. In it were the coordinates of some meeting. I found a note where the meeting was supposed to take place, which led me to the old tunnel. Most importantly, I had to wait until night, which is when the meeting would take place. And so it did: I met a bandit who required twenty-five thousand from me. I had to drop him.</text>
     </string>
     <string id="dialog_actor_give_keys_11">
         <text>That’s very strange. We should take a look at the case right away. There might be some very useful information inside…</text>
@@ -16,7 +16,7 @@
         <text>All right. I’ll take care of the case… and I suggest you take care of the money that you owe me now.</text>
     </string>
     <string id="dialog_actor_give_keys_13">
-        <text>It can’t be. There’s a stalker base right by. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money?</text>
+        <text>It can’t be. There’s a stalker base nearby. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money?</text>
     </string>
     <string id="dialog_actor_give_keys_14">
         <text>It was likely supposed to be payment for the case that he had.</text>
@@ -43,7 +43,7 @@
         <text>Not much I can say. I met a bandit in the tunnel who took away twenty-five grand from me, as per your request.</text>
     </string>
     <string id="dialog_actor_give_keys_5">
-        <text>It can’t be. There’s a stalker base right by. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money? And how did you end up there in the first place?</text>
+        <text>It can’t be. There’s a stalker base nearby. The bandits from the northern outpost knew these parts well, so they would have known better than to go through there. It wasn’t someone local; I can tell you that. And what did he want for the money? And how did you end up there in the first place?</text>
     </string>
     <string id="dialog_actor_give_keys_6">
         <text>I found a notebook at the site of the firefight. In it were the coordinates of some meeting. I found a note where the meeting was supposed to take place, which led me to the old tunnel. It was a trap, and I was forced to pay twenty-five thousand for some case.</text>
@@ -61,7 +61,7 @@
         <text>Any luck with the case? Opened it yet?</text>
     </string>
     <string id="dialog_furgon_crash_keys2_1">
-        <text>Hah. Got it to open after all. Was a very tough nut to crack. What I found in the case was a flash drive and a folder with documents of some kind. Haven’t touched any of it, so don’t worry.</text>
+        <text>Hah. Got it to open after all. It was a very tough nut to crack. What I found in the case was a flash drive and a folder with documents of some kind. I haven’t touched any of it, so don’t worry.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_2">
         <text>Thanks, Van. What do I owe you?</text>
@@ -76,7 +76,7 @@
         <text>I don’t have that much money on me…</text>
     </string>
     <string id="dialog_furgon_crash_keys2_6">
-        <text>Then I don’t have any flash or document folder. Come visit me when you have the funds.</text>
+        <text>Then I don’t have any flash drive or folder for you. Come visit me when you have the funds.</text>
     </string>
     <string id="dialog_furgon_crash_keys2_7">
         <text>Fantastic! The case and its contents are now yours.</text>
@@ -118,22 +118,22 @@
         <text>Well, don’t be shy. Show me what you’ve got.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_2">
-        <text>A very interesting folder of documents and a flash drive from a case, as well as an old notebook and note from a bandit. I think the information here will interest you.</text>
+        <text>A very interesting folder of documents and a flash drive from a case, as well as an old notebook and a note from a bandit. I think the information here will interest you.</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_3">
-        <text>Give me more details. What case is this from?</text>
+        <text>Give me more details. Where is this case from?</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_4">
         <text>I got a hold of the case through a strange series of events. Too long to explain. It was given to me by a bandit by the name of Skull. The documents contain information about collaboration between the bandits and the military. Will you take it?</text>
     </string>
     <string id="dialog_sidorovich_zabral_flashAndDoc_5">
-        <text>Well, it’s clear the information is valuable. Frankly, I don’t care where you got it, but it’s good that you brought it here. Have this; you deserve it.</text>
+        <text>Well, it’s clear the information is valuable. Frankly, I don’t care where you got it, but it’s good that you brought it here. Have this: you deserve it.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_0">
-        <text>The case is open. It only has a flash drive and a folder. Here; have a look inside.</text>
+        <text>The case is open. It only has a flash drive and a folder. Here: have a look inside.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_1">
-        <text>All right. Let’s take a look…\n \nUh-huh… The flash drive contains a partial recorded conversation involving Borov and some other, anonymous fellow. This is interesting. Let’s see what the documents hold…\n \nOh, wow… The picture’s getting clearer. It seems our faceless man is from the military… What you’ve discovered here, Beast, is quite literally worth its weight in gold. I don’t think Borov and his henchmen are gonna be too happy about this leak. I think I know what to do with all this.\n \nI’ll give you thirty grand for the docs and the flash drive. If you’re selling that notebook with the note, I’ll give you an additional three grand. I hope it’ll cover all of your expenses. So, we got a deal?</text>
+        <text>All right. Let’s take a look…\n \nUh-huh… The flash drive contains a partial recorded conversation involving Borov and some other anonymous fellow. This is interesting. Let’s see what the documents hold…\n \nOh, wow… The picture’s getting clearer. It seems our faceless man is from the military… What you’ve discovered here, Beast, is quite literally worth its weight in gold. I don’t think Borov and his henchmen are gonna be too happy about this leak. I think I know what to do with all this.\n \nI’ll give you thirty grand for the docs and the flash drive. If you’re selling that notebook with the note, I’ll give you an additional three grand. I hope it’ll cover all of your expenses. So, we got a deal?</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_10">
         <text>Then I’ll wait for my money. See you later!</text>
@@ -145,7 +145,7 @@
         <text>There’s just one other thing: after the events at the railroad embankment, I’m short of money. Because of that, you’ll have to wait a day or two. I’ll return everything; I’ll return even more.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_4">
-        <text>All right. There’s no rush. But still, don’t take *too* long. Strange things happens to debtors sometimes; they die for various reasons. You understand? And let the case stay here. It’ll be safer that way.</text>
+        <text>All right. There’s no rush. But still, don’t take *too* long. Strange things happens to debtors sometimes; they die for various reasons. Do you understand? And let the case stay here. It’ll be safer that way.</text>
     </string>
     <string id="dialog_zohan_pda_fleshka_u_menja_5">
         <text>No. For the second time, I’m not buying that. You will return the case without receiving the flash drive or the documents while remaining in debt. If I were in your shoes, I’d pay it as soon as possible. The Zone doesn’t favor people in debt, and neither do I. So, until I see my money, you better not cross paths with any mercenaries.</text>
@@ -169,13 +169,13 @@
         <text>Calm down. I wasn’t planning on shooting. You should tell me how you got here.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_2">
-        <text>I came from the Garbage to deliver some goods to Sidorovich. Decided to stop and catch my breath. I went under the bridge, by the fire, to tie my shoes, and then you showed up out of nowhere.</text>
+        <text>I came from the Garbage to deliver some goods to Sidorovich. I decided to stop and catch my breath. I went under the bridge, by the fire, to tie my shoes, and then you showed up out of nowhere.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_3">
         <text>All right. Calm down. You can continue on your way. I’ll be going.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_4">
-        <text>Phew. You had me confused there. I think I’ll catch a break and sit here a bit longer.</text>
+        <text>Phew. You had me confused there. I think I’ll have a break and sit here a bit longer.</text>
     </string>
     <string id="esc_dialog_bobik_vagon_5">
         <text>Yeah. Bye.</text>
@@ -193,7 +193,7 @@
         <text>Well, spill the beans and tell me what happened.</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_4">
-        <text>You remember that corpse I told you about that I saw on the way here? So, after I talked to you, I had a sudden tingling feeling in my head and even heard a voice. It called me; I don’t know how, but I knew where to go. Later on, it was clear to me that a controller was behind this, the fucking thing. Tell me: have you ever seen a controller in the Cordon? Neither have I; they don’t usually come around these parts.\n \nI think this has to do with the anomaly. I don’t know if I should share this, but I have a theory: what if someone who’s gone into the anomaly teleports into a programmed anomalous area, and at the same time, not far away from that very anomaly, some kind of beast appears? I don’t know how exactly the anomaly summons mutants, but there’s something very strange going on..</text>
+        <text>You remember that corpse I told you about that I saw on the way here? So, after I talked to you, I had a sudden tingling feeling in my head and even heard a voice. It called me. I don’t know how, but I knew where to go. Later on, it was clear to me that a controller was behind this, the fucking thing. Tell me: have you ever seen a controller in the Cordon? Neither have I; they don’t usually come around these parts.\n \nI think this has to do with the anomaly. I don’t know if I should share this, but I have a theory: what if someone who’s gone into the anomaly teleports into a programmed anomalous area, and at the same time, not far away from that very anomaly, some kind of beast appears? I don’t know how exactly the anomaly summons mutants, but there’s something very strange going on..</text>
     </string>
     <string id="esc_dialog_shtik_kill_controller_5">
         <text>If someone else would have told me this, then I would have just told them to sober up. You, though… I can trust you, and if you say that anomaly is dangerous, then so be it. Although, I will still tell the scientists about it and about your theory. I’ll share the pay with you. In the meantime, how about we share a bottle of my best vodka? I’ve been keeping it for a rainy day.</text>
@@ -250,7 +250,7 @@
         <text>Hot damn! My theory proved true. Now the stalkers will have an easier time getting to the village…</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_4">
-        <text>Don’t interrupt. I’ve had a strange feeling of some kind ever since I got out of the anomaly. Can’t really put my finger on it. I met a stalker in the tunnel and spoke to him. He was alive, but when I went in your direction, I saw his dead body not far away from the farm. Doesn’t that seem a little strange to you?</text>
+        <text>Hold on. I’ve had a strange feeling of some kind ever since I got out of the anomaly. I.. can’t really put my finger on it. I met a stalker in the tunnel and spoke to him. He was alive, but when I went in your direction, I saw his dead body not far away from the farm. Doesn’t that seem a little strange to you?</text>
     </string>
     <string id="esc_dialog_shtik_quest_was_anomaly_5">
         <text>This is the Zone, my friend. Somebody’s always dying here, and it’s almost always due to mysterious circumstances. Have your reward; take a drink; loosen up. You were a big help. I think the scientists at Yantar will be interested in hearing about this.</text>
@@ -292,7 +292,7 @@
         <text>Speak up. You know not to keep me waiting.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_2">
-        <text>I found a case not long ago. Wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
+        <text>I found a case not long ago. I’ve wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys2_3">
         <text>There’s a guy in the village. Goes by Van. Go talk to him; he helped me with a similar problem.</text>
@@ -304,22 +304,22 @@
         <text>Ask, and I’ll do my best to answer.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_2">
-        <text>I found a case not long ago. Wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
+        <text>I found a case not long ago. I’ve wanted to know what’s inside, but it’s locked, and it’s tough, so there’s no chance in breaking it open.</text>
     </string>
     <string id="kro_pomojet_vzlomat_keys_3">
-        <text>Hmm… Let me think. I don’t even know. Go see Van; he might be able to help.</text>
+        <text>Hmm… Let me think. I don’t know. Go see Van; he might be able to help.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_0">
         <text>Stop right there! Drop your guns! Hands on your head!</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_1">
-        <text>Calm down. I’m with the guys from the checkpoint. Found your note by the overturned wagon.</text>
+        <text>Calm down. I’m with the guys from the checkpoint. I found your note by the overturned wagon.</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_2">
         <text>Got the dough?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_3">
-        <text>Remind me, how much?</text>
+        <text>Remind me, how much is it?</text>
     </string>
     <string id="lisiy_dialog_tonnel_start_4">
         <text>You don’t get it? Trying to cheat me? Give me twenty-five grand, or I’ll bust a cap in your ass.</text>
