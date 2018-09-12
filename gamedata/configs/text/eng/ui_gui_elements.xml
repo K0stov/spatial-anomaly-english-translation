@@ -2472,46 +2472,46 @@
 		<text>Close</text>
 	</string>
 	<string id="ui_gui_notepad_caption_90">
-		<text>Letter from Obscurrent</text>
+		<text>Letter from Obscurant</text>
 	</string>
 	<string id="st_notepad_type_esc_1_text">
-		<text>Remember, your target is a bald, bearded man in his 40’s. He wears a regular mercenary armor and his nickname is Beast. He should also appear by that name in his pda. Take the position in the second floor of the grain elevator and for the target to appear. Make sure nobody else is with him as this needs to be done without witnesses. After you take him out return for your reward.</text>
+		<text>Remember, your target is a bald, bearded man in his 40’s. He wears a regular mercenary armor and his nickname is Beast. His PDA marker should confirm his position on the map. Take the position in the second floor of the grain elevator and wait for the target to appear. Make sure nobody else is with him, as this needs to be done without witnesses. After you take him out, return for your reward.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_91">
-		<text>Skull's note.</text>
+		<text>Note from Skull</text>
 	</string>
 	<string id="st_notepad_type_esc_2_text">
-		<text>Fuck… For how long will you pussyfoot around? I am tired of waiting for you. And the place you guys picked is really shitty. Stalkers on one side and mercenaries on the other… Long story short, this place is a shithole. Anyway, I am overhearing some kind of shooting on the other side of the heel so I am getting out of here. I’m going to be waiting for you in the tunnel that’s under the heel, at night. As for the price, it stays the same.</text>
+		<text>Fuck. How long will you pussyfoot around? I am tired of waiting for you. The place you guys picked is really shitty. Stalkers on one side and mercenaries on the other… Long story short, this place is a shithole. Anyway, I am overhearing some kind of shooting on the other side of the heel so I am getting out of here. I’m going to be waiting for you in the tunnel that’s under the heel, at night. As for the price, it stays the same.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_92">
-		<text>Note from Knocklehead</text>
+		<text>Note from Knucklehead</text>
 	</string>
 	<string id="st_notepad_type_esc_3_text">
-		<text>Beast, if you are reading this, it means that I’m dead… It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was… I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nÑ With respect, Knocklehead.</text>
+		<text>Beast, if you are reading this, it means that I’m dead… It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was… I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nÑ With respect, Knucklehead.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_1">
-		<text>Seriy's note.</text>
+		<text>Note from Seriy</text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
-		<text>God has sent me a test… For so many years I had conned myself and others, I have stolen, killed… I came to this zone, why? Trading the lives of others for my own profit? This is hell, hell on earth. I cannot forget my past sins nor can I fix them and as for the future it’s right before me. Right here, among others like me… The higher power is controlling what’s going to happen to me next but at the same time all is in my hands. Salivation isn’t given for words and thoughts, rather I have to prove with my own actions that I am worthy.</text>
+		<text>God has sent me a test… For so many years I had conned myself and others, I have stolen, killed… I came to the Zone. Why? Trading the lives of others for my own profit? This is hell, hell on earth. I cannot forget my past sins, nor can I fix them. The future is right before me. Right here, among others like me… The higher power is controlling what’s going to happen to me next, but at the same time, everything is in my hands. Salvation isn’t given for words and thoughts. I have to prove with my own actions that I am worthy.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_2">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_2_text">
-		<text>%c[default]I can’t remember a thing… My head hurts like hell… Where am I? What is this place? Some sort of barn… Damn it. That dream didn’t help the slightest… Or maybe it wasn’t a dream? What sort of creature did I see back there? That laugh, I can still hear it. So many questions and not a single answer… Alright, Beast, take it easy… First, I need to sort everything out. What happened before the nightmare? The last thing I remember was the chase. Yeah, that’s right, I caught Vector but he managed to slip away from me. But how? Is he the one who made me end up here? On the second thought, it doesn’t really matter now does it? Alright, I need to take out those zombies like Savage asked and after that I can started figuring out what happened.</text>
+		<text>%c[default]I can’t remember a thing… My head hurts like hell… Where am I? What is this place? Some sort of barn… Damn it. That dream didn’t help the slightest… Or maybe it wasn’t a dream? What sort of creature did I see back there? That laugh, I can still hear it. So many questions and not a single answer… Alright, Beast, take it easy… First, I need to sort everything out. What happened before the nightmare? The last thing I remember was the chase. Yeah, that’s right, I caught Vector but he managed to slip away from me. But how? Is he the one who made me end up here? On second thought, it doesn’t really matter now does it? Alright, I need to take out those zombies like Savage asked and after that I can started figuring out what happened.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_3">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_3_text">
-		<text>%c[default]I took care of those zombies… Only in the zone can you find such a horrific site… The things this place does to people. I found some kind of note on one of the zombies and its contents raise some questions.  I bet Savage would want to see this. I’m going back to the barn or rather back to base. I still cannot believe I’m stuck here. How the hell did I get here? How could I survive? I need figure all of this out.</text>
+		<text>%c[default]I took care of those zombies… Only in the Zone can you find such a horrific site… The things this place does to people. I found some kind of note on one of the zombies and its contents raise some questions.  I bet Savage would want to see this. I’m going back to the barn or rather back to base. I still cannot believe I’m stuck here. How the hell did I get here? How could I survive? I need figure all of this out.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_4">
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_4_text">
-		<text>%c[default]I haven’t seen creature so up close before… Marcus said that we need find an exit out of this place and I agree. I don’t want to be here when this thing return. What is it anyway? A human, a mutant or maybe it’s a ghost? Damn, the more I try to look for an answer, the more questions arise.  Alright, that’s enough chit-chat; I have to find a way out of here…</text>
+		<text>%c[default]I haven’t seen that kind of creature so up close before… Marcus said that we need find an exit out of this place and I agree. I don’t want to be here when this thing returns. What is it anyway? A human, a mutant or maybe it’s a ghost? Damn, the more I try to look for an answer, the more questions arise.  Alright, that’s enough chit-chat; I have to find a way out of here…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_5">
 		<text>Personal notebook</text>
@@ -2523,31 +2523,31 @@
 		<text>Personal notebook</text>
 	</string>
 	<string id="st_notepad_type_one_6_text">
-		<text>%c[default]Savage is starting to get on my nerve with his requests. Maybe I should tell him to fuck off? Do this; find that… Beast is becoming some kind of errand boy. Man, what would the guys in the syndicate say if they ever find out about this? On the other hand, things could be way worse. After all, Savage is just trying to keep us all alive, me included.</text>
+		<text>%c[default]Savage is starting to get on my nerves with his requests. Maybe I should tell him to fuck off? Do this; find that… Beast is becoming some kind of errand boy. Man, what would the guys in the syndicate say if they ever find out about this? On the other hand, things could be way worse. After all, Savage is just trying to keep us all alive, me included.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_7">
-		<text>Obscurant's note</text>
+		<text>Note from Obscurant</text>
 	</string>
 	<string id="st_notepad_type_one_7_text">
-		<text>%c[default]Dagger and his squad will pay for what they did; I won’t let them get away for Sledgehammer’s death. He’s right about one thing, though—I’ve really lost my cold-bloodedness. This place has changed me and made care about others, or perhaps that’s not the case? Either way, Marcus said he has some kind of plan, and I need to see what he’s up to.</text>
+		<text>%c[default]Dagger and his squad will pay for what they did; I won’t let them get away with Sledgehammer’s death. He’s right about one thing, though - I’ve really lost my cold-bloodedness. This place has changed me and made me care about others, or perhaps that’s not the case? Either way, Marcus said he has some kind of plan, and I need to see what he’s up to.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_8">
-		<text>note from Skull</text>
+		<text>Note from Skull</text>
 	</string>
 	<string id="st_notepad_type_one_8_text">
-		<text>%c[default]It’s been about a month since Sledgehammer’s death and things haven’t gotten easier… I don’t know if it’s a coincidence or not but after that night things went to hell. Infected meat, as it turns out isn’t the best food and now we are having a whole epidemic in our base. I’ve managed to find some medication for the guys but it’s not enough. They still need further treatment. Right now all I can do is prey to god that the vaccine will work…</text>
+		<text>%c[default]It’s been about a month since Sledgehammer’s death and things haven’t gotten easier… I don’t know if it’s a coincidence or not but after that night things went to hell. Infected meat, as it turns out, isn’t the best food, and now we are having a whole epidemic in our base. I’ve managed to find some medication for the guys but it’s not enough. They still need further treatment. Right now all I can do is pray to God that the vaccine will work…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_9">
-		<text>note from knocklehead</text>
+		<text>Note from Knucklehead</text>
 	</string>
 	<string id="st_notepad_type_one_9_text">
-		<text>%c[default]The stalkers have put me in the cage, They think I am some kind of threat. Idiots… Yeah, even though I have escaped the anomaly, yet I'm still trapped. I’ve been through so much in there, lost so many friends. The guard told me that Marcus didn’t make it out of the anomaly but why? Where the hell is he? I should talk about this with Savage. Most likely this will be the last time I write in this notebook, I don’t want to write about my worries anymore. I don’t even know what to do next… It feels like I’m dead inside…</text>
+		<text>%c[default]The stalkers have put me in the cage. They think I am some kind of threat. Idiots… Yeah, even though I have escaped the anomaly, I’m still trapped. I’ve been through so much in there, lost so many friends. The guard told me that Marcus didn’t make it out of the anomaly, but why? Where the hell is he? I should talk about this with Savage. Most likely this will be the last time I write in this notebook, I don’t want to write about my worries anymore. I don’t even know what to do next… It feels like I’m dead inside…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_10">
-		<text>Crosstie's note</text>
+		<text>Crosstie’s note</text>
 	</string>
 	<string id="st_notepad_type_one_10_text">
-		<text>Oof, I managed to escape but my leg still hurts. That Snork came out of nowhere and I couldn’t react in time. At the very least my leg’s not broken. I wasted my last bullets on that mutant. Listen, Alex, if you are reading this, know this, I’m still alive. Wait for me in the basement; I’ll get here tonight. I think together we can find our way out of here. Just wait for me, okay? With respect, Crosstie!</text>
+		<text>Oof, I managed to escape but my leg still hurts. That snork came out of nowhere and I couldn’t react in time. At the very least my leg’s not broken. I wasted my last bullets on that mutant. Listen, Alex, if you are reading this, know this, I’m still alive. Wait for me in the basement; I’ll get here tonight. I think together we can find our way out of here. Just wait for me, okay? With respect, Crosstie!</text>
 	</string>
 	<string id="ui_gui_document_caption_1">
 		<text>Çàïèñü â äîêóìåíòå</text>
