@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="digst_markus_talk_to_actor_0">
-        <text>Damn! You scared me, Beast! You were out for a long-ass time. Wait. Hold on. We’ve got more important things to deal with right now.</text>
+        <text>Damn! You scared me, Beast! You were out for a long-ass time. Wait… Hold on. We’ve got more important things to deal with right now.</text>
     </string>
     <string id="digst_markus_talk_to_actor_1">
         <text>What the hell? What happened, Markus?</text>
@@ -37,7 +37,7 @@
         <text>I was just trying to kill that thing! What the hell happened?!</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_2">
-        <text>How the hell should I know? Wait. We’ve got to focus. We have to get out of here, right now.</text>
+        <text>How the hell should I know? Wait, we’ve got to focus. We have to get out of here, right now.</text>
     </string>
     <string id="digst_markus_talk_to_actor_bad_3">
         <text>Yeah. I agree. We’re done for if we just sit here.</text>
@@ -211,7 +211,7 @@
         <text>Uh… Not yet.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_23">
-        <text>Hmm… Whoa. Holy shit. You did it perfectly. The sear lines are perfect, the meat isn’t pink on the inside, and the geiger counter isn’t even crackling. Maybe you should have become a chef instead of a mercenary.</text>
+        <text>Hmm… Whoa. Holy shit. You did it perfectly. The sear lines are perfect, the meat isn’t pink on the inside, and the Geiger counter isn’t even crackling. Maybe you should have become a chef instead of a mercenary.</text>
     </string>
     <string id="pb_dubolom_meet_after_dialog_24">
         <text>Heh. Thanks. Cooking’s always been one of my hobbies. So this meat’s perfectly safe to eat, then?</text>
@@ -562,7 +562,7 @@
         <text>Hey, uh, you need any help?</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_1">
-        <text>Yes, holy shit, yes. We need fuel for our generators or we won’t have electricity for our base. We’ll be putting up our PDAs like floodlights to spot mutants if we can’t get any. We’ll give you some supplies, medkits, whatever you want. You can take your pick, we don’t really care. Just get us that fuel.</text>
+        <text>Yes. Holy shit, yes. We need fuel for our generators or we won’t have electricity for our base. We’ll be putting up our PDAs like floodlights to spot mutants if we can’t get any. We’ll give you some supplies, medkits, whatever you want. You can take your pick, we don’t really care. Just get us that fuel.</text>
     </string>
     <string id="pb_kuvalda_dialog_from_work_2">
         <text>Uh, you got it.</text>
@@ -595,7 +595,7 @@
         <text>Did you find the fuel yet?</text>
     </string>
     <string id="pb_kuvalda_dialog_start_16">
-        <text>Yup, here you go.</text>
+        <text>Yup. Here you go.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_17">
         <text>Not yet. Fuel is a little bit hard to find around these parts.</text>
@@ -907,7 +907,7 @@
         <text>Haha, thank you. The chimera hunt was easier than Knucklehead let on, but, you know, gotta puff out your chest once in a while.</text>
     </string>
     <string id="pb_markus_start_dialog_17">
-        <text>Ah, haha… yeah. But anyways, we need your help. Before Savage, we had a leader whose callsign was Shell. He disappeared about a month ago, and we looked for him for a long ass time. However, I caught him as a contact on my PDA a few days ago for like, literally a split second. It was near that old abandoned basement, and I looked everywhere for him, but there wasn’t a single trace of him there. I kind of have an idea what he might’ve been doing, though…</text>
+        <text>Ah, haha… Yeah. But anyways, we need your help. Before Savage, we had a leader whose callsign was Shell. He disappeared about a month ago, and we looked for him for a long-ass time. However, I caught him as a contact on my PDA a few days ago for, like, literally a split second. It was near that old abandoned basement, and I looked everywhere for him, but there wasn’t a single trace of him there. I kind of have an idea what he might’ve been doing, though…</text>
     </string>
     <string id="pb_markus_start_dialog_18">
         <text>What were you thinking?</text>
@@ -922,7 +922,7 @@
         <text>Hmm… And you think he’s just been chilling ever since?</text>
     </string>
     <string id="pb_markus_start_dialog_21">
-        <text>Maybe. He was the toughest guy we had, with top notch equipment. One of those fancy fourth-generation exoskeletons and a big PKM on his back. He had plenty of supplies with him on the trip he disappeared on, too. Shell had a silver tongue and a knack for getting people to put their differences aside and work on the task at hand. He helped us found our group, an impressive feat considering most of us were from opposing factions.</text>
+        <text>Maybe. He was the toughest guy we had, with top notch equipment. One of those fancy fourth-generation exoskeletons and a big PKM on his back. He had plenty of supplies with him on the trip he disappeared on, too. Shell had a silver tongue and a knack for getting people to put their differences aside and work on the task at hand. He helped us found our group; an impressive feat, considering most of us were from opposing factions.</text>
     </string>
     <string id="pb_markus_start_dialog_22">
         <text>Well, it seems like if anyone were to go missing, he’d be the most likely to survive. I’ll keep an eye out for him.</text>
@@ -943,7 +943,7 @@
         <text>Sorry, ask me later. I’ve got a lot on my plate right now.</text>
     </string>
     <string id="pb_markus_start_dialog_29">
-        <text>Well, we’re all out of those special anti-radiation drugs. I was wondering if you could try to find an artifact called a Wrenched. It cleanses radiation from nearby areas, so it would be a pretty good alternative to those drugs. It comes from gravitational anomalies, which there are a lot of nearby. I’m almost out of ammo, though, so I don’t want to tempt fate. I have another artifact here I found before I got stuck in this place I can give to you as a reward, if you want. In case you find two? Or maybe a better radiation cleansing artifact. I don’t really need any fancy ones like a Bubble or Moonlight; the Wrenched should be good enough for me.</text>
+        <text>Well, we’re all out of those special anti-radiation drugs. I was wondering if you could try to find an artifact called a Wrenched. It cleanses radiation from nearby areas, so it would be a pretty good alternative to those drugs. It comes from gravitational anomalies, which there are a lot of nearby. I’m almost out of ammo, though, so I don’t want to tempt fate. I have another artifact here I found before I got stuck in this place I can give to you as a reward, if you want. In case you find two? Or maybe a better radiation-cleansing artifact. I don’t really need anything fancy like a Bubble; the Wrenched should be good enough for me.</text>
     </string>
     <string id="pb_markus_start_dialog_30">
         <text>All right. I’ll go look for one.</text>
@@ -1033,7 +1033,7 @@
         <text>Okay. Just make sure you text me the coordinates before you go.</text>
     </string>
     <string id="pb_moskit_start_dialog_10">
-        <text>Oh, right. Here.</text>
+        <text>I’m on it.</text>
     </string>
     <string id="pb_moskit_start_dialog_11">
         <text>So, Beast, have you found that special SVD ammo I told you about?</text>
@@ -1141,7 +1141,7 @@
         <text>Yeah. Do you want me to help you with those mercenaries too? Can you tell me why they were here?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_4">
-        <text>The scientists gave me an assignment to try out a new experimental transceiver. A simple job: “Just test it out and see if you pick up anything.” I messed around with it and picked up a mercenary channel. They were having some serious, heavy negotiations. Stuff about deposing certain squad leaders, strongarming the Ecologists, shady contacts they can use, paths they were using to move weapons and men without the Syndicate knowing, etc. They even worked out a whole arms deal for some kind of special new “modular assault rifle,” right then and there! I heard every single word of it, didn’t make a sound or even move.\n \nJust as they were wrapping everything up, one of them realized their radio thing said it was a “conference call.” He thought about it for a few seconds; stunned, I guess. Then he realized it was supposed to be a solo call and cursed up a god damn storm. Sent just about every man he had to sweep the area, armed to the teeth. Ordered ’em to kill me on sight at any cost… Started quite a shitstorm over it, and two squads found me within minutes. I tried to sprint away and ended up in a narrow corridor with a clear-ish anomaly blocking the way and fifteen mercenaries in tow, just around the corner. I did some wall-kick shit I saw in a movie when I was a kid and thought I had cleared it, but I guess I didn’t. Now I’m here.</text>
+        <text>The scientists gave me an assignment to try out a new experimental transceiver. A simple job: “Just test it out and see if you pick up anything.” I messed around with it and picked up a mercenary channel. They were having some serious, heavy negotiations. Stuff about deposing certain squad leaders, strongarming the Ecologists, shady contacts they can use, paths they were using to move weapons and men without the Syndicate knowing, etc. They even worked out a whole arms deal for some kind of special new “modular assault rifle,” right then and there! I heard every single word of it. Didn’t make a sound or even move.\n \nJust as they were wrapping everything up, one of them realized their radio thing said it was a “conference call.” He thought about it for a few seconds; stunned, I guess. Then he realized it was supposed to be a solo call and cursed up a god damn storm. Sent just about every man he had to sweep the area, armed to the teeth. Ordered ’em to kill me on sight at any cost… Started quite a shitstorm over it, and two squads found me within minutes. I tried to sprint away and ended up in a narrow corridor with a clear-ish anomaly blocking the way and fifteen mercenaries in tow, just around the corner. I did some wall-kick shit I saw in a movie when I was a kid and thought I had cleared it, but I guess I didn’t. Now I’m here.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_5">
         <text>Hmm… Do you still have the transceiver?</text>
@@ -1345,13 +1345,13 @@
         <text>Yeah, I think so. The worst has come to pass; his wounds don’t look fatal any more. He should be able to move soon.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_10">
-        <text>Beast, we need to find Scavenger. He was a vital part of our food economy and enabled us to survive here without relying on mutant meat. Do you think you could keep an eye out for him?</text>
+        <text>He was a vital part of our food economy and enabled us to survive here without relying on mutant meat. Because of that, his disappearance made a big dent in the group’s ability to manage around here.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_11">
-        <text>Yeah, I guess so. Anyways, I’ll go check out the area, hopefully I’ll find a lead.</text>
+        <text>Yeah, I guess so. Anyways, I’ll go check out the area. Hopefully, I’ll find a lead.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_12">
-        <text>Sure. I’ll go check out his last known location, maybe I’ll catch a trace of him.</text>
+        <text>Sure. I’ll go check out his last known location. Maybe I’ll catch a trace of him.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_13">
         <text>Thanks, man. It would mean a lot to us; Scavenger really managed to make a difference for us.</text>
@@ -1363,7 +1363,7 @@
         <text>Thank you, Beast. It means a lot to us; our two provisional looters can’t even scratch half of what he could find in a single day.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_16">
-        <text>That’s pretty impressive. But, anyways… I’ll text you on my PDA if I get any leads.</text>
+        <text>That’s pretty impressive. But anyways… I’ll text you on my PDA if I get any leads.</text>
     </string>
     <string id="pb_quest_line_lutiy_talk_after_heli_crash_17">
         <text>Oh, and before you leave, speak to Knucklehead. He was interested in looking for Scavenger too. Oh, and Snake wanted to see you about something important. When you’re done with all of that, come back. I had something else I wanted to talk to you about, but I’ve gotta confirm something first.</text>
@@ -1549,13 +1549,13 @@
         <text>Sure, Snake. Let’s head out.</text>
     </string>
     <string id="pb_quest_line_snake_start_22">
-        <text>In a second, there was something up with my gear. I’ll go after I fix it.</text>
+        <text>In a second; there was something up with my gear. I’ll go after I fix it.</text>
     </string>
     <string id="pb_quest_line_snake_start_24">
         <text>I’m listening.</text>
     </string>
     <string id="pb_quest_line_snake_start_26">
-        <text>Thank you, Beast. These plants should last us for a week or two; I got a *lot* of them. If you need more drinking water, come see mee and I’ll make you some.</text>
+        <text>Thank you, Beast. These plants should last us for a week or two; I got a *lot* of them. If you need more drinking water, come see me, and I’ll make you some.</text>
     </string>
     <string id="pb_quest_line_snake_start_28">
         <text>You ready to pick some flowers, Beast?</text>
@@ -1669,7 +1669,7 @@
         <text>Hmm… I see.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_13">
-        <text>Sledge? He’s not even a man; he’s a god damn force of nature. Built like a tank and sturdy like steel. I’ve known him for a long ass time. He was part of Freedom’s new military warehouses offensive, clearing it out for a new front base to make progress on the Scorcher. He was just about everyone’s favorite person back then; wits sharp like knives and a knack for strategy. Still does, too. When he came here, things changed, though. He analyzed his ideals and lifestyle closely, and I think he became a better person. He’s been here for about two and a half months.</text>
+        <text>Sledge? He’s not even a man; he’s a god damn force of nature. Built like a tank and sturdy like steel. I’ve known him for a long ass time. He was part of Freedom’s new offensive on the military warehouses, clearing it out for a new front base to make progress on the Scorcher. He was just about everyone’s favorite person back then; wits sharp like knives and a knack for strategy. Still does, too. When he came here, things changed, though. He analyzed his ideals and lifestyle closely, and I think he became a better person. He’s been here for about two and a half months.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_14">
         <text>Hm. So this place has… *some* kind of use. Thanks for the info.</text>
@@ -1711,13 +1711,13 @@
         <text>Thanks for the info.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_26">
-        <text>I’m the smartest person in the whole wide world and I eat pussy every day of my life. Haha, but for real, I’m the local genius. I got stuck here with my squad during the Clear Sky Limansk offensive. Our detachment got split up fighting a monolith ambush, and some of us accidentally stepped into a portal to this anomaly. Only Markus, Shell, and myself seem to have made it in here. Shell was the leader of the detachment, so naturally, he became the leader here too.</text>
+        <text>I’m the smartest person in the whole wide world and I eat pussy every day of my life. Haha, but for real, I’m the local genius. I got stuck here with my squad during the Clear Sky Limansk offensive. Our detachment got split up fighting a Monolith ambush, and some of us accidentally stepped into a portal to this anomaly. Only Markus, Shell, and myself seem to have made it in here. Shell was the leader of the detachment, so naturally, he became the leader here too.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_27">
         <text>Thanks for the info.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_28">
-        <text>Not at all. If you want me to share more about anyone else, just ask.</text>
+        <text>If you want me to share more about anyone else, just ask.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_3">
         <text>Tell me about Sledgehammer.</text>
@@ -1780,7 +1780,7 @@
         <text>Yeah. He told me he was being pursued by a mercenary group, though. I thought that would be important for you to know.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_murad_5">
-        <text>Fuck. That’s not good… but I doubt the Syndicate is reckless enough to jump head first into a spatial anomaly. Can you ask him for more information about himself? We need to know if he can be trusted.</text>
+        <text>Fuck. That’s not good… but I doubt the Syndicate is reckless enough to jump headfirst into a spatial anomaly. Can you ask him for more information about himself? We need to know if he can be trusted.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_murad_6">
         <text>Sure thing.</text>
@@ -1804,7 +1804,7 @@
         <text>Hmm… Well, I’ll have to take a look around some of the areas the teleporter brings you to. There was also a daily journal on his PDA that detailed just about everything of importance that he did every day. Turns out Scavenger wasn’t really a scavenger at all; more like a hunter. He’d find stalkers that had just gotten into the anomaly, lead them somewhere secluded, and murder them in cold blood. He’d loot them and toss their corpse into an anomaly or a local flesh herd, which is why the flesh in this place were so much fatter than normal ones. They were well fed, and Scavenger took just about everything he could; he even took the suits right off their back. Pretty bone chilling stuff.</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_11">
-        <text>Jesus Christ… I always thought something was off about how much stuff he was able to “find.” Think of how many innocents he killed! Think of how many of them could have been saved… could have been recruited. What a piece of shit… but what’s important here is that we *have* to find that device. Do you think you could do a sweep around that place you were talking about?</text>
+        <text>Jesus Christ… I always thought something was off about how much stuff he was able to “find.” Think of how many innocents he killed! Think of how many of them could have been saved—could have been recruited. What a piece of shit… but what’s important here is that we *have* to find that device. Do you think you could do a sweep around that place you were talking about?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_12">
         <text>The problem is that the teleporters can bring you to multiple locations. It looks like it can be random, according to Scavenger’s PDA, but there are two locations they almost always bring you to. The “ninety-five percent” of the pie chart, if you will. It’ll take a while for me to search the normal locations too, so I dunno. I’ll put some work in, though.</text>
@@ -1813,7 +1813,7 @@
         <text>Well, just keep trying. It’s our only lead on a way out of here right now, so it should be our top priority. If you make any progress or find any info on a lead, let me know, okay? And was there anything else of value on Scavenger’s PDA?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_14">
-        <text>Well, that’s very much like him. At least he *tried* to help us… if you find any more info on his stash, let me know. We’ll figure out what to do with it. Did his PDA have anything else on it?</text>
+        <text>Well, that’s very much like him. At least he *tried* to help us… If you find any more info on his stash, let me know. We’ll figure out what to do with it. Did his PDA have anything else on it?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_15">
         <text>Oh, so that piece of shit took all the good stuff and let us use the grimy ammo and eat mutant meat. Wonderful. If you find that stash, bring it back here; we really need those extra supplies. We’ll put it to good use, unlike that bastard scavenger.</text>
@@ -1843,7 +1843,7 @@
         <text>Keep me updated if you find anything on it; leads *or* general information. Was there anything else on his PDA?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_23">
-        <text>Well, this is very much like him… if you find that stash of his, let us know. We’ll certainly put it to better use than a dead man. Did his PDA have anything else of value on it?</text>
+        <text>Well, this is very much like him… If you find that stash of his, let us know. We’ll certainly put it to better use than a dead man. Did his PDA have anything else of value on it?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_24">
         <text>Well, I’ve already found it.</text>
@@ -1864,7 +1864,7 @@
         <text>Yup. He’s kind of a legend around here. Did that scavenger’s PDA have anything else on it, though?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_3">
-        <text>Fuck, that guy was sharp as hell, too… What are we gonna do without him?</text>
+        <text>Fuck. That guy was sharp as hell, too… What are we gonna do without him?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_30">
         <text>I guess we didn’t know as much about that scavenger bastard as we thought we did… Oh, before I forget! Knucklehead wanted to talk to you, and that army guy also wanted to see you. Said he had some important info. Can you talk to him for me? I really need some time to sort this stuff out mentally.</text>
@@ -1978,7 +1978,7 @@
         <text>So, Beast, whatcha got?</text>
     </string>
     <string id="pb_shurup_start_dialog_3">
-        <text>Hey merc—er, Beast. Sorry. Uh, anyways, I’m the local technician. A mechanical genius. I’ll buy busted shooters off of you; I break them down for parts which let me repair your weapons. Also, if you find any sets of tools, I’ll take them off your hands. I’m working with a wooden mallet and a screwdriver to break weapons down, for christ’s sake.</text>
+        <text>Hey, merc—er, Beast. Sorry. Uh, anyways, I’m the local technician. A mechanical genius. I’ll buy busted shooters off of you; I break them down for parts that let me repair your weapons. Also, if you find any sets of tools, I’ll take them off your hands. I’m working with a wooden mallet and a screwdriver to break weapons down, for Christ’s sake.</text>
     </string>
     <string id="pb_shurup_start_dialog_4">
         <text>Hey, Beast! Need any of my mechanical experise?</text>
@@ -2062,7 +2062,7 @@
         <text>I found a toolkit. You interested?</text>
     </string>
     <string id="pb_shurup_talk_to_toolkit_1_1">
-        <text>Sure am. Pass it over here. Hmm… looks like they should be sufficient for basic work. They beat the hell out of this soviet mallet I was using before… thanks, Beast. I’ll be sure to give you special treatment and some lowered prices for this, heh.</text>
+        <text>Sure am. Pass it over here. Hmm… Looks like they should be sufficient for basic work. They beat the hell out of this Soviet mallet I was using before… Thanks, Beast. I’ll be sure to give you special treatment and some lowered prices for this, heh.</text>
     </string>
     <string id="pb_shurup_talk_to_toolkit_1_2">
         <text>Haha. Thanks, Screw.</text>
@@ -2149,7 +2149,7 @@
         <text>Okay. I’ll get busy looking again, so later.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_4">
-        <text>Yeah, Beast. There’s a radio transceiver down here, and it’s pretty powerful. I studied radio technology when I was younger; minored in it, and I was pretty damn good with it. I think I can get it working again, but I need some spare parts first. If you can find me a suitable battery with a charge and some copper wire to replace the fried wiring, I’ll have a good chance of restarting this bad boy and maybe broadcasting an SOS signal to people outside of this anomaly.</text>
+        <text>Yeah, Beast. There’s a radio transceiver down here, and it’s pretty powerful. If you can find me a suitable battery with a charge and some copper wire to replace the fried wiring, I’ll have a good chance of restarting this bad boy and maybe broadcasting an SOS signal to people outside of this anomaly.</text>
     </string>
     <string id="pb_soldier_oleynik_meet_40">
         <text>Excellent! Give me about twenty minutes and I think I can get this beast working…</text>
@@ -2200,7 +2200,7 @@
         <text>I’m listening, Beast.</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_10">
-        <text>Jesus christ… I need… a medkit…</text>
+        <text>Jesus Christ… I need… a medkit…</text>
     </string>
     <string id="pb_soldier_oleynik_wounded_11">
         <text>Oh, thank God… Wait a second. Where am I?</text>

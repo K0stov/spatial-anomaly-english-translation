@@ -40,7 +40,7 @@
 		<text>Much about this artifact remains a complete mystery to scientists. At the same time, it is known for certain that emissions produced by pulses in its thicker sections force blood in open wounds to clot quicker, forming a protective scab. One of the most noticeable effects of this artifact is the increased speed of wound healing. Emits radiation.</text>
 	</string>
 	<string id="st_af_dummy_glassbeads_name">
-		<text>Mama’s Beads</text>
+		<text>MamaХs Beads</text>
 	</string>
 	<string id="st_af_electra_flash_descr">
 		<text>This electrostatic artifact is a powerful absorbent of electricity, which it later discharges. Flash is capable of protecting its bearer from electric shocks of up to 5,000 volts. Emits radiation.</text>
@@ -61,13 +61,13 @@
 		<text>Sparkler</text>
 	</string>
 	<string id="st_af_eye_descr">
-		<text>This artifact, which resembles the human eye, considerably increases the body’s metabolism, helping wounds heal quicker. Experienced stalkers say that the Eye also brings luck. Emits radiation. </text>
+		<text>This artifact, which resembles the human eye, considerably increases the bodyХs metabolism, helping wounds heal quicker. Experienced stalkers say that the Eye also brings luck. Emits radiation. </text>
 	</string>
 	<string id="st_af_eye_name">
 		<text>Eye</text>
 	</string>
 	<string id="st_af_fire_descr">
-		<text>This artifact forms in areas of high thermal activity. Produces powerful infrared emissions, which intensify metabolic processes, healing wounds before its bearer’s very eyes. As this artifact is very rare, it is extremely valuable. Emits radiation.</text>
+		<text>This artifact forms in areas of high thermal activity. Produces powerful infrared emissions, which intensify metabolic processes, healing wounds before its bearerХs very eyes. As this artifact is very rare, it is extremely valuable. Emits radiation.</text>
 	</string>
 	<string id="st_af_fire_name">
 		<text>Flame</text>
@@ -79,7 +79,7 @@
 		<text>Fireball</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_descr">
-		<text>A relatively rare artifact which forms in areas contaminated with chemicals, Kolobok is highly valued for its ability to heal wounds of any kind in mere minutes. For unknown reasons, scientists are spreading rumors among stalkers that the artifact interacts with the bearer’s genetic code. Emits radiation.</text>
+		<text>A relatively rare artifact which forms in areas contaminated with chemicals, Kolobok is highly valued for its ability to heal wounds of any kind in mere minutes. For unknown reasons, scientists are spreading rumors among stalkers that the artifact interacts with the bearerХs genetic code. Emits radiation.</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_name">
 		<text>Kolobok</text>
@@ -100,7 +100,7 @@
 		<text>Gravi</text>
 	</string>
 	<string id="st_af_ice_descr">
-		<text>At first glance, this artifact resembles Kolobok. Some claim that it actually is Kolobok, its properties reinforced by exposure to a powerful electric field. Thanks to its unique properties, the artifact can significantly increase the bearer’s muscle tone. Emits radiation.</text>
+		<text>At first glance, this artifact resembles Kolobok. Some claim that it actually is Kolobok, its properties reinforced by exposure to a powerful electric field. Thanks to its unique properties, the artifact can significantly increase the bearerХs muscle tone. Emits radiation.</text>
 	</string>
 	<string id="st_af_ice_name">
 		<text>Snowflake</text>
@@ -124,7 +124,7 @@
 		<text>Night Star</text>
 	</string>
 	<string id="st_af_soul_descr">
-		<text>A unique organic artifact with properties just as unique. Somehow it increases the body’s overall recovery rate from damage of any kind, without accelerating the accumulation of toxins. Thanks to its effects and attractive appearance, this artifact is a valuable collector’s item. Emits radiation.</text>
+		<text>A unique organic artifact with properties just as unique. Somehow it increases the bodyХs overall recovery rate from damage of any kind, without accelerating the accumulation of toxins. Thanks to its effects and attractive appearance, this artifact is a valuable collectorХs item. Emits radiation.</text>
 	</string>
 	<string id="st_af_soul_name">
 		<text>Soul</text>
@@ -139,7 +139,7 @@
 		<text>Compass</text>
 	</string>
 	<string id="st_compass_descr">
-		<text>A rare artifact - it’s been several years since one was found. The artifact can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.</text>
+		<text>A rare artifact - itХs been several years since one was found. The artifact can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.</text>
 	</string>
 	<string id="st_oasis_heart">
 		<text>Heart of the Oasis</text>
@@ -156,28 +156,28 @@
 <text>Bat</text>
 </string>
 <string id="st_af_bat_descr">
- <text>Аномальное образование, по магнитным свойствам, сходное с металлами сверх высокой плотности. Однако, при этом обладает сравнительно низкой удельной массой вещества. Создает достаточно мощное защитное поле, способное изменять траектории полета пуль и снарядов. Считается редким из-за сложности обнаружения. Радиоактивен. \n %c[default]Свойства:\n%c[255,238,153,26]• %c[default]Повышение пулестойкости %c[255,238,15,26](%c[255,1,128,54]+7%c[255,238,15,26])\n%c[default]</text>
+ <text>An artifact whose magnetic properties resemble heavy metals and like them it has a low specific heat capacity. It creates a powerful protective field which changes the trajectory of bullets and other projectiles.  The artifact is very rare and has a high value. ItХs only the downside is that itХs radioactive.\n %c[default]Свойства:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+7%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 <string id="st_af_fire_loop_name">
 <text>Fireloop</text>
 </string>
 <string id="st_af_fire_loop_descr">
- <text>Чрезвычайно редкий артефакт. Необходимым условием генерации которого, является  воздействие и близкое расположение к аномалии Жарка. Способность значительного понижения температуры в радиусе 0,5 м, в сочетании с высоким уровнем поглощения термоизлучения делает его незаменимым термозащитным элементом. Имеет слабые заживляющие свойства.</text>
+ <text>A very rare artifact which only spawn near powerful burner anomalies. It can lower the heat of any object in a 5 meter radius and thus make it impervious to heat anomalies. On the top of that the artifact slightly decreases the time in which wounds heal.</text>
 </string>
 
 <string id="st_af_fountain_name">
 <text>Fountain</text>
 </string>
 <string id="st_af_fountain_descr">
- <text>Не смотря на отсутствие каких-либо гравитационных воздействий, Фонтан значительно снижает массу переносимых предметов. По одной из теорий ученых сталкеров, это происходит за счет малой плотности вещества артефакта (значительно меньшей плотности воздушных масс). В результате чего, он имеет эффект воздушного шара. Необъяснимым остается факт его удержания на поверхности земли и невозможности самостоятельного преодоления гравитации.</text>
+ <text>Despite not having any gravitational effects this artifact makes you gear lighter. According to one of the theories made by scientists, this effect is achieved because of the artifactХs low volumetric mass density. Although one unexplainable, fact is that the artifact stays on the ground and doesnХt float up in the air.</text> <!--unexplainable fact? that pretty much refutes the theory...-->
 </string>
 
 <string id="st_af_generator_name">
 <text>Generator</text>
 </string>
 <string id="st_af_generator_descr">
- <text>Этот артефакт не только обеспечивает щадящий режим в области ран и других повреждений, но и многократно улучшает трофику и ускоряет регенерацию тканей. Это происходит за счет временной иммунной перестройки в организме и не требует дополнительной терапии. Радиоактивен.</text>
+ <text>Not only does this artifact helps the body close up open wounds but it also helps the body regenerate itself. The only downside is that itХs radioactive. </text>
 </string>
 
 
@@ -185,7 +185,7 @@
 <text>Dragon Eye</text>
 </string>
 <string id="st_af_eye_dragon_descr">
- <text>Мощный репарант мышечных тканей. В сочетании со стабилизирующим эффектом дыхательной системы,  усиливает биосинтез РНК, функциональных и ферментативных клеточных элементов, в т.ч. составляющих клеточных мембран, а также стимулирует редупликацию ДНК и деления клеток. Источник подобного воздействия до конца не изучен. Радиоактивен.</text>
+ <text>This artifact has the ability to strengthen its userХs muscles as well as stabilize its userХs breathing. Additional effects included: strengthening of protein synthesis and an increase in the effectiveness of bodily enzymes. Although, the full effects of this artifact on the body arenХt known yet since scientists have not fully studied it. Emits radiation.</text>
 </string>
 
 
@@ -193,7 +193,7 @@
 <text>Peas</text>
 </string>
 <string id="st_af_peas_descr">
- <text>Устойчивое химическое соединение ультра нового поколения. Способно почти на сто процентов вывести из организма радионуклиды, независимо от источника заражения. Будь-то пища вода или воздух. Действие артефакта основано на высокой способности захвата и выведения из организма Актиноидов - наиболее опасных радиоактивных элементов. Исследования ученых сталкеров подтвердили факт нулевой токсичности данного артефакта.</text>
+ <text>A strong chemical structure of a new era that is able to detox itХs user from any form of radiation not matter what is the source. Be it, water, food or air it doesnХt matter. The artifact does this by capturing  each radioactive particle and moving it out of the body. Scientists believe that this is artifact is completely nontoxic.</text>
 </string>
 
 
@@ -201,7 +201,7 @@
 <text>Cell</text>
 </string>
 <string id="st_af_cell_descr">
- <text>Главным недостатком этого аномального образования, является высокий показатель гравитационного поля. Этот эффект утяжеляет переносимый вес и, относительно сильно, притягивает металлические предметы. Однако, вектор магнитного воздействия направлен к поверхности земли, что значительно снижает точность попаданий из за отклонения траектории полета пуль. Радиоактивен. \n %c[default]Свойства:\n%c[255,238,153,26]• %c[default]Повышение пулестойкости %c[255,238,15,26](%c[255,1,128,54]+10%c[255,238,15,26])\n%c[default]</text>
+ <text>This artifactХs powerful gravitational pull is both its strength and weakness. On one hand it changes the trajectory of incoming bullets and other projectiles and thus protects the user. On the other hand though, its gravitational pull makes the userХs gear and loot a lot heavier. Another downside is that itХs radioactive.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+10%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 
@@ -209,7 +209,7 @@
 <text>Cocoon</text>
 </string>
 <string id="st_af_cocoon_descr">
- <text>Свойства этого артефакта можно охарактеризовать, как останавливающие. Имеет два противоположно заряженных полюса, которые при взаимодействии создают неоднородность атмосферных локальных образований, при оптически неизменчивой структуре пространства. Относительная твердость такого "купола" обеспечивается стабильными наносоединениями , поглощающими энергию всех внешних ударных воздействий. Радиоактивен. \n %c[default]Свойства:\n%c[255,238,153,26]• %c[default]Повышение пулестойкости %c[255,238,15,26](%c[255,1,128,54]+12%c[255,238,15,26])\n%c[default]</text>
+ <text>The properties of this artifact can be called “stoppers”. This artifact has two sources of energy who when combined together make an energy field which creates a different atmosphere inside it. This atmosphere is a lot denser and thus stops blunt forces attacks as well as other attacks. This artifact also produces radiation.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+12%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 
@@ -217,7 +217,7 @@
 <text>Beacon</text>
 </string>
 <string id="st_af_lighthouse_descr">
- <text>Сверхплотный сгусток субстанции. При попадании в агрессивную среду, способен выделять облако бесцветного газа, имеющего достаточно сильные щелочные свойства. Действуя как нейтрализатор, снижает опасность и последствия химических ожогов и заражений. Выделяемую, при химических реакциях, энергию использует для поглощения радиации.</text>
+ <text>A structure made out of highly dense substance. When this artifact is put in a dangerous environment it produces a gas that lessens the effects of toxic gasses and radiation on the user.</text>
 </string>
 
 
@@ -225,7 +225,7 @@
 <text>Medallion</text>
 </string>
 <string id="st_af_medallion_descr">
- <text>Представляет собой обруч небольшого диаметра с четырьмя насаженными частями обтекаемой треугольной формы. Которые имеют две пары противоположных зарядов произвольно меняющих свое месторасположение в пределах конструкции. Концентрируясь на центральной "жемчужине" образования, создают уникальное оздоровительное, заживляющее и радиопротекторное воздействие на организм человека. Из-за высокой стоимости, является предметом охоты сталкеров. </text>
+ <text>This artifact is structured like hoop with 4 triangular objects on the sides. Even though these objects are constantly in motion they are always positioned symmetrically to each other. This 4 bits produces an energy which when comes in contact with a living creature, heals its wounds, restores its energy and rids their body of radiation. This artifact is very valuable due to its effectiveness and scarcity.</text>
 </string>
 
 
@@ -233,14 +233,14 @@
 <text>Tapeworm</text>
 </string>
 <string id="st_af_tapeworm_descr">
- <text>По сути, это чистая двуокись кремния, если брать во внимание, исключительно, атомную массу вещества. Тем не менее, отличается от природного хрусталя не только насыщенным купоросовым оттенком, но и сверх прочными механическими характеристиками. Образуемый в скоплениях аномалий типа "Электра", данный кварцевый фрагмент имеет сложную систему внутренних токов, при внешних диэлектрических свойствах. Радиоактивен.</text>
+ <text>Even though, this artifact looks like regular silicone dioxide, itХs atomic mass is completely different. The artifact doesnХt only differ with its atomic mass though but also by the type of electricity it produces which shield itХs user from electrical shock. ItХs only downside is that itХs radioactive.</text>
 </string>
 
 <string id="st_af_black_angel_name">
 <text>Black Angel</text>
 </string>
 <string id="st_af_black_angel_descr">
- <text>Артефакт - корень. Его воздействие трудно переоценить в условиях мощного воздействия пси-поля. Антипси-излучение Черного ангела заключается в том, что он блокирует нейрораспад миноаминов в организме (серотонина, дофамина и др). Тем самым стабилизируя концентрацию этих медиаторов в крови. Чем, в свою очередь, полностью убирает антидепрессивный порог, ниже которого пси-сопротивление отсутствует. Соответственно контроль за пси-состоянием остается постоянным, практически при любом уровне угрозы, с сохранением физической активности вцелом.</text>
+ <text>This artifact can be the difference between life and death in places with high psi-radiation. The black angel produces an anti psi-radiation which restores the chemical balances of the brain as well itХs any lost brain cells. Not only does artifact can protect its user from psi-emission but also treat any existing mental illnesses.</text>
 </string>
 
 
@@ -248,7 +248,7 @@
 <text>Signet</text>
 </string>
 <string id="st_af_signet_descr">
- <text>Сталкеры также называют этот артефакт "амулет". Выраженные защитные свойства заключаются в способности изменения средств бронезищиты на уровне межатомных связей элемента. Трансформации поддаются практически все металлы, находящиеся в радиусе одного метра. В количестве трех экземпляров, способен снижать износ применяемого оружия. \n %c[default]Свойства:\n%c[255,238,153,26]• %c[default]Повышение пулестойкости %c[255,238,15,26](%c[255,1,128,54]+3%c[255,238,15,26])\n%c[default]</text>
+ <text>Stalkers also call this artifact amulet. This artifact protects itХs user by strengthening any armor his wearing. The artifact affects all metals in its surrounding by prolonging their durability. The artifact also makes weapons more reliable.\n %c[default]properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+3%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 
@@ -256,14 +256,14 @@
 <text>Phantom</text>
 </string>
 <string id="st_af_star_phantom_descr">
- <text>Аномальное образование, представляет собой плазменную субстанцию в прозрачной пульсирующей оболочке. Главная особенность - активное поглощение кислорода. Что является защитным фактором при локальном тушении очагов возгорания за счет перекрытия доступа воздуха, необходимого для повышения температуры. Обладает заживляющим эффектом. Радиоактивен.</text>
+ <text>This anomalous formation consists of plasma like substance inside a pulsating shell. This artifact main specialty is its ability to absorb oxygen and thus reduce the effects of burns on the body. It also has a small healing effect. Despite it positive qualities though, it is radioactive. </text>
 </string>
 
 <string id="st_af_gimlet_name">
 <text>Gimlet</text>
 </string>
 <string id="st_af_gimlet_descr">
- <text>Имеет растительную природу. Чашеобразные лепестки артефакта являются источниками выделения мощного газообразного стимулятора. Результатом воздействия которого является изменение гормонального фона и, как следствие, значительного повышения уровня норадреналина в крови. Интенсивная выработка этого гормона усиливает агрессию, ярость, стремление преодолеть препятствие. Однако, на ряду с положительными свойствами, последствиями длительного использования артефакта становятся: увеличенные размеры миокарда и снижение активности надпочечников. Радиоактивен.</text>
+ <text>This artifact is a type of plant whose cup shaped leaves produce a unique type of gas. This gas affects the userХs hormonal balance and thus increases the amount of norepinephrine in the blood. The intense increase in this hormone makes user more aggressive, resilient, and more willing to conquer any obstacle. However, this change in hormonal balance also causes an increase in the size of cardiac muscles and impairs the activity of adrenal glands. Another negative quality of this artifact is that it produces a very high amount of radiation.</text>
 </string>
 
 
@@ -271,7 +271,7 @@
 <text>Sandstone</text>
 </string>
 <string id="st_af_sandstone_descr">
- <text>Термоизолятор, способный сообщать свои свойства соприкасающимся предметам. Наблюдались случаи отсутствия термических ожогов после помещения кисти руки с зажатым артефактом в пламя температурой от 300.С. Невосприимчивость к термическим повреждениям сопровождается слабым заживляющим эффектом. Представляет собой полураскрытую сферу с движущейся рассыпчатой субстанцией, удерживающейся от распада полем неизученного происхождения.</text>
+ <text>This artifact can isolate heat from any object it touches. A user who holds this artifact can avoid get burned in areas where the temperature is up 300 degrees Celsius.  On top of this, the artifact also has a small healing effect. The shape of the artifact is a sphere which is hollow in certain places. The surface of this sphere is covered by an unknown substance which holds the entire artifact together. </text>
 </string>
 
 
@@ -279,15 +279,15 @@
 <text>Seraph</text>
 </string>
 <string id="st_af_serofim_descr">
- <text>Редкий артефакт органический природы. Представляет собой концентрированную смесь витаминов и аминокислот, неизученным способом проникающих в организм. Улучшает общее состояние здоровья, а также клеточный и тканевой метаболизм. По основным  характеристикам является метаболическим корректором двойного действия, способствующим быстрому восстановлению организма. За счет стимулирования метаболизма различных химических групп ускоряет рост мышечной массы.</text>
+ <text>A very rare, organic artifact which consist of vitamins and amino acids who for an unknown reason have the ability to penetrate the userХs body. Uplifts the general wellbeing of any nearby organism and improves function of their metabolism. Because of the improvement of metabolic functions, its user can gain muscle a lot faster.</text>
 </string>
 
 
 <string id="st_af_skull_miser_name">
-<text>Miser’s Skull</text>
+<text>MiserХs Skull</text>
 </string>
 <string id="st_af_skull_miser_descr">
- <text>Интересный артефакт сферической формы, содержащий большое количества гидросиликата магния. Свойства которого способны существенно замедлять, а в отдельных случаях, приостанавливать химические реакции. По наблюдениям ученых сталкеров, абсолютно не радиоактивен, что делает его привлекательным, как для сталкеров, так и для заказчиков вне Зоны.</text>
+ <text>This sphere shaped artifact is very interesting due to its very high content of hydrochloric magnesium which can halt and in some cases stop chemical reactions. This artifact is completely non-radioactive which makes very valuable to both stalkers and outside buyers.</text>
 </string>
 
 
@@ -295,7 +295,7 @@
 <text>Joint</text>
 </string>
 <string id="st_af_spaika_descr">
- <text>Внешне напоминает окаменелое образование. Имеет выраженный радиационный фон. Поэтому не слишком популярен у сталкеров. Представляет интерес для ученых. Уникальность эффекта в том, что излучаемое пси-поле нейропрограммирует организм на улучшение КПД мышечных процессов. Следствием является  увеличение максимально переносимого веса до 25 кг. Радиоактивен.</text>
+ <text>This artifact looks and feels like a regular stone and yet it is very high source of radiation and for that same reason isnХt that popular with stalkers. Instead the artifact is of great interest to scientist because of the psi field it generates which improves muscle functions. The artifact can make itХs user carry an extra 25 kg.</text>
 </string>
 
 
@@ -303,7 +303,7 @@
 <text>Kislushka</text>
 </string>
 <string id="st_af_kislushka_descr">
- <text>Один из наиболее часто заказываемых и красивейших артефактов Зоны. Полое образование шарообразной формы, напоминающее прозрачный пергамент. Имеет слабое изумрудное внутреннее свечение. Благодаря своим восстановительным свойствам, так же популярен среди сталкеров. Радиоактивен.</text>
+ <text>One of the most visual stunning artifacts in the zone so much so many people want it just for its beauty. The artifact is made out of a hollow transparent sphere and inside there are emerald sources of light. The artifact is also popular among stalkers because of its healing properties. Its only downside is that itХs radioactive.</text>
 </string>
 
 
@@ -311,7 +311,7 @@
 <text>Grape</text>
 </string>
 <string id="st_af_grapes_descr">
- <text>Оплавленный кусок древесной смолы зеленоватого оттенка. В результате различных аномальных воздействий и выбросов приобрел мощные радиопоглощающие свойства. Его уникальность заключается не столько в том, что он является "черной дырой" для радионуклидов, сколько в способности многократного ускорения периода полураспада любых изотопов. Говоря простыми словами - это настоящий утилизатор радиации.</text>
+ <text>This artifact is a melted piece resin with a green shade. It acts like a “black hole” for radiation and rid its user of it in a matter of minutes. It’s a real eliminator of radiation to say the least.</text>
 </string>
 	
 	

@@ -181,7 +181,7 @@
 		<text>A stalker’s note written on a sheet of paper torn out of a notebook. To read, click “Use.”</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala">
-		<text>Note from Sleeper</text>
+		<text>Note from Crosstie</text>
 	</string>
 	<string id="st_pb_quest_mail_shpala_descr">
 		<text>A stalker’s note written on a sheet of paper torn out of a notebook. To read, click “Use.”</text>
@@ -211,7 +211,7 @@
 		<text>Personal notepad</text>
 	</string>
 	<string id="st_pb_quest_bloknot_descr">
-		<text>Sometimes, writing things down can help you find the solution…</text>
+		<text>Sometimes, writing things down can help you find solutions…</text>
 	</string>
 	<string id="tainik_padalshika">
 		<text>Scavenger’s container</text>
@@ -318,19 +318,19 @@
 	</string>
 
 	<string id="mutant_flesh_meat_descr">
-		<text>Tasty, edible flesh meat. It’s recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +584 mSv</text>
+		<text>Tasty, edible flesh meat. It’s recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +584 mSv</text>
 	</string>
 	<string id="mutant_flesh_meat">
 		<text>Flesh meat</text>
 	</string>
 	<string id="mutant_boar_chop_descr">
-		<text>Highly nutritious and perfectly edible boar meat. It is recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +646 mSv</text>
+		<text>Highly nutritious and perfectly edible boar meat. It is recommend not to eat it raw, as there is high chance that this meat is infected with trichinosis or brucellosis. These infections will take host of the stalker who ingests them and will cause symptoms that include but are not limited to fever, tiredness and loss of appetite. Symptoms such as these could be fatal in the zone where danger is lurking in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +646 mSv</text>
 	</string>
 	<string id="mutant_boar_chop">
 		<text>Boar meat</text>
 	</string>
 	<string id="mutant_dog_meat_descr">
-		<text>Blind dog meat. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Posionous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 mSv</text>
+		<text>Blind dog meat. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 mSv</text>
 	</string>
 	<string id="mutant_dog_meat">
 		<text>Blind dog meat</text>

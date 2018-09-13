@@ -7,7 +7,7 @@
 <text>Prologue: find out what happened</text>
 </string>
 <string id="pb_who_is_happening_part_1_text">
-<text>I don’t rememeber anything… Got a splitting headache… Where am I? What is this place? I need to find out more about the local stalkers.</text>
+<text>I don’t remember anything. I’ve got a splitting headache… Where am I? What is this place? I need to find out more about the local stalkers.</text>
 </string>
 <string id="pb_who_is_happening_part_2_name">
 <text>Prologue: eliminate the zombies</text>
@@ -285,10 +285,10 @@
 
 <!-- Quest: hot on the trail -->
 <string id="pb_go_to_signal_part_1_name">
-<text>Hot on the trail: search the zone of last activity from Markus’ PDA</text>
+<text>Hot on the trail: search where Markus’ PDA marker was last registered</text>
 </string>
 <string id="pb_go_to_signal_part_1_text">
-<text>I need to search the zone of last activity from Markus’ PDA.</text>
+<text>I need to search around where Markus’ PDA was last registered.</text>
 </string>
 
 
@@ -471,7 +471,7 @@
 <text>Last message: speak to general Tachenko</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_1_text">
-<text>A general Tachenko has sent me a message. He wants to speak to me.</text>
+<text>General Tachenko has sent me a message. He wants to speak to me.</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_2_name">
 <text>Last message: try to reach the general once more</text>
@@ -655,7 +655,7 @@
 <text>Nightmare: search the underground</text>
 </string>
 <string id="pb_podzemka_search_part_1_text">
-<text>I met an incomprehensible spirit in one of the basements. It said to drink a bottle of vodka that was on the table, and so I did. I have no idea where I’ve ended up. I should get my bearings and explore this place.</text>
+<text>I met… something in one of the basements. It was a spirit. It said to drink a bottle of vodka that was on the table, and so I did. I have no idea where I’ve ended up. I should get my bearings and explore this place.</text>
 </string>
 
 

@@ -763,10 +763,10 @@
 	</string>
 <!-- AKS-74UBN -->
 	<string id="st_wpn_ak74u_snag">
-		<text>Snag’s AKS-74UBN</text>
+		<text>AKS-74U Storm</text>
 	</string>
 	<string id="st_wpn_ak74u_snag_descr">
-		<text>A modified AKS-74UBN with a permanently attached Kobra red dot sight and PBS-4 surpressor.</text>
+		<text>A modified AKS-74U equipped with a permanently attached EKP-1S-03 Kobra red dot sight, a PBS-4 suppressor, and a 45-round magazine. This particular model was custom-made for a mercenary known as Beast.</text>
 	</string>
 <!-- Steyr AUG A1 -->
 	<string id="st_wpn_aug">
