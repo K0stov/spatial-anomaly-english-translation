@@ -59,7 +59,7 @@ A list of all files with detailed progress can be found below.
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
 		- done (needs revision + rewriting)
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
-		- done (needs rewriting)
+		- done
 	- [st_quests_escape.xml](gamedata/configs/text/eng/st_quests_escape.xml)
 		- done (needs rewriting)
 	- [st_quests_general.xml](gamedata/configs/text/eng/st_quests_general.xml)
