@@ -92,6 +92,8 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
 		- done
+	- [ui_main_menu.script](gamedata/scripts/ui_main_menu.script)
+		- done
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
 		- done (needs revision)
 - **[gamedata/textures/intro](gamedata/textures/intro)**
