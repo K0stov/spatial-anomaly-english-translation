@@ -1536,7 +1536,7 @@
 		<text>Состав аптечки:</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_1">
-		<text>Raw boar meat</text>
+		<text>Сырое мясо кабана</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_2">
 		<text>Хлебцы армейские</text>
@@ -1545,10 +1545,10 @@
 		<text>Паштет</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_4">
-		<text>Raw dog meat</text>
+		<text>Сырое мясо собаки</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_5">
-		<text>Raw flesh meat</text>
+		<text>Сырое мясо плоти</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_6">
 		<text>Напиток</text>
@@ -2475,7 +2475,7 @@
 		<text>Letter from Obscurant</text>
 	</string>
 	<string id="st_notepad_type_esc_1_text">
-		<text>Remember, your target is a bald, bearded man in his 40’s. He wears a regular mercenary armor and his nickname is Beast. His PDA marker should confirm his position on the map. Take the position in the second floor of the grain elevator and wait for the target to appear. Make sure nobody else is with him, as this needs to be done without witnesses. After you take him out, return for your reward.</text>
+		<text>Remember, your target is a bald, bearded man in his 40s. He wears a regular mercenary armor and his nickname is Beast. His PDA marker should confirm his position on the map. Take the position in the second floor of the grain elevator and wait for the target to appear. Make sure nobody else is with him, as this needs to be done without witnesses. After you take him out, return for your reward.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_91">
 		<text>Note from Skull</text>

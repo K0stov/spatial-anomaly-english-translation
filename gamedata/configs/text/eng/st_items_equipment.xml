@@ -315,7 +315,7 @@
 		<text>Meat from a blind dog. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.</text>
 	</string>
 	<string id="st_meat_dog">
-		<text>Raw blind dog meat</text>
+		<text>Raw dog meat</text>
 	</string>
 
 	<string id="mutant_flesh_meat_descr">
@@ -334,7 +334,7 @@
 		<text>Blind dog meat. Not as good as flesh or boar meat, but still perfectly edible. It is recommend not to eat it raw, as there is high chance that the meat is infected with trichinosis or brucellosis. Such infections will infect the stalker who ingests them and cause symptoms that include but are not limited to fever, tiredness, and loss of appetite. Symptoms such as these could be fatal in the Zone, where danger lurks in every corner.\n \n%c[0,204,0,51] • %c[0,140,140,140] Poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] Radiation: %c[0,170,170,170] +202 mSv</text>
 	</string>
 	<string id="mutant_dog_meat">
-		<text>Blind dog meat</text>
+		<text>Dog meat</text>
 	</string>
 	<string id="flask_empty_name">
 		<text>Empty flask</text>
