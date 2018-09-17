@@ -1770,6 +1770,12 @@
     <string id="pb_quest_lutiy_meet_to_murad_10">
         <text>A little bit of ammo and a day’s worth of food, but that’s about it. Sorry.</text>
     </string>
+    <string id="pb_quest_lutiy_meet_to_murad_11">
+        <text>I’m listening. Did you speak to the guy who sent him?</text>
+    </string>
+    <string id="pb_quest_lutiy_meet_to_murad_12">
+        <text>Not yet.</text>
+    </string>
     <string id="pb_quest_lutiy_meet_to_murad_2">
         <text>Yup. I led him here and recruited him.</text>
     </string>
