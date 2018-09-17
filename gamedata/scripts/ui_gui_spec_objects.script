@@ -1,0 +1,2291 @@
+-------------------- GUI элементы в приборах Смерти вопреки ----------------------
+------------------------- Copyright 2012-2013 Geonezis & XOBAH ---------------------------
+------------------------------------------------------------------------------
+--                           Дозиметр Radex (Счетчик Гейгера, неквестовый)                 --
+------------------------------------------------------------------------------
+class "gui_radex_geiger_used" (CUIScriptWnd)
+function gui_radex_geiger_used:__init(owner) super()
+   self.owner = owner
+   self:InitControls()
+   self:InitCallBacks()
+end
+function gui_radex_geiger_used:__finalize()
+end
+function gui_radex_geiger_used:InitControls()
+   self:SetWndRect(Frect():set(0,0,1024,768))
+   local xml = CScriptXmlInit()
+   xml:ParseFile("ui_gui_elements.xml")
+   self.geiger_spec_form=xml:InitStatic("geiger_spec_form",self)
+   self.helper=CUIMessageBoxEx()
+   self:Register(self.helper,"helper")
+   ctrl = xml:Init3tButton	("geiger_spec_form:btn_help_1",	self.geiger_spec_form)
+   self:Register			(ctrl, "button_help_1")   
+   xml:InitStatic			("geiger_spec_form:caption",self.geiger_spec_form)       
+   self.edt_text_1	= xml:InitEditBox("geiger_spec_form:edt_text_1", self.geiger_spec_form)
+   self.edt_text_2	= xml:InitEditBox("geiger_spec_form:edt_text_2", self.geiger_spec_form)   
+   self.btn_1_slot = xml:Init3tButton ("geiger_spec_form:btn_1_slot", self.geiger_spec_form) 
+   self:Register (self.btn_1_slot, "btn_1_slot")
+   self.btn_close = xml:Init3tButton ("geiger_spec_form:btn_close", self.geiger_spec_form) 
+   self:Register (self.btn_close, "btn_close")   
+   self.form_title=xml:InitStatic("geiger_spec_form:form_title",self.geiger_spec_form)   
+end
+
+function gui_radex_geiger_used:InitCallBacks()
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_YES_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_OK_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("button_help_1", ui_events.BUTTON_CLICKED, self.OnButton_help_1_clicked, self)   
+   self:AddCallback("btn_1_slot",ui_events.BUTTON_CLICKED,self.btn_1_slot_use,self)   
+   self:AddCallback("btn_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)   
+end
+
+function gui_radex_geiger_used:btn_1_slot_use()
+local rad = math.floor(db.actor.radiation * 100)
+local rada = math.floor(db.actor.radiation * 1000)
+    self.edt_text_1:SetText("Излучение "..rad.." мР.")
+    self.edt_text_2:SetText("Излучение "..rad.." Бэр.")	
+end
+
+function gui_radex_geiger_used:need_helper_ok()
+   self.helper:ShowDialog(false)
+   self.helper:HideDialog()
+end
+
+function gui_radex_geiger_used:OnButton_help_1_clicked()
+	self.helper:InitMessageBox("mb_specsvc_about_use_item_2")
+    self.helper:ShowDialog(true)	
+end
+
+
+function gui_radex_geiger_used:OnButton_close_clicked()
+   give_object_to_actor("geiger_muller_device")     
+   self:HideDialog()
+end
+------------------------------------------------------------------------------
+--                           Часы ручные (неквестовые, для антуража)                 --
+------------------------------------------------------------------------------
+timer_stage=0
+last_time=0
+currert_timer=0
+field_timer=0
+get_timer_wnd=nil
+class "gui_special_clock_used" (CUIScriptWnd)
+function gui_special_clock_used:__init(owner) super()
+   self.owner = owner
+   self:InitControls()
+   self:InitCallBacks()
+end
+function gui_special_clock_used:__finalize()
+end
+function gui_special_clock_used:InitControls()
+   self:SetWndRect(Frect():set(0,0,1024,768))
+   local xml = CScriptXmlInit()
+   xml:ParseFile("ui_gui_elements.xml")
+   self.clock_spec_form=xml:InitStatic("clock_spec_form",self)
+   self.edt_text_1=xml:InitStatic("edt_text_1",self)
+   self:Register(xml:Init3tButton("clock_spec_form:btn_start",self.clock_spec_form),"btn_start")
+   self:Register(xml:Init3tButton("clock_spec_form:btn_stop",self.clock_spec_form),"btn_stop")   
+   self.btn_close = xml:Init3tButton ("clock_spec_form:btn_close", self.clock_spec_form) 
+   self:Register (self.btn_close, "btn_close")   
+   self.form_title=xml:InitStatic("clock_spec_form:form_title",self.clock_spec_form)
+   get_timer_wnd=CUIStatic()
+   get_timer_wnd:SetAutoDelete(true)
+   self:AttachChild(get_timer_wnd)   
+end
+
+function gui_special_clock_used:Update()
+	CUIScriptWnd.Update(self)
+	self.edt_text_1:TextControl():SetText(getTime())
+	if not object_alive(db.actor) then
+      self:btn_close()
+    end
+    if currert_timer~=nil then
+      if timer_stage==1 then
+         currert_timer=string.format(math.floor(time_global()/1000))-last_time
+      elseif timer_stage==0 then
+         if currert_timer>0 then
+            currert_timer=0
+         end
+      end
+      get_timer_wnd:SetWndRect(Frect():set(535,420,45,18))
+      get_timer_wnd:TextControl():SetFont(GetFontLetterica16Russian())
+      get_timer_wnd:TextControl():SetTextColor(GetARGB(100,154,205,50))
+      get_timer_wnd:TextControl():SetText(currert_timer)
+   end
+end
+
+function gui_special_clock_used:InitCallBacks()
+   self:AddCallback("btn_start",ui_events.BUTTON_CLICKED,self.btn_start,self)
+   self:AddCallback("btn_stop",ui_events.BUTTON_CLICKED,self.btn_stop,self)
+   self:AddCallback("btn_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)   
+end
+
+function gui_special_clock_used:OnKeyboard(dik,keyboard_action)
+   CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
+   if keyboard_action == ui_events.WINDOW_KEY_PRESSED then
+      if dik == DIK_keys.DIK_ESCAPE then
+      self:btn_close()
+      end
+   end
+   return true
+end
+
+function gui_special_clock_used:btn_start()
+   timer_stage=1
+   last_time=string.format(math.floor(time_global()/1000))
+end
+
+function gui_special_clock_used:btn_stop()
+   timer_stage=0
+end
+
+function gui_special_clock_used:OnButton_close_clicked()
+   give_object_to_actor("clock_counter")     
+   self:HideDialog()
+end
+
+function getTime()
+	local time
+	local time_m=level.get_time_minutes()
+	local time_h=level.get_time_hours()
+	if level.get_time_minutes()>=0 and level.get_time_minutes()<=9 then
+		time=time_h..":".."0"..time_m
+	end
+	if level.get_time_minutes()>=10 and level.get_time_minutes()<=59 then
+		time=time_h..":"..time_m
+	end
+	if level.get_time_minutes()>=0 and level.get_time_minutes()<=9 and level.get_time_hours()>=0 and level.get_time_hours()<10 then
+		time="0"..time_h..":".."0"..time_m
+	end
+	if level.get_time_minutes()>=10 and level.get_time_minutes()<=59 and level.get_time_hours()>=0 and level.get_time_hours()<10 then
+		time="0"..time_h..":"..time_m
+	end
+	return time
+end
+------------------------------------------------------------------------------
+--                           (Счетчик СВЧ излучения, неквестовый)                 --
+------------------------------------------------------------------------------
+class "gui_svc_counter_used" (CUIScriptWnd)
+function gui_svc_counter_used:__init(owner) super()
+   self.owner = owner
+   self:InitControls()
+   self:InitCallBacks()
+end
+function gui_svc_counter_used:__finalize()
+end
+function gui_svc_counter_used:InitControls()
+   self:SetWndRect(Frect():set(0,0,1024,768))
+   local xml = CScriptXmlInit()
+   xml:ParseFile("ui_gui_elements.xml")
+   self.svc_counter_form=xml:InitStatic("svc_counter_form",self)
+   self.helper=CUIMessageBoxEx()
+   self:Register(self.helper,"helper")
+   ctrl = xml:Init3tButton	("svc_counter_form:btn_help_1",	self.svc_counter_form)
+   self:Register			(ctrl, "button_help_1")   
+   xml:InitStatic			("svc_counter_form:caption",self.svc_counter_form)       
+   self.edt_text_1	= xml:InitEditBox("svc_counter_form:edt_text_1", self.svc_counter_form)
+   self.edt_text_2	= xml:InitEditBox("svc_counter_form:edt_text_2", self.svc_counter_form)   
+   self.btn_1_slot = xml:Init3tButton ("svc_counter_form:btn_1_slot", self.svc_counter_form) 
+   self:Register (self.btn_1_slot, "btn_1_slot")
+   self.btn_close = xml:Init3tButton ("svc_counter_form:btn_close", self.svc_counter_form) 
+   self:Register (self.btn_close, "btn_close")   
+   self.form_title=xml:InitStatic("svc_counter_form:form_title",self.svc_counter_form)   
+end
+
+function gui_svc_counter_used:InitCallBacks()
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_YES_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_OK_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("button_help_1", ui_events.BUTTON_CLICKED, self.OnButton_help_1_clicked, self)   
+   self:AddCallback("btn_1_slot",ui_events.BUTTON_CLICKED,self.btn_1_slot_use,self)   
+   self:AddCallback("btn_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)   
+end
+
+function gui_svc_counter_used:btn_1_slot_use()
+local rad = math.floor(db.actor.psy_health * 155)
+local rada = math.floor(db.actor.psy_health * 354)
+    self.edt_text_1:SetText("Изл-ие "..rad.." Л.")
+    self.edt_text_2:SetText("Изл-ие "..rad.." мЛ.")	
+end
+
+function gui_svc_counter_used:need_helper_ok()
+   self.helper:ShowDialog(false)
+   self.helper:HideDialog()
+end
+
+function gui_svc_counter_used:OnButton_help_1_clicked()
+	self.helper:InitMessageBox("mb_specsvc_about_use_item_1")
+    self.helper:ShowDialog(true)	
+end
+
+
+function gui_svc_counter_used:OnButton_close_clicked()
+   give_object_to_actor("svc_counter_device")     
+   self:HideDialog()
+end
+------------------------------------------------------------------------------
+--                          Рация (специальная, неквестовая)                 --
+------------------------------------------------------------------------------
+class "ui_gui_npc_razia" (CUIScriptWnd)
+local snd
+local i
+local len
+
+function ui_gui_npc_razia:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_gui_npc_razia:__finalize()
+end
+
+function ui_gui_npc_razia:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.svc_npc_razia				= xml:InitStatic("svc_npc_razia",self)
+	xml:InitStatic			("svc_npc_razia:caption5",self.svc_npc_razia)
+    xml:InitStatic			("svc_npc_razia:rac_1_text_item",self.svc_npc_razia)
+	xml:InitStatic			("svc_npc_razia:rac_s_text_item",self.svc_npc_razia)		
+	ctrl = xml:Init3tButton	("svc_npc_razia:btn_r_close",	self.svc_npc_razia)
+	self:Register			(ctrl, "button_close")
+    self.button_rac_stop = xml:Init3tButton ("svc_npc_razia:btn_rac_stop", self.svc_npc_razia) 
+    self:Register (self.button_rac_stop, "button_rac_stop")	
+	self.helper=CUIMessageBoxEx()
+    self:Register(self.helper,"helper")	
+	ctrl = xml:Init3tButton	("svc_npc_razia:btn_rac_help_1",	self.svc_npc_razia)
+	self:Register			(ctrl, "button_rac_help_1")	
+    self.button_rac_use_1 = xml:Init3tButton ("svc_npc_razia:btn_rac_use_1", self.svc_npc_razia) 
+    self:Register (self.button_rac_use_1, "button_rac_use_1")    
+end
+
+function ui_gui_npc_razia:InitCallBacks()
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)
+    self:AddCallback("button_rac_stop", ui_events.BUTTON_CLICKED, self.OnButton_stop_clicked, self)	
+	self:AddCallback("helper",ui_events.MESSAGE_BOX_YES_CLICKED,self.need_helper_ok,self)
+    self:AddCallback("helper",ui_events.MESSAGE_BOX_OK_CLICKED,self.need_helper_ok,self)	
+	self:AddCallback("button_rac_help_1", ui_events.BUTTON_CLICKED, self.OnButton_help_1_clicked, self)
+	self:AddCallback("button_rac_use_1", ui_events.BUTTON_CLICKED, self.OnButton_use_1_clicked, self)	
+end
+
+function ui_gui_npc_razia:OnButton_close_clicked()    
+	self:HideDialog()
+	give_object_to_actor("spez_npc_razia")
+end
+
+function ui_gui_npc_razia:OnButton_help_1_clicked()
+	self.helper:InitMessageBox("mb_rac_about_use_item_1")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_gui_npc_razia:OnButton_use_1_clicked()
+if level.name()=="jupiter_underground" or level.name()=="labx8" then
+    snd=sound_object([[items\radio\radio_noise_2]])
+    len=snd:length()
+  else
+    if math.random()<0.45 then
+      i=math.random(1,12)
+      snd=sound_object("items\\radio\\radio_voice_"..i)
+      len=snd:length()
+    else
+      i=math.random(1,2)
+      snd=sound_object("items\\radio\\radio_noise_"..i)
+      len=snd:length()
+    end
+  end
+  if not snd:playing() then
+    snd:play(db.actor,0,sound_object.s2d)
+	self.button_rac_use_1:Enable(false)   
+  end  
+end
+
+function ui_gui_npc_razia:OnButton_stop_clicked()
+if snd~=nil then
+  if snd:playing() then
+    snd:stop()
+    self.button_rac_use_1:Enable(true)   
+  else
+    self.button_rac_use_1:Enable(true)    
+  end
+end
+end
+
+function ui_gui_npc_razia:need_helper_ok()
+   self.helper:ShowDialog(false)
+   self.helper:HideDialog()
+end
+------------------------------------------------------------------------------
+--                           Специальная аппарат лечения                  --
+------------------------------------------------------------------------------
+class "gui_spec_ai_used" (CUIScriptWnd)
+function gui_spec_ai_used:__init(owner) super()
+   self.owner = owner
+   self:InitControls()
+   self:InitCallBacks()
+end
+function gui_spec_ai_used:__finalize()
+end
+function gui_spec_ai_used:InitControls()
+   self:SetWndRect(Frect():set(0,0,1024,768))
+   local xml = CScriptXmlInit()
+   xml:ParseFile("ui_gui_elements.xml")
+   self.medic_ai_spec_form=xml:InitStatic("medic_ai_spec_form",self)
+   self.helper=CUIMessageBoxEx()
+   self:Register(self.helper,"helper")
+   ctrl = xml:Init3tButton	("medic_ai_spec_form:btn_help_1",	self.medic_ai_spec_form)
+   self:Register			(ctrl, "button_help_1")
+   ctrl = xml:Init3tButton	("medic_ai_spec_form:btn_help_2",	self.medic_ai_spec_form)
+   self:Register			(ctrl, "button_help_2")
+   ctrl = xml:Init3tButton	("medic_ai_spec_form:btn_help_3",	self.medic_ai_spec_form)
+   self:Register			(ctrl, "button_help_3")
+   ctrl = xml:Init3tButton	("medic_ai_spec_form:btn_help_4",	self.medic_ai_spec_form)
+   self:Register			(ctrl, "button_help_4")
+   ctrl = xml:Init3tButton	("medic_ai_spec_form:btn_help_5",	self.medic_ai_spec_form)
+   self:Register			(ctrl, "button_help_5")
+   xml:InitStatic			("medic_ai_spec_form:caption",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:hlt_text_1",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:hlt_text_2",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:hlt_text_3",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:hlt_text_4",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:hlt_text_5",self.medic_ai_spec_form)   
+   xml:InitStatic			("medic_ai_spec_form:edt_texture_1",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:edt_texture_2",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:edt_texture_3",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:edt_texture_4",self.medic_ai_spec_form)
+   xml:InitStatic			("medic_ai_spec_form:edt_texture_5",self.medic_ai_spec_form)
+   self.edt_text_1	= xml:InitEditBox("medic_ai_spec_form:edt_text_1", self.medic_ai_spec_form)
+   self.edt_text_2	= xml:InitEditBox("medic_ai_spec_form:edt_text_2", self.medic_ai_spec_form)
+   self.edt_text_3	= xml:InitEditBox("medic_ai_spec_form:edt_text_3", self.medic_ai_spec_form)
+   self.edt_text_4	= xml:InitEditBox("medic_ai_spec_form:edt_text_4", self.medic_ai_spec_form)
+   self.edt_text_5	= xml:InitEditBox("medic_ai_spec_form:edt_text_5", self.medic_ai_spec_form)
+   self.check_use_1=xml:InitCheck("medic_ai_spec_form:check_use_1",self.medic_ai_spec_form)
+   self.check_use_1:SetCheck(true)
+   self.check_use_2=xml:InitCheck("medic_ai_spec_form:check_use_2",self.medic_ai_spec_form)
+   self.check_use_2:SetCheck(true)
+   self.check_use_3=xml:InitCheck("medic_ai_spec_form:check_use_3",self.medic_ai_spec_form)
+   self.check_use_3:SetCheck(true)
+   self.check_use_4=xml:InitCheck("medic_ai_spec_form:check_use_4",self.medic_ai_spec_form)
+   self.check_use_4:SetCheck(true)
+   self.check_use_5=xml:InitCheck("medic_ai_spec_form:check_use_5",self.medic_ai_spec_form)
+   self.check_use_5:SetCheck(true)   
+   self.btn_1_slot = xml:Init3tButton ("medic_ai_spec_form:btn_1_slot", self.medic_ai_spec_form) 
+   self:Register (self.btn_1_slot, "btn_1_slot")
+   self.btn_2_slot = xml:Init3tButton ("medic_ai_spec_form:btn_2_slot", self.medic_ai_spec_form) 
+   self:Register (self.btn_2_slot, "btn_2_slot")
+   self.btn_2_slot:Enable(false)   
+   self.btn_close = xml:Init3tButton ("medic_ai_spec_form:btn_close", self.medic_ai_spec_form) 
+   self:Register (self.btn_close, "btn_close")
+   self.btn_close:Enable(false)   
+   self.form_title=xml:InitStatic("medic_ai_spec_form:form_title",self.medic_ai_spec_form)   
+end
+function gui_spec_ai_used:InitCallBacks()
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_YES_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("helper",ui_events.MESSAGE_BOX_OK_CLICKED,self.need_helper_ok,self)
+   self:AddCallback("button_help_1", ui_events.BUTTON_CLICKED, self.OnButton_help_1_clicked, self)
+   self:AddCallback("button_help_2", ui_events.BUTTON_CLICKED, self.OnButton_help_2_clicked, self)
+   self:AddCallback("button_help_3", ui_events.BUTTON_CLICKED, self.OnButton_help_3_clicked, self)
+   self:AddCallback("button_help_4", ui_events.BUTTON_CLICKED, self.OnButton_help_4_clicked, self)
+   self:AddCallback("button_help_5", ui_events.BUTTON_CLICKED, self.OnButton_help_5_clicked, self)
+   self:AddCallback("btn_1_slot",ui_events.BUTTON_CLICKED,self.btn_1_slot_use,self)
+   self:AddCallback("btn_2_slot",ui_events.BUTTON_CLICKED,self.btn_2_slot_use,self)
+   self:AddCallback("btn_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)   
+end
+function gui_spec_ai_used:btn_1_slot_use()
+local a = db.actor.health
+local b = db.actor.radiation
+local c = db.actor.bleeding
+local d = db.actor.power 
+local e = db.actor.psy_health  
+if (db.actor) then
+  if (a <= 1 and a > 0.75) then
+    self.edt_text_1:SetText(game.translate_string("st_npc_med_1_descr_1"))
+  elseif (a <= 0.75 and a > 0.35) then  	
+    self.edt_text_1:SetText(game.translate_string("st_npc_med_1_descr_2"))
+  elseif (a <= 0.35 and a >= 0) then  	
+    self.edt_text_1:SetText(game.translate_string("st_npc_med_1_descr_3"))
+  end
+  if (b <= 1 and b > 0.75) then
+    self.edt_text_2:SetText(game.translate_string("st_npc_med_1_descr_3"))
+  elseif (b <= 0.75 and b > 0.35) then  	
+    self.edt_text_2:SetText(game.translate_string("st_npc_med_1_descr_2"))
+  elseif (b <= 0.35 and b >= 0) then  	
+    self.edt_text_2:SetText(game.translate_string("st_npc_med_1_descr_1"))
+  end
+  if (c <= 1 and c > 0.75) then
+    self.edt_text_3:SetText(game.translate_string("st_npc_med_1_descr_3"))
+  elseif (c <= 0.75 and c > 0.35) then  	
+    self.edt_text_3:SetText(game.translate_string("st_npc_med_1_descr_2"))
+  elseif (c <= 0.35 and c >= 0) then  	
+    self.edt_text_3:SetText(game.translate_string("st_npc_med_1_descr_1"))
+  end
+  if (d <= 1 and d > 0.75) then
+    self.edt_text_4:SetText(game.translate_string("st_npc_med_1_descr_1"))
+  elseif (d <= 0.75 and d > 0.35) then  	
+    self.edt_text_4:SetText(game.translate_string("st_npc_med_1_descr_2"))
+  elseif (d <= 0.35 and d >= 0) then  	
+    self.edt_text_4:SetText(game.translate_string("st_npc_med_1_descr_3"))
+  end
+  if (e <= 1 and e > 0.75) then
+    self.edt_text_5:SetText(game.translate_string("st_npc_med_1_descr_1"))
+  elseif (e <= 0.75 and e > 0.35) then  	
+    self.edt_text_5:SetText(game.translate_string("st_npc_med_1_descr_2"))
+  elseif (e <= 0.35 and e >= 0) then  	
+    self.edt_text_5:SetText(game.translate_string("st_npc_med_1_descr_3"))
+  end
+  give_object_to_actor("drug_radioprotector")
+  give_object_to_actor("drug_coagulant")
+  give_object_to_actor("drug_psy_blockade")
+  give_object_to_actor("drug_antidot")
+  give_object_to_actor("drug_booster")  
+  self.btn_1_slot:Enable(false)
+  self.btn_2_slot:Enable(true)
+end  
+end
+
+function gui_spec_ai_used:btn_2_slot_use()
+local drug_coagulant_s = db.actor:object("drug_coagulant")
+local drug_radioprotector_s = db.actor:object("drug_radioprotector")
+local drug_psy_blockade_s = db.actor:object("drug_psy_blockade")
+local drug_antidot_s = db.actor:object("drug_antidot")
+local drug_booster_s = db.actor:object("drug_booster")  
+   db.actor.health = 1
+   db.actor.psy_health = 1
+   db.actor.power = 1
+   db.actor.radiation = -1
+   db.actor.bleeding = 1
+   --self.edt_text_1:SetText(game.translate_string("st_npc_med_use_descr_all"))
+   --self.edt_text_2:SetText(game.translate_string("st_npc_med_use_descr_all"))
+   --self.edt_text_3:SetText(game.translate_string("st_npc_med_use_descr_all"))
+   --self.edt_text_4:SetText(game.translate_string("st_npc_med_use_descr_all"))
+   --self.edt_text_5:SetText(game.translate_string("st_npc_med_use_descr_all"))
+   if self.check_use_1:GetCheck()==true then      
+      db.actor:eat(drug_radioprotector_s)
+      self.edt_text_1:SetText(game.translate_string("st_npc_med_use_descr_all"))	  
+   end
+   if self.check_use_2:GetCheck()==true then      
+      db.actor:eat(drug_coagulant_s)
+      self.edt_text_2:SetText(game.translate_string("st_npc_med_use_descr_all"))	  
+   end
+   if self.check_use_3:GetCheck()==true then      
+      db.actor:eat(drug_psy_blockade_s)	
+      self.edt_text_3:SetText(game.translate_string("st_npc_med_use_descr_all"))	  
+   end
+   if self.check_use_4:GetCheck()==true then      
+      db.actor:eat(drug_antidot_s)
+      self.edt_text_4:SetText(game.translate_string("st_npc_med_use_descr_all"))	  
+   end
+   if self.check_use_5:GetCheck()==true then      
+      db.actor:eat(drug_booster_s)
+      self.edt_text_5:SetText(game.translate_string("st_npc_med_use_descr_all"))	  
+   end
+   self.btn_2_slot:Enable(false)
+   self.btn_close:Enable(true)  
+end
+
+function gui_spec_ai_used:need_helper_ok()
+   self.helper:ShowDialog(false)
+   self.helper:HideDialog()
+end
+
+function gui_spec_ai_used:OnButton_help_1_clicked()
+	self.helper:InitMessageBox("mb_specai_about_use_item_1")
+    self.helper:ShowDialog(true)	
+end
+
+function gui_spec_ai_used:OnButton_help_2_clicked()
+	self.helper:InitMessageBox("mb_specai_about_use_item_2")
+    self.helper:ShowDialog(true)	
+end
+
+function gui_spec_ai_used:OnButton_help_3_clicked()
+	self.helper:InitMessageBox("mb_specai_about_use_item_3")
+    self.helper:ShowDialog(true)	
+end
+
+function gui_spec_ai_used:OnButton_help_4_clicked()
+	self.helper:InitMessageBox("mb_specai_about_use_item_4")
+    self.helper:ShowDialog(true)	
+end
+
+function gui_spec_ai_used:OnButton_help_5_clicked()
+	self.helper:InitMessageBox("mb_specai_about_use_item_5")
+    self.helper:ShowDialog(true)	
+end
+
+function gui_spec_ai_used:OnButton_close_clicked()     
+   self:HideDialog()
+end
+------------------------------------------------------------------------------
+--                           Второй тип тайника. На основе оригинального.                 --
+------------------------------------------------------------------------------
+class "ui_a2_gui_all_tainik_type_2" (CUIScriptWnd)
+
+local rnd_tainik_item_1=math.random(1,3)
+
+function ui_a2_gui_all_tainik_type_2:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_gui_all_tainik_type_2:__finalize()
+end
+
+function ui_a2_gui_all_tainik_type_2:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl			= CScriptXmlInit(), CUIWindow()
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_tainik_all_type_2				= xml:InitStatic("form_tainik_all_type_2",self)
+	xml:InitStatic			("form_tainik_all_type_2:caption",self.form_tainik_all_type_2)
+    self.helper=CUIMessageBoxEx()
+    self:Register(self.helper,"helper")
+    ctrl = xml:Init3tButton	("form_tainik_all_type_2:btn_help_1",	self.form_tainik_all_type_2)
+    self:Register			(ctrl, "button_help_1")
+    ctrl = xml:Init3tButton	("form_tainik_all_type_2:btn_help_2",	self.form_tainik_all_type_2)
+    self:Register			(ctrl, "button_help_2")
+    ctrl = xml:Init3tButton	("form_tainik_all_type_2:btn_help_3",	self.form_tainik_all_type_2)
+    self:Register			(ctrl, "button_help_3")
+    ctrl = xml:Init3tButton	("form_tainik_all_type_2:btn_help_4",	self.form_tainik_all_type_2)
+    self:Register			(ctrl, "button_help_4")
+    ctrl = xml:Init3tButton	("form_tainik_all_type_2:btn_help_5",	self.form_tainik_all_type_2)
+    self:Register			(ctrl, "button_help_5")
+    xml:InitStatic			("form_tainik_all_type_2:hlt_text_1",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:hlt_text_2",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:hlt_text_3",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:hlt_text_4",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:hlt_text_5",self.form_tainik_all_type_2)   
+    xml:InitStatic			("form_tainik_all_type_2:edt_texture_1",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:edt_texture_2",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:edt_texture_3",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:edt_texture_4",self.form_tainik_all_type_2)
+    xml:InitStatic			("form_tainik_all_type_2:edt_texture_5",self.form_tainik_all_type_2)
+    self.edt_text_1	= xml:InitEditBox("form_tainik_all_type_2:edt_text_1", self.form_tainik_all_type_2)
+    self.edt_text_2	= xml:InitEditBox("form_tainik_all_type_2:edt_text_2", self.form_tainik_all_type_2)
+    self.edt_text_3	= xml:InitEditBox("form_tainik_all_type_2:edt_text_3", self.form_tainik_all_type_2)
+    self.edt_text_4	= xml:InitEditBox("form_tainik_all_type_2:edt_text_4", self.form_tainik_all_type_2)
+    self.edt_text_5	= xml:InitEditBox("form_tainik_all_type_2:edt_text_5", self.form_tainik_all_type_2)
+    self.check_use_1=xml:InitCheck("form_tainik_all_type_2:check_use_1",self.form_tainik_all_type_2)
+    self.check_use_1:SetCheck(true)
+    self.check_use_2=xml:InitCheck("form_tainik_all_type_2:check_use_2",self.form_tainik_all_type_2)
+    self.check_use_2:SetCheck(true)
+    self.check_use_3=xml:InitCheck("form_tainik_all_type_2:check_use_3",self.form_tainik_all_type_2)
+    self.check_use_3:SetCheck(true)
+    self.check_use_4=xml:InitCheck("form_tainik_all_type_2:check_use_4",self.form_tainik_all_type_2)
+    self.check_use_4:SetCheck(true)
+    self.check_use_5=xml:InitCheck("form_tainik_all_type_2:check_use_5",self.form_tainik_all_type_2)
+    self.check_use_5:SetCheck(true)   
+    self.btn_1_slot = xml:Init3tButton ("form_tainik_all_type_2:btn_1_slot", self.form_tainik_all_type_2) 
+    self:Register (self.btn_1_slot, "btn_1_slot")
+    self.btn_2_slot = xml:Init3tButton ("form_tainik_all_type_2:btn_2_slot", self.form_tainik_all_type_2) 
+    self:Register (self.btn_2_slot, "btn_2_slot")
+    self.btn_2_slot:Enable(false)   
+    self.button_use = xml:Init3tButton ("form_tainik_all_type_2:btn_use", self.form_tainik_all_type_2) 
+    self:Register (self.button_use, "button_use")        	
+    self.button_close = xml:Init3tButton ("form_tainik_all_type_2:btn_close", self.form_tainik_all_type_2) 
+    self:Register (self.button_close, "button_close")	
+	self.button_close:Enable(false)
+end
+
+function ui_a2_gui_all_tainik_type_2:InitCallBacks()
+    self:AddCallback("helper",ui_events.MESSAGE_BOX_YES_CLICKED,self.need_helper_ok,self)
+    self:AddCallback("helper",ui_events.MESSAGE_BOX_OK_CLICKED,self.need_helper_ok,self)
+    self:AddCallback("button_help_1", ui_events.BUTTON_CLICKED, self.OnButton_help_1_clicked, self)
+    self:AddCallback("button_help_2", ui_events.BUTTON_CLICKED, self.OnButton_help_2_clicked, self)
+    self:AddCallback("button_help_3", ui_events.BUTTON_CLICKED, self.OnButton_help_3_clicked, self)
+    self:AddCallback("button_help_4", ui_events.BUTTON_CLICKED, self.OnButton_help_4_clicked, self)
+    self:AddCallback("button_help_5", ui_events.BUTTON_CLICKED, self.OnButton_help_5_clicked, self)
+    self:AddCallback("btn_1_slot",ui_events.BUTTON_CLICKED,self.btn_1_slot_use,self)
+    self:AddCallback("btn_2_slot",ui_events.BUTTON_CLICKED,self.btn_2_slot_use,self) 
+    self:AddCallback("button_use", ui_events.BUTTON_CLICKED, self.OnButton_use_clicked, self)  
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)
+end
+
+function ui_a2_gui_all_tainik_type_2:btn_1_slot_use()
+  if (db.actor) then
+    if rnd_tainik_item_1==1 then
+      self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_1_descr_1"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_1_descr_2"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_1_descr_3"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_1_descr_4"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_1_descr_5"))	  
+    elseif rnd_tainik_item_1==2 then	  
+      self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_2_descr_1"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_2_descr_2"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_2_descr_3"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_2_descr_4"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_2_descr_5"))
+    elseif rnd_tainik_item_1==3 then
+	  self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_3_descr_1"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_3_descr_2"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_3_descr_3"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_3_descr_4"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_3_descr_5"))
+    end
+    self.btn_1_slot:Enable(false)
+	self.button_use:Enable(false)
+    self.btn_2_slot:Enable(true)    	
+  end
+end
+
+function ui_a2_gui_all_tainik_type_2:btn_2_slot_use()
+ if (db.actor) then
+    if rnd_tainik_item_1==1 then
+      self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      if self.check_use_1:GetCheck()==true then      
+         give_object_to_actor("wpn_addon_scope_susat_x1.6")      	  
+      end
+      if self.check_use_2:GetCheck()==true then      
+         give_object_to_actor("af_gravi")
+      end
+      if self.check_use_3:GetCheck()==true then      
+         give_object_to_actor("irp-p")
+      end
+      if self.check_use_4:GetCheck()==true then      
+         give_object_to_actor("ammo_5.45x39_ap")
+	     give_object_to_actor("ammo_5.45x39_ap")	  
+      end
+      if self.check_use_5:GetCheck()==true then      
+         give_object_to_actor("money_meshochek_1000_5000") 
+      end	  
+    elseif rnd_tainik_item_1==2 then	  
+      self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+	  if self.check_use_1:GetCheck()==true then      
+         give_object_to_actor("wpn_akm")      	  
+      end
+      if self.check_use_2:GetCheck()==true then      
+         give_object_to_actor("af_gravi")
+      end
+      if self.check_use_3:GetCheck()==true then      
+         give_object_to_actor("medkomplect_basic")
+      end
+      if self.check_use_4:GetCheck()==true then      
+         give_object_to_actor("grenade_light")
+	     give_object_to_actor("grenade_light")	  
+      end
+      if self.check_use_5:GetCheck()==true then      
+         give_object_to_actor("money_meshochek_1000_5000") 
+      end
+    elseif rnd_tainik_item_1==3 then
+	  self.edt_text_1:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_2:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_3:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_4:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+      self.edt_text_5:SetText(game.translate_string("st_all_tainik_2_descr_all"))
+	  if self.check_use_1:GetCheck()==true then      
+         give_object_to_actor("wpn_addon_grenade_launcher")      	  
+      end
+      if self.check_use_2:GetCheck()==true then      
+         give_object_to_actor("wpn_beretta")
+      end
+      if self.check_use_3:GetCheck()==true then      
+         give_object_to_actor("af_gubka")
+      end
+      if self.check_use_4:GetCheck()==true then      
+         give_object_to_actor("grenade_mk3a2")
+	     give_object_to_actor("grenade_mk3a2")	  
+      end
+      if self.check_use_5:GetCheck()==true then      
+         give_object_to_actor("money_meshochek_500_1000") 
+      end
+    end
+    news_manager.send_tip(db.actor,game.translate_string("all_stalker_tainik_type_2_end_used"),0,"ui_icon_news_all",14000,nil,"system_title")    
+    self.btn_2_slot:Enable(false)
+    self.button_close:Enable(true)
+ end	
+end
+
+function ui_a2_gui_all_tainik_type_2:need_helper_ok()
+   self.helper:ShowDialog(false)
+   self.helper:HideDialog()
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_help_1_clicked()
+	self.helper:InitMessageBox("mb_tai2_about_use_item_1")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_help_2_clicked()
+	self.helper:InitMessageBox("mb_tai2_about_use_item_2")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_help_3_clicked()
+	self.helper:InitMessageBox("mb_tai2_about_use_item_3")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_help_4_clicked()
+	self.helper:InitMessageBox("mb_tai2_about_use_item_4")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_help_5_clicked()
+	self.helper:InitMessageBox("mb_tai2_about_use_item_5")
+    self.helper:ShowDialog(true)	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_use_clicked()
+local rnd_tainik_item=math.random(1,3)
+  if (db.actor) then
+    if rnd_tainik_item==1 then      
+	  give_object_to_actor("wpn_addon_scope_susat_x1.6")
+	  give_object_to_actor("af_gravi")
+	  give_object_to_actor("medkomplect_basic")
+	  give_object_to_actor("ammo_5.45x39_ap")
+	  give_object_to_actor("ammo_5.45x39_ap")
+	  give_object_to_actor("money_meshochek_2000_3000")
+      news_manager.send_tip(db.actor,game.translate_string("all_2_stalker_tainik_type_1_used"),0,"ui_icon_news_all",14000,nil,"system_title")	  
+    elseif rnd_tainik_item==2 then	  
+      give_object_to_actor("af_cristall")
+	  give_object_to_actor("grenade_light")
+	  give_object_to_actor("grenade_light")
+	  give_object_to_actor("wpn_akm")
+	  give_object_to_actor("irp-p")
+	  give_object_to_actor("money_meshochek_1000_5000")
+      news_manager.send_tip(db.actor,game.translate_string("all_2_stalker_tainik_type_2_used"),0,"ui_icon_news_all",14000,nil,"system_title")	  
+    elseif rnd_tainik_item==3 then
+	  give_object_to_actor("wpn_addon_grenade_launcher")
+      give_object_to_actor("wpn_beretta")
+	  give_object_to_actor("af_gubka")
+	  give_object_to_actor("grenade_mk3a2")
+	  give_object_to_actor("grenade_mk3a2")
+	  give_object_to_actor("money_meshochek_500_1000")
+	  news_manager.send_tip(db.actor,game.translate_string("all_2_stalker_tainik_type_3_used"),0,"ui_icon_news_all",14000,nil,"system_title")    
+    end
+    self.btn_1_slot:Enable(false)	
+    self.button_use:Enable(false)
+    self.button_close:Enable(true)	
+ end	
+end
+
+function ui_a2_gui_all_tainik_type_2:OnButton_close_clicked()       
+	self:HideDialog()
+end
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_Б (Новый) (Первое использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_p_used_1" (CUIScriptWnd)
+
+function ui_a2_new_irp_p_used_1:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_p_used_1:__finalize()
+end
+
+function ui_a2_new_irp_p_used_1:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_3 = "ui_mar_irp_item_s1_text_3"
+    local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"
+    local text_7 = "ui_mar_irp_item_s1_text_7"
+    local text_8 = "ui_mar_irp_item_s1_text_8"	
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:caption",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)
+    self.text_list:AddTextItem(text_7)
+    self.text_list:AddTextItem(text_8)
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)
+    self.button_1_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_4, "button_1_slot_4")
+	self.button_1_slot_4:Enable(false)
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)
+    self.button_2_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_4, "button_2_slot_4")
+    self.button_2_slot_4:Enable(false)	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)
+    self.button_3_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_4, "button_3_slot_4")
+	self.button_3_slot_4:Enable(false)
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_p_used_1:InitCallBacks()
+    self:AddCallback("button_1_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_1_clicked, self)
+	self:AddCallback("button_1_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_2_clicked, self)
+	self:AddCallback("button_1_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_3_clicked, self)
+	self:AddCallback("button_1_slot_4", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_4_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_p_used_1:OnButton_1_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("conserva")	  
+      self.button_1_slot_1:Enable(false)
+      self.button_1_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_1:OnButton_1_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("galet")	  
+      self.button_1_slot_2:Enable(false)
+      self.button_1_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_1:OnButton_1_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("olivki")	  
+      self.button_1_slot_3:Enable(false)
+      self.button_1_slot_4:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_1:OnButton_1_slot_4_clicked()
+	if (db.actor) then 
+      give_object_to_actor("energy_drink")	  
+      self.button_1_slot_4:Enable(false)
+      self.button_close:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_1:OnButton_close_clicked()
+    give_object_to_actor("pai_2")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_p_used_1:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")
+        elseif self.text_item:GetText() == "Паштет" then
+          self.text_field:TextControl():SetText(game.translate_string("st_sardina_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_5")
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")
+        elseif self.text_item:GetText() == "Шоколад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_shokolad_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_7")
+        elseif self.text_item:GetText() == "Сок" then
+          self.text_field:TextControl():SetText(game.translate_string("st_juice_descr"))
+          self.picture:InitTexture("ui_suhpai_item_8")		  
+        end		 
+end
+
+function ui_a2_new_irp_p_used_1:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_Б (Новый) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_p_used_2" (CUIScriptWnd)
+
+function ui_a2_new_irp_p_used_2:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_p_used_2:__finalize()
+end
+
+function ui_a2_new_irp_p_used_2:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_3 = "ui_mar_irp_item_s1_text_3"
+    local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"
+    local text_7 = "ui_mar_irp_item_s1_text_7"
+    local text_8 = "ui_mar_irp_item_s1_text_8"	
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:caption",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)
+    self.text_list:AddTextItem(text_7)
+    self.text_list:AddTextItem(text_8)
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)
+    self.button_1_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_4, "button_1_slot_4")
+	self.button_1_slot_4:Enable(false)
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)
+    self.button_2_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_4, "button_2_slot_4")
+    self.button_2_slot_4:Enable(false)	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)
+    self.button_3_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_4, "button_3_slot_4")
+	self.button_3_slot_4:Enable(false)
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_p_used_2:InitCallBacks()
+    self:AddCallback("button_2_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_1_clicked, self)
+	self:AddCallback("button_2_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_2_clicked, self)
+	self:AddCallback("button_2_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_3_clicked, self)
+	self:AddCallback("button_2_slot_4", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_4_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_p_used_2:OnButton_2_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("conserva")	  
+      self.button_2_slot_1:Enable(false)
+      self.button_2_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_2:OnButton_2_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("galet")	  
+      self.button_2_slot_2:Enable(false)
+      self.button_2_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_2:OnButton_2_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("olivki")	  
+      self.button_2_slot_3:Enable(false)
+      self.button_2_slot_4:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_2:OnButton_2_slot_4_clicked()
+	if (db.actor) then 
+      give_object_to_actor("juice")	  
+      self.button_2_slot_4:Enable(false)
+      self.button_close:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_2:OnButton_close_clicked()
+    give_object_to_actor("pai_3")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_p_used_2:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")
+        elseif self.text_item:GetText() == "Паштет" then
+          self.text_field:TextControl():SetText(game.translate_string("st_sardina_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_5")
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")
+        elseif self.text_item:GetText() == "Шоколад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_shokolad_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_7")
+        elseif self.text_item:GetText() == "Сок" then
+          self.text_field:TextControl():SetText(game.translate_string("st_juice_descr"))
+          self.picture:InitTexture("ui_suhpai_item_8")		  
+        end		 
+end
+
+function ui_a2_new_irp_p_used_2:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_Б (Новый) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_p_used_3" (CUIScriptWnd)
+
+function ui_a2_new_irp_p_used_3:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_p_used_3:__finalize()
+end
+
+function ui_a2_new_irp_p_used_3:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_3 = "ui_mar_irp_item_s1_text_3"
+    local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"
+    local text_7 = "ui_mar_irp_item_s1_text_7"
+    local text_8 = "ui_mar_irp_item_s1_text_8"	
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t_4_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:caption",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)
+    self.text_list:AddTextItem(text_7)
+    self.text_list:AddTextItem(text_8)
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)
+    self.button_1_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_1_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_4, "button_1_slot_4")
+	self.button_1_slot_4:Enable(false)
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)
+    self.button_2_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_2_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_4, "button_2_slot_4")
+    self.button_2_slot_4:Enable(false)	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)
+    self.button_3_slot_4 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_3_slot_4", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_4, "button_3_slot_4")
+	self.button_3_slot_4:Enable(false)
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_p_used_3:InitCallBacks()
+    self:AddCallback("button_3_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_1_clicked, self)
+	self:AddCallback("button_3_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_2_clicked, self)
+	self:AddCallback("button_3_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_3_clicked, self)
+	self:AddCallback("button_3_slot_4", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_4_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_p_used_3:OnButton_3_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("sardina")	  
+      self.button_3_slot_1:Enable(false)
+      self.button_3_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_3:OnButton_3_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("cheese")	  
+      self.button_3_slot_2:Enable(false)
+      self.button_3_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_3:OnButton_3_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("shokolad")	  
+      self.button_3_slot_3:Enable(false)
+      self.button_3_slot_4:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_3:OnButton_3_slot_4_clicked()
+	if (db.actor) then 
+      give_object_to_actor("energy_drink")	  
+      self.button_3_slot_4:Enable(false)
+      self.button_close:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_p_used_3:OnButton_close_clicked()    
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_p_used_3:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")
+        elseif self.text_item:GetText() == "Паштет" then
+          self.text_field:TextControl():SetText(game.translate_string("st_sardina_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_5")
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")
+        elseif self.text_item:GetText() == "Шоколад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_shokolad_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_7")
+        elseif self.text_item:GetText() == "Сок" then
+          self.text_field:TextControl():SetText(game.translate_string("st_juice_descr"))
+          self.picture:InitTexture("ui_suhpai_item_8")		  
+        end		 
+end
+
+function ui_a2_new_irp_p_used_3:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_П (Новый) (Первое использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_used_1" (CUIScriptWnd)
+
+function ui_a2_new_irp_used_1:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_used_1:__finalize()
+end
+
+function ui_a2_new_irp_used_1:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"    
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_3_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:caption_2",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)    
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_used_1:InitCallBacks()
+    self:AddCallback("button_1_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_1_clicked, self)
+	self:AddCallback("button_1_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_2_clicked, self)
+	self:AddCallback("button_1_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_used_1:OnButton_1_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("conserva")	  
+      self.button_1_slot_1:Enable(false)
+      self.button_1_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_1:OnButton_1_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("galet")	  
+      self.button_1_slot_2:Enable(false)
+      self.button_1_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_1:OnButton_1_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("energy_drink")	  
+      self.button_1_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_irp_used_1:OnButton_close_clicked()
+    give_object_to_actor("irp-p_2")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_used_1:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")        
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")         
+        end		 
+end
+
+function ui_a2_new_irp_used_1:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_П (Новый) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_used_2" (CUIScriptWnd)
+
+function ui_a2_new_irp_used_2:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_used_2:__finalize()
+end
+
+function ui_a2_new_irp_used_2:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"    
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:caption_2",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)    
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_used_2:InitCallBacks()
+    self:AddCallback("button_2_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_1_clicked, self)
+	self:AddCallback("button_2_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_2_clicked, self)
+	self:AddCallback("button_2_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_used_2:OnButton_2_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("olivki")	  
+      self.button_2_slot_1:Enable(false)
+      self.button_2_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_2:OnButton_2_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("galet")	  
+      self.button_2_slot_2:Enable(false)
+      self.button_2_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_2:OnButton_2_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("energy_drink")	  
+      self.button_2_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_irp_used_2:OnButton_close_clicked()
+    give_object_to_actor("irp-p_3")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_used_2:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")        
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")         
+        end		 
+end
+
+function ui_a2_new_irp_used_2:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Сухпаек ИРП_П (Новый) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_irp_used_3" (CUIScriptWnd)
+
+function ui_a2_new_irp_used_3:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_irp_used_3:__finalize()
+end
+
+function ui_a2_new_irp_used_3:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_2"
+	local text_4 = "ui_mar_irp_item_s1_text_4"
+    local text_5 = "ui_mar_irp_item_s1_text_5"
+    local text_6 = "ui_mar_irp_item_s1_text_6"    
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ipr_item_s1				= xml:InitStatic("form_a2_ipr_item_s1",self)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_sostav_text_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_first_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_second_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_third_priem_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_f2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_s2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_1_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_2_item",self.form_a2_ipr_item_s1)
+	xml:InitStatic			("form_a2_ipr_item_s1:irp_t2_3_item",self.form_a2_ipr_item_s1)	
+	xml:InitStatic			("form_a2_ipr_item_s1:caption_2",self.form_a2_ipr_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ipr_item_s1:picture",self.form_a2_ipr_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ipr_item_s1:list_items", self.form_a2_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)
+    self.text_list:AddTextItem(text_6)    
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s1_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s2_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_1", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")	
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_2", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ipr_item_s1:btn_s3_slot_3", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ipr_item_s1:btn_close", self.form_a2_ipr_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_irp_used_3:InitCallBacks()
+    self:AddCallback("button_3_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_1_clicked, self)
+	self:AddCallback("button_3_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_2_clicked, self)
+	self:AddCallback("button_3_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_irp_used_3:OnButton_3_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("cheese")	  
+      self.button_3_slot_1:Enable(false)
+      self.button_3_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_3:OnButton_3_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("galet")	  
+      self.button_3_slot_2:Enable(false)
+      self.button_3_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_irp_used_3:OnButton_3_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("energy_drink")	  
+      self.button_3_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_irp_used_3:OnButton_close_clicked()    
+	self:HideDialog()	
+end
+
+function ui_a2_new_irp_used_3:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Консервы говяжие" then
+          self.text_field:TextControl():SetText(game.translate_string("st_conserva_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_3")
+      	elseif self.text_item:GetText() == "Хлебцы армейские" then
+          self.text_field:TextControl():SetText(game.translate_string("st_galet_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_2")        
+        elseif self.text_item:GetText() == "Каша рисовая" then
+          self.text_field:TextControl():SetText(game.translate_string("st_olivki_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_4")
+        elseif self.text_item:GetText() == "Пюре" then
+          self.text_field:TextControl():SetText(game.translate_string("st_cheese_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_6")
+        elseif self.text_item:GetText() == "Напиток" then
+          self.text_field:TextControl():SetText(game.translate_string("st_energy_drink_descr"))
+		  self.picture:InitTexture("ui_suhpai_item_9")         
+        end		 
+end
+
+function ui_a2_new_irp_used_3:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ipr_item_s1:"..element_name,self.form_a2_ipr_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Аптечка АИ-4 (Новая) (Первое использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_ai4_used_1" (CUIScriptWnd)
+
+function ui_a2_new_ai4_used_1:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_ai4_used_1:__finalize()
+end
+
+function ui_a2_new_ai4_used_1:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_ai4_item_s1_text_1"
+	local text_2 = "ui_mar_ai4_item_s1_text_2"
+	local text_3 = "ui_mar_ai4_item_s1_text_3"
+    local text_4 = "ui_mar_ai4_item_s1_text_4"
+    local text_5 = "ui_mar_ai4_item_s1_text_5"    
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ai4_item_s1				= xml:InitStatic("form_a2_ai4_item_s1",self)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_sostav_text_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_first_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_second_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_third_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_3_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:caption_2",self.form_a2_ai4_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ai4_item_s1:picture",self.form_a2_ai4_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ai4_item_s1:list_items", self.form_a2_ai4_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)    
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ai4_item_s1:btn_close", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_ai4_used_1:InitCallBacks()
+    self:AddCallback("button_1_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_1_clicked, self)
+	self:AddCallback("button_1_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_2_clicked, self)
+	self:AddCallback("button_1_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_ai4_used_1:OnButton_1_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("medkit")	  
+      self.button_1_slot_1:Enable(false)
+      self.button_1_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_1:OnButton_1_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("bandage")	  
+      self.button_1_slot_2:Enable(false)
+      self.button_1_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_1:OnButton_1_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("antirad")	  
+      self.button_1_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_ai4_used_1:OnButton_close_clicked()
+    give_object_to_actor("medkomplect_army_2")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_ai4_used_1:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Промедол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_medkits_descr"))
+		  self.picture:InitTexture("ui_icon_medkit")
+      	elseif self.text_item:GetText() == "Бинт" then
+          self.text_field:TextControl():SetText(game.translate_string("st_bandages_descr"))
+		  self.picture:InitTexture("ui_icon_bandage")        
+        elseif self.text_item:GetText() == "Антирад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_antirads_descr"))
+		  self.picture:InitTexture("ui_icon_antirad")
+        elseif self.text_item:GetText() == "Антидот" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_antidots_descr"))
+		  self.picture:InitTexture("ui_icon_drug_antidot")
+        elseif self.text_item:GetText() == "Викасол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_coagulant_descr"))
+		  self.picture:InitTexture("ui_icon_drug_coagulant")         
+        end		 
+end
+
+function ui_a2_new_ai4_used_1:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ai4_item_s1:"..element_name,self.form_a2_ai4_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Аптечка АИ-4 (Новая) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_ai4_used_2" (CUIScriptWnd)
+
+function ui_a2_new_ai4_used_2:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_ai4_used_2:__finalize()
+end
+
+function ui_a2_new_ai4_used_2:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_ai4_item_s1_text_1"
+	local text_2 = "ui_mar_ai4_item_s1_text_2"
+	local text_3 = "ui_mar_ai4_item_s1_text_3"
+    local text_4 = "ui_mar_ai4_item_s1_text_4"
+    local text_5 = "ui_mar_ai4_item_s1_text_5"   
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ai4_item_s1				= xml:InitStatic("form_a2_ai4_item_s1",self)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_sostav_text_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_first_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_second_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_third_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:caption_2",self.form_a2_ai4_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ai4_item_s1:picture",self.form_a2_ai4_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ai4_item_s1:list_items", self.form_a2_ai4_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)      
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")
+	self.button_3_slot_1:Enable(false)
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ai4_item_s1:btn_close", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_ai4_used_2:InitCallBacks()
+    self:AddCallback("button_2_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_1_clicked, self)
+	self:AddCallback("button_2_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_2_clicked, self)
+	self:AddCallback("button_2_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_2_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_ai4_used_2:OnButton_2_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("medkit")	  
+      self.button_2_slot_1:Enable(false)
+      self.button_2_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_2:OnButton_2_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("bandage")	  
+      self.button_2_slot_2:Enable(false)
+      self.button_2_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_2:OnButton_2_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("drug_antidot")	  
+      self.button_2_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_ai4_used_2:OnButton_close_clicked()
+    give_object_to_actor("medkomplect_army_3")      
+	self:HideDialog()	
+end
+
+function ui_a2_new_ai4_used_2:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Промедол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_medkits_descr"))
+		  self.picture:InitTexture("ui_icon_medkit")
+      	elseif self.text_item:GetText() == "Бинт" then
+          self.text_field:TextControl():SetText(game.translate_string("st_bandages_descr"))
+		  self.picture:InitTexture("ui_icon_bandage")        
+        elseif self.text_item:GetText() == "Антирад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_antirads_descr"))
+		  self.picture:InitTexture("ui_icon_antirad")
+        elseif self.text_item:GetText() == "Антидот" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_antidots_descr"))
+		  self.picture:InitTexture("ui_icon_drug_antidot")
+        elseif self.text_item:GetText() == "Викасол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_coagulant_descr"))
+		  self.picture:InitTexture("ui_icon_drug_coagulant")         
+        end		 
+end
+
+function ui_a2_new_ai4_used_2:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ai4_item_s1:"..element_name,self.form_a2_ai4_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Аптечка АИ-4 (Новая) (Второе использование)                 --
+------------------------------------------------------------------------------
+class "ui_a2_new_ai4_used_3" (CUIScriptWnd)
+
+function ui_a2_new_ai4_used_3:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_a2_new_ai4_used_3:__finalize()
+end
+
+function ui_a2_new_ai4_used_3:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_ai4_item_s1_text_1"
+	local text_2 = "ui_mar_ai4_item_s1_text_2"
+	local text_3 = "ui_mar_ai4_item_s1_text_3"
+    local text_4 = "ui_mar_ai4_item_s1_text_4"
+    local text_5 = "ui_mar_ai4_item_s1_text_5" 
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a2_ai4_item_s1				= xml:InitStatic("form_a2_ai4_item_s1",self)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_sostav_text_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_first_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_second_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_third_priem_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_f2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_s2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_1_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_2_item",self.form_a2_ai4_item_s1)
+	xml:InitStatic			("form_a2_ai4_item_s1:irp_t2_3_item",self.form_a2_ai4_item_s1)	
+	xml:InitStatic			("form_a2_ai4_item_s1:caption_2",self.form_a2_ai4_item_s1) 
+    self.picture=xml:InitStatic("form_a2_ai4_item_s1:picture",self.form_a2_ai4_item_s1)   	
+	self.text_list	= xml:InitListBox("form_a2_ai4_item_s1:list_items", self.form_a2_ai4_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)   
+    self.text_list:AddTextItem(text_3)
+    self.text_list:AddTextItem(text_4)
+    self.text_list:AddTextItem(text_5)     
+    self.button_1_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+	self.button_1_slot_2:Enable(false)
+    self.button_1_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s1_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3")
+	self.button_1_slot_3:Enable(false)    
+	self.button_2_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_1, "button_2_slot_1")
+	self.button_2_slot_1:Enable(false)
+    self.button_2_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_2, "button_2_slot_2")
+	self.button_2_slot_2:Enable(false)
+    self.button_2_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s2_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_2_slot_3, "button_2_slot_3")
+	self.button_2_slot_3:Enable(false)    	
+	self.button_3_slot_1 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_1", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_1, "button_3_slot_1")	
+    self.button_3_slot_2 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_2", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_2, "button_3_slot_2")
+	self.button_3_slot_2:Enable(false)
+    self.button_3_slot_3 = xml:Init3tButton ("form_a2_ai4_item_s1:btn_s3_slot_3", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_3_slot_3, "button_3_slot_3")
+	self.button_3_slot_3:Enable(false)    
+	self.button_close = xml:Init3tButton ("form_a2_ai4_item_s1:btn_close", self.form_a2_ai4_item_s1) 
+    self:Register (self.button_close, "button_close")
+    self.button_close:Enable(false)	
+end
+
+function ui_a2_new_ai4_used_3:InitCallBacks()
+    self:AddCallback("button_3_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_1_clicked, self)
+	self:AddCallback("button_3_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_2_clicked, self)
+	self:AddCallback("button_3_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_3_slot_3_clicked, self)	
+	self:AddCallback("button_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_a2_new_ai4_used_3:OnButton_3_slot_1_clicked()
+	if (db.actor) then 
+      give_object_to_actor("medkit")	  
+      self.button_3_slot_1:Enable(false)
+      self.button_3_slot_2:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_3:OnButton_3_slot_2_clicked()
+	if (db.actor) then 
+      give_object_to_actor("bandage")	  
+      self.button_3_slot_2:Enable(false)
+      self.button_3_slot_3:Enable(true)	  
+	end
+end
+
+function ui_a2_new_ai4_used_3:OnButton_3_slot_3_clicked()
+	if (db.actor) then 
+      give_object_to_actor("drug_coagulant")	  
+      self.button_3_slot_3:Enable(false)
+      self.button_close:Enable(true)	 
+	end
+end
+
+function ui_a2_new_ai4_used_3:OnButton_close_clicked()    
+	self:HideDialog()	
+end
+
+function ui_a2_new_ai4_used_3:Element_clicked()
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()
+        self.picture:TextControl():SetText("")		
+		if self.text_item:GetText() == "Промедол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_medkits_descr"))
+		  self.picture:InitTexture("ui_icon_medkit")
+      	elseif self.text_item:GetText() == "Бинт" then
+          self.text_field:TextControl():SetText(game.translate_string("st_bandages_descr"))
+		  self.picture:InitTexture("ui_icon_bandage")        
+        elseif self.text_item:GetText() == "Антирад" then
+          self.text_field:TextControl():SetText(game.translate_string("st_antirads_descr"))
+		  self.picture:InitTexture("ui_icon_antirad")
+        elseif self.text_item:GetText() == "Антидот" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_antidots_descr"))
+		  self.picture:InitTexture("ui_icon_drug_antidot")
+        elseif self.text_item:GetText() == "Викасол" then
+          self.text_field:TextControl():SetText(game.translate_string("st_drug_coagulant_descr"))
+		  self.picture:InitTexture("ui_icon_drug_coagulant")         
+        end		 
+end
+
+function ui_a2_new_ai4_used_3:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a2_ai4_item_s1:"..element_name,self.form_a2_ai4_item_s1)
+end
+
+------------------------------------------------------------------------------
+--                           Разогревание пищи на костре                 --
+------------------------------------------------------------------------------
+class "ui_bonfire_irp_p_used_1" (CUIScriptWnd)
+
+function ui_bonfire_irp_p_used_1:__init(owner) super()
+	self.owner = owner
+	self:InitControls()
+	self:InitCallBacks()
+end
+
+function ui_bonfire_irp_p_used_1:__finalize()
+end
+
+function ui_bonfire_irp_p_used_1:InitControls()
+	self:SetWndRect			(Frect():set(0,0,1024,768))
+	local xml, ctrl	= CScriptXmlInit(), CUIWindow()
+	local text_1 = "ui_mar_irp_item_s1_text_1"
+	local text_2 = "ui_mar_irp_item_s1_text_4"
+    local text_3 = "ui_mar_irp_item_s1_text_5"   
+	xml:ParseFile			("ui_gui_elements.xml")
+	self.form_a5_ipr_item_s1				= xml:InitStatic("form_a5_ipr_item_s1",self)
+	xml:InitStatic			("form_a5_ipr_item_s1:irp_first_priem_item",self.form_a5_ipr_item_s1)
+	xml:InitStatic			("form_a5_ipr_item_s1:irp_second_priem_item",self.form_a5_ipr_item_s1)
+	xml:InitStatic			("form_a5_ipr_item_s1:irp_third_priem_item",self.form_a5_ipr_item_s1)
+	self.text_list	= xml:InitListBox("form_a5_ipr_item_s1:list_items", self.form_a5_ipr_item_s1)
+	self:Register(self.text_list, "listbox")
+	self:register_element(xml,"text_field")	
+	self.text_list:AddTextItem(text_1)
+    self.text_list:AddTextItem(text_2)
+    self.text_list:AddTextItem(text_3)    
+    self.button_1_slot_1 = xml:Init3tButton ("form_a5_ipr_item_s1:btn_1_slot_1", self.form_a5_ipr_item_s1) 
+    self:Register (self.button_1_slot_1, "button_1_slot_1")
+	self.button_1_slot_1:Enable(false)
+    self.button_1_slot_2 = xml:Init3tButton ("form_a5_ipr_item_s1:btn_1_slot_2", self.form_a5_ipr_item_s1) 
+    self:Register (self.button_1_slot_2, "button_1_slot_2")
+    self.button_1_slot_2:Enable(false)	
+    self.button_1_slot_3 = xml:Init3tButton ("form_a5_ipr_item_s1:btn_1_slot_3", self.form_a5_ipr_item_s1) 
+    self:Register (self.button_1_slot_3, "button_1_slot_3") 
+    self.button_1_slot_3:Enable(false)
+    self.button_1_slot_close = xml:Init3tButton ("form_a5_ipr_item_s1:btn_1_slot_close", self.form_a5_ipr_item_s1) 
+    self:Register (self.button_1_slot_close, "button_1_slot_close")   
+end
+
+function ui_bonfire_irp_p_used_1:InitCallBacks()
+    self:AddCallback("button_1_slot_1", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_1_clicked, self)
+	self:AddCallback("button_1_slot_2", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_2_clicked, self)
+	self:AddCallback("button_1_slot_3", ui_events.BUTTON_CLICKED, self.OnButton_1_slot_3_clicked, self)
+    self:AddCallback("button_1_slot_close", ui_events.BUTTON_CLICKED, self.OnButton_close_clicked, self)	
+    self:AddCallback("listbox", ui_events.LIST_ITEM_CLICKED, self.Element_clicked, self)   
+end
+
+function ui_bonfire_irp_p_used_1:OnButton_1_slot_1_clicked()
+	if (db.actor) then 
+	  remove_inv_item(db.actor, "meat_boar")
+      give_object_to_actor("meat_boar_food")
+      self.text_field:TextControl():SetText(get_item_count("meat_boar")-1)	  
+      self.button_1_slot_1:Enable(false)  
+	end
+end
+
+function ui_bonfire_irp_p_used_1:OnButton_1_slot_2_clicked()
+	if (db.actor) then 
+	  remove_inv_item(db.actor, "meat_dog")
+      give_object_to_actor("meat_dog_food")	
+      self.text_field:TextControl():SetText(get_item_count("meat_dog")-1)	  
+      self.button_1_slot_2:Enable(false)	  
+	end
+end
+
+function ui_bonfire_irp_p_used_1:OnButton_1_slot_3_clicked()
+	if (db.actor) then 
+	  remove_inv_item(db.actor, "meat_flesh")
+      give_object_to_actor("meat_flesh_food")	
+      self.text_field:TextControl():SetText(get_item_count("meat_flesh")-1)	  
+      self.button_1_slot_3:Enable(false)	  
+	end
+end
+
+function ui_bonfire_irp_p_used_1:OnButton_close_clicked()
+	give_info("pb_bonfire_use_closed")    
+	self:HideDialog()	
+end
+
+function ui_bonfire_irp_p_used_1:Element_clicked() 
+	if self.text_list:GetSize()==0 then return end
+	    self.item = self.text_list:GetSelectedItem()
+		self.text_item = self.item:GetTextItem()        
+	 if self.text_item:GetText() == "Raw boar meat" then
+	    if get_item_count("meat_boar")>=1 then
+          self.text_field:TextControl():SetText(get_item_count("meat_boar"))
+		  self.button_1_slot_1:Enable(true)
+		  self.button_1_slot_2:Enable(false)
+		  self.button_1_slot_3:Enable(false)
+         else
+          self.text_field:TextControl():SetText(get_item_count("meat_boar"))
+		  self.button_1_slot_1:Enable(false)
+		  self.button_1_slot_2:Enable(false)
+		  self.button_1_slot_3:Enable(false)
+        end		  
+	 elseif self.text_item:GetText() == "Raw dog meat" then   
+	    if get_item_count("meat_dog")>=1 then
+          self.text_field:TextControl():SetText(get_item_count("meat_dog"))
+          self.button_1_slot_1:Enable(false)
+		  self.button_1_slot_2:Enable(true)
+		  self.button_1_slot_3:Enable(false)
+        else
+          self.text_field:TextControl():SetText(get_item_count("meat_dog"))
+		  self.button_1_slot_1:Enable(false)
+		  self.button_1_slot_2:Enable(false)
+		  self.button_1_slot_3:Enable(false)
+        end		  
+     elseif self.text_item:GetText() == "Raw flesh meat" then
+        if get_item_count("meat_flesh")>=1 then	 
+          self.text_field:TextControl():SetText(get_item_count("meat_flesh"))
+          self.button_1_slot_1:Enable(false)
+		  self.button_1_slot_2:Enable(false)
+		  self.button_1_slot_3:Enable(true)
+        else
+		self.text_field:TextControl():SetText(get_item_count("meat_flesh"))
+		  self.button_1_slot_1:Enable(false)
+		  self.button_1_slot_2:Enable(false)
+		  self.button_1_slot_3:Enable(false)
+        end
+     end		 
+end
+
+function ui_bonfire_irp_p_used_1:register_element(xml,element_name)
+   self[element_name]=xml:InitStatic("form_a5_ipr_item_s1:"..element_name,self.form_a5_ipr_item_s1)
+end
+-------------------- GUI элементы в диалогах Смерти вопреки ----------------------
+------------------------- Copyright 2012-2013 Geonezis & XOBAH ---------------------------

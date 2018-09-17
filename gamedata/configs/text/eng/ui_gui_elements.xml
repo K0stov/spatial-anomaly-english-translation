@@ -1536,7 +1536,7 @@
 		<text>Ñîñòàâ àïòå÷êè:</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_1">
-		<text>Ñûğîå ìÿñî êàáàíà</text>
+		<text>Raw boar meat</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_2">
 		<text>Õëåáöû àğìåéñêèå</text>
@@ -1545,10 +1545,10 @@
 		<text>Ïàøòåò</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_4">
-		<text>Ñûğîå ìÿñî ñîáàêè</text>
+		<text>Raw dog meat</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_5">
-		<text>Ñûğîå ìÿñî ïëîòè</text>
+		<text>Raw flesh meat</text>
 	</string>
 	<string id="ui_mar_irp_item_s1_text_6">
 		<text>Íàïèòîê</text>
@@ -2487,7 +2487,7 @@
 		<text>Note from Knucklehead</text>
 	</string>
 	<string id="st_notepad_type_esc_3_text">
-		<text>Beast, if you are reading this, it means that I’m dead… It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was… I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye Beast. \nÑ With respect, Knucklehead.</text>
+		<text>Beast, if you are reading this, it means that I’m dead… It’s very hard to write these words but I must do it, I have to ask for your forgiveness. Back when I first met you in Cordon I didn’t really think highly of you and when you got trapped in spatial anomaly my opinion of you didn’t change. I was one of the few who wanted you out of our base because I thought you would only cause us problems. How wrong I was… I want to thank you for trying to save my life, it’s too bad that you couldn’t do it. I hope that all of you find your way out of this forsaken anomaly. Goodbye, Beast.\nWith respect, Knucklehead.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_1">
 		<text>Note from Seriy</text>
