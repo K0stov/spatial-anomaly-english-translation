@@ -5121,3 +5121,9 @@ end
 function pro_bloknot_8_reload()
      alife():create("pb_quest_bloknot_8", vector(), 0, 0, 0)
 end
+
+function show_intro_title(actor, npc, p) 
+	local hud = get_hud():AddCustomStatic("intros_statics", true) 
+	hud:wnd():TextControl():SetTextST(game.translate_string(p[1])) 
+	hud.m_endTime = time_global()/1000+10 
+end

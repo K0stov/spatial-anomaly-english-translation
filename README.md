@@ -25,6 +25,14 @@ A list of all files with detailed progress can be found below.
 - **[configs/scripts/labx7/space_restrictor](gamedata/configs/scripts/labx7/space_restrictor)**
 	- [labx7_explosive_timer.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_explosive_timer.ltx)
 		- done
+- **[configs/scripts/prostranstvenniy_puzir/npc](gamedata/configs/scripts/prostranstvenniy_puzir/npc)**
+	- [pb_lutiy_cut_scene.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_lutiy_cut_scene.ltx)
+		- done (part of subtitles)
+	- [pb_moskit.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_moskit.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/prostranstvenniy_puzir/space_restrictor](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor)**
+	- [pb_actor_replic_restrictor.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_actor_replic_restrictor.ltx)
+		- done (part of subtitles)
 - **[configs/text/eng](gamedata/configs/text/eng)**
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- done (could use minor edits like in the corresponding file already in *Spatial Anomaly*)
@@ -84,13 +92,21 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
 		- done
+	- [ui_st_story_titles.xml](gamedata/configs/text/eng/ui_st_story_titles.xml)
+		- incomplete
 - **[configs/ui](gamedata/configs/ui)**
 	- [ui_gui_elements.xml](gamedata/configs/ui/ui_gui_elements.xml)
 		- done
+	- [ui_custom_msgs.xml](gamedata/configs/ui/ui_custom_msgs.xml)
+		- done (part of subtitles)
+	- [ui_custom_msgs_16.xml](gamedata/configs/ui/ui_custom_msgs_16.xml)
+		- done (part of subtitles)
 - **[gamedata/scripts](gamedata/scripts)**
 	- [dengi.script](gamedata/scripts/dengi.script)
 		- done
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
+		- done
+	- [ui_gui_spec_objects.script](gamedata/scripts/ui_gui_spec_objects.script)
 		- done
 	- [ui_main_menu.script](gamedata/scripts/ui_main_menu.script)
 		- done

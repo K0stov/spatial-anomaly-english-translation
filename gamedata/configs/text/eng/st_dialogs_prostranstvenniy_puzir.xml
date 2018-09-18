@@ -1135,13 +1135,13 @@
         <text>All right. I’m off, then.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_2">
-        <text>T-thank you. I guess you really are just here to help.</text>
+        <text>T-Thank you. I guess you really are just here to help.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_3">
         <text>Yeah. Do you want me to help you with those mercenaries too? Can you tell me why they were here?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_4">
-        <text>The scientists gave me an assignment to try out a new experimental transceiver. A simple job: “Just test it out and see if you pick up anything.” I messed around with it and picked up a mercenary channel. They were having some serious, heavy negotiations. Stuff about deposing certain squad leaders, strongarming the Ecologists, shady contacts they can use, paths they were using to move weapons and men without the Syndicate knowing, etc. They even worked out a whole arms deal for some kind of special new “modular assault rifle,” right then and there! I heard every single word of it. Didn’t make a sound or even move.\n \nJust as they were wrapping everything up, one of them realized their radio thing said it was a “conference call.” He thought about it for a few seconds; stunned, I guess. Then he realized it was supposed to be a solo call and cursed up a god damn storm. Sent just about every man he had to sweep the area, armed to the teeth. Ordered ’em to kill me on sight at any cost… Started quite a shitstorm over it, and two squads found me within minutes. I tried to sprint away and ended up in a narrow corridor with a clear-ish anomaly blocking the way and fifteen mercenaries in tow, just around the corner. I did some wall-kick shit I saw in a movie when I was a kid and thought I had cleared it, but I guess I didn’t. Now I’m here.</text>
+        <text>The scientists gave me an assignment to try out a new experimental transceiver. A simple job: “Just test it out and see if you pick up anything.” I messed around with it and picked up a mercenary channel. They were having some serious, heavy negotiations. Stuff about deposing certain squad leaders, strongarming the scientists, shady contacts they can use, paths they were using to move weapons and men without the Syndicate knowing, etc. They even worked out a whole arms deal for some kind of special new “modular assault rifle,” right then and there! I heard every single word of it. Didn’t make a sound or even move.\n \nJust as they were wrapping everything up, one of them realized their radio thing said it was a “conference call.” He thought about it for a few seconds; stunned, I guess. Then he realized it was supposed to be a solo call and cursed up a god damn storm. Sent just about every man he had to sweep the area, armed to the teeth. Ordered ’em to kill me on sight at any cost… Started quite a shitstorm over it, and two squads found me within minutes. I tried to sprint away and ended up in a narrow corridor with a clear-ish anomaly blocking the way and fifteen mercenaries in tow, just around the corner. I did some wall-kick shit I saw in a movie when I was a kid and thought I had cleared it, but I guess I didn’t. Now I’m here.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_5">
         <text>Hmm… Do you still have the transceiver?</text>
@@ -1150,7 +1150,7 @@
         <text>Yeah, but it’s busted. One of the mercenaries landed a shot; hit my backpack and grazed the love handles. Went straight through it, but the parts are still in it.</text>
     </string>
     <string id="pb_murad_quest_end_dialog_7">
-        <text>Are the parts salvagable?</text>
+        <text>Are the parts salvageable?</text>
     </string>
     <string id="pb_murad_quest_end_dialog_8">
         <text>I’ll take the battery, just in case.</text>
