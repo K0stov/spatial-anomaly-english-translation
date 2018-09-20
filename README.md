@@ -37,11 +37,11 @@ A list of all files with detailed progress can be found below.
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- done (could use minor edits like in the corresponding file already in *Spatial Anomaly*)
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
-		- done (needs rewriting)
-	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
-		- done (needs revision + rewriting)
-	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
 		- done
+	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
+		- done (needs revision)
+	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
+		- needs reworking to be faithful to its original version
 	- [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
 		- done
 	- [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
@@ -51,7 +51,7 @@ A list of all files with detailed progress can be found below.
 	- [st_dop_action.xml](gamedata/configs/text/eng/st_dop_action.xml)
 		- done
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
-		- done (needs revision after line 155)
+		- done
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
 		- done
 	- [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
@@ -65,11 +65,11 @@ A list of all files with detailed progress can be found below.
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
 		- done (needs rewriting)
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
-		- done (needs revision + rewriting)
+		- done
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
 		- done
 	- [st_quests_escape.xml](gamedata/configs/text/eng/st_quests_escape.xml)
-		- done (needs rewriting)
+		- done
 	- [st_quests_general.xml](gamedata/configs/text/eng/st_quests_general.xml)
 		- done
 	- [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
@@ -77,7 +77,7 @@ A list of all files with detailed progress can be found below.
 	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
 		- incomplete (unused?)
 	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
-		- done (needs revision)
+		- done
 	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
 		- done
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)

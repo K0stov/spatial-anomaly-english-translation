@@ -156,28 +156,28 @@
 <text>Bat</text>
 </string>
 <string id="st_af_bat_descr">
- <text>An artifact whose magnetic properties resemble heavy metals and like them it has a low specific heat capacity. It creates a powerful protective field which changes the trajectory of bullets and other projectiles.  The artifact is very rare and has a high value. It’s only the downside is that it’s radioactive.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+7%c[255,238,15,26])\n%c[default]</text>
+ <text>An artifact whose magnetic properties resemble heavy metals and like them it has a low specific heat capacity. It creates a powerful protective field which changes the trajectory of bullets and other projectiles. The artifact is very rare and has a high value. It’s only the downside is that it’s radioactive.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+7%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 <string id="st_af_fire_loop_name">
 <text>Fireloop</text>
 </string>
 <string id="st_af_fire_loop_descr">
- <text>A very rare artifact which only spawn near powerful burner anomalies. It can lower the heat of any object in a 5 meter radius and thus make it impervious to heat anomalies. On the top of that the artifact slightly decreases the time in which wounds heal.</text>
+ <text>A very rare artifact which is only created near powerful burner anomalies. It can lower the heat of any object in a 5 meter radius and thus makes it impervious to heat anomalies. On top of that the artifact slightly decreases the time in which wounds heal.</text>
 </string>
 
 <string id="st_af_fountain_name">
 <text>Fountain</text>
 </string>
 <string id="st_af_fountain_descr">
- <text>Despite not having any gravitational effects, this artifact makes the user’s gear lighter. According to one of the theories made by scientists, this effect is achieved because of the artifact’s low volumetric mass density. Although unexplainable, the artifact stays on the ground and doesn’t float up in the air is what puzzles people.</text>
+ <text>Despite not having any gravitational effects, this artifact makes the user’s gear lighter. According to one of the theories made by scientists, this effect is achieved because of the artifact’s low volumetric mass density. Although unexplainable, the fact the artifact stays on the ground and doesn’t float up in the air is what puzzles people.</text>
 </string>
 
 <string id="st_af_generator_name">
 <text>Generator</text>
 </string>
 <string id="st_af_generator_descr">
- <text>Not only does this artifact helps the body close up open wounds but it also helps the body regenerate itself. The only downside is that it’s radioactive. </text>
+ <text>Not only does this artifact help the body stop bleeding but it also helps the body regenerate itself. The only downside is that it’s radioactive. </text>
 </string>
 
 
@@ -193,7 +193,7 @@
 <text>Peas</text>
 </string>
 <string id="st_af_peas_descr">
- <text>A strong chemical structure of a new era that is able to detox its user from any form of radiation, no matter what the source is. Be it water, food or air, it doesn’t matter. The artifact does this by capturing each radioactive particle and moving it out of the body. Scientists believe that this is artifact is completely nontoxic.</text>
+ <text>A strong chemical structure of a new era that is able to detoxify its user from any form of radiation, no matter what the source is. Be it water, food or air, it doesn’t matter. The artifact does this by capturing each radioactive particle and moving it out of the body. Scientists believe that this is artifact is completely nontoxic.</text>
 </string>
 
 
@@ -217,7 +217,7 @@
 <text>Beacon</text>
 </string>
 <string id="st_af_lighthouse_descr">
- <text>A structure made out of highly dense substance. When this artifact is put in a dangerous environment, it produces a gas that lessens the effects of toxic gasses and radiation on the user.</text>
+ <text>A structure made out of a highly dense substance. When this artifact is put in a dangerous environment, it produces a purifying gas cloud that lessens the effects of toxic gasses and radiation on the user.</text>
 </string>
 
 
@@ -225,7 +225,7 @@
 <text>Medallion</text>
 </string>
 <string id="st_af_medallion_descr">
- <text>This artifact is structured like a hoop with four triangular objects on the sides. Even though these objects are constantly in motion, they are always positioned symmetrically to each other. These four bits produce an energy which, when it comes in contact with a living creature, heals its wounds, restores its energy and rids their body of radiation. This artifact is very valuable due to its effectiveness and scarcity.</text>
+ <text>This artifact is structured like a hoop with four triangular objects on the sides. Even though these objects are constantly in motion, they are always positioned symmetrically to each other. These four bits produce an energy which, when it comes in contact with a living creature, it heals its wounds, restores its energy, and rids their body of radiation. This artifact is very valuable due to its effectiveness and scarcity.</text>
 </string>
 
 
@@ -233,14 +233,14 @@
 <text>Tapeworm</text>
 </string>
 <string id="st_af_tapeworm_descr">
- <text>Even though this artifact looks like regular silicone dioxide, its atomic mass is completely different. The artifact doesn’t only differ with its atomic mass, but also by the type of electricity it produces, which shields its user from electrical shock. It’s only downside is that it’s radioactive.</text>
+ <text>Even though this artifact looks like regular silicone dioxide, its atomic mass is completely different. The artifact doesn’t only differ with its atomic mass, but also by the type of electricity it produces, which shields its user from an electrical shock. It’s only downside is that it’s radioactive.</text>
 </string>
 
 <string id="st_af_black_angel_name">
 <text>Black Angel</text>
 </string>
 <string id="st_af_black_angel_descr">
- <text>This artifact can be the difference between life and death in places with high psi-radiation. The Black Angel produces an anti psi-radiation which restores the chemical balances of the brain, as well as any lost brain cells. Not only does the artifact protect its user from psi-emission, but it also treats any existing mental illnesses.</text>
+ <text>This artifact can be the difference between life and death in places with high psi-radiation. The Black Angel artifact produces an anti psi-radiation which restores the chemical balances of the brain, as well as any lost brain cells. Not only does the artifact protect its user from psi-emission, but it also treats any existing mental illnesses.</text>
 </string>
 
 
@@ -248,7 +248,7 @@
 <text>Signet</text>
 </string>
 <string id="st_af_signet_descr">
- <text>Stalkers also call this artifact an ’Signet’. This artifact protects its user by strengthening any armor he or she wearing. The artifact affects all metals in its surrounding by prolonging their durability. The artifact also makes weapons more reliable.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+3%c[255,238,15,26])\n%c[default]</text>
+ <text>Stalkers also call this artifact a “Signet’. This artifact protects its user by strengthening any armor he or she wearing. The artifact affects all metals in its surrounding by prolonging their durability. The artifact also makes weapons more reliable.\n %c[default]Properties:\n%c[255,238,153,26]• %c[default]Bulletproof %c[255,238,15,26](%c[255,1,128,54]+3%c[255,238,15,26])\n%c[default]</text>
 </string>
 
 
@@ -271,7 +271,7 @@
 <text>Sandstone</text>
 </string>
 <string id="st_af_sandstone_descr">
- <text>This artifact can isolate heat from any object it touches. A user who holds this artifact can avoid get burned in areas where the temperature is up 300 degrees Celsius.  On top of this, the artifact also has a small healing effect. The shape of the artifact is a sphere which is hollow in certain places. The surface of this sphere is covered by an unknown substance which holds the entire artifact together. </text>
+ <text>This artifact can isolate heat from any object it touches. A user who holds this artifact can avoid getting burned in areas where the temperature reaches up to 300 degrees Celsius. On top of this, the artifact also has a small healing effect. The shape of the artifact is a sphere which is hollow in certain places. The surface of this sphere is covered by an unknown substance which holds the entire artifact together. </text>
 </string>
 
 

@@ -27,7 +27,7 @@
 		<text>The level of radiation is dangerous. I should hide from the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_descr_2_a">
-		<text>I shouldn’t leave the shelter during the radioactive fallout.</text>
+		<text>I shouldn't leave the shelter during the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_name_1">
 		<text>Radioactive fallout: find shelter</text>
@@ -52,7 +52,7 @@
 		<text>The level of contamination is dangerous. I should hide from the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_descr_2_a">
-		<text>I shouldn’t leave the shelter during the chemical fallout.</text>
+		<text>I shouldn't leave the shelter during the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_name_1">
 		<text>Chemical fallout: find shelter</text>
@@ -78,7 +78,7 @@
 		<text>I should hide from the psy-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_descr_2_a">
-		<text>I shouldn’t leave the shelter during the psy-storm.</text>
+		<text>I shouldn't leave the shelter during the psy-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_name_1">
 		<text>Psy-storm: find shelter</text>

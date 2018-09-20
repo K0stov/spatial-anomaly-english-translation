@@ -115,7 +115,7 @@
         <text>Leave it to me. I’ll talk to the stalkers and see what they know.</text>
     </string>
     <string id="esc_actor_killer_raven_meet_to_dead_5">
-        <text>I’m with you. I need see Sidorovich and make sure he doesn’t find out that his job is just a cover.</text>
+        <text>I’m with you. I need to see Sidorovich and make sure he doesn’t find out that his job is just a cover.</text>
     </string>
     <string id="esc_actor_meet_from_enot_0">
         <text>Yeah? What the hell is so important that I can’t even lay down for twenty minutes without being bothered again?</text>
@@ -127,7 +127,7 @@
         <text>Yeah, that would work… Do you have any tips on gaining their trust and listening in?</text>
     </string>
     <string id="esc_actor_meet_from_enot_11">
-        <text>Christ… Act new and confused, and shorten information mentally. Avoid writing notes in plain sight. Write them when you know for sure you’re alone. Use acronyms to make your notes less incriminating if they find them. And remember that you have thirty million reasons to do your job well, if you ever want to actually make profit off of your assignments.</text>
+        <text>Christ. Act new and confused, and shorten information mentally. Avoid writing notes in plain sight. Write them when you know for sure you’re alone. Use acronyms to make your notes less incriminating if they find them. And remember that you have thirty million reasons to do your job well, if you ever want to actually make profit off of your assignments.</text>
     </string>
     <string id="esc_actor_meet_from_enot_12">
         <text>R-Right. You can trust me.</text>
@@ -160,88 +160,88 @@
         <text>It’s your duty as a member of the Syndicate to carry out your jobs no matter what kind of obstacles you face, regardless of whether you’re an agent or not. You’re contractually bound to handle these things with little to no outside support. You must act accordingly. Store your issued equipment in a well-concealed spot near the base in case you absolutely have to get to it quickly, scavenge a basic pistol off of someone, and make yourself look like a rookie. Gain their trust, thrust your knife into the leader’s carotid artery, clean up the blood spatter, and then leave without anyone knowing. The standard three-step-assault procedure.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_0">
-        <text>Hello, merc. I take it you are the leader of the band at the ATP? Thank you for saving us from the bandits, you guys are real pros.</text>
+        <text>Hey, merc. I take it you are the leader of the group at the ATP? Thanks for saving us from the bandits, you guys are real pros.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_1">
-        <text>My partner told me that you want join the syndicate, is that so?</text>
+        <text>My partner told me that you want join the syndicate, is that true?</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_2">
         <text>Yeah, it’s true. I am tired of working my ass off for pocket change. I want to make some real money.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_3">
-        <text>I can help with that but first you’re going to have to prove yourself.</text>
+        <text>Alright, but first you have to do a job for me. A test of loyalty.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_4">
-        <text>What do I need to do? I am ready for anything.</text>
+        <text>What do I need to do? I'm ready for anything.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_5">
-        <text>Can you distract the mechanic or rather make him leave his workplace?</text>
+        <text>I need you to have the mechanic leave his workshop. Distract him, lead him away. It doesn't matter how, just get it done.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_6">
-        <text>Hmm… I need to think. There is one way, although he will only be gone for a while. I can go to the bar and get drunk with him. He knows me and this won’t be the first time we are getting drunk together. Will that work?</text>
+        <text>Hmm… I need to think. There might be one way, although he will only be gone for a short while. I can go to the bar and get drunk with him. Won't be the first time I get him under the influence. Will that work?</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_7">
-        <text>Yeah, that will work aslong as you get him drunk good.</text>
+        <text>Yeah, as long as he empties more bottles than he could handle. Do you have enough cash?</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_8">
-        <text>Yeah, that won’t be a problem. I have enough money to buy plenty of booze.</text>
+        <text>Yeah, that won’t be a problem.</text>
     </string>
     <string id="esc_actor_meet_from_enot_first_9">
-        <text>Yeah, all right, Get to it. Make sure his passed out by night time.</text>
+        <text>All right, get to it. Make sure he's passed out by night time.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_0">
         <text>Are you busy? Do you have time to talk?</text>
     </string>
     <string id="esc_actor_meet_from_furgon_1">
-        <text>No, there isn’t anything to do right now so, yeah, why not? I’m listening.</text>
+        <text>No, I haven't got anything to do right now. I'm listening.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_10">
         <text>Fine, it’s your choice.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_2">
-        <text>Do you need anyone to guard this place, don’t you have anywhere to go?</text>
+        <text>Do you need anyone to guard this place? Don’t you have anywhere to go?</text>
     </string>
     <string id="esc_actor_meet_from_furgon_3">
-        <text>Do you want something drink? I have a spare bottle of vodka and I Don’t drink.</text>
+        <text>Do you want something to drink? I have a spare bottle of vodka that I've been keeping for a special occasion.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_4">
-        <text>Aren’t you tired? Don’t you want to take a nap for at least an hour or two? I can ask some to guard the entrance while get some rest.</text>
+        <text>Aren’t you tired? Don’t you want to take a nap for a little while? I can ask the bouncer to come guard the workshop while you're gone.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_5">
-        <text>You are strange one… No, I don’t need to go anywhere and if I did I would send someone else to do it.</text>
+        <text>Ain't that a strange question… No, I don’t need to go anywhere and if I did I would send someone else to do it.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_6">
-        <text>No, thank you. I don’t want any vodka. Even though there isn’t much work to be done, I don’t want sit here drunk off my ass.</text>
+        <text>No, thank you. I don’t want any vodka. I don’t want sit here drunk off my ass while there is a special order waiting to be done.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_7">
-        <text>Hmm… Why do you care exactly? No, I don’t want to sleep. I’ve had 8 energy drinks and I’m going to work here all night on a special order.</text>
+        <text>Hmm… Why do you care exactly? No, I don’t want to sleep. I’ve had 8 energy drinks and I have the whole night ahead to work on a special order.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_8">
         <text>Whatever, It’s your choice.</text>
     </string>
     <string id="esc_actor_meet_from_furgon_9">
-        <text>Whatever, It’s your choice.</text>
+        <text>Alright, It’s your choice.</text>
     </string>
     <string id="esc_actor_meet_from_halezky_0">
         <text>Greetings, mercenary. Did everything go according to plan?</text>
     </string>
     <string id="esc_actor_meet_from_halezky_1">
-        <text>Wait, where’s the lieutenant?  Or are you the one who ordered this contract?</text>
+        <text>Wait, where’s the lieutenant?  Or... Are you the one who ordered the contract?</text>
     </string>
     <string id="esc_actor_meet_from_halezky_2">
-        <text>Yes, Indeed. I sent Yarishuk to talk to you yesterday but I am the one who ordered this contract and I wanted to meet you personally. So, how did everything go?</text>
+        <text>Yes, indeed. I sent Yarishchuk to talk to you yesterday, just as a security measure, no offense, and I wanted to meet you personally today. So, how did everything go?</text>
     </string>
     <string id="esc_actor_meet_from_halezky_3">
-        <text>Like butter, Valerian and his friends are dead. Here’s the proof.</text>
+        <text>Smooth as butter, Valerian and his friends are dead. Here’s the proof.</text>
     </string>
     <string id="esc_actor_meet_from_halezky_4">
-        <text>Thank god that asshole is finally dead. Good work, merc, You are a real pro. By the way do you know a guy by the name of Scar? His one of yours.</text>
+        <text>Thank god that asshole is finally dead. Good work, merc. By the way, do you know a guy by the name of Scar? He's one of yours.</text>
     </string>
     <string id="esc_actor_meet_from_halezky_5">
         <text>Nope, Don’t know him.</text>
     </string>
     <string id="esc_actor_meet_from_halezky_6">
-        <text>That’s too bad.  He was also a pro, like you. It’s a shame he disappeared somewhere, no one knows where. Yeah I still remember how I was locked up in that base and Scar helped me escape. Man, That Valerian sure caused a lot of problems, to me, to the stalkers he claimed that he protected, and to Sidorovich. I was almost thrown in jail because of that cretin. Hell, we are still under investigation. Anyway, here’s your payment, you did a damn fine job.</text>
+        <text>That’s too bad.  He was also a professional, like you. It’s a shame he disappeared somewhere, no one knows where. Yeah I still remember how I was locked up in that base and Scar helped me escape. Man, That Valerian sure caused a lot of problems, to me, to the stalkers he claimed that he protected, and to Sidorovich. I was almost thrown in jail because of that cretin. Hell, we are still under investigation. Anyway, here’s your payment, you did a damn fine job.</text>
     </string>
     <string id="esc_actor_meet_from_halezky_7">
         <text>Goodbye.</text>
@@ -250,19 +250,19 @@
         <text>Hey, merc. Keep this conversation quiet, we can’t let anyone hear about this. Jackal has a very serious mission for you.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_12">
-        <text>So I’m guessing  you are the coordinator? I thought he’d be doing something more serious than guarding a bar.</text>
+        <text>So you're the coordinator? I thought a secretive person like you would be doing something more serious than guarding a bar.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_13">
-        <text>How about you stop kidding around and work on how you’re going to execute your mission. You have no idea how hard it was to work under this cover. For 3 weeks, I had to act like regular security guard just so they would start trusting me. All so I could get the needed info for you.</text>
+        <text>How about you stop fucking around and work on how you’re going to execute your mission. You have no idea how hard it was to work under this cover. For three weeks, I had to act like regular security guard just so they would start trusting me. All so I could get the needed info for your ungrateful ass.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_14">
         <text>Fine, tell me then, what Jackal has in store for me.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_15">
-        <text>Okay, so about a month ago, Sidorovich managed to get his hands on a locked “Black Box” which was retrieved from a fallen military helicopter and someone’s willing to pay good money for it. Your mission is to steal the “Black Box”. Sidorovich keeps it in his storage room which is located here. Your main obstacle is Wagon, the local Technician, his workplace is near the entrance and you must neutralize him in order to get through. Wagon keeps drinking energy drinks and he barely sleeps… oh and an important detail, you mustn’t kill him, it will attract too much attention. You only need to make sure his passed out long enough for you to get the “Black Box”. Meanwhile, I will make sure the storage room door “accidently” opens.</text>
+        <text>Okay, so about a month ago, Sidorovich managed to get his hands on a locked “Black Box” which was retrieved from a fallen military helicopter and someone’s willing to pay good money for it. Your mission is to steal the “Black Box”. Sidorovich keeps it in his storage room which is located here. Your main obstacle is Van, the local Technician, his workplace is near the entrance and you must neutralize him in order to get through. Van keeps drinking energy drinks and he barely sleeps… Oh and an important detail, you mustn’t kill him, it will attract too much attention. You only need to make sure he's passed out long enough for you to get the “Black Box”. Meanwhile, I will make sure the storage room door “accidentally” opens.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_16">
-        <text>All right, if that’s everything, I’m going to disscus the mission with my partner.</text>
+        <text>All right, if that’s everything, I’m going to discuss the mission with my partner.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_17">
         <text>One more thing, this needs to be done tonight! So hurry up and do what you got to do.</text>
@@ -289,46 +289,46 @@
         <text>I have no idea. You will get all of your instructions from a representative of the client and remember, most important of all, In order for the military to identify you as their contractor you will need to say the password: “swordfish”.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_7">
-        <text>All right, Give the cordinates for the meeting point.</text>
+        <text>All right, Give the coordinates for the meeting point.</text>
     </string>
     <string id="esc_actor_meet_from_koordinator_9">
-        <text>I have given you everything I have. I don’t have anymore info.</text>
+        <text>I have given you everything I have. I don’t have no more info.</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_0">
         <text>What up, Creature! He-he… So how’s Sidorovich’s contract going?</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_1">
-        <text>I have you forgotten who is in command here? Call me “creature” again and I’ll break your jaw.</text>
+        <text>Have you forgotten who's in command here? Call me “creature” again and I’ll break your fucking jaw!</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_2">
-        <text>Yeah, sure you will. Though, you should probably remember what Jackal said about that… You remember right? Anyway, back to the point, I called you here for a reason. You see, Jackal has gotten tired of waiting for you to do his personal contract so he made someone else in charge and you, creature, are supposed to drop everything and start doing his mission. </text>
+        <text>Yeah, sure you will. Though, you should probably remember what Jackal said about that… You remember, right? Anyway, back to the point, I called you here for a reason. You see, Jackal has gotten tired of waiting for you to do his personal contract, so he made someone else in charge and you, Creature, are supposed to drop everything and start doing his mission. </text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_3">
         <text>Like that, huh? Who did he put in charge by the way?</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_4">
-        <text>Me, in the meantime, but once Sidorovich’s contract is done Jackal will pick a constant commander. I don’t get one thing though, why the hell did he pick an idiot like you in the first place. You couldn’t even secure a good place for your team, not to mention your awful execution of the contracts.</text>
+        <text>Me, In the meantime. But once Sidorovich’s contract is done Jackal will pick a new permanent commander. I don’t get one thing though, why the hell did he pick an idiot like you in the first place. You couldn’t even secure a good place for your team, not to mention your awful execution of the contracts.</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_5">
         <text>Me, in the meantime, but once Sidorovich’s contract is done Jackal will pick a constant commander. I don’t get one thing though, why the hell did he pick an idiot like you in the first place. You couldn’t even secure a good place for your team, not to mention your awful execution of the contracts.</text>
     </string>
     <string id="esc_actor_meet_from_mrakobes_6">
-        <text>That’s none of your buissness… Anyway, tell Jackal that I will get his contract done. I’ll find Vektor and kill him.</text>
+        <text>That’s none of your business… Anyway, tell Jackal that I will get his contract done. I’ll find Vektor and kill him.</text>
     </string>
     <string id="esc_actor_meet_from_orest_2">
         <text>Hello, merc. What’s up? Do you have Sidorovich’s package?</text>
     </string>
     <string id="esc_actor_meet_from_orest_3">
-        <text>Yeah, I have it. Pay me, and I will give it to you.</text>
+        <text>Yeah, I have it. Pay me first, then you'll get the package.</text>
     </string>
     <string id="esc_actor_meet_from_orest_4">
-        <text>Heh, How careful… Don’t worry I am not Sidorovich and when I say I am going to pay someone, I pay him. Give me the package and I’ll give you the money.</text>
+        <text>Heh, how careful of you… Don’t worry, I am not Sidorovich and when I say that I am going to pay someone, I pay that someone. Give me the package and I’ll give you the money.</text>
     </string>
     <string id="esc_actor_meet_from_orest_5">
-        <text>Here you go.</text>
+        <text>Alright, here you go.</text>
     </string>
     <string id="esc_actor_meet_from_orest_6">
-        <text>Okay, take your money. Take note of the fact that I paid you twice the amount Sidorovich asked to pay you, I have my reasons. I have a feeling I’ll be stuck here for a while. Valerian has disappeared somewhere and its uncertain wither he will return or not and someone has to keep things in order here. Anyway, our trader needs your help he asked to tell you that you should see him. Go talk to him, see what he wants. He should pay you more than I have.</text>
+        <text>Okay, take your money. Take note of the fact that I've paid you twice the amount Sidorovich asked to pay you, I have my reasons. I have a feeling I’ll be stuck here for a while. Valerian has disappeared somewhere and its uncertain wither he will return or not and someone has to keep things in order here. Anyway, our trader needs your help. He asked to send you over to him. Go talk to him, see what he wants. He should pay you more than I have.</text>
     </string>
     <string id="esc_actor_meet_from_orest_7">
         <text>Okay, I’ll see what he wants.</text>
@@ -340,7 +340,7 @@
         <text>One of our squads hasn’t responded for a few minutes. I fear something happened to them. I don’t have anyone else to send, so will you lend me a hand?</text>
     </string>
     <string id="esc_actor_meet_from_wolf_11">
-        <text>Of course I can lend you a hand. Question is, though: how much will you pay?</text>
+        <text>Of course I can lend you a hand... For a price.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_12">
         <text>Almost forgot who I’m talking to… We don’t have a lot of time for negotiations, Beast, so could you find those men ASAP? We’ll discuss payment after your return.</text>
@@ -349,7 +349,7 @@
         <text>I’ll hold you to it. Where do I need to go?</text>
     </string>
     <string id="esc_actor_meet_from_wolf_14">
-        <text>They went over the hill, toward one of our outposts, but the problem is, that area was overrun with bandits not long ago. I see your gear’s quite advanced—unlike ours—so a few bandits should be a piece of cake. I’ll mark the area on your PDA.</text>
+        <text>They went over the hill, toward one of our outposts, but the problem is, that area was overrun with bandits not long ago. I see your gear is quite advanced, unlike ours, so a few bandits should be a piece of cake. I’ll mark the area on your PDA.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_15">
         <text>Got it. I’ll find your men.</text>
@@ -361,7 +361,7 @@
         <text>Get out of here, merc!</text>
     </string>
     <string id="esc_actor_meet_from_wolf_2">
-        <text>Greetings, merc. I take it you received my message? I’m Wolf. To tell you the truth, we’re not really happy about your presence in these parts… I know you’re here on Sidorovich’s orders and all, but let’s try and make each others’ lives easier. Try not to meddle in anything that doesn’t concern you in the Cordon. Understood?</text>
+        <text>Greetings, merc. I take it you received my message? I’m Wolf. To tell you the truth, we’re not really happy with your presence in these parts… I know you’re here on Sidorovich’s orders and all, but let’s try and make each others’ lives easier. Try not to meddle in anything that doesn’t concern you or your group in the Cordon. Understood?</text>
     </string>
     <string id="esc_actor_meet_from_wolf_20">
         <text>I’ll get going.</text>
@@ -370,13 +370,13 @@
         <text>Not yet, I’m on it.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_23">
-        <text>Great job! Zokhan told me the whole story—about you saving him and his entire squad. I would never have thought a group of mercenaries would save our boys.</text>
+        <text>Great job! Zokhan told me the whole story: about you saving him and his entire squad. I would never have thought a group of mercenaries would save our boys.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_24">
         <text>No need to thank me. Just pay me.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_25">
-        <text>No, I feel I should, since mercs don’t care about anyone but themselves, in my experience. You, though… You’re something else. You do seem to care.</text>
+        <text>No, I feel I should, since mercs don’t care about anyone but themselves, from what I've seen. You, though… You’re something else. You actually do seem to care.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_26">
         <text>Don’t get the wrong idea. I’m only here to do my job and nothing more.</text>
@@ -400,7 +400,7 @@
         <text>Hello, merc. What do you need?</text>
     </string>
     <string id="esc_actor_meet_from_wolf_4">
-        <text>Sadly, the old man’s doing all right. But you’ll have to wait a while. He’s got some important business to attend to, and he won’t let anyone in his bunker for the time being.</text>
+        <text>Sadly, the old man’s doing all right, but you’ll have to wait a while. He’s got some important business to attend to, and he won’t let anyone in his bunker for the time being.</text>
     </string>
     <string id="esc_actor_meet_from_wolf_5">
         <text>When can I see him?</text>
@@ -418,13 +418,13 @@
         <text>Tell what that “something” is, and then we’ll see.</text>
     </string>
     <string id="esc_actor_start_memmory_0">
-        <text>Listen, Beast, I didn’t call you here just to chit-chat. Not everyone likes the fact that Jackal made you head of the group, especially Obscurant. He flew off the handle when he heard the news, and he’s not the only one who wanted your position. Just be careful—who knows what goes on in that man’s head. He’s a dangerous and unpredictable character.</text>
+        <text>Listen, Beast, I didn’t call you here just to chit-chat. Not everyone’s accepting the fact that Jackal made you head of the group, especially Obscurant. He flew off the handle when he heard the news, and he’s not the only one who wanted to be in your position. Just be careful—who knows what goes on in that man’s head. He’s a dangerous, unpredictable man.</text>
     </string>
     <string id="esc_actor_start_memmory_1">
         <text>Thanks for your concern, but I can handle it.</text>
     </string>
     <string id="esc_actor_start_memmory_2">
-        <text>Of course. Just be aware of the general consensus. If Jackal made you the commander, he must’ve had a specific reason, despite a number of individuals disagreeing with him. A few well-done contracts will help strengthen your reputation around here, though.\n \nBy the way, we just got word from Vulture that an unknown group of stalkers is heading toward the base. They’ve ignored our warnings not to come here. Either way, it’s your call what to do with them.</text>
+        <text>Of course. Just be aware of the general consensus. If Jackal made you the commander, he must’ve had a specific reason, despite the disagreement of a number of individuals. A few well-done contracts will help strengthen your reputation, though.\n \nBy the way, we just got word from Vulture that an unknown group of stalkers is heading toward the base. They’ve ignored our warnings not to come here. Either way, it’s your call what to do with them.</text>
     </string>
     <string id="esc_actor_start_memmory_3">
         <text>All right. I’ll talk to them. Is that all?</text>
@@ -454,7 +454,7 @@
         <text>Our business is our business, none of your business. Last chance.</text>
     </string>
     <string id="esc_actor_start_memmory_meet_to_stalker_atp_6">
-        <text>*Your* last chance, you spineless piece of shit… You dare venture into our territory and start making demands? Nobody walks this territory but us, and you should’ve noted that before you even came here.</text>
+        <text>*Your* last chance, you spineless piece of shit… You come into our territory making these crazy demands, and now you expect to get away with it? Nobody walks this territory but us, and you’re going to suffer the consequences.</text>
     </string>
     <string id="esc_actor_start_memmory_meet_to_stalker_atp_7">
         <text>Too bad. I warned you.</text>
@@ -472,7 +472,7 @@
         <text>Deal! Let’s go.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_2">
-        <text>Me? I’m hunting a mutant. I’ve been tracking this creature all the way from the Agroprom, and no matter what I try, it always manages to slip away. This mutant is dangerous but sense I have taken a mission from the scientists at Yantar and I have to complete it. So anyway, I was sneaking up to it here as it was eating a dead stalker and the second it saw me, it ran away. Poor stalker though, died in such a horrifc way.</text>
+        <text>Me? I’m hunting a mutant. I’ve been tracking this creature all the way from the Agroprom, and no matter what I try, it always manages to slip away. This mutant is dangerous, but I have taken a mission from the scientists at Yantar, and I have to complete it. So anyway, I was sneaking up to it here as it was eating a dead stalker and the second it saw me, it ran away. That poor stalker suffered a terrible death.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_3">
         <text>I was looking for that stalker, did you search his body?</text>
@@ -484,16 +484,16 @@
         <text>When you were searching him, did you run across a flashdrive?</text>
     </string>
     <string id="esc_actor_talk_from_hunter_6">
-        <text>So that’s why you’re here… Though, sorry to break it to you, there was no flashdrive.</text>
+        <text>So that’s why you’re here… Sorry to break it to you, there was no flashdrive.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_7">
         <text>But?</text>
     </string>
     <string id="esc_actor_talk_from_hunter_8">
-        <text>There’s a chance that the mutant swallowed the flashdrive along with the guy’s leg.  Sense we don’t have any better option, I suggest we start looking for that mutant.</text>
+        <text>There’s a chance that the mutant swallowed the flashdrive along with the guy’s leg. Since we don’t have any better option, I suggest we start looking for that mutant.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_9">
-        <text>Yeah okay but first tell what type of mutant we’re hunting here.</text>
+        <text>Yeah, okay, but first tell me what type of mutant we’re hunting here.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_after_quest_0">
         <text>Oof, that was a strong one.  I can finally wrap this mission up and get my reward from the scientists. How about you, did you find your flashdrive? </text>
@@ -502,16 +502,16 @@
         <text>Yeah, you were right, the mutant ate it. Good thing that it didn’t start digesting the flashdrive yet.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_after_quest_2">
-        <text>It takes long to digest a flashdrive, I wouldn’t worry about that. All right, I have to get moving, I have to haul my ass all the way to Yantar now.  Goodbye, merc and thanks for the help.</text>
+        <text>It takes long to digest a flashdrive, so I wouldn’t worry about that. Alright, I have to get moving, I have to haul my ass all the way to Yantar now.  Goodbye, merc and thanks for the help.</text>
     </string>
     <string id="esc_actor_talk_from_hunter_after_quest_3">
         <text>Goodbye.</text>
     </string>
     <string id="esc_bandit_tick_start_dialog_text">
-        <text>Yeah, What do you need?</text>
+        <text>Yeah. What do you need?</text>
     </string>
     <string id="esc_bandit_trader_questions_0">
-        <text>Wanna chit-chat a bit, whilst there aren’t any clients to bother you?</text>
+        <text>Wanna chit-chat a bit, while there aren’t any clients to bother you?</text>
     </string>
     <string id="esc_bandit_trader_questions_1">
         <text>Sure. What do you want to know?</text>
@@ -520,31 +520,31 @@
         <text>Tell me about yourself.</text>
     </string>
     <string id="esc_bandit_trader_questions_111">
-        <text>I’ve been buying and selling shit sense before the fall of the Soviet Union. I was one of those “evil speculators” and I used to buy and sell serious shit, the real deal. That was until I got caught and thrown in jail, that is. After that, I made friends with professional thieves in jail and started running with them when I got out. Got locked up again for another 3 years and when I Got out the Soviet Union was already gone. Once I was free, it felt like a totally different world in which I couldn’t find my place in. For a long time, all I did was small time work and I was barely able to scrap together a living. Then the Zone appeared and there I found my place.  Everything here is like the old days and with my experience in trading I will always able to make good living here.</text>
+        <text>I’ve been buying and selling shit since before the fall of the Soviet Union. I was one of those “evil speculators”, and I used to buy and sell serious shit, the real deal. That was until I got caught and thrown in jail, that is. After that, I made friends with professional thieves in jail and started running with them when I got out. Got locked up again for another 3 years, and when I got out, the Soviet Union was already gone. Once I was free, it felt like a totally different world in which I couldn’t find my place in. For a long time, all I did was small time work and I was barely able to scrap together a living. Then the Zone appeared and there I found my place.  Everything here is like the old days, and with my experience in trading, I will always able to make good living here.</text>
     </string>
     <string id="esc_bandit_trader_questions_1111">
         <text>Cool. Tell me something else.</text>
     </string>
     <string id="esc_bandit_trader_questions_1112">
-        <text>All right, I got to go.</text>
+        <text>Alright, I got to go.</text>
     </string>
     <string id="esc_bandit_trader_questions_12">
-        <text>What do you think about logoped?</text>
+        <text>What do you think about Logoped?</text>
     </string>
     <string id="esc_bandit_trader_questions_121">
-        <text>I’ll tell you this: Logoped won’t stay on top for long. I have a gut feeling that Koba will make him disappear. Logoped keeps showing off and by the looks of it, he thinks his untouchable. What’s worse he can’t notice the fact that a good chunk of us are getting sick of his shit. Remember though, I am telling you this because I trust you and this conversation needs to stay between us.  By the way, if you find anything interesting about either Logoped or Koba bring it here. Keep in mind though, it doesn’t matter who’s in control, I’ll still be here.</text>
+        <text>I’ll tell you this: Logoped won’t stay on top for long. I have a gut feeling that Koba will make him disappear. Logoped keeps showing off and, by the looks of it, he thinks he's untouchable. What’s worse he can’t notice the fact that a good chunk of us are getting sick of his shit. Remember though, I am telling you this because I trust you and this conversation needs to stay between us.  By the way, if you find anything interesting about either Logoped or Koba, bring it here. Keep in mind though, it doesn’t matter who’s in control, I’ll still be here.</text>
     </string>
     <string id="esc_bandit_trader_questions_13">
         <text>Tell me about Garbage.</text>
     </string>
     <string id="esc_bandit_trader_questions_131">
-        <text>Yeah, the guys weren’t happy about heading to garbage. Back then, nobody even thought about going there and avoided those radioactive heaps of junk like the piles of shit that they are. That was until a few stalkers decided to start digging through those junk hips and after that everyone flocked there. At first, massive chaos was occurring in Garbage but then when the bandits came, they put everyone in their place. I think The Zone should be like any other “Zone” with a clear hierarchy and firm rule, either instilled by cops or by bandits. Hedgehog here also pays to keep the peace around here and we get good cut out of everything. We need to eat too. Maybe one day I will visit Garbage myself, even though this place isn’t half bad, there’s some serious cash flowing through Garbage right now.</text>
+        <text>Yeah, the guys weren’t happy about heading to the Garbage. Back then, nobody even thought about going there and avoided those radioactive heaps of junk like the piles of shit that they are. That was until a few stalkers decided to start digging through those mounds of junk, and after that everyone flocked there. At first there was massive chaos there, but then the bandits came, and they put everyone in their place. I think the Zone should be like any other “Zone”, with a clear hierarchy and firm rule, either instilled by cops or by bandits. Hedgehog here also pays to keep the peace around here and we get a good cut out of everything. We need to eat too. Maybe one day I will visit the Garbage myself, even though this place isn’t half bad, there’s some serious cash flowing through Garbage right now.</text>
     </string>
     <string id="esc_bandit_trader_questions_14">
-        <text>What are the latest news in the Zone?</text>
+        <text>What's the latest news in the Zone?</text>
     </string>
     <string id="esc_bandit_trader_questions_141">
-        <text>I don’t like that expression, “latest news”. If I were you I would stop spreading them around before those news really become your last. Even though, the people here aren’t that bad but not long ago something really fucked up happened. A stalker came in here all scared shitless, pale and his hands were shaking. He and his friend were running away from a group of poltergeists and they ran into a flock of rodents and in that moment he got so scared he shot his friend a few times in the back. So then, the rodents, instead of running after him decided to just eat his dead bro. That guy after he drank his second bottle started crying his heart out. “Igor, you gave me your last medkit that one time, and I killed you like the last piece of shit on earth”. He was crying all day long and when the night came he hung himself on his belt.</text>
+        <text>I don’t like that expression, “latest news”. If I were you I would stop asking around, before one of those "latest news" become your last. Even though the people here aren’t that bad, not long ago something really fucked up happened. A stalker came in here, all scared shitless, pale and his hands were shaking. He and his friend were running away from a group of poltergeists and they ran into a flock of rodents. I think the wave of hairless rats were so terrible, that the guy got scared and shot his friend a few times in the back. So then, the rodents, instead of running after him decided to just eat his dead bro. The guy that came back, after he drank his second bottle started crying his heart out. “Igor, you gave me your last medkit that one time, and I killed you like the last piece of shit on earth”. He was crying all day long and when the night came he hung himself on his belt.</text>
     </string>
     <string id="esc_bandit_trader_questions_15">
         <text>Yeah, not that interesting really.</text>
@@ -556,7 +556,7 @@
         <text>Why is this place called Bar No92?</text>
     </string>
     <string id="esc_barman_chizhik_about_bar_1">
-        <text>It’s simply because in the periodic table of elements uranium, which is the mine fuel of nuclear reactors, is numbered 92. I think it was Sidorovich’s idea. Hey, you gotta admit that it’s pretty original. Me and Sidorovich should copyright this name and sell it to some Moscow big shot. He would then open a bar with the same name with some Zone decorations: a few artifacts, a stuffed rodent, some worn out chimes and a wisdom tooth of a pseudogaint. That place would bring a lot of clients and me and Sidorovich would get rich just by getting a small fraction of the business’s earnings.</text>
+        <text>It’s simply because in the periodic table of elements, No 92 is Uranium, which is usually used in nuclear reactors. I think it was Sidorovich’s idea... Hey, at least you gotta admit that it’s pretty original. Me and Sidorovich should copyright this name and sell it to some big shot from Moscow. He would then open a bar with the same name with some Zone decorations: a few artifacts, a stuffed rodent, some worn out chimes and a tooth from a pseudogiant. That place would bring a lot of clients and me along with Sidorovich would get rich just by getting a small fraction of the business’s earnings.</text>
     </string>
     <string id="esc_barman_chizhik_about_work_fin_0">
         <text>So Shaman, is this enough muscle for you?</text>
@@ -853,7 +853,8 @@
         <text>Easy, that’ll cost you 10000, with 2000 given to me in advance.</text>
     </string>
     <string id="esc_duplet_place_order_122">
-        <text>Îò ïðåäûäóùåãî çàêàçà òû îòêàçàëñÿ… Çíà÷èò, ýòîò îáîéäåòñÿ òåáå â 12000, ïðè÷åì 4000 ïîíàäîáÿòñÿ ñðàçó.</text>
+        <text>Îò ïðåäûäóùåãî çàêàçà òû îòêàçàëñÿ… Çíà÷èò, ýòîò îáîéäåòñÿ òåáå â 12000, ïðè÷åì 4000
+            ïîíàäîáÿòñÿ ñðàçó.</text>
     </string>
     <string id="esc_duplet_place_order_123">
         <text>Sorry, I can’t help you with that. I already sold everything.</text>
