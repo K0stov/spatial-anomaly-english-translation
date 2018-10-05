@@ -4216,7 +4216,7 @@ end
 function pb_moskit_talk_to_kill_zombied_pda()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_moskit_talk_to_kill_zombied_pda]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Looks like you dealt with them. Check the corpses; we need any ammo we can get.", "Mosquito:", nil, 10, "ui_inGame2_Moskit")
+	SendTip("%c[54,199,169,96]I think that’s the last of them. Check the bodies; we need everything we can get right now.", "Mosquito:", nil, 10, "ui_inGame2_Moskit")
 end
 
 function pb_murad_found_stalkers()

@@ -39,15 +39,15 @@ A list of all files with detailed progress can be found below.
 	- [st_dialogs_black_valley.xml](gamedata/configs/text/eng/st_dialogs_black_valley.xml)
 		- done
 	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
-		- done (needs revision)
+		- done
 	- [st_dialogs_prostranstvenniy_puzir.xml](gamedata/configs/text/eng/st_dialogs_prostranstvenniy_puzir.xml)
 		- needs reworking to be faithful to its original version
 	- [st_dialogs_shurup_mode.xml](gamedata/configs/text/eng/st_dialogs_shurup_mode.xml)
 		- done
 	- [st_dialogs_stalker66.xml](gamedata/configs/text/eng/st_dialogs_stalker66.xml)
-		- done (needs rewriting)
+		- done
 	- [st_dialogs_station_digger.xml](gamedata/configs/text/eng/st_dialogs_station_digger.xml)
-		- done (needs rewriting)
+		- done
 	- [st_dop_action.xml](gamedata/configs/text/eng/st_dop_action.xml)
 		- done
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)

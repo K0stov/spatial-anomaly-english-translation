@@ -1,157 +1,157 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="bar_markus_meet_good_end_0">
-        <text>Stay where you are, you bitch! You take another step and you’re dead…</text>
+        <text>Stay where you are, you monster! You take another step and you’re dead…</text>
     </string>
     <string id="bar_markus_meet_good_end_1">
-        <text>Markus, it’s me. What’s wrong?</text>
+        <text>Markus, it’s me… What’s the matter with you?</text>
     </string>
     <string id="bar_markus_meet_good_end_10">
-        <text>I was led out of the spatial anomaly by an old man. He called himself “Hermit.” When he brought me to this place, he said that I would be safe here, and he told me something about you and Stronglav. He said that you were the one who somehow created the creature after you were caught in a blowout in the Cordon, and since then, Stronglav has been around you the whole time. He was only able to manifest himself as a separate entity from you after you stepped into this spatial distortion.</text>
+        <text>I was led out of the spatial anomaly by an old man. He called himself “Hermit.” He brought me to this place and told me I’d be safe here. He also told me something about you and Stronglav: he said that you were the one who created the creature after you were caught in a blowout in the Cordon, and since then, Stronglav has been around you the whole time. He was only able to manifest himself as a separate entity from you after you stepped into this spatial distortion.</text>
     </string>
     <string id="bar_markus_meet_good_end_11">
-        <text>That’s hard to believe… but if it’s true, how do we destroy this thing?</text>
+        <text>That’s hard to believe… but if it’s true, how do we get rid of this thing?</text>
     </string>
     <string id="bar_markus_meet_good_end_12">
-        <text>I don’t know, but you need to warn the others. We need to be ready for Stronglav.</text>
+        <text>I don’t know. You need to warn the others. We need to be ready for Stronglav.</text>
     </string>
     <string id="bar_markus_meet_good_end_13">
         <text>All right. Let’s go warn the others.</text>
     </string>
     <string id="bar_markus_meet_good_end_2">
-        <text>Don’t try your luck, you filth! Hermit told me everything; do you think I’m gonna believe you’re the real Beast? I’m not stupid…</text>
+        <text>Don’t try anything, you filth! Hermit told me every single detail! Do you think I’m gonna believe you’re the real Beast? I’m no fool…</text>
     </string>
     <string id="bar_markus_meet_good_end_3">
-        <text>It’s really me, Markus: Beast. I don’t know what that old man told you, but it is me.</text>
+        <text>It’s me, Markus: Beast. I don’t know what that old man told you, but it really is me.</text>
     </string>
     <string id="bar_markus_meet_good_end_4">
-        <text>Yeah? And how are you going to explain your attempt on my life? When I followed you into this spatial bubble, you attacked me. How do you explain that?</text>
+        <text>Yeah? And how are you going to explain your attempt on my life? When I followed you into this space bubble, you attacked me. How do you explain that?</text>
     </string>
     <string id="bar_markus_meet_good_end_5">
-        <text>What? But it wasn’t me. It was probably Stronglav causing trouble. I’ve never tried to kill you.</text>
+        <text>What? But it wasn’t me. It was probably Stronglav playing one of his sick games. I’ve never tried to hurt you.</text>
     </string>
     <string id="bar_markus_meet_good_end_6">
-        <text>Maybe you’re telling the truth, but I’m not about to lower my gun. What are you doing here?</text>
+        <text>Maybe you’re telling the truth, but I’m not about to lower my gun. It’s for my own sake. What are you doing here?</text>
     </string>
     <string id="bar_markus_meet_good_end_7">
-        <text>I came here from the outpost. Those damn Monolith fanatics caught Savage and hauled him into the laboratory. I tried to save him, but he ended up dying to Stronglav. I blew up the lab entrance so that Stronglav would remain trapped inside, and I hope we never see that bastard again.</text>
+        <text>I came here from the Outpost. Those damn Monolith fanatics caught Savage and hauled him into the laboratory. I tried to save him, but he died. Stronglav took over his mind. I blew up the lab entrance so that Stronglav would remain trapped inside, and I hope we never see that bastard again.</text>
     </string>
     <string id="bar_markus_meet_good_end_8">
-        <text>Don’t you understand? Beast… That creature, Stronglav, who has a connection to you, won’t be easy to get rid of. I’m sure he followed you here. Hermit told me about your tie to Stronglav. Wherever you go, he’ll follow you.</text>
+        <text>Don’t you understand?… Beast, that creature—Stronglav—you won’t be able to get rid of him like that. He most certainly followed you here… Hermit told me about your link to Stronglav. Wherever you go, he’ll come after you…</text>
     </string>
     <string id="bar_markus_meet_good_end_9">
-        <text>What? Markus, what connection are you talking about?</text>
+        <text>What?! Markus, what link are you talking about?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_0">
-        <text>Greetings, Beast. Here we are again. Listen to me carefully… I don’t have much time: Stronglav has grown in power. He’s trying to control my mind, but I can resist him for the moment…</text>
+        <text>Greetings, Beast. We meet again. Listen to me carefully… I don’t have much time… Stronglav has grown in power. He’s trying to control my mind, but I can resist him for the moment…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_1">
-        <text>What are you talking about? Stronglav couldn’t have come to here. I blew up the passage that leads into lab X7 and trapped him.</text>
+        <text>What are you talking about? Stronglav couldn’t have gone in here. I blew up the passage behind me.</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_10">
-        <text>You’re just lucky, but luck won’t keep you around forever. Remember: as long as you’re alive, Stronglav will continue to exist.</text>
+        <text>You’re just lucky, but your luck won’t save you forever… Remember: as long as you’re alive, Stronglav will continue to exist…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_11">
-        <text>So the only way to destroy him is to kill myself?</text>
+        <text>So the only way to destroy him is to kill myself?…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_12">
-        <text>Yes. Unfortunately, that is the only way. Behold: your old pistol. I found it… somewhere… Ah, hell. It doesn’t make any difference now.</text>
+        <text>Yes. Unfortunately, that is the only way.\n \nHere… Take your old pistol. I found it in… Ah, what’s the difference?…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_13">
-        <text>Why didn’t you bring us out of the anomaly that one time? You helped me, but what about the guys: Sledgehammer and Marcus?</text>
+        <text>Why didn’t you bring us out of the anomaly that one time? You helped me, but what about the guys, Sledgehammer and Marcus?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_14">
-        <text>I couldn’t. You had to understand everything and go this way. There were no other options… Resisting him is getting more difficult… Promise me that when you meet face to face with Stronglav, you will make the right choice… Farewell, Beast…</text>
+        <text>I couldn’t. You had to understand everything and go this path… There were no other options…\n \nResisting him is getting more difficult… Promise me that when you meet Stronglav face to face, you will make the right choice… Farewell, Beast…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_15">
-        <text>I promise. Goodbye, old man.</text>
+        <text>I promise! Goodbye, old man…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_2">
-        <text>No, Beast. You’re making a mistake, and there’s much that you don’t know… Stronglav is here, and he’s after you, wherever you might go. Your connection to him is deeper than you might think.</text>
+        <text>No, Beast. You’re making a mistake, and there’s so much that you don’t know… Stronglav is here, and he’s after you, wherever you go. Your connection to him is deeper than you might have thought.</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_3">
-        <text>What? What connection are you talking about?</text>
+        <text>What? What connection are you talking about, old man?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_4">
-        <text>Do you remember the blowout at the Cordon? The one you were hit by? Didn’t you, after waking up, feel some part of you wasn’t with you anymore? Did you feel the emptiness inside?</text>
+        <text>Do you remember the emission in the Cordon? The one that struck you? After waking up, didn’t you feel some part of you was gone?… Did you feel the emptiness inside?…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_5">
-        <text>What are you saying, and how do you know about the emission?</text>
+        <text>What are you saying? How do you know about the emission?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_6">
-        <text>Don’t be fooled. I’ve been following you for a long time, and there is much I know about you… After the emission, part of your soul broke away from you, and that part has taken your main qualities with it… and since then, this splinter has always accompanied you; always watched you; but… he has been able manifest himself as a separate entity only after your appearance in the spatial bubble, the energy of which has made him very strong, but has not given him a physical shape…</text>
+        <text>Don’t be fooled. I’ve been following you for a long time. I know much about you… After the emission, part of your soul broke away from you, and that part took away your main qualities with it… and since then, this splinter has always accompanied you—always watched you—but… he was only able manifest himself as a separate entity after your appearance in the spatial bubble. The energy from the bubble has made him very strong, but has not given him a material body…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_7">
-        <text>So… I created this beast? How can I stop it?</text>
+        <text>So… I created this beast?… How can I stop it?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_8">
-        <text>Stop it?! I’m afraid you won’t like this method… Stronglav’s current goal is to attain a material body, but the only body that he can move into is yours… If he does this, then your mind will disappear forever; *you* will disappear forever…</text>
+        <text>Stop it?! I’m afraid you won’t like this method… Stronglav’s current goal is to attain a material body, but the only body that he can move into is yours… If he succeeds, your mind will disappear forever; *you* will disappear forever…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_9">
-        <text>He has already tried to conquer my conscience, but nothing has come of it.</text>
+        <text>He has already tried to conquer my conscience, but he failed.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_0">
-        <text>What are you doing here, mercenary? What was that blast you made?</text>
+        <text>What are you doing here, merc? Were you behind that explosion?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_1">
-        <text>What I’m doing here?! I went through the lab and tried to save a friend, which went to all hell. I had to block the way to your station in order to stop the creature that was chasing me.</text>
+        <text>What I’m doing here?! I fought through the laboratory and tried to save a friend, which went to all hell. I had to block the way to your station in order to stop the creature that was chasing me.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_10">
-        <text>Okay. I’ll show you where he is, but if you try to do anything stupid, you’ll have yourself to blame.</text>
+        <text>Okay. I’ll show you where he is, but if you try to do anything stupid, you’ll only have yourself to blame.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_11">
         <text>Don’t worry. I won’t do anything.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_2">
-        <text>What?… You came from the lab? Well, the fact that you blocked the path is a good thing… The outpost you came from has been closed for a long time; the mutants constantly barged into it and attacked us. We very rarely go there, and if we do, only to grab the equipment from the warehouse. And what kind of creature were you trying to stop?</text>
+        <text>What?… You came from the lab? Well, it’s a good thing you blocked the path to the lab… The outpost you came from has been closed for a long time; the mutants used to barge into it constantly and attack us. We very rarely go there, and if we do, it’s only to grab the equipment from the warehouse. And what kind of creature were you trying to stop?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_3">
-        <text>It’s hard to describe. I can only say that it’s been chasing me from the moment I ended up in the spatial anomaly, even after leaving it.</text>
+        <text>Hard to describe. I can only say that it’s been chasing me from the moment I ended up in the spatial anomaly, even after leaving it.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_4">
-        <text>It can’t be… Another one. A stalker came to us a few days ago and claimed that he got out of the anomaly as well. We didn’t believe his nonsense, because his condition was bad, but now, we’ve got the same situation… So how do you feel, merc?</text>
+        <text>It can’t be… Another poor soul. A stalker came to us a few days ago and claimed that he got out of the anomaly as well. We didn’t believe his nonsense, because his condition was bad, but now, we’ve got the same situation… So how do you feel, merc?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_5">
-        <text>I’ll live. Can you please tell me the stalker’s name?</text>
+        <text>I’ll live. Can you tell me the stalker’s name?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_6">
         <text>Well, I can’t say for sure, but he said that he goes by Markus. Why do you ask? Think you might know him?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_7">
-        <text>I know him. Where is he?</text>
+        <text>I do. Where is he?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_8">
-        <text>He’s still here, helping scientists in the lab.</text>
+        <text>He’s still here, helping the scientists in the lab.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_9">
         <text>Okay. Can you show me where it is?</text>
     </string>
     <string id="labx7_killer_tesak_dialog_0">
-        <text>Hah! We meet again, Beast! I like your new look. You’ll certainly go hand in hand with those fanatics.</text>
+        <text>Well, we meet again, Beast! I like your new style… You’ll certainly go hand in hand with those fanatics.</text>
     </string>
     <string id="labx7_killer_tesak_dialog_1">
-        <text>This isn’t the time or place for us to be talking, Hatchet. You better get the hell out of here, or else, I’ll be dealing with you personally!</text>
+        <text>I have no time nor desire to deal with you, Hatchet. This isn’t the place for a showdown. Get the hell out of here, or else it’s personal!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_2">
-        <text>Well, you’re not very polite. Time changes everyone, Beast, but you remain unchanged. From the very first day that Fish saved you, I knew you were a real asshole. You betrayed everyone! You even betrayed the one who taught you everything; the one who thought of you as a brother, and was willing to give you one last mag of ammo. Why are you snubbing those who would protect you?</text>
+        <text>Well, you’re certainly not very polite. Time changes everyone, Beast, but you remain unchanged. From the very first day, when you were rescued by Fish, I knew you were a real prick. You betrayed everyone! You even betrayed the man who taught you everything. The man who thought of you as a brother. The man who was willing to give you one last mag of ammo. The man who was willing to cut someone’s throat just for you alone!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_3">
-        <text>Shut the fuck up, Hatchet! You can’t judge me; you don’t know who I am! I’m going to warn you one last time: put the gun down and get out of here while you still can… and take your boys with you.</text>
+        <text>Shut the fuck up, Hatchet! You can’t judge me, and you don’t know who I am! I’m warning you one last time: put the gun down and get out of here while you still can. And take your boys with you!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_4">
-        <text>Not only are you king of the pricks, but you’ve got lot of fucking nerve. We’ll have to knock it out of your stupid head with some help from the eggheads!</text>
+        <text>Not only are you an absolute scoundrel, but you’ve got lot of fucking nerve. We’ll just have to blow your brains out of your stupid head!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_5">
-        <text>Just try, Hatchet. I gave you the chance to leave…</text>
+        <text>As you wish, Hatchet. I gave you the chance to leave…</text>
     </string>
     <string id="labx7_lutiy_prisoner_dialog_0">
-        <text>Damn it, Beast. You shouldn’t have followed me… This thing… It came out of nowhere; it’s driving the fanatics mad, and it’s trying to get into my head. It lured you here, Beast.</text>
+        <text>Aah, damn it… Beast. You shouldn’t have followed me… This thing… It came out of nowhere; it was controlling the fanatics, and now it’s trying to get into my head… It lured you here, Beast…</text>
     </string>
     <string id="labx7_lutiy_prisoner_dialog_1">
-        <text>Savage, what the fuck are you on about? That bastard’s still out there somewhere. Come on, buddy. We’ve got to get out of here.</text>
+        <text>Savage, what the fuck are you talking about? That bastard’s still around there somewhere. Come on, man. We’ve got to get out of here.</text>
     </string>
     <string id="labx7_lutiy_prisoner_dialog_2">
-        <text>No, no, no. It’s too late. Listen, Beast: Petrovich showed me how to reconfigure your PDA. You won’t be confused with the fanatics any longer. Aaah… It’s trying to get into my head again!… Stop it, Beast! Please… Don’t worry about me. I can keep on going.</text>
+        <text>No, no, no. It’s too late… Listen, Beast: Petrovich showed me how to reconfigure your PDA. You won’t be mixed up with the fanatics any longer. Aah… It’s trying to get into my head again!… Stop it, Beast! Please… Don’t worry about me. I can keep on going.</text>
     </string>
     <string id="labx7_lutiy_prisoner_dialog_3">
         <text>I’ll stop it, Savage. I promise!</text>
