@@ -229,7 +229,7 @@
 		<text>You cannot sleep! You are suffering from radiation exposure. Use drugs or contact a medic.</text>
 	</string>
 	<string id="sleep_warning_not_you">
-		<text>You cannot sleep in this bed! It needs to be rented from the Barman first.</text>
+		<text>You cannot sleep in this bed! You need to rent it from the barman first.</text>
 	</string>
 	<string id="sleep_zone_tip">
 		<text>Sleep ($$ACTION_USE$$)</text>

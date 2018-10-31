@@ -220,10 +220,10 @@
 		<text>A metal container used for storing loot, secured by a complex lock.</text>
 	</string>
 	<string id="trader_radio_pharos">
-		<text>Radio marker</text>
+		<text>Radio beacon</text>
 	</string>
 	<string id="trader_radio_pharos_descr">
-		<text>A device used for tracking radio signals in a large radius. In the Zone, this device is used to locate stalkers by the signal of their PDAs.</text>
+		<text>A device used for tracking radio signals within a large radius. In the Zone, this device can be used to locate stalkers by the signal of their PDAs.</text>
 	</string>
 	<string id="st_pb_rezerv_key_door">
 		<text>Armory key</text>
@@ -337,22 +337,22 @@
 		<text>Dog meat</text>
 	</string>
 	<string id="flask_empty_name">
-		<text>Empty flask</text>
+		<text>Empty canteen</text>
 	</string>
 	<string id="flask_good_full_name">
-		<text>Flask with water</text>
+		<text>Canteen with water</text>
 	</string>
 	<string id="flask_empty_descr">
-		<text>An empty flask. It can hold up to 0.7 liters.</text>
+		<text>An empty canteen. It can hold up to 0.7 liters.</text>
 	</string>
 	<string id="flask_good_1_3_descr">
-		<text>A flask containing water. Contains enough water for 1 use.</text>
+		<text>A canteen filled with water. Contains enough for 1 use.</text>
 	</string>
 	<string id="flask_good_2_3_descr">
-		<text>A flask containing water. Contains enough water for 2 uses.</text>
+		<text>A canteen filled with water. Contains enough for 2 uses.</text>
 	</string>
 	<string id="flask_good_full_descr">
-		<text>A full flask containing water. Contains enough water for 3 uses.</text>
+		<text>A canteen full of water. Contains enough for 3 uses.</text>
 	</string>
 	<string id="st_pb_quest_spez_razia">
 		<text>DC 12V 9800mAh battery</text>

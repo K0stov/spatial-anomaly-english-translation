@@ -7,7 +7,7 @@
 <text>Prologue: find out what happened</text>
 </string>
 <string id="pb_who_is_happening_part_1_text">
-<text>I don't remember anything. I've got a splitting headache… Where am I? What is this place? I need to find out more about the local stalkers.</text>
+<text>I don't remember anything. I've got a splitting headache... Where am I? What is this place? I need to find out more about the local stalkers.</text>
 </string>
 <string id="pb_who_is_happening_part_2_name">
 <text>Prologue: eliminate the zombies</text>
@@ -25,7 +25,7 @@
 <text>Prologue: read through the note</text>
 </string>
 <string id="pb_who_is_happening_part_4_text">
-<text>Maybe the note will have some useful information. I need to read through it.</text>
+<text>Maybe the note contains some useful information. I need to read through it.</text>
 </string>
 <string id="pb_who_is_happening_part_5_name">
 <text>Prologue: tell Savage about the stash</text>
@@ -216,7 +216,7 @@
 <text>Chain of events: return back to Markus</text>
 </string>
 <string id="pb_found_to_shell_part_4_text">
-<text>After I retrieved a keyring from Shell, I woke up in a basement… but what happened couldn't have been a dream, since the trinket is still with me. An old man has reassured me that this isn't a dream, so I better not tell anyone about what happened in the underground.</text>
+<text>After I retrieved a keyring from Shell, I woke up in a basement... but what happened couldn't have been a dream, since the trinket is still with me. An old man has reassured me that this isn't a dream, so I better not tell anyone about what happened in the underground.</text>
 </string>
 
 
@@ -637,10 +637,10 @@
 <text>I've managed to find a few coils of copper wire and a battery.</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_6_name">
-<text>Emergency contact: wait until the soldier repairs the transceiver</text>
+<text>Emergency contact: wait until the soldier repairs the transmitter</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_6_text">
-<text>I've managed to find a few coils of copper wire and a battery. Time to wait while the soldier fixes up the radio transceiver.</text>
+<text>I've managed to find a few coils of copper wire and a battery. Time to wait while the soldier fixes up the radio transmitter.</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_7_name">
 <text>Emergency contact: speak to the soldier</text>
@@ -655,7 +655,7 @@
 <text>Nightmare: search the underground</text>
 </string>
 <string id="pb_podzemka_search_part_1_text">
-<text>I met… something in one of the basements. It was a spirit. It said to drink a bottle of vodka that was on the table, and so I did. I have no idea where I've ended up. I should get my bearings and explore this place.</text>
+<text>I met... something in one of the basements. It was a spirit. It said to drink a bottle of vodka that was on the table, and so I did. I have no idea where I've ended up. I should get my bearings and explore this place.</text>
 </string>
 
 
@@ -745,7 +745,7 @@
 <text>Rare artifact: find a Wrenched artifact for Markus</text>
 </string>
 <string id="pb_find_af_vyvert_part_1_text">
-<text>Markus has asked me to find a Wrenched artifact for him. He has informed me that such an artifact can be found inside gravitational anomalies.</text>
+<text>Markus has asked me to find a Wrenched artifact for him, informing me that such an artifact can be found inside gravitational anomalies.</text>
 </string>
 <string id="pb_find_af_vyvert_part_2_name">
 <text>Rare artifact: give the Wrenched artifact to Markus</text>

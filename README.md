@@ -63,7 +63,7 @@ A list of all files with detailed progress can be found below.
 	- [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
 		- done
 	- [st_notepad.xml](gamedata/configs/text/eng/st_notepad.xml)
-		- done (needs rewriting)
+		- done
 	- [st_quests_black_valley.xml](gamedata/configs/text/eng/st_quests_black_valley.xml)
 		- done
 	- [st_quests_digger_stash.xml](gamedata/configs/text/eng/st_quests_digger_stash.xml)
@@ -74,14 +74,12 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [st_quests_perevalochnaya_baza.xml](gamedata/configs/text/eng/st_quests_perevalochnaya_baza.xml)
 		- done (needs rewriting)
-	- [st_sp_notepad.xml](gamedata/configs/text/eng/st_sp_notepad.xml)
-		- incomplete (unused?)
 	- [string_stalker66.xml](gamedata/configs/text/eng/string_stalker66.xml)
 		- done
 	- [string_table_enc_mutants.xml](gamedata/configs/text/eng/string_table_enc_mutants.xml)
 		- done
 	- [ui_gui_elements.xml](gamedata/configs/text/eng/ui_gui_elements.xml)
-		- done (needs revision + rewriting)
+		- done
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
 		- done
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)

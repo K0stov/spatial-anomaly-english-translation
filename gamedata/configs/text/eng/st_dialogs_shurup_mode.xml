@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="pb_dialog_shurup_skupka_0">
-        <text>Do you purchase damaged weapons?</text>
+        <text>Do you buy damaged weapons?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_1">
         <text>I do. What do you have to offer?</text>
@@ -73,7 +73,7 @@
         <text>Very well.</text>
     </string>
     <string id="pb_dialog_shurup_skupka_41">
-        <text>MR-443 Grach. 450 RU.</text>
+        <text>MP-443 Grach. 450 RU.</text>
     </string>
     <string id="pb_dialog_shurup_skupka_42">
         <text>Very well.</text>
@@ -217,7 +217,7 @@
         <text>How come you buy everything so cheaply?</text>
     </string>
     <string id="pb_dialog_shurup_skupka_90901">
-        <text>That’s my business. Don’t like it, don’t sell it. I have enough clients.</text>
+        <text>That’s my business. Don’t like it, don’t sell it. I have other clients.</text>
     </string>
     <string id="pb_dialog_shurup_skupka_910">
         <text>FT-200M. 2500 RU.</text>

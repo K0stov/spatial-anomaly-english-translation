@@ -43,10 +43,10 @@
 
 <!-- Quest: missing squad -->
 <string id="esc_operations_escape_part_1_name">
-<text>Missing squad: find out what's happened with Wolf's group</text>
+<text>Missing squad: find Wolf's group</text>
 </string>
 <string id="esc_operations_escape_part_1_text">
-<text>Wolf has requested me to find his group, which has broken radio contact. The group was located in bandit territory and has likely come under attack.</text>
+<text>Wolf hasn't heard from his group for a while and has requested me to find them. The group was located in bandit territory and has likely come under attack.</text>
 </string>
 <string id="esc_operations_escape_part_2_name">
 <text>Missing squad: help the stalker</text>
@@ -98,7 +98,7 @@
 <text>Special order: place the beacon on the bridge</text>
 </string>
 <string id="esc_klim_flash_found_part_1_text">
-<text>Sidorovich has tasked me with finding a stalker by the name of Klim and retrieving a flash drive from him. Klim is also not to be left alive. In order to find him, I need to place a beacon on the Cordon bridge.</text>
+<text>Sidorovich has tasked me with finding a stalker by the name of Klim and retrieving a flash drive from him. Klim is also to be killed. In order to find him, I need to place a beacon on the destroyed bridge.</text>
 </string>
 <string id="esc_klim_flash_found_part_2_name">
 <text>Special order: wait for signs</text>
@@ -110,7 +110,7 @@
 <text>Special order: find Klim</text>
 </string>
 <string id="esc_klim_flash_found_part_3_text">
-<text>Sidorovich has given me the coordinates of Klim's PDA. Time to track him down.</text>
+<text>Sidorovich has provided me with the coordinates of Klim's PDA. Time to track him down.</text>
 </string>
 <string id="esc_klim_flash_found_part_4_name">
 <text>Special order: speak to the hunter</text>
@@ -146,7 +146,7 @@
 <text>Special order: return to Sidorovich</text>
 </string>
 <string id="esc_klim_flash_found_part_9_text">
-<text>Time to return back to Sidorovich and fulfill his order.</text>
+<text>Time to return to Sidorovich and complete the order.</text>
 </string>
 <string id="esc_klim_flash_found_part_10_name">
 <text>Special order: give the flash drive to Sidorovich</text>
@@ -220,7 +220,7 @@
 <text>Syndicate order: retreive the black box from the warehouse</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_4_text">
-<text>Van's likely to be sleeping from the booze he got from Raccoon. Perfect time to steal the black box.</text>
+<text>Van's likely to be sleeping from the booze Raccoon gave him. Perfect time to grab the black box.</text>
 </string>
 <string id="esc_koordinator_syndikate_quest_part_5_name">
 <text>Syndicate order: deliver the black box to Coordinator</text>

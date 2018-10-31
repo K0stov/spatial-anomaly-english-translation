@@ -132,76 +132,76 @@
 </string>
 <!--------------------------->
 
-<!-- Сообщеньки :) -->
+<!-- Messages :) -->
 <string id="esc_send_tip_furgon_from_keys">
-    <text>Зверь, у меня есть хорошие новости для тебя. Будет время, зайди ко мне. Фургон.</text>
+    <text>Beast, I’ve got some good news for you. When you have the time, come see me. Van.</text>
 </string>
 <string id="esc_send_tip_sidorovich_from_act1">
-    <text>Зверь, я слышал, ты разжился ценной информацией. Зайди, я хорошо заплачу. Сидорович.</text>
+    <text>Merc, I’ve heard you’ve got some valuable information. Come pay me a visit. I’ll pay you well. Sidorovich.</text>
 </string>
 <string id="esc_send_tip_zohan_from_actors1">
-    <text>Зверь, тут разговор к тебе есть, загляни, как будет время. Зохан.</text>
+    <text>Beast, there’s something I need to tell you. Come by when you can. Zokhan.</text>
 </string>
 <!--------------------------->
 
-<!-- Достижения -->
+<!-- Achievements -->
 <string id="st_sp_achievement_terpenie_name">
-    <text>Терпение</text>
+    <text>Patience</text>
 </string>
 <string id="st_sp_achievement_terpenie_descr">
-    <text>В любых сложных и раздражающих ситуациях, вы ведёте себя спокойно, планируя до мелочей, каждый свой шаг. Там, где у других «мозги закипают», вы соблюдаете уверенность и хладнокровие, всегда добиваясь намеченных целей. Это черта настоящего лидера.</text>
+    <text>No matter how difficult or disturbing the situation may be, you always keep your cool. You plan every step ahead, no matter how small. In places where others panic, you display composure and confidence. This is the trait of a true leader.</text>
 </string>
 <string id="st_sp_achievement_terpenie_hint">
-    <text>Ваши отношения со сталкерами заметно улучшились.</text>
+    <text>Your reputation among the stalkers has significantly improved.</text>
 </string>
 
 <string id="st_achievement_terpenie_sms">
-    <text>Получено достижение «Терпение».</text>
+    <text>You have attained the Patience achievement.</text>
 </string>
 <!--------------------------->
 
-<!-- Предметы -->
+<!-- Items -->
 <string id="esc_old_notebook">
-    <text>Старая тетрадь</text>
+    <text>Old notebook</text>
 </string>
 <string id="esc_old_notebook_descr">
-    <text>Потрепанная и ничем не примечательная с виду тетрадка. Для прочтения, нажмите "Использовать".</text>
+    <text>A threadbare and seemingly unremarkable notebook. To read, click “Use.”</text>
 </string>
 
 <string id="esc_lisiy_notes">
-    <text>Записка от некого Черепа</text>
+    <text>Note from Skull</text>
 </string>
 <string id="esc_lisiy_notes_desc">
-    <text>Записка сталкера, оставленная на вырваном из тетради листе бумаги. Для прочтения, нажмите "Использовать".</text>
+    <text>A stalker’s note written on a sheet of paper torn out of a notebook. To read, click “Use.”</text>
 </string>
 
 <string id="esc_lisiy_keys_name">
-    <text>Металлический огнеупорный кейс</text>
+    <text>Metallic fireproof case</text>
 </string>
 <string id="esc_lisiy_keys_desc">
-    <text>Несмотря на большой размер, кейс довольно-таки лёгкий. Интересно, что в нём может быть?</text>
+    <text>This case is relatively light despite its large size. I wonder what might be inside?</text>
 </string>
 
 <string id="esc_flash_for_keys_name">
-    <text>USB-флеш-накопитель</text>
+    <text>USB flash drive</text>
 </string>
 <string id="esc_flash_for_keys_desc">
-    <text>Запоминающее устройство, использующее в качестве носителя флеш-память, и подключаемое к компьютеру или иному считывающему устройству по USB.</text>
+    <text>A device used for storing computer data. Can be plugged in to a computer or any other device via USB port.</text>
 </string>
 
 <string id="esc_papka_for_keys_name">
-    <text>Папка с документами</text>
+    <text>Document folder</text>
 </string>
 <string id="esc_papka_for_keys_desc">
-    <text>Судя по всему, около месяца назад, в этих документах вёлся учёт, о поставке крупной партии оружия на базу бандитов. Поставщик не указан.</text>
+    <text>These documents most likely contained reports of a massive arms shipment sent to the bandit base that took place about a month ago. The source of these weapons is unknown.</text>
 </string>
 <!--------------------------->
 
-<!-- Имена -->
+<!-- Names -->
 <string id="esc_lisiy_npc_name">
-    <text>Череп</text>
+    <text>Skull</text>
 </string>
 <string id="esc_bobik_npc_name">
-    <text>Бобби</text>
+    <text>Bobby</text>
 </string>
 </string_table>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="bar_markus_meet_good_end_0">
-        <text>Stay where you are, you monster! You take another step and you’re dead…</text>
+        <text>Stay where you are, you monster! Take another step and you’re dead…</text>
     </string>
     <string id="bar_markus_meet_good_end_1">
         <text>Markus, it’s me… What’s the matter with you?</text>
@@ -43,7 +43,7 @@
         <text>What?! Markus, what link are you talking about?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_0">
-        <text>Greetings, Beast. We meet again. Listen to me carefully… I don’t have much time… Stronglav has grown in power. He’s trying to control my mind, but I can resist him for the moment…</text>
+        <text>Greetings, Beast. We meet again. Listen to me carefully… I don’t have much time… Stronglav has grown in power. He’s trying to control my mind, but I can still resist him at the moment…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_1">
         <text>What are you talking about? Stronglav couldn’t have gone in here. I blew up the passage behind me.</text>
@@ -61,25 +61,25 @@
         <text>Why didn’t you bring us out of the anomaly that one time? You helped me, but what about the guys, Sledgehammer and Marcus?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_14">
-        <text>I couldn’t. You had to understand everything and go this path… There were no other options…\n \nResisting him is getting more difficult… Promise me that when you meet Stronglav face to face, you will make the right choice… Farewell, Beast…</text>
+        <text>I couldn’t. You had to understand everything and go down this path… There were no other options…\n \nResisting him is getting more difficult… Promise me that when you meet Stronglav face to face, you will make the right choice… Farewell, Beast…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_15">
         <text>I promise! Goodbye, old man…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_2">
-        <text>No, Beast. You’re making a mistake, and there’s so much that you don’t know… Stronglav is here, and he’s after you, wherever you go. Your connection to him is deeper than you might have thought.</text>
+        <text>No, Beast. You’re making a mistake, and there’s so much that you don’t know… Stronglav is here, and he’s following you wherever you go. Your connection to him is deeper than you might have thought.</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_3">
         <text>What? What connection are you talking about, old man?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_4">
-        <text>Do you remember the emission in the Cordon? The one that struck you? After waking up, didn’t you feel some part of you was gone?… Did you feel the emptiness inside?…</text>
+        <text>Do you remember the emission in the Cordon? The one that struck you? After waking up, didn’t you feel like some part of you was gone?… Did you feel the emptiness inside?…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_5">
         <text>What are you saying? How do you know about the emission?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_6">
-        <text>Don’t be fooled. I’ve been following you for a long time. I know much about you… After the emission, part of your soul broke away from you, and that part took away your main qualities with it… and since then, this splinter has always accompanied you—always watched you—but… he was only able manifest himself as a separate entity after your appearance in the spatial bubble. The energy from the bubble has made him very strong, but has not given him a material body…</text>
+        <text>Don’t be fooled. I’ve been following you for a long time. I know much about you… After the emission, part of your soul broke away from you, and that part took away your main qualities with it… and since then, this splinter has always accompanied you—always watched you—but… he was only able manifest himself as a separate entity after your visit in the spatial bubble. The energy from the bubble has made him very strong, but has not given him a material body…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_7">
         <text>So… I created this beast?… How can I stop it?</text>
@@ -94,7 +94,7 @@
         <text>What are you doing here, merc? Were you behind that explosion?</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_1">
-        <text>What I’m doing here?! I fought through the laboratory and tried to save a friend, which went to all hell. I had to block the way to your station in order to stop the creature that was chasing me.</text>
+        <text>What I’m doing here?! I fought through the laboratory and tried to save a friend, which all went to hell. I had to block the way to your station in order to stop the creature that was chasing me.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_10">
         <text>Okay. I’ll show you where he is, but if you try to do anything stupid, you’ll only have yourself to blame.</text>
@@ -124,7 +124,7 @@
         <text>He’s still here, helping the scientists in the lab.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_9">
-        <text>Okay. Can you show me where it is?</text>
+        <text>Okay. Can you show me where the lab is?</text>
     </string>
     <string id="labx7_killer_tesak_dialog_0">
         <text>Well, we meet again, Beast! I like your new style… You’ll certainly go hand in hand with those fanatics.</text>
@@ -139,7 +139,7 @@
         <text>Shut the fuck up, Hatchet! You can’t judge me, and you don’t know who I am! I’m warning you one last time: put the gun down and get out of here while you still can. And take your boys with you!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_4">
-        <text>Not only are you an absolute scoundrel, but you’ve got lot of fucking nerve. We’ll just have to blow your brains out of your stupid head!</text>
+        <text>Not only are you an absolute scoundrel, but you’ve also got a lot of fucking nerve. We’ll just have to blow your brains out of your stupid head!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_5">
         <text>As you wish, Hatchet. I gave you the chance to leave…</text>

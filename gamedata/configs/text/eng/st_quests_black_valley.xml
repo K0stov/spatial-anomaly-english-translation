@@ -6,13 +6,13 @@
 <text>Captive: find out what happened</text>
 </string>
 <string id="blck_val_actor_prisoner_part_1_text">
-<text>We've escaped from the anomaly, but I don't know what happened afterwards. Why am I in captivity? I need to figure out what happened.</text>
+<text>We've escaped the anomaly, but I don't know what happened afterwards. Why am I in captivity? I need to figure out what happened.</text>
 </string>
 <string id="blck_val_actor_prisoner_part_2_name">
 <text>Captive: speak to the captives</text>
 </string>
 <string id="blck_val_actor_prisoner_part_2_text">
-<text>Savage didn't explain anything, but he's told me he'll help. It might be worth exchanging a few words with one of the other captives in the cell. Maybe he knows what I'm doing here.</text>
+<text>Savage didn't explain anything, but he's told me he'll help. It might be worth having a word with one of the other captives in the cell. Maybe they know what I'm doing here.</text>
 </string>
 <string id="blck_val_actor_prisoner_part_3_name">
 <text>Captive: go to sleep</text>
@@ -36,7 +36,7 @@
 <text>Captive: have a word with Saurel</text>
 </string>
 <string id="blck_val_actor_prisoner_part_6_text">
-<text>The head of this base is Saurel. The guard has told me that Saurel wants to speak with me.</text>
+<text>Saurel is the head of this base. The guard has told me that Saurel wants to speak with me.</text>
 </string>
 
 <!-- Quest: two friends -->
@@ -86,7 +86,7 @@
 <text>Two friends: speak to Saurel</text>
 </string>
 <string id="blck_val_search_killer_part_8_text">
-<text>I found a knife at the scene of the murder. I should go to Saurel and tell him about the recent events.</text>
+<text>I found a knife at the murder scene. I should go to Saurel and tell him about the recent events.</text>
 </string>
 <string id="blck_val_search_killer_part_9_name">
 <text>Two friends: speak to Rasputin about the knife</text>
@@ -104,7 +104,7 @@
 <text>Two friends: kill Chemist</text>
 </string>
 <string id="blck_val_search_killer_part_11_text">
-<text>Turns out Chemist was the killer. He killed both Lame and Lefty, and now it's time for me to avenge them.</text>
+<text>It turns out that Chemist was the killer. He killed both Lame and Lefty, and now it's time for me to avenge them.</text>
 </string>
 <string id="blck_val_search_killer_part_12_name">
 <text>Two friends: search Chemist's corpse</text>
@@ -148,7 +148,7 @@
 <text>Active search: speak to Marchuk</text>
 </string>
 <string id="blck_val_night_shooter_part_4_text">
-<text>We've taken out the bandits. I might want to talk to the leader of the detachment who helped me repel the attack.</text>
+<text>We've taken out the bandits. I may want to speak to the detachment leader who helped me repel the attack.</text>
 </string>
 <string id="blck_val_night_shooter_part_5_name">
 <text>Active search: check the bandits' closed channel</text>
@@ -160,7 +160,7 @@
 <text>Active search: return to the sniper position</text>
 </string>
 <string id="blck_val_night_shooter_part_6_text">
-<text>The bandits have sent yet another group, this time to the Panskiy farm. I need to return to the sniper position and calm them down.</text>
+<text>The bandits have sent yet another group, this time to the Panskiy farm. I need to return to the sniper position and put them down.</text>
 </string>
 <string id="blck_val_night_shooter_part_7_name">
 <text>Active search: repel the second bandit attack</text>
@@ -172,7 +172,7 @@
 <text>Active search: return to Saurel</text>
 </string>
 <string id="blck_val_night_shooter_part_8_text">
-<text>We've taken out the bandit reinforcements and resisted the bandit attacks. I should return to Saurel and inform him about our success… and also get my reward.</text>
+<text>We've taken out the bandit reinforcements and resisted the bandit attacks. I should return to Saurel and inform him about our success... and also get my reward.</text>
 </string>
 
 <!-- Quest: rest in peace -->
@@ -186,7 +186,7 @@
 <text>Rest in peace: return to Skew</text>
 </string>
 <string id="blck_val_kill_to_zombied_part_2_text">
-<text>The zombies are dead… for good. I can now return to Skew.</text>
+<text>The zombies are dead... for good. I can now return to Skew.</text>
 </string>
 
 <!-- Quest: Meet up with Miklukha -->
@@ -472,7 +472,7 @@
 <text>Interesting proposal: speak to Rasputin</text>
 </string>
 <string id="blck_val_shaman_talk_line_part_1_text">
-<text>Rasputin has messaged me and says that he has something to talk about. I wonder what he needs this time?…</text>
+<text>Rasputin has messaged me and says that he has something to talk about. I wonder what he needs this time?...</text>
 </string>
 <string id="blck_val_shaman_talk_line_part_2_name">
 <text>Interesting proposal: speak to Hunter</text>

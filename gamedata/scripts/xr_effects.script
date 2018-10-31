@@ -4210,7 +4210,7 @@ end
 function pb_nps_moskit_quest_sms_2()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_nps_moskit_quest_sms_2]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Alright, there you are. Let’s keep moving. And try not to wander off!", "Mosquito:", nil, 10, "ui_inGame2_Moskit")
+	SendTip("%c[54,199,169,96]All right, there you are. Let’s keep moving. And try not to wander off!", "Mosquito:", nil, 10, "ui_inGame2_Moskit")
 end
 
 function pb_moskit_talk_to_kill_zombied_pda()
@@ -4234,13 +4234,13 @@ end
 function pb_nps_murad_quest_sms_2()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_nps_murad_quest_sms_2]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Let’s keep moving. Just don’t stray off!", "Murad:", nil, 10, "ui_inGame2_Murad")
+	SendTip("%c[54,199,169,96]Let’s keep moving. Just don’t stray too far!", "Murad:", nil, 10, "ui_inGame2_Murad")
 end
 
 function pb_shurup_crash_habar_sms()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_shurup_crash_habar_sms]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Beast, I’ve opened Scavenger’s container stash. There appears to be a lot of things inside, some of which I could share with you. Come see me. I’m waiting.", "Screw:", nil, 10, "ui_inGame2_Shurup")
+	SendTip("%c[255,220,20,60]Beast, I’ve opened Scavenger’s container stash. Turns out there’s a lot of stuff inside, some of which I could share with you. Come over here. I’m waiting.", "Screw:", nil, 10, "ui_inGame2_Shurup")
 end
 
 function pb_rezak_send_mes_actor_1()
@@ -4252,7 +4252,7 @@ end
 function pb_rezak_send_mes_actor_done()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_rezak_send_mes_actor_done]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Good work, mercenary. Return with Mosquito to the base. Don’t keep me waiting.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
+	SendTip("%c[255,220,20,60]Good work, merc. Return with Mosquito to the base. Don’t keep me waiting.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
 end
 
 function pb_rezak_send_mes_actor_false()
@@ -4264,7 +4264,7 @@ end
 function pb_rezak_send_mes_lutiy()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_rezak_send_mes_lutiy]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Savage, zombies have appeared on the hill! If they aren’t stopped, they’ll be at the barn any second.", "Cutter:", nil, 7, "ui_inGame2_Rezak")
+	SendTip("%c[255,220,20,60]Savage, zombies are on the hill! If we don’t stop them, they’ll be at the barn any second.", "Cutter:", nil, 7, "ui_inGame2_Rezak")
 end
 
 function pb_markus_send_quest_sms()
@@ -4306,7 +4306,7 @@ end
 function pb_snake_clean_water_send_mes()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_snake_clean_water_send_mes]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Beast, come see me with your flask in hand. I’ve purified the water.", "Snake:", nil, 10, "ui_inGame2_Snake")
+	SendTip("%c[255,220,20,60]Beast, come see me with your canteen in hand. I’ve purified the water.", "Snake:", nil, 10, "ui_inGame2_Snake")
 end
 
 function pb_dubolom_quest_sends_sms_1()
@@ -4316,7 +4316,7 @@ end
 function pb_lesnik_quest_sends_sms_1()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_lesnik_quest_sends_sms_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Merc, where are you going? Waiting for you is tiresome. Come to me.", "Forester:", nil, 10, "ui_inGame2_Lesnik")
+	SendTip("%c[255,220,20,60]Merc, where are you going? I’ve had enough waiting for you. Come back here.", "Forester:", nil, 10, "ui_inGame2_Lesnik")
 end
 
 function pb_razrab_sends_sms()
@@ -4328,7 +4328,7 @@ function pb_npc_lesnik_quest_out()
 end
 
 function pb_npc_lesnik_quest_in()
-	SendTip("%c[54,199,169,96]Let’s keep moving. Just don’t stray off!", "Forester:", nil, 10, "ui_inGame2_Lesnik")
+	SendTip("%c[54,199,169,96]Let’s keep moving. Just don’t stray too far!", "Forester:", nil, 10, "ui_inGame2_Lesnik")
 end
 
 function esc_dubolom_quest_sends_sms_1()
@@ -4342,7 +4342,7 @@ end
 function esc_wolf_send_new_quest_sms()
      local snd = sound_object([[characters_voice\scenario\escape\esc_wolf_send_new_quest_sms]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Mercenaries, I understand that you came to see Sidorovich, but he can’t take you right now. Come see me. I’d like to have a few words with your leader.", "Wolf:", nil, 15, "ui_inGame2_Wolf")
+	SendTip("%c[255,220,20,60]Mercenaries, I take it you’ve come to see Sidorovich, but he can’t take you right now. Come see me. I’d like to have a few words with your leader.", "Wolf:", nil, 15, "ui_inGame2_Wolf")
 end
 
 function esc_trader_send_new_quest_sms_1()
@@ -4366,7 +4366,7 @@ end
 function esc_send_tip_sidorovich_trade_generic()
      local snd = sound_object([[characters_voice\scenario\trader\quests\esc_send_tip_sidorovich_trade_generic]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]I’ve replenished my stocks. Drop by and see me.", "Sidorovich:", nil, 5, "ui_inGame2_Sidor")
+	SendTip("%c[255,220,20,60]I’ve replenished my stock. Drop by.", "Sidorovich:", nil, 5, "ui_inGame2_Sidor")
 end
 
 function esc_send_tip_sidorovich_buy_art()
@@ -4462,7 +4462,7 @@ end
 function esc_send_tip_sidorovich_from_act()
      local snd = sound_object([[characters_voice\scenario\trader\quests\esc_send_tip_sidorovich_from_act]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Merc, I’ve heard you’ve got some valuable information. Come see me, and I’ll pay well.", "Sidorovich:", nil, 10, "ui_inGame2_Sidor")
+	SendTip("%c[255,220,20,60]Merc, I’ve heard you’ve got some valuable information. Come pay me a visit. I’ll pay you well.", "Sidorovich:", nil, 10, "ui_inGame2_Sidor")
 end
 
 function esc_send_tip_zohan_from_actors()
@@ -4480,7 +4480,7 @@ end
 function esc_send_tip_zohan_quest()
      local snd = sound_object([[characters_voice\scenario\escape\esc_send_tip_zohan_quest]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Beast, I’ve got something to tell you. Come see me.", "Zokhan:", nil, 10, "ui_inGame2_Zoxan")
+	SendTip("%c[255,220,20,60]Beast, I need to talk to you about something. Come see me.", "Zokhan:", nil, 10, "ui_inGame2_Zoxan")
 end
 
 function esc_send_tip_sidorovich_quest()
