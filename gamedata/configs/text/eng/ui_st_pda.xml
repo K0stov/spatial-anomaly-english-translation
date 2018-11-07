@@ -332,13 +332,13 @@
 		<text>Control room</text>
 	</string>
 	<string id="st_pb_a5_name">
-		<text>Reserves</text>
+		<text>Stockpile</text>
 	</string>
 	<string id="st_pb_a6_name">
 		<text>Food warehouse</text>
 	</string>
 	<string id="st_pb_a7_name">
-		<text>Abandoned refuge</text>
+		<text>Abandoned shelter</text>
 	</string>
 	<string id="digger_stash">
 		<text>Nora</text>

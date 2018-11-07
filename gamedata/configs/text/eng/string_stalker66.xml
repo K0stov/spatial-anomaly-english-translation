@@ -33,7 +33,7 @@
     <text>Zokhan's instinct: speak to Zokhan</text>
 </string>
 <string id="esc_zohan_flair_quest_4_text">
-    <text>I underestimated the severity of the situation. Skull turned out wiser than I thought. He took a sum of money from me for some case and vanished into the dark. I need to warn Zokhan about what happened.</text>
+    <text>I underestimated the gravity of the situation. Skull turned out wiser than I thought. He took a sum of money from me for some case and vanished into the dark. I need to warn Zokhan about what happened.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_5_name">
@@ -51,17 +51,17 @@
 </string>
 
 <string id="esc_zohan_flair_quest_7_name">
-    <text>Zokhan's instinct: collect Zokhan's debts</text>
+    <text>Zokhan's instinct: collect Zokhan's debt</text>
 </string>
 <string id="esc_zohan_flair_quest_7_text">
-    <text>I need to retrieve the money from Zokhan.</text>
+    <text>I need to collect Zokhan's money.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_8_name">
     <text>Zokhan's instinct: examine the contents of the notebook</text>
 </string>
 <string id="esc_zohan_flair_quest_8_text">
-    <text>I found the notebook that Zokhan was talking about. I should read it to find out what else to do.</text>
+    <text>I found the notebook that Zokhan was talking about. I should read it to find out what to do next.</text>
 </string>
 <string id="esc_zohan_flair_quest_9_name">
     <text>Zokhan's instinct: read the note</text>
@@ -73,20 +73,20 @@
     <text>Zokhan's instinct: return to Zokhan</text>
 </string>
 <string id="esc_zohan_flair_quest_10_text">
-    <text>I underestimated severity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me; likely payment for a case that was in his possession. Good thing it didn't work out for him. I need to discuss this situation with Zokhan.</text>
+    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me; likely payment for a case that was in his possession. Good thing it didn't work out for him. I need to discuss this situation with Zokhan.</text>
 </string>
 <string id="esc_zohan_flair_quest_11_name">
     <text>Zokhan's instinct: search the dead bandit</text>
 </string>
 <string id="esc_zohan_flair_quest_11_text">
-    <text>I underestimated the severity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me, but fortunately, it didn't work out for him. I need to check his body.</text>
+    <text>I underestimated the gravity of the situation. The unknown stalker who organized the meeting turned out to be a bandit. He decided to take a sum of money from me, but, fortunately, it didn't work out for him. I need to check his body.</text>
 </string>
 
 <string id="esc_keys_lisiy_quest_0_name">
     <text>Strange case: wait until the case is opened</text>
 </string>
 <string id="esc_keys_lisiy_quest_0_text">
-    <text>Van has assured me that he'll try to open the case, although he'll need some time to do it.</text>
+    <text>Van has assured me that he'll try to open the case, although he needs some time to do it.</text>
 </string>
 
 <string id="esc_keys_lisiy_quest_1_name">
@@ -100,14 +100,14 @@
     <text>Witch circle: jump into the anomaly</text>
 </string>
 <string id="esc_witch_bounce_quest_0_text">
-    <text>If Shilov's theory is true, the anomaly should teleport me into a predetermined area.</text>
+    <text>If Shilov's theory is true, the anomaly should teleport me into a specific area.</text>
 </string>
 
 <string id="esc_witch_bounce_quest_1_name">
     <text>Witch circle: tell Shilov about recent events</text>
 </string>
 <string id="esc_witch_bounce_quest_1_text">
-    <text>Seems I'm alive, though I feel a strange sensation. I should go see Shilov.</text>
+    <text>It seems I'm alive, though I feel a strange sensation. I should go see Shilov.</text>
 </string>
 
 <string id="esc_chain_of_events_quest_0_name">

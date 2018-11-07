@@ -114,7 +114,7 @@
 	
 	
 <specific_character id="esc_army_yaroshuk" team_default = "1">
-	    <name>Lieutenant Yaroshchuk</name>
+	    <name>Lt Yaroshchuk</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>

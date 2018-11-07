@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_start_game">
-		<text>I could really use some painkillers; my head is killing me. That dream didn’t help either…</text>
+		<text>I wish I had some painkillers for this headache. That dream didn’t help, either…</text>
 	</string>
 	<string id="actor_kill_controler">
-		<text>Shit. This the last thing I need right now…</text>
+		<text>Shit! Another “gift” from the Zone! Just what I needed!</text>
 	</string>
 	<string id="actor_about_teleport">
 		<text>What if I try to use one of the teleporters? Maybe one of them will lead me to Scavenger?</text>
@@ -16,7 +16,7 @@
 		<text>What was that? Was that thing real or was I hallucinating? I think I’m losing my mind…</text>
 	</string>
 	<string id="actor_about_signal">
-		<text>An SOS. Strange. Do we have another “guest”? I should check it out. </text>
+		<text>An SOS. Strange. Do we have another “guest”? I should check it out.</text>
 	</string>
 	<string id="actor_search_markus">
 		<text>Damn it, Marcus. Where have you gone off to?</text>

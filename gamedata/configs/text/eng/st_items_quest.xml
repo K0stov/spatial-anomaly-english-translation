@@ -73,10 +73,10 @@
 		<text>A box of transistors - semiconductors that generate, transform and amplify electrical oscillation. Transistors are the dream of every radio technician in the Zone.</text>
 	</string>
 	<string id="jup_b200_tech_materials_wire">
-		<text>A roll of copper wire</text>
+		<text>Roll of copper wire</text>
 	</string>
 	<string id="jup_b200_tech_materials_wire_descr">
-		<text>A roll of copper wire is an excellent conductor and simultaneously a source of a base metal. Due to the latter, such wire is very rare in the Zone. All the reserves of this wire were found, melted and delivered to recycling centers back in the 90s.</text>
+		<text>A roll of copper wire. An excellent conductor and source of a base metal. Due to the latter, such wiring is very rare in the Zone. All the reserves of this wire were found, melted, and delivered to recycling centers back in the 90s.</text>
 	</string>
 	<string id="jup_b209_monster_scanner">
 		<text>Mutant detection scanner</text>
@@ -100,7 +100,7 @@
 		<text>Black Box</text>
 	</string>
 	<string id="jup_b9_blackbox_descr">
-		<text>The black box which survived the crash. It should contain details of the flight's last moments, albeit in encrypted format.</text>
+		<text>A black box which has survived a crash. It should contain details of the flight’s last moments, albeit in encrypted format.</text>
 	</string>
 	<string id="pri_a25_explosive_charge_descr">
 		<text>Military grade plastic explosives with a 10 second timer.</text>

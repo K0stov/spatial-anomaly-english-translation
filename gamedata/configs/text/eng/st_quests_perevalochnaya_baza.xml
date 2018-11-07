@@ -22,13 +22,13 @@
 <text>I need to check out what's in the backpacks of the zombies. Something useful might come out of it.</text>
 </string>
 <string id="pb_who_is_happening_part_4_name">
-<text>Prologue: read through the note</text>
+<text>Prologue: read the note</text>
 </string>
 <string id="pb_who_is_happening_part_4_text">
-<text>Maybe the note contains some useful information. I need to read through it.</text>
+<text>Perhaps the note contains some useful information. I need to read through it.</text>
 </string>
 <string id="pb_who_is_happening_part_5_name">
-<text>Prologue: tell Savage about the stash</text>
+<text>Prologue: inform Savage of the stash</text>
 </string>
 <string id="pb_who_is_happening_part_5_text">
 <text>I found some quite useful info in the note. I need to share it with Savage.</text>
@@ -46,13 +46,13 @@
 <text>Spatial anomaly: find the decoder</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_2_text">
-<text>I need to find the decoder that was brought up in Scavenger's PDA.</text>
+<text>I need to find the decoder that was mentioned in Scavenger's PDA.</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_3_name">
 <text>Spatial anomaly: show the decoder to Savage</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_3_text">
-<text>I need to speak with Savage about the detector I've found.</text>
+<text>I need to speak to Savage about the decoder I've found.</text>
 </string>
 <string id="pb_find_exit_to_anomaly_part_4_name">
 <text>Spatial anomaly: leave the anomaly</text>
@@ -76,37 +76,37 @@
 <text>Wake-up call: identify the source of the noise</text>
 </string>
 <string id="pb_helicopter_crash_search_part_1_text">
-<text>I was waken up by a loud noise from outside. It seems that it's coming from a helicopter. I need to investigate it.</text>
+<text>I've been waken up by a loud noise from the outside. It seems that it's coming from a helicopter. I need to investigate it.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_2_name">
-<text>Wake-up call: examine the crash site of the helicopter</text>
+<text>Wake-up call: examine the helicopter crash site</text>
 </string>
 <string id="pb_helicopter_crash_search_part_2_text">
-<text>The helicopter crashed due to aerial anomalies. I need to make my way to the crash site and examine the area.</text>
+<text>The helicopter's been grounded by an aerial anomaly. I need to make my way to the crash site and examine the area.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_3_name">
 <text>Wake-up call: save the soldier</text>
 </string>
 <string id="pb_helicopter_crash_search_part_3_text">
-<text>A soldier is present at the crash site, but he's dying. He needs help.</text>
+<text>There's a soldier at the crash site, but he's dying. He needs help.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_4_name">
-<text>Wake-up call: lead the soldier to the base</text>
+<text>Wake-up call: escort the soldier to the base</text>
 </string>
 <string id="pb_helicopter_crash_search_part_4_text">
-<text>I've partially helped out the soldier, who can now walk. He should be escorted to base.</text>
+<text>I've helped out the soldier, who is now able to walk. I should lead him to the base.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_5_name">
 <text>Wake-up call: speak to the soldier</text>
 </string>
 <string id="pb_helicopter_crash_search_part_5_text">
-<text>The soldier made it to the base. Now, I can talk to him.</text>
+<text>The soldier has made it to the base. Now I can talk to him.</text>
 </string>
 <string id="pb_helicopter_crash_search_part_6_name">
 <text>Wake-up call: speak to Savage</text>
 </string>
 <string id="pb_helicopter_crash_search_part_6_text">
-<text>I spoke to the soldier. Now, I must speak to Savage.</text>
+<text>I've spoken to the soldier. Now I should see Savage.</text>
 </string>
 
 
@@ -121,19 +121,19 @@
 <text>Search: search Scavenger's corpse</text>
 </string>
 <string id="pb_found_to_padalshik_part_2_text">
-<text>The stalker that I found is dead. I need to check out if his corpse carries anything of use.</text>
+<text>The stalker that I found is dead. I need to check out if his corpse is carrying anything of use.</text>
 </string>
 <string id="pb_found_to_padalshik_part_3_name">
 <text>Search: search for information in the PDA</text>
 </string>
 <string id="pb_found_to_padalshik_part_3_text">
-<text>Scavenger's backpack had a PDA. I need to check out his last notes.</text>
+<text>Scavenger's backpack contained a PDA. I need to check out his last notes.</text>
 </string>
 <string id="pb_found_to_padalshik_part_4_name">
 <text>Search: discuss your findings with Savage</text>
 </string>
 <string id="pb_found_to_padalshik_part_4_text">
-<text>Scavenger managed a lot of things before his death. This needs to be discussed with Savage.</text>
+<text>Scavenger managed to accomplish a lot of things before his death. This needs to be discussed with Savage.</text>
 </string>
 
 
@@ -157,7 +157,7 @@
 <text>Night hunt: speak to Knucklehead</text>
 </string>
 <string id="pb_night_hunting_part_2_text">
-<text>Night has come. Now, I can speak to Knucklehead.</text>
+<text>Night has come. Now I can speak to Knucklehead.</text>
 </string>
 <string id="pb_night_hunting_part_3_name">
 <text>Night hunt: follow Knucklehead</text>
@@ -172,16 +172,16 @@
 <text>I need to kill the chimera with Knucklehead's help.</text>
 </string>
 <string id="pb_night_hunting_part_5_name">
-<text>Night hunt: follow Knucklehead back to the base</text>
+<text>Night hunt: follow Knucklehead back to base</text>
 </string>
 <string id="pb_night_hunting_part_5_text">
-<text>The chimera is dead. Now, we can return back to base.</text>
+<text>The chimera is dead. We can now return back to base.</text>
 </string>
 <string id="pb_night_hunting_part_6_name">
 <text>Night hunt: speak to Knucklehead</text>
 </string>
 <string id="pb_night_hunting_part_6_text">
-<text>We're back at base. Now, I can speak to Knucklehead.</text>
+<text>We're back at base. Now I can speak to Knucklehead.</text>
 </string>
 
 
@@ -213,7 +213,7 @@
 <text>Shell is dead. Time to check out his possessions.</text>
 </string>
 <string id="pb_found_to_shell_part_4_name">
-<text>Chain of events: return back to Markus</text>
+<text>Chain of events: return to Markus</text>
 </string>
 <string id="pb_found_to_shell_part_4_text">
 <text>After I retrieved a keyring from Shell, I woke up in a basement... but what happened couldn't have been a dream, since the trinket is still with me. An old man has reassured me that this isn't a dream, so I better not tell anyone about what happened in the underground.</text>
@@ -324,13 +324,13 @@
 <text>Old grievances: take the equipment and return to Markus</text>
 </string>
 <string id="pb_markus_alive_quest_part_4_text">
-<text>Markus has located the key to the control room; now, we have ammunition. I need to replenish my ammo and return back to Markus.</text>
+<text>Markus has located the key to the control room; now we have ammunition. I need to replenish my ammo and return back to Markus.</text>
 </string>
 <string id="pb_markus_alive_quest_part_5_name">
 <text>Old grievances: turn off the base electricity</text>
 </string>
 <string id="pb_markus_alive_quest_part_5_text">
-<text>I need to turn off the electricity in the base, which will allow a surprise attack on the mercenaries. It's important they don't notice me, or else the sneaky route won't work out.</text>
+<text>I need to turn off the electricity in the base, which will allow a surprise attack on the mercenaries. It's important I remain unnoticed, or else the stealthy route won't work out.</text>
 </string>
 <string id="pb_markus_alive_quest_part_6_name">
 <text>Old grievances: kill the mercenaries</text>
@@ -342,7 +342,7 @@
 <text>Old grievances: speak to Screw</text>
 </string>
 <string id="pb_markus_alive_quest_part_7_text">
-<text>The mercs are down. Now, I can focus on freeing the captives.</text>
+<text>The mercs are down. Now I can focus on freeing the captives.</text>
 </string>
 <string id="pb_markus_alive_quest_part_8_name">
 <text>Old grievances: help Markus</text>
@@ -363,7 +363,7 @@
 <text>Mysteries of the underground: speak to Screw</text>
 </string>
 <string id="pb_turn_on_transformator_part_1_text">
-<text>I need to turn the bunker lights back on. To do that, the transformer in the underground needs to be restarted, but the door that leads there is closed. Savage told me that Screw might be able to get it open.</text>
+<text>I need to turn the bunker lights back on. To do that, I need to restart a transformer in the underground, but the door leading there is locked. Savage told me that Screw might be able to get it open.</text>
 </string>
 <string id="pb_turn_on_transformator_part_2_name">
 <text>Mysteries of the underground: follow Screw</text>
@@ -378,13 +378,13 @@
 <text>I need to wait. Screw's unlocking the door.</text>
 </string>
 <string id="pb_turn_on_transformator_part_4_name">
-<text>Mysteries of the underground: head into the underground</text>
+<text>Mysteries of the underground: descend into the underground</text>
 </string>
 <string id="pb_turn_on_transformator_part_4_text">
-<text>The door is open. Now, I can head down into the underground and restart the transformer.</text>
+<text>The door is open. I can now head down into the underground and restart the transformer.</text>
 </string>
 <string id="pb_turn_on_transformator_part_5_name">
-<text>Mysteries of the underground: speak to general Tachenko</text>
+<text>Mysteries of the underground: speak to General Tachenko</text>
 </string>
 <string id="pb_turn_on_transformator_part_5_text">
 <text>I've encountered a group of Dutyers in the underground. I need to speak to their leader.</text>
@@ -393,7 +393,7 @@
 <text>Mysteries of the underground: restart the transformer</text>
 </string>
 <string id="pb_turn_on_transformator_part_6_text">
-<text>Now, I need to restart the transformer in order to restore the electricity in the base.</text>
+<text>Now I need to restart the transformer in order to restore the electricity in the base.</text>
 </string>
 <string id="pb_turn_on_transformator_part_7_name">
 <text>Mysteries of the underground: return to Savage</text>
@@ -420,7 +420,7 @@
 <text>Survival: speak to Savage</text>
 </string>
 <string id="pb_epidemy_on_base_part_3_text">
-<text>I haven't been able to find any extra medicine. I should talk to to Savage about it.</text>
+<text>I haven't been able to find any extra medicine. I should talk to Savage about it.</text>
 </string>
 
 
@@ -435,7 +435,7 @@
 <text>Unknown signal: speak to the unknown man</text>
 </string>
 <string id="pb_enemy_signal_found_part_2_text">
-<text>I've met an old man at the designated point. I should talk to him.</text>
+<text>I've come across an old man at the designated area. I should talk to him.</text>
 </string>
 <string id="pb_enemy_signal_found_part_3_name">
 <text>Unknown signal: lead Forester to the base</text>
@@ -453,10 +453,10 @@
 
 <!-- Quest: weak signal -->
 <string id="pb_finality_signal_founded_part_1_name">
-<text>Weak signal: check the marked area</text>
+<text>Weak signal: check the designated area</text>
 </string>
 <string id="pb_finality_signal_founded_part_1_text">
-<text>Savage says that they've picked up another signal. I need to find its source.</text>
+<text>Savage says that he's picked up another signal. I need to find its source.</text>
 </string>
 <string id="pb_finality_signal_founded_part_2_name">
 <text>Weak signal: speak to the stalker</text>
@@ -466,24 +466,24 @@
 </string>
 
 
-<!-- Quest: last message -->
+<!-- Quest: Final message -->
 <string id="pb_duty_tachenko_final_quest_meet_part_1_name">
-<text>Last message: speak to general Tachenko</text>
+<text>Final message: speak to General Tachenko</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_1_text">
 <text>General Tachenko has sent me a message. He wants to speak to me.</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_2_name">
-<text>Last message: try to reach the general once more</text>
+<text>Final message: try to reach the general once more</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_2_text">
 <text>I can't quite make it to Tachenko's position; a teleporter has thrown me off course. I need to give it another shot.</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_3_name">
-<text>Last message: leave the underground</text>
+<text>Final message: exit the underground</text>
 </string>
 <string id="pb_duty_tachenko_final_quest_meet_part_3_text">
-<text>General Tachenko and his group are dead, and his death wasn't far off. He's asked me to leave the underground.</text>
+<text>General Tachenko's men are dead, and he is soon to suffer the same fate. He's asked me to leave the underground.</text>
 </string>
 
 
@@ -548,7 +548,7 @@
 <text>Rounds for Mosquito: give the ammunition to Mosquito</text>
 </string>
 <string id="pb_find_ammo_7_62_part_5_text">
-<text>I've found the ammo that Mosquito needed. Now, I have to hand it to him.</text>
+<text>I've found the ammo that Mosquito needed. Now I have to give it to him.</text>
 </string>
 
 
@@ -566,16 +566,16 @@
 <text>Murad needs an escort to the base.</text>
 </string>
 <string id="pb_murad_go_to_base_part_3_name">
-<text>SOS: tell Savage about the stalker</text>
+<text>SOS: inform Savage of the stalker</text>
 </string>
 <string id="pb_murad_go_to_base_part_3_text">
-<text>I've escorted Murad to base. Now, I need to inform Savage about him.</text>
+<text>I've escorted Murad to base. I should tell Savage about him.</text>
 </string>
 <string id="pb_murad_go_to_base_part_4_name">
 <text>SOS: speak to Murad</text>
 </string>
 <string id="pb_murad_go_to_base_part_4_text">
-<text>I need to speak with Murad.</text>
+<text>I need to speak to Murad.</text>
 </string>
 
 <!-- Quest: Scavenger's stash -->
@@ -583,7 +583,7 @@
 <text>Scavenger's stash: find the stash</text>
 </string>
 <string id="pb_find_habar_padalshik_part_1_text">
-<text>Scavenger has been gathering various possessions and hiding them in a stash, which I need to find.</text>
+<text>Scavenger has been gathering various possessions and hiding them in a stash that I need to find.</text>
 </string>
 <string id="pb_find_habar_padalshik_part_2_name">
 <text>Scavenger's stash: inform Savage about the discovered stash</text>
@@ -610,7 +610,7 @@
 <text>Emergency contact: find two coils of wire and a battery</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_1_text">
-<text>According to the soldier, the radio transmitter that was lying in the basement can be repaired. He needs a battery and two coils of copper wire. If the radio transmitter manages to activate, we may have the possibility of sending a request for help beyond the borders of the anomaly.</text>
+<text>According to the soldier, the radio transmitter located in the basement is repairable. He needs a battery and two coils of copper wire. If the radio transmitter manages to activate, we may have the chance of sending a request for help beyond the reaches of the anomaly.</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_2_name">
 <text>Emergency contact: give the copper wiring to the soldier</text>
@@ -622,7 +622,7 @@
 <text>Emergency contact: find a battery</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_3_text">
-<text>I've found two coils of copper wire and given them to the soldier. Now, I have to try to find a battery.</text>
+<text>I've found two coils of copper wire and given them to the soldier. Now I have to try to find a battery.</text>
 </string>
 <string id="pb_find_razya_to_rezak_part_4_name">
 <text>Emergency contact: give the battery to the soldier</text>
@@ -661,7 +661,7 @@
 
 <!-- Quest: important discussion -->
 <string id="pb_duty_tachenko_meet_part_1_name">
-<text>Important discussion: speak to general Tachenko</text>
+<text>Important discussion: speak to General Tachenko</text>
 </string>
 <string id="pb_duty_tachenko_meet_part_1_text">
 <text>I've received a message from Tachenko. He has something important to discuss with me, and has asked me to see him.</text>
@@ -706,7 +706,7 @@
 
 <!-- Quest: death wish -->
 <string id="pb_found_lisiy_and_give_art_part_1_name">
-<text>Death wish: find the stalker Baldy and inform him about the fate of Spotty</text>
+<text>Death wish: find Baldy and inform him about the fate of Spotty</text>
 </string>
 <string id="pb_found_lisiy_and_give_art_part_1_text">
 <text>Before dying, Spotty asked me to pass on an artifact to a stalker by the name of Baldy. I should fulfill his request, though I could also keep the artifact to myself.</text>
@@ -715,7 +715,7 @@
 <text>Death wish: speak to Baldy about the fate of Spotty</text>
 </string>
 <string id="pb_found_lisiy_and_give_art_part_2_text">
-<text>I've picked up the signal of Baldy's PDA, according to which he is at the Stronghold. I should speak to him about the events in the space bubble.</text>
+<text>I've picked up the Baldy's PDA signal. He seems to be in the Outpost. I should speak to him about the events in the space bubble.</text>
 </string>
 
 
@@ -745,13 +745,13 @@
 <text>Rare artifact: find a Wrenched artifact for Markus</text>
 </string>
 <string id="pb_find_af_vyvert_part_1_text">
-<text>Markus has asked me to find a Wrenched artifact for him, informing me that such an artifact can be found inside gravitational anomalies.</text>
+<text>Markus has asked me to find a Wrenched artifact for him. He informs me that it can be found inside gravitational anomalies.</text>
 </string>
 <string id="pb_find_af_vyvert_part_2_name">
 <text>Rare artifact: give the Wrenched artifact to Markus</text>
 </string>
 <string id="pb_find_af_vyvert_part_2_text">
-<text>I've found a Wrenched artifact. I can now give it to Markus.</text>
+<text>I've found a Wrenched artifact. I should give it to Markus.</text>
 </string>
 
 
@@ -795,12 +795,12 @@
 <text>We've returned to base. I should speak to Snake.Ì</text>
 </string>
 
-<!-- Quest: finished matters -->
+<!-- Quest: finished business -->
 <string id="pb_talk_to_lutiy_come_part_1_name">
-<text>Finished matters: speak to Savage</text>
+<text>Finished business: speak to Savage</text>
 </string>
 <string id="pb_talk_to_lutiy_come_part_1_text">
-<text>Savage has told me to see him after I finish my other matters related to finding provisions and drinking water.</text>
+<text>Savage has told me to see him after I finish my other matters related to provisions and drinking water.</text>
 </string>
 
 </string_table>

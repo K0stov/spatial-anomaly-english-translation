@@ -25,7 +25,7 @@
 		<text>Chapter 2: No Morals</text>
 	</string>
 	<string id="chapter_3">
-		<text>Chapter 3: Intruders</text>
+		<text>Chapter 3: Uninvited Guests</text>
 	</string>
 	<string id="chapter_4">
 		<text>Chapter 4: Last Hope</text>
@@ -34,16 +34,16 @@
 		<text>Chapter 5: Nightmares of the Underground</text>
 	</string>
 	<string id="intro_1">
-		<text>Sometimes, in order to continue, you have to start anew… For me, that new start was waking up in this place. I no longer felt that I was the same person as before; for the first time in many years, I started feeling conscience and sympathy for others. I’m a mercenary by the name of Beast, and this is my story.</text>
+		<text>Sometimes, in order to continue, you have to start anew… For me, that new start was waking up in this place. I no longer felt that I was the same man as before. For the first time in many years, I started feeling conscious and sympathetic toward others. I’m a mercenary by the callsign “Beast,” and this is my story.</text>
 	</string>
 	<string id="intro_2">
-		<text>Obscurant was always a treat, and we never got along. The real “fun,” however, began when Jackal made me the commander of a small mercenary detachment, instead of Obscurant. On that same day, we traveled to the Cordon on an assignment personally ordered by Jackal, and at that same time, Obscurant started planning his revenge on me.</text>
+		<text>Obscurant was quite the piece of work, and we never got along. The real “fun,” however, began when Jackal made me the commander of a small mercenary detachment, instead of Obscurant. On that same day, we traveled to the Cordon on a contract personally ordered by Jackal, and during that time, Obscurant started planning his revenge on me.</text>
 	</string>
 	<string id="intro_3">
-		<text>Vector was the previous head of a mercenary group, but he refused to fulfill a personal order from Jackal, who, without hesitation, offered a reward for his head. Vector, of course, managed to keep a low profile. I spent several months searching for Vector, but during the most crucial moment of my pursuit, I landed in the “spatial anomaly.” All right… Time to get back to reality and look at how our meeting with Obscurant in the space bubble panned out.</text>
+		<text>Vector was the previous head of the mercenary group, but he refused to fulfill a personal order from Jackal, who offered a reward for his head without hesitation. Vector, of course, managed to keep a low profile. I spent several months searching for him, but during the most crucial moment of my pursuit, I was thrown into the spatial anomaly. Okay… It’s time to get back to reality and look at how my meeting with Obscurant in the space bubble ended up.</text>
 	</string>
 	<string id="intro_4">
-		<text>Here comes the moment where we leave the anomaly. The surprises don’t end there, though…</text>
+		<text>And that was the moment when we left the anomaly. The surprises didn’t end there, though…</text>
 	</string>
 	<string id="crowkiller_game_get_ready">
 		<text>Get ready!</text>
@@ -64,7 +64,7 @@
 		<text>Then the bet is</text>
 	</string>
 	<string id="crowkiller_dialog_record_crows">
-		<text>The choice of a real man! You’ll need to drop as many crows as you can within a minute. Your record right now is</text>
+		<text>Now that’s a real man’s choice! You’ll need to shoot down as many crows as you can within a minute. Your record right now is</text>
 	</string>
 	<string id="crowkiller_dialog_record_stake">
 		<text>With that record, the bet is</text>
@@ -79,7 +79,7 @@
 		<text>Turn lever ($$ACTION_USE$$)</text>
 	</string>
 	<string id="expl_spawn_tip">
-		<text>Place explosives ($$ACTION_USE$$)</text>
+		<text>Plant explosives ($$ACTION_USE$$)</text>
 	</string>
 	<string id="key_out_tip">
 		<text>Place key on nightstand ($$ACTION_USE$$)</text>
@@ -106,7 +106,7 @@
 		<text>Cut open belly ($$ACTION_USE$$)</text>
 	</string>
 	<string id="esc_tip_door_locked_tech">
-		<text>Cannot close door; Van sees everything</text>
+		<text>Cannot open door; Van sees everything</text>
 	</string>
 	<string id="esc_quest_enot_wake_up_tips">
 		<text>Wake up Raccoon ($$ACTION_USE$$)</text>
@@ -376,19 +376,19 @@
 		<text>Close door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_door_closed_base_alarm">
-		<text>Door locked - the camp is on alert</text>
+		<text>Door locked—the camp is on alert</text>
 	</string>
 	<string id="tip_door_closed_hide_weapon">
-		<text>Door locked - you must holster your weapon</text>
+		<text>Door locked—you must holster your weapon</text>
 	</string>
 	<string id="tip_door_locked">
 		<text>Door locked</text>
 	</string>
 	<string id="tip_door_anomaly_locked">
-		<text>The bars are rusty</text>
+		<text>Bars rusted shut</text>
 	</string>
 	<string id="tip_door_anomaly_closed">
-		<text>The bars are closed (key required)</text>
+		<text>Bars locked (key required)</text>
 	</string>
 	<string id="tip_door_no_electricity">
 		<text>Door is not being powered</text>
@@ -467,10 +467,10 @@
 	</string>
 
 	<string id="st_spalnik_nosleep">
-		<text>You cannot rest in this place. More secure shelter is required, where an emission can be survived.</text>
+		<text>You cannot rest in this place. Shelter with more security is required, where an emission can be survived.</text>
 	</string>
 	<string id="st_gps_add_null_treasure">
-		<text>There is no loot in the stash. An empty stash marker has been placed.</text>
+		<text>The stash is empty. An empty stash marker has been placed.</text>
 	</string>
 	<string id="st_gps_add_treasure">
 		<text>A marker with a list of loot has been placed.</text>

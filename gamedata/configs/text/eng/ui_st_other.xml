@@ -628,13 +628,13 @@
 		<text>SA - arrival in the rookie village</text>
 	</string>
 	<string id="st_blck_val_actor_prisoner">
-		<text>SA - no longer captive</text>
+		<text>SA - out of captivity</text>
 	</string>
 	<string id="st_blck_val_actor_in_anomaly_wild">
-		<text>SA - climbing the anomalous grove</text>
+		<text>SA - ascending the anomalous grove</text>
 	</string>
 	<string id="st_blck_val_stavrid_night_shooter_dialog_done_save">
-		<text>SA - attack on the northern farm repeled</text>
+		<text>SA - attack on the northern farm repelled</text>
 	</string>
 	<!-- bolt mod -->
 	<string id="bolt_description">

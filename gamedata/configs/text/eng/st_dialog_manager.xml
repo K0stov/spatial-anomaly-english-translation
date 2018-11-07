@@ -529,7 +529,7 @@
 		<text>Let’s go then.</text>
 	</string>
 	<string id="dm_traveler_take_me_to">
-		<text>I need to go some place, can you lead me there for a fee?</text>
+		<text>I need to go some place. Can you lead me there for a fee?</text>
 	</string>
 	<string id="dm_traveler_stalker_where_do_you_want">
 		<text>No problem. Where do you need to go? Take your pick.</text>
@@ -823,7 +823,7 @@
 		<text>To the bunker, you know, the one at the Volkhov AA complex.</text>
 	</string>
 	<string id="st_stalker_jup_b206">
-		<text>To the anomalous grove near the quarry. Might find an artifact or two.</text>
+		<text>I’m going to the anomalous grove near the quarry. Might find an artifact or two.</text>
 	</string>
 	<string id="st_stalker_jup_b207">
 		<text>I’m going to the quarry, where the construction workers’ vans are.</text>

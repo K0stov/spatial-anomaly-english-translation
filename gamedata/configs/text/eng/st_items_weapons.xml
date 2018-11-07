@@ -178,7 +178,7 @@
 		<text>9x39 PAB-9</text>
 	</string>
 	<string id="ammo-9x39-pab9_descr">
-		<text>The PAB-9 cheaper version of the expensive SP-6 cartidge with a stamped steel penetrator, GRAU index 7N12. However, the stamping process led to a drastic decrease in effectiveness and it was banned from official use. Ineffective against body armor.</text>
+		<text>The PAB-9 cheaper version of the expensive SP-6 cartidge with a stamped steel penetrator, GRAU index 7N12. However, the stamping process led to a drastic decrease in effectiveness, and it was banned from official use. Ineffective against body armor.</text>
 	</string>
 <!-- 9x39 SP-6 -->
 	<string id="ammo-9x39-ap">
@@ -353,7 +353,7 @@
 	</string>
 <!-- GL-1 flare grenade -->
 	<string id="st_grenade_light_descr">
-		<text>Chemical flare grenade. Designed to illuminate areas during night fights, and to dazzle and disorient the enemy. Lasts less than a minute.</text>
+		<text>Chemical flare grenade. Designed to illuminate areas during night fights and to dazzle and disorient the enemy. Lasts less than a minute.</text>
 	</string>
 	<string id="st_grenade_light">
 		<text>GL-1 flare grenade</text>
@@ -661,7 +661,7 @@
 		<text>AK-47</text>
 	</string>
 	<string id="st_wpn_ak_descr">
-		<text>An early assault rifle developed in response to the shortcomings of Soviet infantry weapons during World War II. It has since become one of the most common firearms in the world due to it's low price and ease of use with little training.</text>
+		<text>An early assault rifle developed in response to the shortcomings of Soviet infantry weapons during World War II. It has since become one of the most common firearms in the world due to its low price and ease of use with little training.</text>
 	</string>
 <!-- ÀÊÑ -->
 	<string id="st_wpn_aks">
@@ -675,7 +675,7 @@
 		<text>AK-74</text>
 	</string>
 	<string id="st_wpn_ak74_descr">
-		<text>A replacement for the earlier AKM with a new 5.45x39mm cartridge and improved muzzle break. The new lighter cartridge gives the rifle increased range, accuracy and reliability over previous AK rifles while allowing soldiers to carry more ammunition.</text>
+		<text>A replacement for the earlier AKM with a new 5.45x39mm cartridge and improved muzzle break. The new lighter cartridge gives the rifle increased range, accuracy, and reliability over previous AK rifles while allowing soldiers to carry more ammunition.</text>
 	</string>
 <!-- ÀÊ-74Ì -->
 	<string id="st_wpn_ak74m">
@@ -685,7 +685,7 @@
 		<text>AK-74M (camouflage)</text>
 	</string>
 	<string id="st_wpn_ak74m_descr">
-		<text>A modernized variant of the AK-74 rifle with new synthetic furniture, lightened bolt and carrier assembly, modified muzzle break and a side-folding stock.</text>
+		<text>A modernized variant of the AK-74 rifle with new synthetic furniture, lightened bolt and carrier assembly, modified muzzle break, and a side-folding stock.</text>
 	</string>
 <!-- AK-74N -->
 	<string id="st_wpn_ak74n">
@@ -912,7 +912,7 @@
 		<text>M9</text>
 	</string>
 	<string id="st_wpn_m9_descr">
-		<text>The M9 - the US Army designation for the officially adopted Beretta 92SB - has managed to find its way into the Zone. It’s popular with criminals thanks to a powerful cartridge and its large magazine capacity. You can not generally find the newest model of this weapon in the Zone.</text>
+		<text>The M9—the US Army designation for the officially adopted Beretta 92SB—has managed to find its way into the Zone. It’s popular with criminals thanks to a powerful cartridge and its large magazine capacity. You can not generally find the newest model of this weapon in the Zone.</text>
 	</string>
 <!-- TOZ-66 -->
 	<string id="st_wpn_bm16">
@@ -926,7 +926,7 @@
 		<text>Colt M1911A1</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>An American semi-automatic pistol designed in response to the dissapointing stopping power of the revolvers used by the US Army in the early 20th century. Even over 100 years later the pistol remains popular among civilians, police and military units for it’s reliability and simplicity.</text>
+		<text>An American semi-automatic pistol designed in response to the disappointing stopping power of the revolvers used by the US Army in the early 20th century. Even over 100 years later, the pistol remains popular among civilians, police, and military units for its reliability and simplicity.</text>
 	</string>
 <!-- Desert Eagle -->
 	<string id="st_wpn_eagle">

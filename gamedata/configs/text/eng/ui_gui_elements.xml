@@ -2472,10 +2472,10 @@
 		<text>Close</text>
 	</string>
 	<string id="ui_gui_notepad_caption_90">
-		<text>Letter from Obscurant</text>
+		<text>Note from Obscurant</text>
 	</string>
 	<string id="st_notepad_type_esc_1_text">
-		<text>Remember, your target is a bald, bearded man in his 40s. He dons regular mercenary armor, and he goes by the nickname “Beast.” His PDA marker should confirm his position on the map. Take position on the second floor of the grain elevator and wait for the target to appear. Make sure nobody else is with him, as this needs to be done without witnesses. After you eliminate him, return for your reward.</text>
+		<text>Remember, your target is a middle-aged man. Bald and bearded. He dons regular merc armor, and he goes by the nickname “Beast.” His PDA marker should confirm his position on the map. Take position on the second floor of the grain elevator and wait for the target to appear. Make sure nobody else is with him, as this needs to be done without witnesses. After you eliminate him, return for your reward.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_91">
 		<text>Note from Skull</text>
@@ -2511,7 +2511,7 @@
 		<text>Personal log</text>
 	</string>
 	<string id="st_notepad_type_one_4_text">
-		<text>%c[default]I’ve never seen such a creature that close before… Markus told me we need to find a way out of here, and he’s right. I don’t want to be here when that thing returns. What is it, anyway? A human, a mutant, or maybe another one of the Zone’s phantoms? Damn… The more I try to look for an answer, the more questions arise. But enough chit-chatting—I have to find a way out of here!</text>
+		<text>%c[default]I’ve never seen such a creature that close before… Markus told me we need to find a way out of here, and he’s right. I don’t want to be here when that thing returns. What is it, anyway? A human, a mutant, or maybe another one of the Zone’s phantoms? Damn it… The more I try to find an answer, the more questions arise. But enough chit-chatting—I have to find a way out of here!</text>
 	</string>
 	<string id="ui_gui_notepad_caption_5">
 		<text>Personal log</text>
@@ -2535,13 +2535,13 @@
 		<text>Note from Skull</text>
 	</string>
 	<string id="st_notepad_type_one_8_text">
-		<text>%c[default]It’s been about a month since the death of Sledgehammer, and things haven’t gotten better… Whether it was a coincidence or not, after that night, things went to hell. Infected meat, as it turns out, isn’t the best type of food, and now we have a whole epidemic in our base. I’ve managed to find some medicine for the guys, but alas, it’s not enough. They still need further treatment. Right now, all I can do is pray to God that the vaccine will work.</text>
+		<text>%c[default]About a month has passed since the death of Sledgehammer, and things haven’t gotten better… Whether it was a coincidence or not, things went to hell after that night. Infected meat didn’t turn out to be the best type of food, and now we have a whole epidemic in our base. I’ve managed to find some medicine for the guys, but unfortunately, it’s not enough. They still need further treatment. Right now, all I can do is pray to God that the vaccines will work.</text>
 	</string>
 	<string id="ui_gui_notepad_caption_9">
 		<text>Note from Knucklehead</text>
 	</string>
 	<string id="st_notepad_type_one_9_text">
-		<text>%c[default]Those numskulls have put me behind bars with some bandits. They think I’m some kind of threat… Yeah. The irony: even though I’ve escaped the anomaly, I’m still trapped. I went through so much in there—lost so many friends. The guard told me Markus didn’t make it out of the anomaly, but how? Where is he? I should talk to Savage about this. This is likely the last time I write in this notebook. I don’t want to write about my worries anymore. I don’t even know how I’ll keep living my life. I feel dead inside…</text>
+		<text>%c[default]Those numskulls have put me behind bars with some bandits. They think I’m some kind of threat… Yeah. The irony—even though I’ve escaped the anomaly, I’m still trapped. I went through so much in there—lost so many friends. The guard tells me that Markus didn’t make it out of the anomaly, but how? Where is he? I should talk to Savage about this. This is likely the last time I write in this notebook. I don’t want to write down my worries anymore. I don’t even know how I’ll keep living my life. I feel dead inside…</text>
 	</string>
 	<string id="ui_gui_notepad_caption_10">
 		<text>Crosstie’s note</text>
@@ -2623,7 +2623,7 @@
 </text>
 	</string>
 	<string id="st_notepad_type_one_1_text">
-		<text>%c[default]God damn! Hardly made it to Pripyat. I’d be better off in the Bar without all of this misery. The commander sent us to check some kind of anomaly near the old service center. A spatial anomaly or something. If I knew what the Zone had in store for us, I wouldn’t have gone there… Everything seemed quiet at first, and then, mutants came at us from all openings, so we ran into the anomaly out of fear. Woke up in this place. Now, wherever we go, we always end up back near this barn. How long is this going to continue?… This must be the end for me. Getting out of here alive seems impossible. Munitions are running out, and we won’t last long without them.\n 
+		<text>%c[default]God damn! Barely made it to Pripyat. I really miss the bar right now. The commander sent us to check some kind of anomaly near the old service center… A spatial anomaly or something. If I knew what the Zone had in store for us, I’d never go there… Everything seemed quiet at first, and then mutants came at us from all openings, so our only way was into the anomaly. Then we woke up in this place. Now, wherever we go, we always end up back near this barn. How long is this going to continue?… This must be the end for me. Getting out of here alive seems impossible. Munitions are running out, and we won’t last long without them.\n 
 </text>
 	</string>
 	<string id="st_notepad_type_yad_text">

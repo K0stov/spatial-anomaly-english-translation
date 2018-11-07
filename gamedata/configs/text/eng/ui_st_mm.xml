@@ -530,7 +530,7 @@
 	</string>
 	<string id="ui_mm_begining_start">
 		<text>Do you want to start a new game? \n
-%c[gray](Playing the mod with the Static Lighting render type is not recommended; the game will work, but the atmosphere intended by the author will be lost.)</text>
+%c[gray](Playing Spatial Anomaly with the Static Lighting render type is not recommended; the game will work, but the atmosphere intended by the author will be lost.)</text>
 	</string>
 	<string id="ui_mm_master">
 		<text>Master</text>
