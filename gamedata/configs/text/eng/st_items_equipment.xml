@@ -281,14 +281,14 @@
 		<text>R-250M2 radio transmitter</text>
 	</string>
 	<string id="st_blck_val_transiver_descr">
-		<text>The R-250M2 is a communications receiver that works on short waves and is favored by many radio hobbyists. Two versions of this receiver were produced: the R250/M/M2 for land forces and R-670/M for the Russian Navy. The transmitter is a dual conversion superheterodyne with a tuning range of 1.5–25.5 MHz spread over twelve bands. A set-top box was available to extend the tuning range to 35.5 MHz. The tuning scale was customized for each receiver, with the scale printed by a photographic method. The first IF was variable from 1.5 to 3.5 MHz, with a second IF of 215 kHz. Bandwidth was switchable between 1, 3, 6, and 12 kHz. The standard power supply was 127/220 volts, 50 Hz, but other supply options were available.</text>
+		<text>The R-250M2 is a communications receiver that works on short waves and is favored by many radio hobbyists. Two versions of this receiver have been produced: the R250/M/M2 for land forces and R-670/M for the Russian Navy. The original 1949 version was a dual conversion superheterodyne with a tuning range of 1.5–25.5 MHz spread over twelve bands. The final version, the R-250M2, was produced from 1968 until 1980. The main change was the tube type, as the set moved from metal octal tubes to miniature tubes.</text>
 	</string>
 
 	<string id="st_pb_quest_shell_brelok">
 		<text>Shell’s dogtag</text>
 	</string>
 	<string id="st_pb_quest_shell_brelok_desc">
-		<text>Shell is dead, and all he had was his dogtag. I should show this to Marcus.</text>
+		<text>Shell is dead, and all he had on him was his dogtag. I should show this to Marcus.</text>
 	</string>
 
 	<string id="st_blck_val_key_to_prison">

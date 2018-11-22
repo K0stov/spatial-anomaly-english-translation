@@ -1952,7 +1952,7 @@
 		<text>Персональная паяльная станция</text>
 	</string>
 	<string id="ui_gui_guk_2_caption">
-		<text>Coordinate transmitter</text>
+		<text>Transmitter for sending coordinates</text>
 	</string>
 	<string id="ui_gui_guk_1_caption">
 		<text>Расчетная задача</text>
@@ -1976,7 +1976,7 @@
 		<text>Parameters for loading coordinates:</text>
 	</string>
 	<string id="ui_gui_guk_item_2">
-		<text>Receivable estimated parameters:</text>
+		<text>Estimated receivable parameters:</text>
 	</string>
 	<string id="st_guk_type_one_1_text">
 		<text>Кнопка для загрузки координат.</text>
@@ -2460,7 +2460,7 @@
 		<text>Пропустить</text>
 	</string>
 	<string id="st_vzlom_zamka_3_use_1">
-		<text>Отправить</text>
+		<text>Send</text>
 	</string>
 	<string id="st_vzlom_zamka_1_use_3">
 		<text>Сгенерировать</text>

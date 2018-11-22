@@ -374,7 +374,7 @@
 		<text>Burning Earth anomaly</text>
 	</string>
 	<string id="black_valley">
-		<text>Stronghold</text>
+		<text>Outpost</text>
 	</string>
 	<string id="st_blck_val_a1_spot_name">
 		<text>Northern farm</text>
@@ -410,7 +410,7 @@
 		<text>The end.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_closed">
-		<text>I’m not about to exit the area yet; my group is still here, and Sidorovich’s contract has not yet been fulfilled.</text>
+		<text>I’m not about to exit the area yet; my group is still here, and Sidorovich’s contract has not yet been completed.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_labx7">
 		<text>Descend into the laboratory?</text>
@@ -419,7 +419,7 @@
 		<text>Can’t get here in a build. It’s too early to get here anyway.</text>
 	</string>
 	<string id="ui_st_sr_level_changer_station">
-		<text>Go up the stairs?</text>
+		<text>Climb the ladder?</text>
 	</string>
 	<string id="ui_st_sr_level_changer_station_closed">
 		<text>I need to block the path so that Stronglav doesn’t follow me.</text>

@@ -352,7 +352,7 @@
 		<text>Top Secret. Order from Colonel P.P. Slavin.\nIn accordance with this order, members of chemical protection unit # 423 are to be familiarized with the following information:\n1. Keys to the container with Perin B3 chemical solution are held by Colonel P.P. Slavin (key A) and Lieutenant Colonel K.S. Vlasov (Key B).\n2. Convoy order starting from the front: Deputy unit commander’s vehicle, escort vehicle # 8, APC # 1, transportation vehicle # 1, APC # 3, escort vehicle # 2, unit commander’s (P.P. Slavin) vehicle.\nCopies of the order to be handed to Lieutenant Colonel K.S. Vlasov and Senior Lieutenant R.B. Nazarenku.</text>
 	</string>
 	<string id="st_zat_a23_labx8_key_descr">
-		<text>A green magnetic keycard marked with X7.\nThe card must not fall into anyone else's hands, as it can be used to access the secret laboratory.</text>
+		<text>A green magnetic keycard marked with X7.\nThe card must not fall into anyone else’s hands, as it can be used to access the secret laboratory.</text>
 	</string>
 	<string id="st_jup_b202_bandit_pda">
 		<text>Sultan’s messenger’s PDA</text>

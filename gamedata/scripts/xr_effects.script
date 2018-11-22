@@ -4618,7 +4618,7 @@ end
 function blck_val_smiga_shcool_sms_1()
      local snd = sound_object([[characters_voice\scenario\black_valley\blck_val_smiga_shcool_sms_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Hey, merc, your guns just arrived. Ratter is waiting for you. Just make sure nobody follows you.", "Crooked:", nil, 10, "ui_inGame2_Krivoy")
+	SendTip("%c[255,220,20,60]Hey, merc, your guns just arrived. Ratter’s waiting for you. Just make sure nobody follows you.", "Crooked:", nil, 10, "ui_inGame2_Krivoy")
 end
 
 function blck_val_stavrid_sends_sms_1()
@@ -4630,7 +4630,7 @@ end
 function blck_val_stavrid_sends_sms_2()
      local snd = sound_object([[characters_voice\scenario\black_valley\blck_val_stavrid_sends_sms_2]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[255,220,20,60]Beast, the parcel with the uniforms has arrived. I’m waiting for you.", "Saurel:", nil, 10, "ui_inGame2_Stavrid")
+	SendTip("%c[255,220,20,60]Beast, the package with the uniforms has arrived. I’m waiting for you.", "Saurel:", nil, 10, "ui_inGame2_Stavrid")
 end
 
 function blck_val_monolit_leader_sends()
@@ -4671,11 +4671,11 @@ function pb_dop_action_soldier_quest()
 end
 
 function pb_dop_action_soldier_fail()
-	SendTip("%c[default]Speak to the soldier", "Secondary assignment not completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Speak to the soldier", "Secondary assignment not complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function pb_dop_action_soldier_complete()
-	SendTip("%c[default]Speak to the soldier", "Secondary assignment completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Speak to the soldier", "Secondary assignment complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function pb_dop_action_snake_quest()
@@ -4683,7 +4683,7 @@ function pb_dop_action_snake_quest()
 end
 
 function pb_dop_action_snake_complete()
-	SendTip("%c[default]Speak to Snake", "Secondary assignment completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Speak to Snake", "Secondary assignment complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function esc_dop_action_first_quest()
@@ -4691,11 +4691,11 @@ function esc_dop_action_first_quest()
 end
 
 function esc_dop_action_first_fail()
-	SendTip("%c[default]Speak to Vulture", "Secondary assignment not completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Speak to Vulture", "Secondary assignment not complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function esc_dop_action_first_complete()
-	SendTip("%c[default]Speak to Vulture", "Secondary assignment completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Speak to Vulture", "Secondary assignment complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function blck_val_stavrid_dop_action_quest()
@@ -4703,11 +4703,11 @@ function blck_val_stavrid_dop_action_quest()
 end
 
 function blck_val_stavrid_dop_action_fail()
-	SendTip("%c[default]Inform Saurel about the bandits’ plans", "Secondary assignment not completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Inform Saurel about the bandits’ plans", "Secondary assignment not complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function blck_val_stavrid_dop_action_complete()
-	SendTip("%c[default]Inform Saurel about the bandits’ plans", "Secondary assignment completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Inform Saurel about the bandits’ plans", "Secondary assignment complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function blck_val_vihr_dop_action_quest()
@@ -4715,7 +4715,7 @@ function blck_val_vihr_dop_action_quest()
 end
 
 function blck_val_vihr_dop_action_complete()
-	SendTip("%c[default]Ask the stalkers on the farm about the SR-3 Vikhr", "Secondary assignment completed:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
+	SendTip("%c[default]Ask the stalkers on the farm about the SR-3 Vikhr", "Secondary assignment complete:", nil, 3, "ui_inGame2_Mesta_evakuatsii")
 end
 
 function blck_val_art_kolobok_spawn()
