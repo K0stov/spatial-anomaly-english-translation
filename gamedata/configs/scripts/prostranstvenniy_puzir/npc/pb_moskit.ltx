@@ -54,7 +54,7 @@ invulnerable = true
 [remark@psy_back]
 anim = psy_pain
 target = path | pro_smart_terrain_1_1_lutiy_meet_to_actor_look, 0
-on_info = {-infa_moskit_talk_to_controller_stop_sound +controller_spawn_end} %+infa_moskit_talk_to_controller_stop_sound =play_sound(pb_controller_coming)%
+on_info = {-infa_moskit_talk_to_controller_stop_sound +controller_spawn_end} %+infa_moskit_talk_to_controller_stop_sound =play_sound(pb_controller_coming) =show_intro_title(moskit_controller_coming)%
 on_info2 = {+controller_quest_dead} walker@moskit_stay_after_zombied_kill
 meet = no_meet
 combat_ignore_cond = true 

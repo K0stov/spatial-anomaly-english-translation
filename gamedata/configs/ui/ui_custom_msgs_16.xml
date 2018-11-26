@@ -229,6 +229,37 @@
 		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">lutiy_meet_prison_actor</text>
 		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">moskit_talk_to_actor</text>
 		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">moskit_talk_to_kill_zombied</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">moskit_controller_coming</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">dubolom_night_hunting_meet</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">ghost_podval_talk</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">atp_killer_meet_1</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">atp_killer_meet_2</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">hunter_dubolom</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">help_thanks</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">koordinator_first_meet</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">stalker_to_atp_meet</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">killer_wait_signal_actor</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">killer_we_spotted</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">killer_raven_operation_start</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">enot_wake_up</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">security_trader_talk</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">tesak_say_kill_kuvalda</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">kuvalda_quest_meet_killer</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">mrakobes_final_scene</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">murad_quest_door_lock</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">murad_quest_door_open</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">lutiy_meet_prison_actor</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">security_meet_prison_actor</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">provodnik_call</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">bandit_talk_rac_from_hutor</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">freedom_kisliy_first_meet</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">krivoy_shcool_no_meet</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">ghost_talk_about_stronglav_1</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">ghost_talk_about_stronglav_2</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">"zmeelov_talk_semen</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">semen_talk_to_zmeelov</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">zmeelov_talk_actor</text>
+		<text font="graffiti22"  r="216" g="186" b="140" a="255" align="c">zmeelov_talk_semen_after</text>
 	</intros_statics>
 
         <cant_walk x="200" y="650" width="600" height="30" ttl="3">

@@ -235,7 +235,7 @@
 		<text>Klim’s flash drive</text>
 	</string>
 	<string id="esc_flash_klim_descr">
-		<text>According to Sidorovich, this flash drive has some very valuable information and it used belong to a stalker named Klim. This is the flashdrive Sidorovich asked me to bring.</text>
+		<text>According to Sidorovich, this flash drive contains some very valuable information, and it used belong to a stalker named Klim. This is the flash drive Sidorovich asked me to bring.</text>
 	</string>
 	<string id="esc_sidor_container_name">
 		<text>Orest’s package</text>
@@ -250,10 +250,10 @@
 		<text>This PDA used to belong to Father Valerian, who is now dead. The PDA is locked, and I can’t access it.</text>
 	</string>
 	<string id="blck_val_knife_killer">
-		<text>Knife of the murder</text>
+		<text>Murder knife</text>
 	</string>
 	<string id="blck_val_knife_killer_descr">
-		<text>This very sharp hunting knife most likely belongs to the one who killed Lefty. If I can find the owner, then I can find out the murderer.</text>
+		<text>This sharp hunting knife most likely belongs to the one who killed Lefty. If I can find the owner, then I can find out the murderer.</text>
 	</string>
 
 	<string id="st_blck_val_chimik_pda_title">
