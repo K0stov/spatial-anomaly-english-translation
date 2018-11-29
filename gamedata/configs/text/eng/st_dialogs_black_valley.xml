@@ -1597,7 +1597,7 @@
         <text>Got any work?</text>
     </string>
     <string id="blck_val_hunter_dop_quest_dialog_1">
-        <text>What do you think? Of course we do. Not only that, but the job we have is a dirty one. We need six blind dog tails for an assignment given to us by the scientists. We will be very grateful if you help us out with this. Are you in?</text>
+        <text>What do you think? Of course we do. Not only that, but the job we have is a dirty one. We need six blind dog tails for an assignment from the scientists. We will be very grateful if you help us out with this. Are you in?</text>
     </string>
     <string id="blck_val_hunter_dop_quest_dialog_2">
         <text>Fine. I’ll help you with the tails.</text>
@@ -1801,7 +1801,7 @@
         <text>Listen closely, merc. I’ll only say this once: Saurel is letting you go, but don’t do anything stupid, or you’ll pay for it. Severely. Got it?</text>
     </string>
     <string id="blck_val_security_talk_from_actor_1">
-        <text>I understand, sir. In that case, may I have my equipment?</text>
+        <text>Understood, sir. In that case, may I have my equipment?</text>
     </string>
     <string id="blck_val_security_talk_from_actor_2">
         <text>Of course. Here’s everything that you carried.</text>
