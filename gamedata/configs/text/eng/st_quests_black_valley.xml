@@ -172,7 +172,7 @@
 <text>Active reconnaissance: return to Saurel</text>
 </string>
 <string id="blck_val_night_shooter_part_8_text">
-<text>We’ve taken out the bandit reinforcements and resisted the bandit attacks. I should return to Saurel and inform him about our success... and also get my reward.</text>
+<text>We’ve taken out the bandit reinforcements and resisted the bandit attacks. I should return to Saurel and inform him about our success… and also get my reward.</text>
 </string>
 
 <!-- Quest: rest in peace -->
@@ -186,7 +186,7 @@
 <text>Rest in peace: return to Skew</text>
 </string>
 <string id="blck_val_kill_to_zombied_part_2_text">
-<text>The zombies are dead... for good. I can now return to Skew.</text>
+<text>The zombies are dead… for good. I can now return to Skew.</text>
 </string>
 
 <!-- Quest: meet with Miklukha -->
@@ -472,7 +472,7 @@
 <text>Interesting proposal: speak to Rasputin</text>
 </string>
 <string id="blck_val_shaman_talk_line_part_1_text">
-<text>Rasputin has messaged me and says that he has something to talk about. I wonder what he needs this time?...</text>
+<text>Rasputin has messaged me and says that he has something to talk about. I wonder what he needs this time?…</text>
 </string>
 <string id="blck_val_shaman_talk_line_part_2_name">
 <text>Interesting proposal: speak to Hunter</text>
