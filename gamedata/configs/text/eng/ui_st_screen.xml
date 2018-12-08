@@ -467,10 +467,10 @@
 	</string>
 
 	<string id="st_spalnik_nosleep">
-		<text>You cannot rest in this place. Shelter with more security is required, where an emission can be survived.</text>
+		<text>You cannot rest in this place. More secure shelter is required, where an emission can be survived.</text>
 	</string>
 	<string id="st_gps_add_null_treasure">
-		<text>The stash is empty. An empty stash marker has been placed.</text>
+		<text>This stash is empty. An empty stash marker has been placed.</text>
 	</string>
 	<string id="st_gps_add_treasure">
 		<text>A marker with a list of loot has been placed.</text>

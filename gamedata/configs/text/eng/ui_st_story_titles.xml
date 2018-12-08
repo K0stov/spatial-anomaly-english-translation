@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_start_game">
-		<text>I wish I had some painkillers for this headache. That dream didn’t help, either…</text>
+		<text>I could really use some headache pills. That dream didn’t help, either…</text>
 	</string>
 	<string id="actor_kill_controler">
-		<text>Shit! Another “gift” from the Zone! Just what I needed!</text>
+		<text>Damn it! Another “gift” from the Zone! Just what I needed!</text>
 	</string>
 	<string id="actor_about_teleport">
-		<text>What if I try to use one of the teleporters? Maybe one of them will lead me to Scavenger?</text>
+		<text>What if I try to use the teleporters? Maybe one of them will lead me to Scavenger?</text>
 	</string>
 	<string id="actor_about_phantom">
-		<text>I need to check out the basement Marcus mentioned. Maybe I can find something useful.</text>
+		<text>I need to check out the basement that Marcus talked about. Maybe I’ll find something useful.</text>
 	</string>
 	<string id="actor_about_otshelnik">
-		<text>What was that? Was that thing real or was I hallucinating? I think I’m losing my mind…</text>
+		<text>Was that thing real or was I just seeing things? I think I’m losing my mind…</text>
 	</string>
 	<string id="actor_about_signal">
-		<text>An SOS. Strange. Do we have another “guest”? I should check it out.</text>
+		<text>An SOS? Strange. Did someone fall into this trap again? I should check it out.</text>
 	</string>
 	<string id="actor_search_markus">
-		<text>Damn it, Marcus. Where have you gone off to?</text>
+		<text>Damn it. Marcus… Where have you gone off to?</text>
 	</string>
 	<string id="actor_death_kuvalda">
 		<text>Rest in peace, Sledgehammer.</text>
 	</string>
 	<string id="actor_tachenko_death">
-		<text>Fucking hell… This anomaly never fails to surprise me.</text>
+		<text>Damn it… This anomaly never fails to surprise me!</text>
 	</string>
 	<string id="actor_exit_from_puzir">
-		<text>Is this really it? Are we finally free from this godforsaken place?</text>
+		<text>Are we finally free from this fucking anomaly?</text>
 	</string>
 	<string id="actor_about_anomaly">
 		<text>I should check the arch-anomaly later. Perhaps I might find some valuable artifacts there.</text>
 	</string>
 	<string id="actor_about_tunel_angry">
-		<text>I hate that tunnel…</text>
+		<text>I hate this tunnel!</text>
 	</string>
 	<string id="actor_pain_in_head">
-		<text>God damn it. My head feels like it’s about to explode.</text>
+		<text>God damn it. My head is killing me.</text>
 	</string>
 	<string id="actor_enot_job_1">
 		<text>Raccoon might be able to help me complete the contract. I should go talk to him.</text>
 	</string>
 	<string id="actor_enot_job_2">
-		<text>I should go pay Raccoon a visit. I think he can help me with this mission.</text>
+		<text>I should go pay Raccoon a visit. I think he can help me complete the contract.</text>
 	</string>
 	<string id="actor_about_note">
-		<text>Besides a bunch of random personal notes, this notebook contains coordinates of some kind. I should check it out.</text>
+		<text>Other than useless personal notes, the end of this notebook contains some kind of coordinates written in big, red letters. I should check it out.</text>
 	</string>
 	<string id="actor_about_prison">
-		<text>What the hell? Why am I in this cage?</text>
+		<text>What the hell? What am I doing behind bars?</text>
 	</string>
 	<string id="actor_about_levsha">
-		<text>All right, let’s find Lefty. Where would I go if I’d just killed my friend?</text>
+		<text>All right, let’s find this Lefty. Where would I go if I’d just killed my friend?</text>
 	</string>
 	<string id="actor_about_anomal_zone">
-		<text>I should inspect the surroundings when I have the time.</text>
+		<text>I’ll need to inspect the surroundings when I have some free time.</text>
 	</string>
 	<string id="actor_about_levsha_death">
-		<text>Damn it, Lefty… Who could have done this? I should search the hangar. Perhaps the murderer left some kind of clue.</text>
+		<text>Damn it. Lefty… Who could have done this? I should search the hangar. Perhaps the murderer left some kind of trace.</text>
 	</string>
 	<string id="actor_about_anomaly_wild">
-		<text>One wrong move and I’ll fall off…</text>
+		<text>Okay… One wrong move on this thing and I’ll fall off…</text>
 	</string>
 	<string id="actor_about_kill_merc">
 		<text>I gave you a chance to leave peacefully! Now you’ll rot in here for eternity!</text>
@@ -76,13 +76,13 @@
 		<text>Damn it. This place is swarming with bloodsuckers… I need to stay quiet.</text>
 	</string>
 	<string id="actor_about_lutiy_death">
-		<text>I’ll avenge Savage’s death… I’ll make that creature pay!</text>
+		<text>I’ll avenge you, Savage… I’ll make that creature pay for everything!</text>
 	</string>
 	<string id="actor_destroy_way">
 		<text>I need to blow the entrance shut so that creature won’t follow me out.</text>
 	</string>
 	<string id="actor_about_otshelnik_death">
-		<text>Goodbye, Hermit.</text>
+		<text>Farewell, Hermit.</text>
 	</string>
 	<string id="intro_ending_neutral_0">
 		<text>During the afternoon, Hunter and I went on our way, and after a few hours, we were already in the bar. By the time we got there, it was already dark, so Hunter suggested we get some rest and head off to the Cordon next thing in the morning. The story’s not over yet, though…</text>
@@ -121,7 +121,7 @@
 		<text>Step back!</text>
 	</string>
 	<string id="hunter_dubolom">
-		<text>Okay. The trail’s fresh. Means the pseudo-bitch is somewhere nearby… Merc, look sharp. Unless, of course, you want to become lunch.</text>
+		<text>Okay. The trail’s fresh. Means the doggy’s somewhere nearby… Merc, look sharp. Unless, of course, you want to become lunch.</text>
 	</string>
 	<string id="help_thanks">
 		<text>Thanks for setting us free, man.</text>
