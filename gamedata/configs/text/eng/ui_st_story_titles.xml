@@ -195,5 +195,11 @@
 	<string id="zmeelov_talk_semen_after">
 		<text>Semyon, let him through.</text>
 	</string>
+	<string id="actor_about_transiver_1">
+		<text>I need to start the transmitter outside the spatial anomaly, not here.</text>
+	</string>
+	<string id="actor_about_transiver_2">
+		<text>I’ve already sent the anomaly exit coordinates. No need to do it again.</text>
+	</string>
 	
 </string_table>
