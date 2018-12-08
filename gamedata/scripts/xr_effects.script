@@ -4366,7 +4366,7 @@ end
 function esc_send_tip_sidorovich_trade_generic()
      local snd = sound_object([[characters_voice\scenario\trader\quests\esc_send_tip_sidorovich_trade_generic]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]I’ve replenished my stocks. Drop by, everyone.", "Sidorovich:", nil, 5, "ui_inGame2_Sidor")
+	SendTip("%c[54,199,169,96]I’ve replenished my stock. Drop by, everyone.", "Sidorovich:", nil, 5, "ui_inGame2_Sidor")
 end
 
 function esc_send_tip_sidorovich_buy_art()
@@ -4540,7 +4540,7 @@ end
 function esc_way_to_base_open()
      local snd = sound_object([[characters_voice\scenario\escape\esc_stalker_base_yes_pda_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-     SendTip("%c[54,199,169,96]Go, quick! The trader put in a word for you.", "Crowbar:", nil, 10, "ui_inGame2_Lom")
+     SendTip("%c[54,199,169,96]Go, quick! The trader put in a word for you…", "Crowbar:", nil, 10, "ui_inGame2_Lom")
 end
 
 function blck_val_shaman_quest_sms_1()
@@ -4618,7 +4618,7 @@ end
 function blck_val_smiga_shcool_sms_1()
      local snd = sound_object([[characters_voice\scenario\black_valley\blck_val_smiga_shcool_sms_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Hey, merc, your guns just arrived. Ratter’s waiting for you. Just make sure nobody follows you", "Crooked:", nil, 10, "ui_inGame2_Krivoy")
+	SendTip("%c[54,199,169,96]Hey, merc, your guns just arrived. Ratter’s waiting for you. Just make sure nobody follows you.", "Crooked:", nil, 10, "ui_inGame2_Krivoy")
 end
 
 function blck_val_stavrid_sends_sms_1()
