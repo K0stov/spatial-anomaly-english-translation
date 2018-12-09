@@ -115,7 +115,7 @@
         <text>All right… And what about you? What plans do you have for the future?</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_8">
-        <text>I’m not planning to go anywhere any time soon; I’ve decided to stay in the Outpost for a while and try to forget about that god forsaken anomaly.</text>
+        <text>I’m not planning to go anywhere any time soon; I’ve decided to stay at the Outpost for a while and try to forget about that god forsaken anomaly.</text>
     </string>
     <string id="blck_val_actor_meet_from_lutiy_9">
         <text>And have you managed to forget about it, even slightly?</text>
@@ -562,7 +562,7 @@
         <text>Welcome to my bar, Beast. Are you here on business, or just to have a drink?</text>
     </string>
     <string id="blck_val_actor_meet_from_shaman_76">
-        <text>I think you’ll make the right choice… By the way, if you want to make some extra cash, bring me some mutant parts, and I’ll pay for them. It’s one of the easiest ways to make money here in the Outpost, if you know how to field dress a mutant.</text>
+        <text>I think you’ll make the right choice… By the way, if you want to make some extra cash, bring me some mutant parts, and I’ll pay for them. It’s one of the easiest ways to make money here at the Outpost, if you know how to field dress a mutant.</text>
     </string>
     <string id="blck_val_actor_meet_from_shaman_77">
         <text>I’ll keep that in mind.</text>
@@ -574,7 +574,7 @@
         <text>All right. We’ll see how things pan out.</text>
     </string>
     <string id="blck_val_actor_meet_from_stavrid_10">
-        <text>Well, he couldn’t have gotten very far. Besides that, he’s still here in the Outpost, although I don’t know his exact whereabouts.</text>
+        <text>Well, he couldn’t have gotten very far. Besides that, he’s still here at the Outpost, although I don’t know his exact whereabouts.</text>
     </string>
     <string id="blck_val_actor_meet_from_stavrid_11">
         <text>All right. I’ll try to find him.</text>
@@ -1177,7 +1177,7 @@
         <text>What sort of collection?</text>
     </string>
     <string id="blck_val_actor_meet_petrovich_quest_3">
-        <text>Way back when, we had a guy in the Outpost who would make figurines; it was his hobby.\n \nAt one point, he got the idea to make a figurine for the mutants in the Zone, and since he had such a good photographic memory, his results were very accurate. After a while, the guy disappeared somewhere, but his figurines remained; he sold all of them to the local stalkers. I started to develop a liking for those figurines when I got my hands on the bloodsucker sculpture, and after that, I wanted to complete the entire collection. Perhaps if you look around the stashes in the Outpost and ask around, you can find something.\n \nSo what do you say? Help me out here? I’ll give you a thousand rubles for each figurine you find.</text>
+        <text>Way back when, we had a guy at the Outpost who would make figurines; it was his hobby.\n \nAt one point, he got the idea to make a figurine for the mutants in the Zone, and since he had such a good photographic memory, his results were very accurate. After a while, the guy disappeared somewhere, but his figurines remained; he sold all of them to the local stalkers. I started to develop a liking for those figurines when I got my hands on the bloodsucker sculpture, and after that, I wanted to complete the entire collection. Perhaps if you look around the stashes at the Outpost and ask around, you can find something.\n \nSo what do you say? Help me out here? I’ll give you a thousand rubles for each figurine you find.</text>
     </string>
     <string id="blck_val_actor_meet_petrovich_quest_4">
         <text>All right. I’ll try and look for them.</text>
@@ -1780,7 +1780,7 @@
         <text>Thing is, I don’t remember how I got here…</text>
     </string>
     <string id="blck_val_prisoner_quest_line_meet_4">
-        <text>Our guy told me that you got out of a bubble with the stalkers… Well, congrats! You managed to get from one cage to another. In case you didn’t figure it out, you’re in the Outpost now. You’ve spent no more than an hour in the stalker base. But don’t worry; you didn’t miss anything. He he.</text>
+        <text>Our guy told me that you got out of a bubble with the stalkers… Well, congrats! You managed to get from one cage to another. In case you didn’t figure it out, you’re at the Outpost now. You’ve spent no more than an hour in the stalker base. But don’t worry; you didn’t miss anything. He he.</text>
     </string>
     <string id="blck_val_prisoner_quest_line_meet_5">
         <text>Why the hell am I behind bars?</text>
@@ -2380,6 +2380,6 @@
         <text>Hi, Petrovich. I’m trying to find an SR-3 Vikhr rifle. Any chance you can get a hold of one?</text>
     </string>
     <string id="blck_val_vihr_meet_5_1">
-        <text>Hmm. No. I won’t be able to find one, and I doubt anyone else in the Outpost can.</text>
+        <text>Hmm. No. I won’t be able to find one, and I doubt anyone else at the Outpost can.</text>
     </string>
 </string_table>
