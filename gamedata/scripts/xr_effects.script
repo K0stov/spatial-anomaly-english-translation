@@ -4246,13 +4246,13 @@ end
 function pb_rezak_send_mes_actor_1()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_rezak_send_mes_actor_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Merc, I don’t have any ammunition. I can’t provide any fire support.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
+	SendTip("%c[54,199,169,96]Merc, I have no ammunition. I can’t provide any fire support.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
 end
 
 function pb_rezak_send_mes_actor_done()
      local snd = sound_object([[characters_voice\scenario\perevalochnaya_baza\pb_rezak_send_mes_actor_done]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Good work, merc. Return with Mosquito to the base. Don’t keep me waiting.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
+	SendTip("%c[54,199,169,96]Good work, merc. Return to base with Mosquito. Don’t wait for me.", "Cutter:", nil, 10, "ui_inGame2_Rezak")
 end
 
 function pb_rezak_send_mes_actor_false()
@@ -4332,7 +4332,7 @@ function pb_npc_lesnik_quest_in()
 end
 
 function esc_dubolom_quest_sends_sms_1()
-	SendTip("%c[54,199,169,96]Merc, where the heck are you? Catch up. We need to find the psy-dog.", "Knucklehead:", nil, 10, "ui_inGame2_Dubolom")
+	SendTip("%c[54,199,169,96]Merc, where the heck are you? Hurry up. We need to find the psy-dog.", "Knucklehead:", nil, 10, "ui_inGame2_Dubolom")
 end
 
 function esc_dubolom_quest_sends_sms_2()
@@ -4348,7 +4348,7 @@ end
 function esc_trader_send_new_quest_sms_1()
      local snd = sound_object([[characters_voice\scenario\trader\quests\esc_trader_send_new_quest_sms_1]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Oh! The beacon works! Wait a moment. I’ll try to find the signal from Klim’s PDA. As soon as I catch it, I’ll tell you.", "Sidorovich:", nil, 8, "ui_inGame2_Sidor")
+	SendTip("%c[54,199,169,96]Oh! The beacon’s working! Wait a moment. I’ll try to find the signal from Klim’s PDA. As soon as I catch it, I’ll tell you.", "Sidorovich:", nil, 8, "ui_inGame2_Sidor")
 end
 
 function esc_trader_send_new_quest_sms_2()
@@ -4390,7 +4390,7 @@ end
 function esc_nps_zver_quest_sms_2()
      local snd = sound_object([[characters_voice\scenario\actor\esc_nps_zver_quest_sms_2]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Raven, the military has an assassination contract for us. Our goal is the head of the neutral base: Father Valerian. I’ll come by a bit later. I need to discuss the details of the contract with you.", "Beast:", nil, 10, "ui_inGame2_Hero")
+	SendTip("%c[54,199,169,96]Raven, the military has an assassination contract for us. Our target is the head of the neutral base: Father Valerian. I’ll come by a bit later. I need to discuss the details of the contract with you.", "Beast:", nil, 10, "ui_inGame2_Hero")
 end
 
 function esc_qrif_quest_sms()
@@ -4402,7 +4402,7 @@ end
 function esc_nps_zver_quest_sms_3()
      local snd = sound_object([[characters_voice\scenario\actor\esc_nps_zver_quest_sms_3]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]You can send the mercenaries to Sidorovich. While you’re at it, find out if he’s sent us the money for them.", "Beast:", nil, 10, "ui_inGame2_Hero")
+	SendTip("%c[54,199,169,96]You can send the mercenaries to Sidorovich. While you’re at it, find out if he’s sent us the payment for them.", "Beast:", nil, 10, "ui_inGame2_Hero")
 end
 
 function esc_qrif_quest_sms_1()
@@ -4650,7 +4650,7 @@ function esc_flask_klim_give()
 end
 
 function pb_actor_inventory_in()
-	SendTip("%c[default]AKS-74U Storm", "Item obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]AKS-74U Storm", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
 	SendTip("%c[default]Bandage %c[gray]x2", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
 	SendTip("%c[default]Scientific medkit %c[gray]x3", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
 	SendTip("%c[default]5.45x39 mm rounds (7H10) %c[gray]x2", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
