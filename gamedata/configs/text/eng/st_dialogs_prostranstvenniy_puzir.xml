@@ -406,7 +406,7 @@
         <text>Take it easy, lieutenant. I’m a mercenary—callsign Beast—sent here to restart a transformer.</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_2">
-        <text>Hm. Let’s say I believe you… How’d you open the cage door?</text>
+        <text>Hmm. Let’s say I believe you… How’d you open the cage door?</text>
     </string>
     <string id="pb_duty_bunchuk_start_dialog_3">
         <text>Someone helped me open it. What about you, though? How long have you been stuck here?</text>
@@ -601,7 +601,7 @@
         <text>Not quite yet.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_18">
-        <text>Best news I’ve heard all week. At least now we won’t have to worry abour electricity for a while. Give it to me.</text>
+        <text>Best news I’ve heard all week. At least now we won’t have to worry about electricity for a while. Give it to me.</text>
     </string>
     <string id="pb_kuvalda_dialog_start_19">
         <text>Here.</text>
@@ -883,7 +883,7 @@
         <text>That might be the case, but we have no choice. We have to do this.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_7">
-        <text>Hm. All right, then. Well, we’d better get going. I’ll go help the rest. You tackle that barn problem.</text>
+        <text>Hmm. All right, then. Well, we’d better get going. I’ll go help the rest. You tackle that barn problem.</text>
     </string>
     <string id="pb_markus_alive_talk_to_actor_final_8">
         <text>You’re right about that… Well, we’d better get going. I’ll go help the rest. You tackle that barn problem.</text>
@@ -1228,7 +1228,7 @@
         <text>What?! Hey! Wait! How are you going to leave the anomaly?!</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_0">
-        <text>I… I can… do it… This th-iiing…</text>
+        <text>I… I can… do it… This th—iiing…</text>
     </string>
     <string id="pb_paskhalka_stalker_meet_1">
         <text>Hey, man, are you all right? What’s going on?</text>
@@ -1672,7 +1672,7 @@
         <text>Sledge? Well, he went through thick and thin in his days. He’s not even a man; he’s a god damn force of nature. I knew him before the whole fiasco with the anomaly. Back then, he worked with Freedom at the military warehouses. He was just about everyone’s favorite person back then. When he came here, things changed, though. He found friends among enemies and generally became a kinder person. He’s been with us for about two and a half months.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_14">
-        <text>Hm. So this place has some value to it. Thanks for the info.</text>
+        <text>Hmm. So this place has some value to it. Thanks for the info.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_all_15">
         <text>Young dude who, in his own words, “made the mistake of joining Duty.” If he gains some experience, he might become a very good fighter one day, but if he gets out of here, he probably won’t be joining up with his faction again. He made friends with Sledgehammer, though they both got pretty hot-headed when they first met, with the Duty–Freedom stuff and all. He’s been here for almost over a month.</text>
@@ -1747,7 +1747,7 @@
         <text>Markus should’ve returned by now, but there’s no trace of him… Do you know where he went off?</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_markus_2">
-        <text>Hm… Nope. He didn’t tell me anything. Wait just a minute; I’m gonna try pinging his PDA signal.</text>
+        <text>Hmm… Nope. He didn’t tell me anything. Wait just a minute; I’m gonna try pinging his PDA signal.</text>
     </string>
     <string id="pb_quest_lutiy_meet_to_markus_3">
         <text>Go on. I’ll wait.</text>
@@ -1819,7 +1819,7 @@
         <text>Great to hear that, Beast. As soon as you get more info about it, come back to me and we’ll discuss it. What else was on Scavenger’s PDA?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_14">
-        <text>Hm… Well, that’s very much like him. I’m glad he tried to help us somehow. If you find his stash, bring it to base. We’ll figure out what to do with it, and it’s not like he needs it anymore. Did his PDA have anything else on it?</text>
+        <text>Hmm… Well, that’s very much like him. I’m glad he tried to help us somehow. If you find his stash, bring it to base. We’ll figure out what to do with it, and it’s not like he needs it anymore. Did his PDA have anything else on it?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_15">
         <text>So that piece of shit took all the good stuff and let us use the grimy ammo and eat mutant meat? Wonderful. If you find his stash, bring it to base. We’ll figure out what to do with it.</text>
@@ -1849,7 +1849,7 @@
         <text>Great to hear that, Beast. As soon as you get more info about it, come back to me and we’ll discuss it. What else was on Scavenger’s PDA?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_23">
-        <text>Hm… Well, that’s very much like him. I’m glad he tried to help us somehow. If you find his stash, bring it to base. We’ll figure out what to do with it, and it’s not like he needs it anymore. Did his PDA have anything else on it?</text>
+        <text>Hmm… Well, that’s very much like him. I’m glad he tried to help us somehow. If you find his stash, bring it to base. We’ll figure out what to do with it, and it’s not like he needs it anymore. Did his PDA have anything else on it?</text>
     </string>
     <string id="pb_quest_lutiy_talk_after_foundet_padalshik_24">
         <text>I’ve already found his stash.</text>
@@ -2053,7 +2053,7 @@
         <text>Don’t need it. Show me more.</text>
     </string>
     <string id="pb_shurup_talk_to_open_habar_6">
-        <text>Mhm. Here’s your scope. Next up, we have a decent pea-shooter: the FN FNP-45. Not exactly up to date, but its destructive capabilities won’t be disappointing.</text>
+        <text>Mm-hmm. Here’s your scope. Next up, we have a decent pea-shooter: the FN FNP-45. Not exactly up to date, but its destructive capabilities won’t be disappointing.</text>
     </string>
     <string id="pb_shurup_talk_to_open_habar_7">
         <text>I’ll take it.</text>
