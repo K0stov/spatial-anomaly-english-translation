@@ -7,13 +7,13 @@
         <text>Markus, it’s me… What’s the matter with you?</text>
     </string>
     <string id="bar_markus_meet_good_end_10">
-        <text>I was led out of the spatial anomaly by an old man. He called himself “Hermit.” He brought me to this place and told me I’d be safe here. He also told me something about you and Stronglav: he said that you were the one who created the creature after you were caught in a blowout in the Cordon, and since then, Stronglav has been around you the whole time. He was only able to manifest himself as a separate entity from you after you stepped into the space bubble.</text>
+        <text>An old man led me out of the spatial anomaly. He called himself “Hermit.” He brought me to this place and told me I’d be safe here. He also told me something about you and Stronglav: he said that you were the one who created the creature after you were caught in a blowout in the Cordon. Since then, Stronglav has been with you the whole time. He was only able to manifest himself as a separate entity from you after you stepped into the space bubble.</text>
     </string>
     <string id="bar_markus_meet_good_end_11">
         <text>That’s hard to believe… but if it’s true, how do we get rid of this thing?</text>
     </string>
     <string id="bar_markus_meet_good_end_12">
-        <text>I don’t know. You need to warn the others. We need to be ready for Stronglav.</text>
+        <text>I don’t know. We need to warn the others. We need to be ready for Stronglav…</text>
     </string>
     <string id="bar_markus_meet_good_end_13">
         <text>All right. Let’s go warn the others.</text>
@@ -22,7 +22,7 @@
         <text>Don’t try anything, you filth! Hermit told me every single detail! Do you think I’m gonna believe you’re the real Beast? I’m no fool…</text>
     </string>
     <string id="bar_markus_meet_good_end_3">
-        <text>It’s me, Markus. I’m Beast. I don’t know what that old man told you, but it really is me.</text>
+        <text>It’s me, Markus. I don’t know what that old man told you, but it really is me.</text>
     </string>
     <string id="bar_markus_meet_good_end_4">
         <text>Yeah? And how are you going to explain your attempt on my life? When I followed you into this space bubble, you attacked me. How do you explain that?</text>
@@ -37,7 +37,7 @@
         <text>I came here from the Outpost. Those damn Monolith fanatics caught Savage and hauled him into the laboratory. I tried to save him, but he died. Stronglav took over his mind. I blew up the lab entrance so that Stronglav would remain trapped inside, and I hope we never see that bastard again.</text>
     </string>
     <string id="bar_markus_meet_good_end_8">
-        <text>Don’t you understand?… Beast, that creature—Stronglav—you won’t be able to get rid of him like that. He most certainly followed you here… Hermit told me about your link to Stronglav. Wherever you go, he’ll come after you…</text>
+        <text>So you don’t get it?… Beast, that creature—Stronglav—you won’t be able to get rid of him like that. He most certainly followed you here… Hermit told me about your link to Stronglav. You see, wherever you go, he’ll come after you…</text>
     </string>
     <string id="bar_markus_meet_good_end_9">
         <text>What?! Markus, what link are you talking about?</text>
@@ -61,7 +61,7 @@
         <text>Why didn’t you bring us out of the anomaly that one time? You helped me, but what about the guys, Sledgehammer and Marcus?</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_14">
-        <text>I couldn’t. You had to understand everything and go down this path… There were no other options…\n \nResisting him is getting more difficult… Promise me that when you meet Stronglav face to face, you will make the right choice… Farewell, Beast…</text>
+        <text>I couldn’t. You had to understand everything and go down this path… There was no other option…\n \nResisting him is getting more difficult… Promise me that when you meet Stronglav face to face, you will make the right choice… Farewell, Beast…</text>
     </string>
     <string id="bar_otshelnik_meet_to_bad_end_game_15">
         <text>I promise! Farewell, old man…</text>
@@ -124,7 +124,7 @@
         <text>He’s still here, helping the scientists in the lab.</text>
     </string>
     <string id="bar_zmeelov_digger_meet_start_9">
-        <text>Okay. Can you show me where the lab is?</text>
+        <text>Okay. Can you show me the way to the lab?</text>
     </string>
     <string id="labx7_killer_tesak_dialog_0">
         <text>Well, we meet again, Beast! I like your new style… You’ll certainly fit right in with those fanatics.</text>
@@ -136,7 +136,7 @@
         <text>Well, you’re certainly not very polite. Time changes everyone, Beast, but you remain the same. From the very first day when you were rescued by Fish, I knew you were a real prick. You betrayed everyone! You even betrayed the man who taught you everything. The man who thought of you as a brother. The man who was willing to give you one last mag of ammo. The man who was willing to cut someone’s throat just for you alone!</text>
     </string>
     <string id="labx7_killer_tesak_dialog_3">
-        <text>Shut the fuck up, Hatchet! You can’t judge me! You don’t know who I am! I’m warning you one last time: put your weapon on the ground and get out of here while you still can. And take your boys with you.</text>
+        <text>Shut the fuck up, Hatchet! You can’t judge me! You don’t know who I am! I’m warning you one last time: put your weapons on the ground and get out of here while you still can. And take your boys with you.</text>
     </string>
     <string id="labx7_killer_tesak_dialog_4">
         <text>Not only are you an absolute scoundrel, but you also have a lot of fucking nerve. We’ll just have to blow your brains out of your stupid head!</text>

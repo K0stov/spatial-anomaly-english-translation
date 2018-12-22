@@ -187,10 +187,10 @@
 		<text>Hey, Semyon. Listen, you haven’t seen Markus, have you?</text>
 	</string>
 	<string id="semen_talk_to_zmeelov">
-		<text>Hi, Zmeyelov. As far as I know, he went to the aviaries. Seems like he’s still there.</text>
+		<text>Hi, Snakecatcher. As far as I know, he went to the cages. Seems like he’s still there.</text>
 	</string>
 	<string id="zmeelov_talk_actor">
-		<text>Okay, merc, the aviaries are to the left in the corridor. That door over there in the laboratory leads to him. Don’t get lost.</text>
+		<text>Okay, merc, the cages are to the left in the corridor. That door over there in the laboratory leads to him. Don’t get lost.</text>
 	</string>
 	<string id="zmeelov_talk_semen_after">
 		<text>Semyon, let him through.</text>

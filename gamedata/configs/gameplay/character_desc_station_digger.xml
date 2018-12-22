@@ -2,7 +2,7 @@
 
 <xml>
 	<specific_character id="bar_zmeelov_digger" team_default="1">
-		<name>Snaker</name>
+		<name>Snakecatcher</name>
 		<icon>ui_inGame2_neutral_1</icon>
 		<map_icon x="1" y="0">
 		</map_icon>

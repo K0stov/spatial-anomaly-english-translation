@@ -4438,13 +4438,13 @@ end
 function esc_zver_sends_sms_raven()
      local snd = sound_object([[characters_voice\scenario\actor\esc_zver_sends_sms_raven]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Raven, get away from the corpses and return to the vehicle station. I’m meeting up with the military to get our payment.", "Beast:", nil, 10, "ui_inGame2_Hero")
+	SendTip("%c[54,199,169,96]Raven, get rid of the bodies and return to the vehicle station. I’m going to collect our reward from the military.", "Beast:", nil, 10, "ui_inGame2_Hero")
 end
 
 function esc_yaroshuk_sends_sms_zver()
      local snd = sound_object([[characters_voice\scenario\escape\esc_yaroshuk_sends_sms_zver]])
      snd:play_no_feedback(db.actor,sound_object.s2d, 0, vector():set(0,0,0), 3.0)
-	SendTip("%c[54,199,169,96]Excellent. I’ll wait for you at the same place in the morning.", "Lt Yaroshchuk:", nil, 10, "ui_sms_army")
+	SendTip("%c[54,199,169,96]Excellent. I’ll wait for you at the same place in the morning.", "Lt Yaroschuk:", nil, 10, "ui_sms_army")
 end
 
 function esc_razvedka_quest_sms_1()
@@ -4646,20 +4646,20 @@ function end_game_stronglav_warning()
 end
 
 function esc_flask_klim_give()
-	SendTip("%c[default]Klim’s flash drive", "Item obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Klim’s flash drive", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
 end
 
 function pb_actor_inventory_in()
-	SendTip("%c[default]AKS-74U Storm", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
-	SendTip("%c[default]Bandage %c[gray]x2", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
-	SendTip("%c[default]Scientific medkit %c[gray]x3", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
-	SendTip("%c[default]5.45x39 mm rounds (7H10) %c[gray]x2", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
-	SendTip("%c[default]Bolts %c[gray]x10", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
-	SendTip("%c[default]Cans %c[gray]x2", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]AKS-74U Storm", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Bandage %c[gray]x2", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Scientific medkit %c[gray]x3", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]5.45x39 mm rounds (7H10) %c[gray]x2", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Bolts %c[gray]x10", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Cans %c[gray]x2", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
 end
 
 function pb_bolt_box_small_in()
-	SendTip("%c[default]Bolts %c[gray]x5 %c[default]", "Items obtained:", nil, 3, "ui_inGame2_Predmet_poluchen")
+	SendTip("%c[default]Bolts %c[gray]x5 %c[default]", "Items received:", nil, 3, "ui_inGame2_Predmet_poluchen")
 end
 
 function blck_val_tech_change_community_monolith()
