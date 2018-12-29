@@ -29,7 +29,7 @@ A list of all files with detailed progress can be found below.
 	- [blck_val_stalker_hutor.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_hutor.ltx)
 		- done (part of subtitles)
 	- [blck_val_stalker_hutor_enemy_again.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_hutor_enemy_again.ltx)
-		- donev
+		- done
 	- [blck_val_stalker_security.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_security.ltx)
 		- done (part of subtitles)
 	- [blck_val_zastava_provodnik.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_zastava_provodnik.ltx)
