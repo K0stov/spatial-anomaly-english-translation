@@ -209,7 +209,7 @@ A list of all files with detailed progress can be found below.
 	- [ui_custom_msgs_16.xml](gamedata/configs/ui/ui_custom_msgs_16.xml)
 		- done (part of subtitles)
 - **[configs/ui/textures_descr](gamedata/configs/ui/textures_descr)**
-	- [ui_actor_hint_wnd.xml](gamedata/configs/ui/ui_actor_hint_wnd.xml)
+	- [ui_actor_hint_wnd.xml](gamedata/configs/ui/textures_descr/ui_actor_hint_wnd.xml)
 		- done
 - **[gamedata/scripts](gamedata/scripts)**
 	- [dengi.script](gamedata/scripts/dengi.script)
