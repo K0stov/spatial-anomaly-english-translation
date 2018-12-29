@@ -6,7 +6,7 @@ A list of all files with detailed progress can be found below.
 ---
 - **[particles.xr](gamedata/particles.xr)**
 	- done (given to us as a gift from the author)
-- **[configs/localization.ltx](gamedata/localization.ltx)**
+- **[configs/localization.ltx](gamedata/configs/localization.ltx)**
 	- done
 - **[configs/gameplay](gamedata/configs/gameplay)**
 	- [character_desc_black_valley.xml](gamedata/configs/gameplay/character_desc_black_valley.xml)
@@ -67,7 +67,7 @@ A list of all files with detailed progress can be found below.
 		- done (part of subtitles)
 	- [esc_trader_security.ltx](gamedata/configs/scripts/escape/npc/esc_trader_security.ltx)
 		- done (part of subtitles)
-- **[configs/scripts/escape/smart/exclusive](gamedata/configs/scripts/smart/exclusive)**
+- **[configs/scripts/escape/smart/exclusive](gamedata/configs/scripts/escape/smart/exclusive)**
 	- [esc_squad_killer_atp.ltx](gamedata/configs/scripts/escape/smart/exclusive/esc_squad_killer_atp.ltx)
 		- done (part of subtitles)
 - **[configs/scripts/escape/space_restrictor](configs/scripts/escape/space_restrictor)**
@@ -131,7 +131,7 @@ A list of all files with detailed progress can be found below.
 		- done (part of subtitles)
 	- [pb_quest_mail_shpala_spawn.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_quest_mail_shpala_spawn.ltx)
 		- done (part of subtitles)
-- **[configs/scripts/stalker66/npc](gamedata/scripts/stalker66/npc)**
+- **[configs/scripts/stalker66/npc](gamedata/configs/scripts/stalker66/npc)**
 	- [esc_bobik_npc2.ltx](gamedata/configs/scripts/stalker66/npc/esc_bobik_npc2.ltx)
 		- done (part of subtitles)
 - **[configs/scripts/station_digger/npc](gamedata/configs/scripts/station_digger/npc)**
