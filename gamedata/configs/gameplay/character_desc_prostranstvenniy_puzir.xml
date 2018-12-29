@@ -526,7 +526,7 @@
   </specific_character>
 
 	<specific_character id="pb_soldier_oleynik" team_default="1">
-		<name>Sergeant Oleynik</name>
+		<name>Sgt. Oleynik</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -560,7 +560,7 @@
   </specific_character>
 
 	<specific_character id="pb_soldier_oleynik_podval" team_default="1">
-		<name>Sergeant Oleynik</name>
+		<name>Sgt. Oleynik</name>
 		<icon>ui_inGame2_Soldier_2</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
@@ -718,7 +718,7 @@
 	</specific_character>
 
 	<specific_character id="pb_killer_fire" team_default = "1">
-		<name>Brome</name>
+		<name>Bromine</name>
 		<icon>ui_inGame2_merc_2</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>

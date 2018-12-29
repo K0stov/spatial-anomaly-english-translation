@@ -1224,7 +1224,7 @@
   </specific_character>
 
 	<specific_character id="blck_val_zastava_provodnik" team_default="1">
-		<name>Jawsmith</name>
+		<name>Blowhard</name>
 		<icon>ui_inGame2_bandit_4</icon>
 		<map_icon x="1" y="0">
 		</map_icon>
