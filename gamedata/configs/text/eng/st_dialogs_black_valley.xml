@@ -313,7 +313,7 @@
         <text>I’d be happy to get you there, but the problem is that the place is always filled with either boars or bandits. I’d much rather just get you to the farm that’s nearby. It’s a lot safer. From there, you can continue on your own, or I can get you to the nearby metal factory, if you’d like. So what do you say?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_39">
-        <text>A Freedomer by the name of Miklukha told me to come by; he gave me his coordinates. His location is way far off, and I need someone to show me a safe path. Can you do that?</text>
+        <text>A Freedomer by the name of Miklukha told me to come by; he gave me his coordinates. His location is far off, and I need someone to show me a safe path. Can you do that?</text>
     </string>
     <string id="blck_val_actor_meet_from_provodnik_4">
         <text>So you’re that mercenary who got out of the spatial anomaly with some other stalkers? In that case, I won’t ask any questions. Just one thing, though: are you heading to the northern farm, by any chance?</text>
@@ -1027,7 +1027,7 @@
         <text>You’re awake, Beast. Good. We were really worrying about you for a while. What the hell happened to you at the factory?</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_21">
-        <text>I transmitted the coordinates, but the wrong people got their hands on it. It wasn’t such a good idea. Can’t do anything about it now, though.</text>
+        <text>I transmitted the coordinates, but they fell into the wrong hands. It wasn’t such a good idea. Can’t do anything about it now, though.</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_22">
         <text>Beast, what the hell are you talking about?</text>
@@ -1036,7 +1036,7 @@
         <text>There’s no time to go into detail, but it’s likely that all of us are in grave danger.</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_24">
-        <text>If it’s an attack, we’ll can fight it off with ease considering the massive protection we have here.</text>
+        <text>If it’s an attack, we’ll can fight it off with ease, considering the massive protection we have here.</text>
     </string>
     <string id="blck_val_actor_meet_from_tech_25">
         <text>I hope that’s the case. Anyway, here’s your transmitter.</text>

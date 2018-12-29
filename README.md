@@ -6,6 +6,8 @@ A list of all files with detailed progress can be found below.
 ---
 - **[particles.xr](gamedata/particles.xr)**
 	- done (given to us as a gift from the author)
+- **[configs/localization.ltx](gamedata/localization.ltx)**
+	- done
 - **[configs/gameplay](gamedata/configs/gameplay)**
 	- [character_desc_black_valley.xml](gamedata/configs/gameplay/character_desc_black_valley.xml)
 		- done
@@ -19,19 +21,126 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [character_desc_station_digger.xml](gamedata/configs/gameplay/character_desc_station_digger.xml)
 		- done
+- **[configs/scripts/black_valley/npc](gamedata/configs/scripts/black_valley/npc)**
+	- [blck_val_a35_freedom.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_a35_freedom.ltx)
+		- done (part of subtitles)
+	- [blck_val_lutiy_cut_scene.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_lutiy_cut_scene.ltx)
+		- done (part of subtitles)
+	- [blck_val_stalker_hutor.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_hutor.ltx)
+		- done (part of subtitles)
+	- [blck_val_stalker_hutor_enemy_again.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_hutor_enemy_again.ltx)
+		- donev
+	- [blck_val_stalker_security.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_stalker_security.ltx)
+		- done (part of subtitles)
+	- [blck_val_zastava_provodnik.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_zastava_provodnik.ltx)
+		- done (part of subtitles)
 - **[configs/scripts/black_valley/space_restrictor](gamedata/configs/scripts/black_valley/space_restrictor)**
+	- [blck_val_actor_final_cut_scene_in_zastava.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_final_cut_scene_in_zastava.ltx)
+		- done (part of subtitles)
+	- [blck_val_actor_go_sleep_prison.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_go_sleep_prison.ltx)
+		- done (part of subtitles)
+	- [blck_val_actor_start_logic.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_start_logic.ltx)
+		- done (part of subtitles)
+	- [blck_val_anomal_plant_replic_zone.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_anomal_plant_replic_zone.ltx)
+		- done (part of subtitles)
 	- [blck_val_freedom_need_help.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_freedom_need_help.ltx)
 		- done
+	- [blck_val_quest_line_levsha_dead.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_quest_line_levsha_dead.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/digger_stash/space_restrictor](gamedata/configs/scripts/digger_stash/space_restrictor)**
+	- [digst_actor_ending_good.ltx](gamedata/configs/scripts/digger_stash/space_restrictor/digst_actor_ending_good.ltx)
+		- done (part of subtitles)
+	- [digst_actor_ending_neutral.ltx](gamedata/configs/scripts/digger_stash/space_restrictor/digst_actor_ending_neutral.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/escape/npc](gamedata/configs/scripts/escape/npc)**
+	- [esc_bar_security.ltx](gamedata/configs/scripts/escape/npc/esc_bar_security.ltx)
+		- done (part of subtitles)
+	- [esc_killer_raven_sniper.ltx](gamedata/configs/scripts/escape/npc/esc_killer_raven_sniper.ltx)
+		- done (part of subtitles)
+	- [esc_killer_td_2.ltx](gamedata/configs/scripts/escape/npc/esc_killer_td_2.ltx)
+		- done (part of subtitles)
+	- [esc_stalker_enot_sleep.ltx](gamedata/configs/scripts/escape/npc/esc_stalker_enot_sleep.ltx)
+		- done (part of subtitles)
+	- [esc_stalker_to_atp.ltx](gamedata/configs/scripts/escape/npc/esc_stalker_to_atp.ltx)
+		- done (part of subtitles)
+	- [esc_stalkers_prisoner.ltx](gamedata/configs/scripts/escape/npc/esc_stalkers_prisoner.ltx)
+		- done (part of subtitles)
+	- [esc_trader_security.ltx](gamedata/configs/scripts/escape/npc/esc_trader_security.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/escape/smart/exclusive](gamedata/configs/scripts/smart/exclusive)**
+	- [esc_squad_killer_atp.ltx](gamedata/configs/scripts/escape/smart/exclusive/esc_squad_killer_atp.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/escape/space_restrictor](configs/scripts/escape/space_restrictor)**
+	- [esc_actor_read_old_note.ltx](configs/scripts/escape/space_restrictor/esc_actor_read_old_note.ltx)
+		- done (part of subtitles)
+	- [esc_actor_replic_restrictor.ltx](configs/scripts/escape/space_restrictor/esc_actor_replic_restrictor.ltx)
+		- done (part of subtitles)
+	- [esc_actor_start_logic.ltx](configs/scripts/escape/space_restrictor/esc_actor_start_logic.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/labx7/npc](gamedata/configs/scripts/labx7/npc)**
+	- [labx7_ghost_first.ltx](gamedata/configs/scripts/labx7/npc/labx7_ghost_first.ltx)
+		- done (part of subtitles)
+	- [labx7_ghost_two.ltx](gamedata/configs/scripts/labx7/npc/labx7_ghost_two.ltx)
+		- done (part of subtitles)
 - **[configs/scripts/labx7/space_restrictor](gamedata/configs/scripts/labx7/space_restrictor)**
+	- [labx7_actor_replic_about_bloodsucker.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_actor_replic_about_bloodsucker.ltx)
+		- done (part of subtitles)
+	- [labx7_actor_start_logic.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_actor_start_logic.ltx)
+		- done (part of subtitles)
 	- [labx7_explosive_timer.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_explosive_timer.ltx)
 		- done
-- **[configs/scripts/prostranstvenniy_puzir/npc](gamedata/configs/scripts/prostranstvenniy_puzir/npc)**
-	- [pb_lutiy_cut_scene.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_lutiy_cut_scene.ltx)
+	- [labx7_quest_zone_explosive_give.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_quest_zone_explosive_give.ltx)
 		- done (part of subtitles)
-	- [pb_moskit.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_moskit.ltx)
+	- [labx7_quest_zone_tesak_talk.ltx](gamedata/configs/scripts/labx7/space_restrictor/labx7_quest_zone_tesak_talk.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/prostranstvenniy_puzir/npc](gamedata/configs/scripts/prostranstvenniy_puzir/npc)**
+	- [pb_dubolom_quest.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_dubolom_quest.ltx)
+		- done (part of subtitles)
+	- [pb_ghost_podval.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_ghost_podval.ltx)
+		- done (part of subtitles)
+	- [pb_killer_leader_group.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_killer_leader_group.ltx)
+		- done (part of subtitles)
+	- [pb_kuvalda_prison.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_kuvalda_prison.ltx)
+		- done (part of subtitles)
+	- [pb_lesnik_final_scene.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_lesnik_final_scene.ltx)
+		- done (part of subtitles)
+	- [pb_lutiy_cut_scene.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_lutiy_cut_scene.ltx)
+		- done (part of subtitles)
+	- [pb_moskit.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_moskit.ltx)
+		- done (part of subtitles)
+	- [pb_mrakobes_final.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_mrakobes_final.ltx)
+		- done (part of subtitles)
+	- [pb_murad_quest_door.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_murad_quest_door.ltx)
+		- done (part of subtitles)
+	- [pb_murad_quest_door_general.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/npc/pb_murad_quest_door_general.ltx)
 		- done (part of subtitles)
 - **[configs/scripts/prostranstvenniy_puzir/space_restrictor](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor)**
-	- [pb_actor_replic_restrictor.ltx](gamedata/configs/scripts/labx7/space_restrictor/pb_actor_replic_restrictor.ltx)
+	- [pb_actor_drink_scene_wake_up.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_actor_drink_scene_wake_up.ltx)
+		- done (part of subtitles)
+	- [pb_actor_replic_restrictor.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_actor_replic_restrictor.ltx)
+		- done (part of subtitles)
+	- [pb_actor_skip_time_restrictor.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_actor_skip_time_restrictor.ltx)
+		- done (part of subtitles)
+	- [pb_actor_starting_cut_scene.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_actor_starting_cut_scene.ltx)
+		- done (part of subtitles)
+	- [pb_markus_zone_restrictor.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_markus_zone_restrictor.ltx)
+		- done (part of subtitles)
+	- [pb_quest_line_murad_restrictor.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_quest_line_murad_restrictor.ltx)
+		- done (part of subtitles)
+	- [pb_quest_line_tachenko_final_line.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_quest_line_tachenko_final_line.ltx)
+		- done (part of subtitles)
+	- [pb_quest_mail_shpala_spawn.ltx](gamedata/configs/scripts/prostranstvenniy_puzir/space_restrictor/pb_quest_mail_shpala_spawn.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/stalker66/npc](gamedata/scripts/stalker66/npc)**
+	- [esc_bobik_npc2.ltx](gamedata/configs/scripts/stalker66/npc/esc_bobik_npc2.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/station_digger/npc](gamedata/configs/scripts/station_digger/npc)**
+	- [bar_digger_semen.ltx](gamedata/configs/scripts/station_digger/npc/bar_digger_semen.ltx)
+		- done (part of subtitles)
+	- [bar_zmeelov_digger_general.ltx](gamedata/configs/scripts/station_digger/npc/bar_zmeelov_digger_general.ltx)
+		- done (part of subtitles)
+- **[configs/scripts/station_digger/space_restrictor](gamedata/configs/scripts/station_digger/space_restrictor)**
+	- [bar_bad_end_game_spawn_otshelnik.ltx](gamedata/configs/scripts/station_digger/space_restrictor/bar_bad_end_game_spawn_otshelnik.ltx)
 		- done (part of subtitles)
 - **[configs/text/eng](gamedata/configs/text/eng)**
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
@@ -99,9 +208,14 @@ A list of all files with detailed progress can be found below.
 		- done (part of subtitles)
 	- [ui_custom_msgs_16.xml](gamedata/configs/ui/ui_custom_msgs_16.xml)
 		- done (part of subtitles)
+- **[configs/ui/textures_descr](gamedata/configs/ui/textures_descr)**
+	- [ui_actor_hint_wnd.xml](gamedata/configs/ui/ui_actor_hint_wnd.xml)
+		- done
 - **[gamedata/scripts](gamedata/scripts)**
 	- [dengi.script](gamedata/scripts/dengi.script)
 		- done
+	- [gui_callbacks.script](gamedata/scripts/gui_callbacks.script)
+		- done (part of a new patch from the author)
 	- [ins_gui_quest_devices.script](gamedata/scripts/ins_gui_quest_devices.script)
 		- done
 	- [ui_gui_spec_objects.script](gamedata/scripts/ui_gui_spec_objects.script)
@@ -109,7 +223,7 @@ A list of all files with detailed progress can be found below.
 	- [ui_main_menu.script](gamedata/scripts/ui_main_menu.script)
 		- done
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
-		- done (needs revision)
+		- done
 - **[gamedata/textures/intro](gamedata/textures/intro)**
 	- [ins_intro.dds](gamedata/textures/intro/ins_intro.dds)
 		- done
@@ -123,7 +237,7 @@ A list of all files with detailed progress can be found below.
 		- incomplete (unused?)
 - **[gamedata/textures/part](gamedata/textures/part)**
 	- [part_zazgig.dds](gamedata/textures/part/part_zazgig.dds)
-		- done (given to us as a gift from the author)
+		- done (part of a new patch from the author)
 - **[gamedata/textures/ui](gamedata/textures/ui)**
 	- [ui_actor_loadgame_screen.dds](gamedata/textures/ui/ui_actor_loadgame_screen.dds)
 		- done
@@ -137,3 +251,7 @@ A list of all files with detailed progress can be found below.
 		- done
 	- [ui_hud_grenade_mark2.dds](gamedata/textures/ui/ui_hud_grenade_mark2.dds)
 		- done
+	- [ui_intro_anomaly.dds](gamedata/textures/ui/ui_intro_anomaly.dds)
+		- done (part of a new patch from the author)
+	- [ui_intro_proffesional.dds](gamedata/textures/ui/ui_intro_proffesional.dds)
+		- done (part of a new patch from the author)

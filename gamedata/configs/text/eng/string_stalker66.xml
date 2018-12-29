@@ -12,14 +12,14 @@
     <text>Zokhan’s instinct: check the coordinates</text>
 </string>
 <string id="esc_zohan_flair_quest_1_text">
-    <text>A set of coordinates for an area not far from here are mentioned in the notebook. Time to check it out.</text>
+    <text>A set of coordinates to an area not far from here are mentioned in the notebook. Time to check it out.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_2_name">
     <text>Zokhan’s instinct: wait until night</text>
 </string>
 <string id="esc_zohan_flair_quest_2_text">
-    <text>The coordinates have led me to a note that holds the time and area of a meeting with a certain stalker. I have to wait until night and check everything there.</text>
+    <text>The coordinates have led me to a note that describes the time and place for a meeting with a certain stalker. I have to wait until night and check everything there.</text>
 </string>
 
 <string id="esc_zohan_flair_quest_3_name">

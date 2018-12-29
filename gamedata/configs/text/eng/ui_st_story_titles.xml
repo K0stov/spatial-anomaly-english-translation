@@ -121,10 +121,10 @@
 		<text>Step back!</text>
 	</string>
 	<string id="hunter_dubolom">
-		<text>Okay. The trail’s fresh. Means the doggy’s somewhere nearby… Merc, look sharp. Unless, of course, you want to become lunch.</text>
+		<text>Okay. This trail is fresh. Means the doggy’s somewhere nearby… Merc, look sharp. Unless, of course, you want to become lunch.</text>
 	</string>
 	<string id="help_thanks">
-		<text>Thanks for setting us free, man.</text>
+		<text>Thanks for freeing us, man.</text>
 	</string>
 	<string id="koordinator_first_meet">
 		<text>I said come in. Don’t stand there.</text>
@@ -139,13 +139,13 @@
 		<text>Attention! We’ve been detected!</text>
 	</string>
 	<string id="killer_raven_operation_start">
-		<text>Okay, boys. Let’s do this.</text>
+		<text>Let’s do this, boys!</text>
 	</string>
 	<string id="enot_wake_up">
 		<text>’Ey, what do you want? It’s the middle of the night…</text>
 	</string>
 	<string id="security_trader_talk">
-		<text>Ugh, you people… Go on, then!</text>
+		<text>Ugh, these people… Go on, then!</text>
 	</string>
 	<string id="tesak_say_kill_kuvalda">
 		<text>Bromine, take out one of them.</text>
@@ -163,10 +163,10 @@
 		<text>Okay. Continue on your own. I think you know what a transformer box looks like. Just turn the switch and get back.</text>
 	</string>
 	<string id="security_meet_prison_actor">
-		<text>Merc, over here. Got a word with you.</text>
+		<text>Merc, step up to the door. Got a word with you.</text>
 	</string>
 	<string id="provodnik_call">
-		<text>Hey, merc, what brings you here? Come here. Let’s talk.</text>
+		<text>Hey, merc, what brings you here? Come over and we’ll talk.</text>
 	</string>
 	<string id="bandit_talk_rac_from_hutor">
 		<text>Yo, boys, listen up… You ain’t all dead over there, are you?… Come on! Get on the air already! Hey, brothers, we ain’t clear on what’s going on! Our homies are laying low. Gotta take a peek and see what’s up.\n— Don’t worry, boss. We’re going.</text>
@@ -184,13 +184,13 @@
 		<text>Let him consume you.</text>
 	</string>
 	<string id="zmeelov_talk_semen">
-		<text>Hey, Semyon. Listen, you haven’t seen Markus, have you?</text>
+		<text>Hi, Semyon. Listen, you haven’t seen Markus, have you?</text>
 	</string>
 	<string id="semen_talk_to_zmeelov">
 		<text>Hi, Snakecatcher. As far as I know, he went to the cages. Seems like he’s still there.</text>
 	</string>
 	<string id="zmeelov_talk_actor">
-		<text>Okay, merc, the cages are to the left in the corridor. That door over there in the laboratory leads to him. Don’t get lost.</text>
+		<text>Okay, merc, the cages are down the hall to the left. That door over there in the laboratory will lead you to them. Don’t get lost there.</text>
 	</string>
 	<string id="zmeelov_talk_semen_after">
 		<text>Semyon, let him through.</text>
@@ -199,7 +199,7 @@
 		<text>I need to start the transmitter outside the spatial anomaly, not here.</text>
 	</string>
 	<string id="actor_about_transiver_2">
-		<text>I’ve already sent the anomaly exit coordinates. No need to do it again.</text>
+		<text>I’ve already sent the coordinates to the anomaly exit. No need to do it again.</text>
 	</string>
 	
 </string_table>
