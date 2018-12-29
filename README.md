@@ -35,17 +35,17 @@ A list of all files with detailed progress can be found below.
 	- [blck_val_zastava_provodnik.ltx](gamedata/configs/scripts/black_valley/npc/blck_val_zastava_provodnik.ltx)
 		- done (part of subtitles)
 - **[configs/scripts/black_valley/space_restrictor](gamedata/configs/scripts/black_valley/space_restrictor)**
-	- [blck_val_actor_final_cut_scene_in_zastava.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_final_cut_scene_in_zastava.ltx)
+	- [blck_val_actor_final_cut_scene_in_zastava.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_actor_final_cut_scene_in_zastava.ltx)
 		- done (part of subtitles)
-	- [blck_val_actor_go_sleep_prison.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_go_sleep_prison.ltx)
+	- [blck_val_actor_go_sleep_prison.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_actor_go_sleep_prison.ltx)
 		- done (part of subtitles)
-	- [blck_val_actor_start_logic.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_actor_start_logic.ltx)
+	- [blck_val_actor_start_logic.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_actor_start_logic.ltx)
 		- done (part of subtitles)
-	- [blck_val_anomal_plant_replic_zone.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_anomal_plant_replic_zone.ltx)
+	- [blck_val_anomal_plant_replic_zone.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_anomal_plant_replic_zone.ltx)
 		- done (part of subtitles)
 	- [blck_val_freedom_need_help.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_freedom_need_help.ltx)
 		- done
-	- [blck_val_quest_line_levsha_dead.ltx](gamedata/configs/scripts/black_valley/space_restrictor)/blck_val_quest_line_levsha_dead.ltx)
+	- [blck_val_quest_line_levsha_dead.ltx](gamedata/configs/scripts/black_valley/space_restrictor/blck_val_quest_line_levsha_dead.ltx)
 		- done (part of subtitles)
 - **[configs/scripts/digger_stash/space_restrictor](gamedata/configs/scripts/digger_stash/space_restrictor)**
 	- [digst_actor_ending_good.ltx](gamedata/configs/scripts/digger_stash/space_restrictor/digst_actor_ending_good.ltx)
@@ -223,7 +223,7 @@ A list of all files with detailed progress can be found below.
 	- [ui_main_menu.script](gamedata/scripts/ui_main_menu.script)
 		- done
 	- [xr_effects.script](gamedata/scripts/xr_effects.script)
-		- done
+		- done (contains part of a new patch from the author)
 - **[gamedata/textures/intro](gamedata/textures/intro)**
 	- [ins_intro.dds](gamedata/textures/intro/ins_intro.dds)
 		- done
