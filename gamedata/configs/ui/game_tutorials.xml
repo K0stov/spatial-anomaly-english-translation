@@ -1,0 +1,1021 @@
+<window>
+	<talk_ssu>
+    <render_prio>5</render_prio>
+    <global_wnd width="1024" height="768">
+     	<pause_state>off</pause_state>
+   		<auto_static width="1024" height="768" stretch="1">
+      			<texture>intro\intro_back</texture>
+   		</auto_static>
+      	<function_on_stop>xr_effects.pri_a28_talk_ssu_video_end</function_on_stop>
+  	</global_wnd>
+	<item>
+		<length_sec>60</length_sec>
+    <disabled_key>quit</disabled_key>
+    <main_wnd>
+      <auto_static  start_time="0" length_sec="61" x="0" y="96" width="1024" height="576" stretch="1">
+        <widescreen_rect width="1024" height="768"/>
+        <texture width="638" height="358">intro\video_talk_with_ssu</texture>
+    	</auto_static>
+		</main_wnd>
+	</item>
+	</talk_ssu>
+
+<!-- FINAL OUTRO -->
+	<outro_game>
+    <persistent>1</persistent>
+		<global_wnd width="1024" height="768">
+      <pause_state>on</pause_state>
+   		<auto_static width="1024" height="768" stretch="1">
+      			<texture>intro\intro_back</texture>
+   		</auto_static>
+      <function_on_start>outro_cond.start_bk_sound</function_on_start>
+      <function_on_stop>outro_cond.stop_bk_sound</function_on_stop>
+    </global_wnd>
+    
+    <!------ 0_pause -->
+		<item>
+			<length_sec>2</length_sec>
+      <function_on_frame>outro_cond.update_bk_sound_fade_start</function_on_frame>
+
+      <main_wnd>
+   		<auto_static width="1024" height="768" stretch="1">
+      			<texture>intro\intro_back</texture>
+   		</auto_static>
+			</main_wnd>
+		</item>
+<!------ Макс -->
+		<item>
+			<length_sec>8.0</length_sec>
+      		<!-- <sound>characters_voice\scenario\pripyat\pri_a28_outro_phrase_1</sound> -->
+      		<main_wnd>
+				<auto_static start_time="0" length_sec="12.0" x="350" y="360" width="300" height="60" ttl="3" light_anim="pri_a28_phrase_1">
+					<text font="graffiti32" r="240" g="217" b="182" a="255" align="c">pb_outro_text_1</text>
+				</auto_static>
+ 	  		</main_wnd>
+		</item>
+	</outro_game>
+#include "ui\ui_credits.xml"
+
+	<game_over>
+		<global_wnd/>
+
+		<item>
+			<length_sec>4</length_sec>
+			<pause_state>off</pause_state>
+			<guard_key>jump</guard_key>
+			<function_on_stop>xr_effects.on_tutor_gameover_stop</function_on_stop>
+			<action id="quick_load" finalize="1">xr_effects.on_tutor_gameover_quickload</action>
+			<sound/>
+			<grab_input>1</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="10000" x="350" y="360" width="300" height="60">
+					<text font="graffiti50"  r="255" g="0" b="0" a="255" align="c">st_game_over</text>
+				</auto_static>
+				<auto_static start_time="3" length_sec="10000" x="350" y="660" width="300" height="60" light_anim="ui_pda_contacts" la_cyclic="1" la_text="1" la_alpha="1">
+					<text font="graffiti22"  r="255" g="0" b="0" a="255" align="c">st_game_over_press_jump</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</game_over>
+
+  <game_loaded>
+    <global_wnd>
+      <pause_state>on</pause_state>
+    </global_wnd>
+
+    <item>
+      <length_sec>1</length_sec>
+      <guard_key>any</guard_key>
+      <grab_input>1</grab_input>
+      <main_wnd>
+
+        <auto_static start_time="0" length_sec="10000" alignment="c" x="512" y="545" width="600" height="30" light_anim="ui_slow_blinking_alpha" la_cyclic="1" la_text="1" la_alpha="1">
+          <text font="letterica18"  r="180" g="180" b="180" a="255" align="c">st_press_any_key</text>
+        </auto_static>
+      </main_wnd>
+    </item>
+  </game_loaded>
+
+#include "ui\ui_credits.xml"
+
+<intro_logo>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<item>
+                <pause_state>on</pause_state>
+                <!--<sound>sound_effects\intro_sound</sound>-->
+		<length_sec>2</length_sec>
+      		<main_wnd>
+		 	<auto_static  start_time="0" length_sec="2" x="0" y="20" width="1024" height="768" stretch="1">
+          		<widescreen_rect width="1024" height="768"/>
+          		<texture width="1024" height="1024">intro\ins_intro</texture>
+   			</auto_static>
+		</main_wnd>
+		<grab_input>0</grab_input>
+	</item>
+</intro_logo>
+
+
+
+
+<intro_game>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+	<item type="image">
+		<main_wnd>
+			<auto_static start_time="0" length_sec="4"  x="0" y="0" width="1024" height="768" stretch="1" light_anim="asus_logo_01" light_anim_cyclic="0" la_alpha="1" la_texture="1">
+				<window_name>w1</window_name>
+				<texture>ui\ui_nvidia_intro</texture>
+			</auto_static>
+		</main_wnd>
+	</item>
+<!--
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound>music\intro</sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="638" height="358">intro\cop_intro_movie</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound>music\intro</sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture x="1" y="1"  width="638" height="358">intro\cop_intro_movie</texture>
+    </auto_static>
+  </global_wnd_16>
+
+  <item>
+		<length_sec>6</length_sec>
+   		<function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd/>
+	</item>
+
+	<item>
+		<length_sec>20.5</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_1</sound>
+   	<function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+    <main_wnd>
+			<auto_static start_time="0" length_sec="20.5" x="500" y="890" width="890" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_1</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>10</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_2</sound>
+   	<function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+    <main_wnd>
+			<auto_static start_time="0" length_sec="10" x="500" y="920" width="920" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_2" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_2</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>8.4</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_3</sound>
+   	<function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="8.4" x="500" y="920" width="920" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_3" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_3</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>15.5</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_4</sound>
+   	<function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="15.5" x="500" y="910" width="910" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_4" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_4</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>20.9</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_5</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="20.9" x="500" y="890" width="890" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_5" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_5</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>14.3</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_6</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="14.3" x="500" y="910" width="910" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_6" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_6</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>17.8</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_7</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="17.8" x="500" y="890" width="890" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_7" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_7</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>14.3</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_8</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="14.3" x="500" y="910" width="910" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_8" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_8</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>21.7</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_9</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="21.7" x="500" y="890" width="890" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_9" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_9</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>24.1</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_10</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="24.1" x="500" y="870" width="870" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_10" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_10</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>7.8</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_11</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="7.8" x="500" y="920" width="920" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_11" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_11</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>11.7</length_sec>
+		<sound>characters_voice\scenario\zaton\zat_a1_cutscene_phrase_12</sound>
+    <function_on_stop>xr_effects.zat_a1_tutorial_end_give</function_on_stop>
+		<grab_input>on</grab_input>
+		<main_wnd>
+			<auto_static start_time="0" length_sec="11" x="500" y="920" width="920" height="500" alignment="c" stretch="1"
+						light_anim="zat_a1_phrase_12" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" color="tut_gray">zat_a1_cutscene_phrase_12</text>
+			</auto_static>
+		</main_wnd>
+	</item>
+	-->
+</intro_game>
+
+<!--
+#Phrase|string_count|coordinate
+1	4 (890)
+2	2 (920)
+3	2 (920)
+4	3 (910)
+5	4 (890)
+6	3 (910)
+7	4 (890)
+8	3 (910)
+9	4 (890)
+10	5 (870)
+11	2 (920)
+12	2 (920)
+-->
+	<jup_b32_scanner>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b32_place_scanner</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">jup_b209_scanner_place_tips</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b32_scanner>
+
+	<pri_b306_generator>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.pri_b306_generator_start</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">pri_b306_generator_use</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</pri_b306_generator>
+
+	<jup_b206_plant>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b206_get_plant</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">jup_b206_use_plant</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b206_plant>
+
+	<pas_b400_switcher>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.pas_b400_switcher</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">pas_b400_tip_switcher</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</pas_b400_switcher>
+
+	<pri_a18_use_idol>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.pri_a18_use_idol</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">pri_a18_use_idol</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</pri_a18_use_idol>
+
+	<jup_b209_monster_scanner_placed>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b209_place_scanner</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">jup_b209_scanner_place_tips</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b209_monster_scanner_placed>
+
+	<jup_b9_heli_1>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b9_heli_1_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_search_helicopter</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b9_heli_1>
+
+	<jup_b8_heli_4>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b8_heli_4_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_search_helicopter</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b8_heli_4>
+
+	<jup_b10_ufo_tutor>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.jup_b10_ufo_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">jup_b10_ufo_searching_tips</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</jup_b10_ufo_tutor>
+
+
+	<zat_b101_heli_5>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.zat_b101_heli_5_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_search_helicopter</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</zat_b101_heli_5>
+
+	<zat_b28_heli_3>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.zat_b28_heli_3_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_search_helicopter</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</zat_b28_heli_3>
+
+	<zat_b100_heli_2>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.zat_b100_heli_2_searching</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_search_helicopter</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</zat_b100_heli_2>
+
+	<zat_b33_snag_container>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.zat_b33_pic_snag_container</action>
+			<guard_key>use</guard_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">zat_b33_car_searching_tip</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</zat_b33_snag_container>
+
+	<tutorial_sleep>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.sleep</action>
+<!--			<function_on_stop>xr_effects.sleep</function_on_stop> -->
+			<guard_key>use</guard_key>
+			<disabled_key>quit</disabled_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">sleep_zone_tip</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</tutorial_sleep>
+
+	<about_actor_no_sleep>
+		<global_wnd/>
+		<item>
+		<length_sec>6</length_sec>
+		<pause_state>off</pause_state>
+		<guard_key/>
+		<sound>device\pda\pda_news</sound>
+		<cursor_pos/>
+		<pda_section/>
+		<grab_input>0</grab_input>
+		<main_wnd>
+		<auto_static start_time="0" length_sec="5000" x="10" y="275" width="400" height="150" alignment="l" stretch="1" light_anim="" la_cyclic="1" la_texture="1" la_alpha="1">
+			<window_name>w1</window_name>
+			<text font="graffiti22" r="225" g="225" b="250" a="255">st_about_actor_no_sleep_text</text>
+		</auto_static>
+		</main_wnd>
+		</item>
+	</about_actor_no_sleep>
+	
+<Dream1>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1" alignment="c">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+	<item type="video">
+		<delay>1</delay>
+		<sound>dreams\0_pause</sound>
+		<pause_state>on</pause_state>
+		<function_on_stop>ui_sleep_dialog.dream_callback</function_on_stop>
+		<video_wnd start_time="0" length_sec="8" x="0" y="32" width="1024" height="576" stretch="1">
+			<widescreen_rect width="1024" height="768"/>
+			<texture width="638" height="358">outro\0_pause</texture>
+		</video_wnd>
+	</item>
+</Dream1>
+
+<Dream2>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1" alignment="c">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+	<item type="video">
+		<delay>1</delay>
+		<sound>dreams\9_oasis</sound>
+		<pause_state>on</pause_state>
+		<function_on_stop>ui_sleep_dialog.dream_callback</function_on_stop>
+		<video_wnd start_time="0" length_sec="24.8" x="0" y="32" width="1024" height="576" stretch="1">
+			<widescreen_rect width="1024" height="768"/>
+			<texture width="638" height="358">outro\9_oasis</texture>
+		</video_wnd>
+	</item>
+</Dream2>
+
+<Dream3>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1" alignment="c">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+	<item type="video">
+		<delay>1</delay>
+		<sound>dreams\11a_yanov_good</sound>
+		<pause_state>on</pause_state>
+		<function_on_stop>ui_sleep_dialog.dream_callback</function_on_stop>
+		<video_wnd start_time="0" length_sec="24.8" x="0" y="32" width="1024" height="576" stretch="1">
+			<widescreen_rect width="1024" height="768"/>
+			<texture width="638" height="358">outro\11a_yanov_good</texture>
+		</video_wnd>
+	</item>
+</Dream3>
+
+<NpcKickAct>
+	<global_wnd/>
+	<item>
+		<length_sec>7</length_sec>
+		<sound>actor\heartbeat</sound>
+		<pause_state>on</pause_state>
+		<function_on_stop>xr_effects.AfterNpcKick</function_on_stop>
+		<main_wnd>
+		</main_wnd>
+	</item>
+</NpcKickAct>
+<KickAct>
+	<global_wnd/>
+	<item>
+		<length_sec>7</length_sec>
+		<sound>actor\heartbeat</sound>
+		<pause_state>on</pause_state>
+		<function_on_stop>AfterKickAct</function_on_stop>
+		<main_wnd>
+		</main_wnd>
+	</item>
+</KickAct>
+
+	<pb_main_bonfire_tutor_1> 
+     <global_wnd/> 
+        <item> 
+            <disabled_key>quit</disabled_key> 
+            <length_sec/> 
+            <action id="use" finalize="1">xr_effects.pb_bonfire_tutoruse_1</action> 
+            <guard_key>use</guard_key> 
+            <grab_input>0</grab_input> 
+                <main_wnd> 
+                <auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+                <text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_main_bonfire_use</text> 
+                </auto_static> 
+                </main_wnd> 
+        </item> 
+    </pb_main_bonfire_tutor_1>
+
+	<pb_main_bonfire_tutor_2> 
+     <global_wnd/> 
+        <item> 
+            <disabled_key>quit</disabled_key> 
+            <length_sec/> 
+            <action id="use" finalize="1">xr_effects.pb_bonfire_tutoruse_2</action> 
+            <guard_key>use</guard_key> 
+            <grab_input>0</grab_input> 
+                <main_wnd> 
+                <auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+                <text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_main_bonfire_use</text> 
+                </auto_static> 
+                </main_wnd> 
+        </item> 
+    </pb_main_bonfire_tutor_2>
+
+	<pb_main_bonfire_tutor_3> 
+     <global_wnd/> 
+        <item> 
+            <disabled_key>quit</disabled_key> 
+            <length_sec/> 
+            <action id="use" finalize="1">xr_effects.pb_bonfire_tutoruse_3</action> 
+            <guard_key>use</guard_key> 
+            <grab_input>0</grab_input> 
+                <main_wnd> 
+                <auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+                <text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_main_bonfire_use</text> 
+                </auto_static> 
+                </main_wnd> 
+        </item> 
+    </pb_main_bonfire_tutor_3>
+
+	<pb_main_bonfire_tutor_4> 
+     <global_wnd/> 
+        <item> 
+            <disabled_key>quit</disabled_key> 
+            <length_sec/> 
+            <action id="use" finalize="1">xr_effects.pb_bonfire_tutoruse_4</action> 
+            <guard_key>use</guard_key> 
+            <grab_input>0</grab_input> 
+                <main_wnd> 
+                <auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+                <text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_main_bonfire_use</text> 
+                </auto_static> 
+                </main_wnd> 
+        </item> 
+    </pb_main_bonfire_tutor_4>
+
+	<pb_main_bonfire_tutor_5> 
+     <global_wnd/> 
+        <item> 
+            <disabled_key>quit</disabled_key> 
+            <length_sec/> 
+            <action id="use" finalize="1">xr_effects.pb_bonfire_tutoruse_5</action> 
+            <guard_key>use</guard_key> 
+            <grab_input>0</grab_input> 
+                <main_wnd> 
+                <auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+                <text font="graffiti22" r="225" g="225" b="250" a="255" align="c">st_main_bonfire_use</text> 
+                </auto_static> 
+                </main_wnd> 
+        </item> 
+    </pb_main_bonfire_tutor_5>
+
+<esc_quest_trader_radio_tutor> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.esc_quest_trader_radio</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">esc_quest_trader_radio_tips</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</esc_quest_trader_radio_tutor>
+
+<esc_quest_trader_take_radio_tutor> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.esc_quest_trader_take_radio</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">esc_quest_trader_take_radio_tips</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</esc_quest_trader_take_radio_tutor>
+
+<esc_quest_enot_wake_up_tutor> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.esc_quest_enot_wake_up</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">esc_quest_enot_wake_up_tips</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</esc_quest_enot_wake_up_tutor>
+
+<pb_tutorial_sleep_quest> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.pb_tutorial_sleep_quest</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">sleep_zone_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</pb_tutorial_sleep_quest>
+
+<pb_tutorial_turn_off_light_on_base> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.pb_tutorial_turn_off_light_on_base</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">pb_turn_of_light_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</pb_tutorial_turn_off_light_on_base>
+
+<pb_tutorial_transformator_podzemka> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.pb_tutorial_transformator_podzemka</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">pb_turn_on_light_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</pb_tutorial_transformator_podzemka>
+
+<blck_val_tutorial_sleep_quest> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.blck_val_tutorial_sleep_quest</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">sleep_zone_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</blck_val_tutorial_sleep_quest>
+
+<blck_val_tutorial_transiver> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.blck_val_quest_transiver</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">lift_turn_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</blck_val_tutorial_transiver>
+
+<blck_val_tutorial_key_out> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.blck_val_tutorial_key_out</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">key_out_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</blck_val_tutorial_key_out>
+
+<bar_tutorial_lift_turn_off> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.bar_lift_turn_off</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">lift_turn_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</bar_tutorial_lift_turn_off>
+
+<bar_tutorial_energy_on> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.bar_generator_energy_on</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">touch_buttom_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</bar_tutorial_energy_on>
+
+<bar_tutorial_lift_turn> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.bar_lift_turn_on</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">lift_turn_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</bar_tutorial_lift_turn>
+
+<labx7_tutorial_explosive_spawn> 
+<global_wnd/> 
+<item> 
+<disabled_key>quit</disabled_key> 
+<length_sec/> 
+<action id="use" finalize="1">xr_effects.labx7_tutorial_explosive_spawn</action> 
+<guard_key>use</guard_key> 
+<grab_input>0</grab_input> 
+<main_wnd> 
+<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"la_cyclic="1" la_texture="1" la_alpha="1"> 
+<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">expl_spawn_tip</text> 
+</auto_static> 
+</main_wnd> 
+</item> 
+</labx7_tutorial_explosive_spawn>
+
+		<tutorial_lift_button_1>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">fsm_functions.call_lift_1</action>
+<!--			<function_on_stop>xr_effects.sleep</function_on_stop> -->
+			<guard_key>use</guard_key>
+			<disabled_key>quit</disabled_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">button_lift_zone_tip</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</tutorial_lift_button_1>
+	
+			<tutorial_lift_switcher_1>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">fsm_functions.run_lift_s1</action>
+<!--			<function_on_stop>xr_effects.sleep</function_on_stop> -->
+			<guard_key>use</guard_key>
+			<disabled_key>quit</disabled_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">switcher_lift_zone_tip</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</tutorial_lift_switcher_1>
+
+</window>

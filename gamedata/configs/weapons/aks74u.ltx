@@ -1,0 +1,274 @@
+; Автомат Калашникова укороченый АКС-74У (6П26)
+;-(TrickSR)-----------------------------------------
+; калибр					5.45х39
+; длина ствола 				210 мм
+; магазин					20/30/45
+; вес без магазина				2.485
+; максимальная дальность стрельбы		2700 м
+; эффективная дальность стрельбы		200 м
+; прицельная дальность			350-500 м
+; дульная скорость пули			735 м/с
+; темп стрельбы				700 в/м
+
+[wpn_ak74u]:weapon_probability,default_weapon_params,wpn_aks74u_sounds
+GroupControlSection				= spawn_group
+$spawn 					= "weapons\ak-74u"
+$npc 					= on
+$prefetch					= 8
+scheduled					= off
+cform					= skeleton
+class					= WP_AK74
+description					= st_wpn_ak74u_descr
+
+ef_main_weapon_type				= 2
+ef_weapon_type				= 6
+
+inv_name 					= st_wpn_ak74u
+inv_name_short				= st_wpn_ak74u
+
+inv_grid_width				= 4
+inv_grid_height				= 2
+inv_grid_x					= 0
+inv_grid_y					= 16
+
+upgr_icon_x				= 300
+upgr_icon_y				= 300
+upgr_icon_width				= 300
+upgr_icon_height 				= 100
+
+kill_msg_x					= 0
+kill_msg_y					= 123
+kill_msg_width				= 69
+kill_msg_height				= 30
+
+cost 					= 3000
+weapon_class				= assault_rifle
+inv_weight					= 2.48
+hud					= wpn_ak74u_hud
+visual					= dynamics\weapons\wpn_ak74u\wpn_ak74u.ogf
+
+upgrades                				= up_gr_firstab_ak74u, up_gr_seconab_ak74u, up_gr_thirdab_ak74u, up_gr_fourtab_ak74u, up_gr_fifthab_ak74u
+installed_upgrades      				=
+upgrade_scheme         			 	= upgrade_scheme_ak74u
+
+ph_mass					= 3
+
+ammo_class 				= ammo_5.45x39_fmj, ammo_5.45x39_ap
+
+startup_ammo				= 90
+ammo_current				= 180
+ammo_elapsed				= 30
+ammo_limit					= 210
+ammo_mag_size 				= 30
+
+fire_modes 					= 1, -1
+
+grenade_class				= ammo_vog-25, ammo_vog-25p
+
+grenade_vel 				= 76
+launch_speed				= 73.5
+hand_dependence				= 1
+single_handed				= 0
+
+hit_power 				= 0.3
+;hit_impulse 				= 10
+hit_type 					= fire_wound
+fire_distance				= 2700
+bullet_speed				= 735
+rpm					= 700
+rpm_empty_click				= 200
+
+use_aim_bullet				= false
+time_to_aim				= 1.0
+
+misfire_probability				= 0.005
+misfire_start_condition				= 0.6
+misfire_end_condition				= 0.1
+misfire_start_prob	 			= 0.003
+misfire_end_prob		 		= 0.043
+condition_shot_dec 				= 0.0001
+condition_queue_shot_dec			= 0.0002
+
+zoom_dof					= 0.5, 1.0, 180
+reload_dof					= 0.0, 0.5, 5, 2
+
+fire_dispersion_base				= 0.35
+fire_dispersion_condition_factor			= 2
+control_inertion_factor				= 1.1
+crosshair_inertion				= 5.50
+
+cam_return					= 0
+cam_relax_speed				= 13
+cam_relax_speed_ai 				= 120.75
+cam_dispersion				= 1.02
+cam_dispersion_inc				= 0.55
+cam_dispersion_frac				= 1.0
+cam_max_angle				= 50.0
+cam_max_angle_horz				= 5.0
+cam_step_angle_horz				= 0.5
+
+zoom_cam_relax_speed			= 14
+zoom_cam_relax_speed_ai			= 120.75
+zoom_cam_dispersion				= 0.92
+zoom_cam_dispersion_inc			= 0.5
+zoom_cam_dispersion_frac			= 0.8
+zoom_cam_max_angle				= 50.0
+zoom_cam_max_angle_horz			= 5.0
+zoom_cam_step_angle_horz			= 0.4
+
+PDM_disp_base 				= 0.5
+PDM_disp_vel_factor 				= 2.0
+PDM_disp_accel_factor 			= 2.0
+PDM_disp_crouch	 			= 1.0
+PDM_disp_crouch_no_acc 			= 1.0
+
+min_radius					= 30
+max_radius					= 40
+
+holder_range_modifier				= 1.0
+holder_fov_modifier				= 1.0
+
+slot					= 2
+animation_slot				= 8
+
+position 					= -0.026,-0.215,0
+orientation					=  0,0,0
+
+fire_point					= 0.0, 0.262, 0.447
+fire_point2					= 0.0, 0.262, 0.547
+
+flame_particles				= amik\weapons\ak_shoot_00
+smoke_particles				= amik\weapons\smoke_particles\smoke_particles_01
+grenade_flame_particles 			= amik\weapons\grenade_flame_particles\grenade_flame_particles_00
+
+shell_point               	 			= 0.07,0.2,0.466
+shell_dir               				= 0.0, 1.0, 0.0
+shell_bone                				= wpn_body
+shell_particles				= weapons\545x39
+
+strap_position 				= -0.18, -0.45, 0.2
+strap_orientation 				= -10, -5, 10
+strap_bone0				= bip01_spine2
+strap_bone1				= bip01_spine1
+
+light_disabled				= false
+light_color					= 0.6, 0.5, 0.3
+light_range					= 5
+light_var_color				= 0.05
+light_var_range				= 0.5
+light_time					= 0.2
+
+scope_status				= 0
+silencer_status				= 2
+grenade_launcher_status			= 0
+
+zoom_enabled				= true
+zoom_rotate_time				= 0.2
+scope_zoom_factor				= 53.3
+
+grenade_launcher_name			= wpn_addon_grenade_launcher
+grenade_launcher_x				= 112
+grenade_launcher_y				= 19
+
+silencer_name				= sil_pbs-4
+silencer_x                  				= 176
+silencer_y                  				= 12
+
+silencer_hit_power 				= 0.29
+;silencer_hit_impulse	 			= 10
+silencer_fire_distance 				= 650
+silencer_bullet_speed	 			= 290
+
+silencer_smoke_particles 			= amik\weapons\smoke_particles\silencer_smoke_particles_00
+
+silencer_light_color				= 0.6, 0.5, 0.3
+silencer_light_range				= 0.01
+silencer_light_var_color				= 0.05
+silencer_light_var_range			= 0.5
+silencer_light_time				= 0.2
+
+[wpn_ak74u_hud]:hud_base
+zoom_hide_crosshair        			= true
+attach_place_idx        				= 0
+item_visual               				= dynamics\weapons\wpn_ak74u\wpn_ak74u_hud.ogf
+
+hands_position				= -0.1395,-0.1662,0.1225
+hands_orientation				= 0.4,2.299999,-2.55
+
+hands_position_16x9 				= -0.1395,-0.1662,0.1225
+hands_orientation_16x9 			= 0.4,2.299999,-2.55
+
+item_position				= 0.003211,0.0024,-0.012706
+item_orientation				= -16.488927,-4.020898,367.220154
+
+aim_hud_offset_pos				= -0.0798,0.021,-0.15
+aim_hud_offset_rot				= 0.023,0.0018,0.0025
+
+aim_hud_offset_pos_16x9 			= -0.0798,0.021,-0.15
+aim_hud_offset_rot_16x9 			= 0.023,0.0018,0.0025
+
+shell_point                				= 0.07,0.128,0.466
+shell_dir               				= 0.0, 1.0, 0.0
+shell_bone                				= wpn_body
+
+fire_point					= 0,0.048,0.466
+fire_bone                            			= wpn_body
+fire_point2                        			= 0.0,-0.011,0.553
+fire_bone2               		 		= wpn_body
+
+anm_show					= aksu_draw
+anm_hide                				= aksu_hide
+anm_idle                				= aksu_idle, idle
+anm_idle_sprint         				= aksu_sprint
+anm_idle_moving         				= aksu_moving
+anm_shots               				= aksu_shoot
+anm_reload              				= aksu_reload_full_alt
+anm_idle_aim            				= aksu_aim
+anm_bore                				= aksu_bore
+
+gl_hud_offset_pos               			= 0, 0, 0
+gl_hud_offset_rot               			= 0, 0, 0
+
+lean_hud_offset_pos        			= 0, 0, 0
+lean_hud_offset_rot        			= 0, 0, 0
+
+[wpn_ak74u_snag]:wpn_ak74u
+$spawn             				= "weapons\wpn_ak74u_snag"
+description					= st_wpn_ak74u_snag_descr
+
+cost 					= 6500
+weapon_class				= assault_rifle
+inv_weight					= 2.78
+hud					= wpn_ak74u_kobra_hud
+visual					= dynamics\weapons\wpn_ak74u\wpn_ak74u_kobra.ogf
+
+inv_name 					= st_wpn_ak74u_snag
+inv_name_short				= st_wpn_ak74u_snag
+
+inv_grid_width				= 5
+inv_grid_height				= 2
+inv_grid_x					= 25
+inv_grid_y					= 20
+
+upgr_icon_x				= 1450
+upgr_icon_y				= 0
+upgr_icon_width				= 300
+upgr_icon_height 				= 100
+
+upgrades					= up_gr_firstab_ak74u, up_gr_seconab_ak74u, up_gr_thirdab_ak74u, up_gr_fourtab_ak74u, up_gr_fifthab_ak74u
+installed_upgrades				= up_fiftha_ak74u
+upgrade_scheme				= upgrade_scheme_ak74u
+
+silencer_status				= 1
+
+scope_zoom_factor				= 43.3
+
+[wpn_ak74u_kobra_hud]:wpn_ak74u_hud
+item_visual               				= dynamics\weapons\wpn_ak74u\wpn_ak74u_kobra_hud.ogf
+
+aim_hud_offset_pos				= -0.0755,-0.005,-0.12
+aim_hud_offset_rot				= 0.012,-0.0033,0.02
+
+aim_hud_offset_pos_16x9 			= -0.0755,-0.005,-0.12
+aim_hud_offset_rot_16x9 			= 0.012,-0.0033,0.02
+
