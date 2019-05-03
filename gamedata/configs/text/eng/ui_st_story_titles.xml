@@ -33,7 +33,7 @@
 	<string id="actor_about_anomaly">
 		<text>I should check the arch-anomaly later. Perhaps I might find some valuable artifacts there.</text>
 	</string>
-	<string id="actor_about_tunel_angry">
+	<string id="actor_tunel_angry">
 		<text>I hate this tunnel!</text>
 	</string>
 	<string id="actor_pain_in_head">
